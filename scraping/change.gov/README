@@ -1,0 +1,2 @@
+Scripts used to scrape change.gov:
+    * yourseat.py: get all documents submitted to transition team (list or fetch all)

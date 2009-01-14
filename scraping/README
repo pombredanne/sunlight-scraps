@@ -1,0 +1,5 @@
+utilities for scraping various sites (often one-off scripts that are not maintained)
+
+scripts should generally be organized by site name
+
+    * change.gov - scripts for scraping Obama transition website
