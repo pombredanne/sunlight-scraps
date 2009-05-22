@@ -3,3 +3,5 @@ utilities for scraping various sites (often one-off scripts that are not maintai
 scripts should generally be organized by site name
 
     * change.gov - scripts for scraping Obama transition website
+    * data.gov - scripts for scraping data.gov
+    * fbo.gov - scripts for scraping FedBizOpps.gov
