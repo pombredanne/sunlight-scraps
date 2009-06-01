@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Making Government Operations More Open</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2237">Top Rated (229)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2237">Recent (229)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_3833">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3833">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3833', '/akira/discussionVote.do?dbid=2237&topicID=3833&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 27</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3833'))" style="text-decoration:none;" id="TopicVote_3833" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 27</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3833'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3833', '/akira/discussionVote.do?dbid=2237&topicID=3833&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3833"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3833-4049"><span id="IdeaTitle_3833">Open Government Costs&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7845-4049">laruzow</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">While I work for a Federal micro-agency, this is a personal and not and Agency Opinion. The time and paperwork burden of complying with Federal record-keeping and reporting requirements often far exceeds any benefit to "Open Government" as a principle or to taxpayers. Unless there is a genuine effort to fairly evaluate costs of Open Government initiatives the consequence will soon be a government that reports everything and does nothing.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3833" href="javascript:ajaxLink('DiscussionTopicComment_3833', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3833')">Comments (2)</a></span><span id="DiscussionTopicTag_3833"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3833"></div>
+</div></td>
+</tr>
+<tr id="row_3814">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3814">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3814', '/akira/discussionVote.do?dbid=2237&topicID=3814&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 41</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3814'))" style="text-decoration:none;" id="TopicVote_3814" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 41</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3814'))">39</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3814', '/akira/discussionVote.do?dbid=2237&topicID=3814&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3814"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3814-4049"><span id="IdeaTitle_3814">Legislator (Limited) Comment on Votes&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7789-4049">mdecaprio</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I propose that any legislator who casts an up or down vote must attach a short explanation for his/her vote.  The explanation need not be any longer than a paragraph or two.  With records being digitized these days, records management should not be an issue.<br/><br/>This would give our legislators the opportunity to explain themselves and their reasoning behind a vote _at the time of the vote_.  We could then avoid so much back pedaling, word parsing and semantic gaming that goes on Sunday mornings and during re-election campaigns.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3814" href="javascript:ajaxLink('DiscussionTopicComment_3814', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3814')">Comments (2)</a></span><span id="DiscussionTopicTag_3814"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3814"></div>
+</div></td>
+</tr>
+<tr id="row_3805">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3805">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3805', '/akira/discussionVote.do?dbid=2237&topicID=3805&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 54</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3805'))" style="text-decoration:none;" id="TopicVote_3805" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 54</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3805'))">49</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3805', '/akira/discussionVote.do?dbid=2237&topicID=3805&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3805"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3805-4049"><span id="IdeaTitle_3805">Sunset all classified /non FOIA information&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7729-4049">Peter Jackson</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">At some point, everything the governement says, does, or produces should become public record. All classified information, all the President's papers, everything should *eventually* become public knowledge. <br/><br/>When it becomes public would depend on the content. Initially maybe many things are allowed to stay classified. But as that classified information gets older and older, it should be harder and harder for the government to keep it classified.<br/><br/>We are learning much from recent releases of info from the Kennedy administration. But President Bush changed the rules when he entered office. Will all the details of his administration ever be known?<br/><br/>Is there really a national interest in keeping things classified/private 20, 30, 40, 50 years down the line?</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3805" href="javascript:ajaxLink('DiscussionTopicComment_3805', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3805')">Comments (1)</a></span><span id="DiscussionTopicTag_3805"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=foia">foia</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3805"></div>
+</div></td>
+</tr>
+<tr id="row_3803">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3803">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3803', '/akira/discussionVote.do?dbid=2237&topicID=3803&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 88</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3803'))" style="text-decoration:none;" id="TopicVote_3803" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 88</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3803'))">83</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3803', '/akira/discussionVote.do?dbid=2237&topicID=3803&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3803"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3803-4049"><span id="IdeaTitle_3803">Code of ethics for secrecy classification&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7602-4049">vfdean</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">A public code of ethics with regard to classifying government data or actions as secret should be developed.  Acceptable instances of such classification should be defined as specifically as possible (e.g., "to preserve national security" is too general). Then review of the classification of specific data as secret by other government classifiers should always be done in order to ensure that the ethics code is upheld.  Secret actions or data that might be considered as violating civil rights or liberties should receive extra review and consideration before being approved.  One goal of the ethics code should be to minimize data that is classified as secret. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3803" href="javascript:ajaxLink('DiscussionTopicComment_3803', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3803')">Comments (1)</a></span><span id="DiscussionTopicTag_3803"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=secrecy">secrecy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=national security">national security</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3803"></div>
+</div></td>
+</tr>
+<tr id="row_3786">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3786">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3786', '/akira/discussionVote.do?dbid=2237&topicID=3786&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 74</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3786'))" style="text-decoration:none;" id="TopicVote_3786" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 74</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3786'))">72</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3786', '/akira/discussionVote.do?dbid=2237&topicID=3786&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3786"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3786-4049"><span id="IdeaTitle_3786">Time to update the Freedom of Information Act&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7532-4049">Andrew </a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The government's own statistics and various studies from the National Security Archive and others have shown the massive delays in processing FOIA requests.  Drafting and application of FOIA exemption claims and classification policy has been demonstrated to depend too heavily on the attitude of the particular administration towards openness.  Governments frequently confuse what they perceive to be the interest of the administration with that of the public interest.  The purposes and objectives of the FOIA are unclear, and the law fails to define measurable outcomes for openness, accountability and pre-decisional participation by the public in the policy-making process.<br/><br/>Experience around the world teaches us that government commitments to strengthen openness tend to be once in a generation opportunities to achieve - and embed - positive change.  Changes to policy alone are meaningless if they are not supported by embedding changes within the law, as the next administration can alter policy far more easily than law (cf Att. Gen. Reno's FOIA memorandum vs. that from Att. Gen. Ashcroft).<br/><br/>It is therefore time for a root and branch re-write of the FOIA.<br/><br/>First, the law should contain a 'purposes' clause which sets out the aims of the law, and which agencies receiving requests and the mechanism to enforce the law must have regard when determining how to respond to requests.  These should encapsulate the outcomes desired from the law, and other sections of the law should mandate the collection of such data as will facilitate the measurement of whether the outcomes are being achieved.<br/><br/>A good example of a purposes clause can be found in section 4 of the New Zealand Official Information Act 1982<br/>(http://www.legislation.govt.nz/act/public/1982/0156/latest/DLM65364.html)<br/><br/>Purposes<br/>The purposes of this Act are, consistently with the principle of the Executive Government's responsibility to Parliament,—<br/>     (a) To increase progressively the availability of official information to the people of New Zealand in order—<br/>          (i) To enable their more effective participation in the making and administration of laws and policies; and<br/>          (ii) To promote the accountability of Ministers of the Crown and officials,—<br/>and thereby to enhance respect for the law and to promote the good government of New Zealand:<br/>     (b) To provide for proper access by each person to official information relating to that person:<br/>     (c) To protect official information to the extent consistent with the public interest and the preservation of personal privacy.<br/><br/>Second, the classification of a document for security purposes must be immaterial when taking a decision on whether it should be disclosed in response to a FOIA request.  The Act itself should set out the sole grounds for justifiable withholding, in terms of specific harms to particular interests.  There should be no scope for information to be withheld simply because it falls within a particular category: each exemption from the right of access should be subject to a test of harm.  In the event that disclosure would, or would be likely, to cause harm to one of those interests, withholding should still only be permitted if the public interest in maintaing the claim for exemption outweighs the public interest in disclosure.  The FOIA must override all other provisions in other statutes that provide for secrecy.  It must also override secrecy provisions in international treaties, the bilateral 'security of information' treaties negotiated by the USA included.  The FOIA should be the paramount legal instrument for arbitrating claims to secrecy and openness. <br/><br/>Third, the law must set out those categories of information which each agency is affirmatively mandated to publish.  The Mexican federal FOI law provides a good example of 17 key categories of information, including all government contracts, research grants etc.  However, this approach can be too static in the long run, as the shape and nature of government evolves.  The UK FOIA approach of 'publication schemes', which are documents setting out the categories of information each authority will publish either proactively, or on request without further consideration of exemptions, is also worth adding to the affirmatory categories.  'Publication schemes' must be approved by the law's enforcement mechanism, thereby providing for flexibility and for the level of openness to be ratcheted upwards over time.  (see s.19 of the UK FOIA http://www.opsi.gov.uk/acts/acts2000/ukpga_20000036_en_2#pt1-pb4)<br/><br/>This is the area of an FOI law most open to interface with provisions for agencies actively making available for scrutiny and re-use the datasets of information that they hold.  Making them available in accordance with this provision of the FOIA provides the enforcement mechanism with a role in underpinning the Open Data initiative taken by this administration.<br/><br/>Fourth, the primary mechansim for adjudication of claims under the FOIA should no longer be the courts.  The experience since 1966, and in other countries where claims are resolved in the courts shows that this, to put it bluntly, a broken mechanism if one is to faciliate the participatory goals of a FOIA.  This was recognised in the FOIA Amendment Act promoted by Senators Cornyn and Leahy which created the office of a pseudo-Ombudsman in the National Archives and Records Administration.  Although it was along the right lines, it was flawed.  Instead, a Federal Information Commission should be created to receive complaints regarding non-compliance with the FOIA.  It should have the duty to investigate those complaints, the power to compel agencies to supply it with the information it needs to do so, and to take evidence on oath if necessary, and to order partial or full disclosure of the information requested.  It should have the duty to approve or reject agencies' 'publication schemes', depending on whether they will result in desired levels of proactive disclosure.  It should have the duty to promote awareness of the Act and to deliver training, both to government officials and to the public.  It should have duties to collect data which will demonstrate whether the desired outcomes of the FOIA are being achieved.  It should have the duty to report annually to Congress, and to have the power to conduct 'own motion' (sui generis) investigations into systemic failings on the part of agencies to comply with or provide high standards of administration of the FOIA.  The Commisson should be mandated to collaborate with NARA to improve standards of record-keeping and information management in government.  It should also be empowered to collaborate with the GAO and other oversight and integrity institutions where this would drive up standards of governance, accountability and integrity.  In particular the Commission should be mandated to pay particular attention to the issue of ensuring that requests for information needed by the public (or their proxies such as NGOs) to participate in the policy making and service design process are expedited.  It is too easy for agencies and enforcement bodies to pay more attention to post-decisional accountability issues than to pre-decisional participation.  To this end, the government should consider the desirability of placing time-limits within the FOIA for resolution of complaints about non-disclosure of requested information, and recognise that the Commission will need to be resourced appropriately in order to do so.<br/><br/>The Commission should have the power to instigate proceedings for contempt of court if its orders for supply of information or disclosure are not complied with.<br/><br/>Appeals against the decisions of the Information Commission to the Appeals and Supreme Court should be permitted by both the request and the agency, both on a point of law and on the merits.  However, if the agency appeals, it should fund the legal representation of the requester, to ensure 'equality of arms' before the Court.<br/><br/>In conclusion, the US FOIA has proved a valuable but flawed tool to assist open government.  But considerable experience, both in the US and overseas, has demonstrated that the drafting of the law is no longer fit for purpose and has fallen behind the lessons learnt by others.  There are many benefits to be gained from overhauling the statutory guarantees of citizens' rights to information, and the current opportunity should be seized firmly.<br/><br/>I'd be happy to provide more detail upon request.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3786" href="javascript:ajaxLink('DiscussionTopicComment_3786', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3786')">Comments (0)</a></span><span id="DiscussionTopicTag_3786"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=foia">foia</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open government">open government</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=accounability">accounability</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=information commission">information commission</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=affirmative disclosure">affirmative disclosure</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=proactive disclosure">proactive disclosure</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=learning from other countries">learning from other countries</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3786"></div>
+</div></td>
+</tr>
+<tr id="row_3784">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3784">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3784', '/akira/discussionVote.do?dbid=2237&topicID=3784&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 111</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3784'))" style="text-decoration:none;" id="TopicVote_3784" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 111</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3784'))">109</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3784', '/akira/discussionVote.do?dbid=2237&topicID=3784&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3784"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3784-4049"><span id="IdeaTitle_3784">List of All Banks and Amounts Given by Federal Reserve Since September 2008&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7699-4049">davidwseattle</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Bloomberg News and the New York Times have documented nearly $13 trillion dollars given or promised by the Federal Reserve and the government since the Lehman Brothers bankruptcy in September 2008. <br/><br/>While this $13 trillion includes TARP money and some recovery money, there is much more in a variety of Federal Reserve programs where we don't know which banks and corporations have gotten money and how much. <br/><br/>Because it is public money being spent, the public has a right to understand the specific details of where that money has been spent.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3784" href="javascript:ajaxLink('DiscussionTopicComment_3784', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3784')">Comments (1)</a></span><span id="DiscussionTopicTag_3784"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=federal reserve">federal reserve</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=banks">banks</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bailout">bailout</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3784"></div>
+</div></td>
+</tr>
+<tr id="row_3770">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3770">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3770', '/akira/discussionVote.do?dbid=2237&topicID=3770&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 95</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3770'))" style="text-decoration:none;" id="TopicVote_3770" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 95</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3770'))">90</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3770', '/akira/discussionVote.do?dbid=2237&topicID=3770&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3770"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3770-4049"><span id="IdeaTitle_3770">Discontinue chilling gov't actions on civilian Internet activities and journalism&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5059-4049">steinlaura</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">by restoring FISA protections that require warrants before surveilling communications between U.S. citizens.  The "Cybersecurity Czar" Pres. Obama appointed resigned in protest because he claimed the NSA was refusing to pass on his recommendations for protecting the privacy of citizens using the Internet, and was creating a situation that threatened to treat all Internet communications, including communications with journalists as open to surveillance w/o distinction.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3770" href="javascript:ajaxLink('DiscussionTopicComment_3770', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3770')">Comments (8)</a></span><span id="DiscussionTopicTag_3770"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3770"></div>
+</div></td>
+</tr>
+<tr id="row_3769">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3769">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3769', '/akira/discussionVote.do?dbid=2237&topicID=3769&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 22</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3769'))" style="text-decoration:none;" id="TopicVote_3769" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 22</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3769'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3769', '/akira/discussionVote.do?dbid=2237&topicID=3769&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3769"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3769-4049"><span id="IdeaTitle_3769">Shed Sunlight on USPTO's Practices Regarding Transparency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3906-4049">Patent Examiner</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I'm writing in my personal capacity, and not in my capacity as a patent examiner.  This applies to whereever I've posted. I recommend that sunlight and open government will be shed on agencies, such as the US Patent & Trademark Office's efforts to encourage or hamper transparency regarding their patent operations.  For example, this email was uncovered through FOIA which shows that a manager ordered destruction of documents regarding the 2nd pair of eyes program - which was a contentious program among patent examiners and patent applicants.  These documents would have been crucial to fostering transparency regarding patent operations. It is recommended that emails such as this one at this link below can be posted on governmental websites to monitor agencies' efforts at being transparent.<br/>www.ipscientificintegritywatch.info/uploads/removallistskisliuk.pdf<br/><br/>I appreciate President Obama's Open Government Dialogue and hope that his administration's efforts will lead to greater transparency at the USPTO.<br/><br/>I also recommend that more emails between managers and policy documents about the USPTO's Office of Patent Quality Assurance will be posted for the public to see as long as the privacy of patent examiners is not unduly exposed -from my reading, Inventors and Practictioners have stated on IP Blogs that they are interested in seeing such records - it would help them in understanding the examination process and why their patent application was rejected in a certain way - it would also add more transparency to the Internal Quality Review Review process at the USPTO and help to ensure that so-called "Quality Review Processes" are not used for antimeritocratic purposes, resulting too often - in "sham quality review".  Members of the Public including leading members of the IP Community who contributed to a US Chamber of Commerce Report Recommmendations to the Incoming Administration on the USPTO - noted that the public has expressed skepticism in whether or not the USPTO's Quality Metrics actually accurately measures "quality". The report also noted that the 2nd pair of eyes program made examiners make "unjustified" decisions.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3769" href="javascript:ajaxLink('DiscussionTopicComment_3769', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3769')">Comments (0)</a></span><span id="DiscussionTopicTag_3769"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3769"></div>
+</div></td>
+</tr>
+<tr id="row_3756">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3756">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3756', '/akira/discussionVote.do?dbid=2237&topicID=3756&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 30</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3756'))" style="text-decoration:none;" id="TopicVote_3756" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 30</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3756'))">24</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3756', '/akira/discussionVote.do?dbid=2237&topicID=3756&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3756"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3756-4049"><span id="IdeaTitle_3756">Public Notices and Public Policy&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7268-4049">trush</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Prominent new websites like recovery.gov and data.gov are an important part of making the process of pulling information out of the federal government more efficient. But websites are only a piece of a communications strategy. Public notice--which aggressively pushes information beyond the government confines--is a critical element of the nation's accountability mechanisms. Websites alone are not enough. First, broad swaths of the public still are not active online. Second, government websites tend to have fairly low readership--and when the desired audience goes beyond the usual stakeholders of an agency, it is not likely information will be found when solely on a website. Third, web information lacks fixity, and is expensive to archive and keep. This project must reach beyond the activities of building web functions and continue into a broader "push out" effort of information. Public notices traditionally have been delivered by mail, by newspaper and in the federal government's case, via the Federal Register. Accessible archives have been available through federal repository libraries. <br/><br/>This project should examine when information is so important that a passive posting by the government is not sufficient, define the mechanisms for helping agencies make that determination, and then proceed to build in the elements that have traditionally been part of public notices: they are accessible to the general public; they are archivable; they are verifiable and they are published through an independent medium that can help to hold the publishing entity accountable. In the Web 2.0 environment, a piece of the independent medium is recognizing that building audience is not a forte of the government. How will web-notice dovetail with print notice? Are we in a transitional period where print will be less necessary--and if so, how can electronic media replicate the permanance and fixed medium values in print? Will notice effectively be given through media websites, where audience is more easily found? These questions need to be part of the deliberation.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3756" href="javascript:ajaxLink('DiscussionTopicComment_3756', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3756')">Comments (9)</a></span><span id="DiscussionTopicTag_3756"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public notice">public notice</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3756"></div>
+</div></td>
+</tr>
+<tr id="row_3750">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3750">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3750', '/akira/discussionVote.do?dbid=2237&topicID=3750&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 35</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3750'))" style="text-decoration:none;" id="TopicVote_3750" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 35</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3750'))">32</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3750', '/akira/discussionVote.do?dbid=2237&topicID=3750&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3750"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3750-4049"><span id="IdeaTitle_3750">Implement the Recommendations found in the 1997 US Senate Report on Protecting and Reducing Government Secrecy &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7139-4049">sheerindp</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The effort to enhance USG openness is not new.  Indeed, as Senator Daniel Patrick Moynihan wrote in his 1998 book "Secrecy":  "... secrecy is for losers.  For people who don't know how important information really is.  The Soviet Union realized this too late.  Openness is now a singular, and singularly American, advantage.  We put it in peril by poking along in an age now past.  It is time to dismantle government secrecy, the most pervasive of Cold-war era regulations.  It is time to begin building the supports for the era of openness that is already upon us."  <br/><br/>While Moynihan left us a few years ago, American would do well to take his legacy to heart, and to keep his and our great nation's love of openness alive and thriving.    <br/><br/>More specifically, in 1997 the US Senate established a Commission on Protecting and Reducing Government Secrecy.  This commission was chaired by Senator Moynihan.  Its recommendations continue to be outstanding ones that should be fully implemented today.  The entire report of this commission is found online at:  http://www.gpo.gov/congress/commissions/secrecy/index.html<br/>A summary of this commission's recommendations follow:  <br/><br/>1. The Commission recommends enactment of a statute establishing the principles on which<br/>Federal classification and declassification programs are to be based. (p. 13)<br/>2. The Commission recommends that the Security Policy Board (SPB) implement within one year<br/>the Joint Security Commission recommendation on establishing a single set of security standards<br/>for special access programs (SAPs). The SPB, in conjunction with the Department of Defense,<br/>should examine whether the National Industrial Security Program Operating Manual Supplement<br/>should continue to allow individual SAP program managers to select the security measures for<br/>their program rather than conform to a single standard. Industrial contractors should be included<br/>in this review and in the development of a single set of standards. (p. 28)<br/>3. The Commission recommends that agencies take several steps to enhance the proficiency of<br/>classifiers and improve their accountability by requiring additional information on the rationale for<br/>classification, by improving classification guidance, and by strengthening training and evaluation<br/>programs.<br/>Elements of this approach should include:<br/>•Original classifiers shall provide a detailed justification for each original classification<br/>decision;<br/>•Derivative classifiers shall be required to identify themselves on the documents<br/>they classify;<br/>•Classification guides shall be better developed, more definitive, and updated<br/>regularly, and industry shall participate in the preparation of guides affecting<br/>industrial programs;<br/>•Training shall be expanded to include derivative classifiers and shall conform to<br/>minimum Executive Branch standards; and<br/>•Proper classification of information shall be included as a critical element in the<br/>performance evaluations of all employees authorized to classify. (p. 34)<br/>4. The Commission recommends that classification decisions, including the establishment of<br/>special access programs, no longer be based solely on damage to the national security. Additional<br/>factors, such as the cost of protection, vulnerability, threat, risk, value of the information, and<br/>public benefit from release, could also be considered when making classification decisions. (p. 38)<br/>5. The Commission recommends that responsibility for classification and declassification policy<br/>development and oversight be assigned to a single Executive Branch body, designated by the<br/>President and independent of the agencies that classify. This entity should have sufficient resources<br/>and be empowered to carry out oversight of agency practices and to develop policy.<br/>Based on its oversight findings, this body would then make recommendations for policy and<br/>implementation of classification and declassification issues directly to the National Security<br/>Council. The Security Policy Board would have an opportunity to comment on these policy<br/>recommendations through the NSC process. (p. 44)<br/>C-1<br/>Appendix C: Summary of Recommendations<br/>C-2<br/>6. The Commission recommends the creation by statute of a central office—a National Declassification<br/>Center—at an existing Federal agency such as the National Archives and Records<br/>Administration to coordinate national declassification policy and activities. This Center would<br/>have the responsibility, authority, and funds sufficient to coordinate, oversee, and implement<br/>government declassification activities. The Center would monitor agency declassification<br/>programs and provide annual reports on their status to the Congress and the President. (p. 68)<br/>7. The Commission recommends that the use of sources and methods as a basis for the<br/>continuing classification of intelligence information be clarified through issuance of an Intelligence<br/>Community directive by the Director of Central Intelligence, explaining the appropriate scope of<br/>that protection. (p. 70)<br/>8. The Commission recommends that agencies better structure their records management and<br/>systematic declassification programs to maximize access to records that are likely to be the<br/>subject of significant public interest.<br/>Elements of this proposal should include:<br/>•Complying with the dates or events for declassification, including through the use<br/>of new technologies;<br/>•Consolidating and regularly updating declassification guidance that is easily<br/>accessible to those authorized to declassify within the agency;<br/>•Prioritizing declassification according to entire record groups selected through<br/>active consultation with the public and outside scholars, and regularly informing<br/>the public of systematic review results;<br/>•Requiring all offices with any declassification-related activities to demonstrate<br/>that they are operating in partnership with others in the agency involved in related<br/>activities; and<br/>•Establishing ombudsman offices in each agency that has original classification<br/>authority or engages in declassifying records: these offices would intervene in<br/>and resolve classification and declassification issues upon request, act as a<br/>conduit for public concerns about access to records, and, where appropriate, refer<br/>issues to the agency’s Inspector General. (p. 71)<br/>9. The Commission recommends five guiding principles as the essential elements of an effective<br/>personnel security system. Most already are part of the current system (including under Executive<br/>Order 12968), but too often they are not actually practiced throughout the Federal Government.<br/>The Commission recommends that these standards be incorporated into a new statute or<br/>regulation that would supersede Executive Order 10450.<br/>The five guiding principles are:<br/>•Openness and clarity of standards;<br/>•Balanced, “whole-person” standards;<br/>•Reciprocity for classified access;<br/>•Nondiscrimination principles; and<br/>•Assurances of due process. (p. 80)<br/>10. The Commission recommends that individuals in both Government and industry holding valid<br/>clearances be able to move from one agency or special program to another without further<br/>Appendix C: Summary of Recommendations<br/>C-3<br/>investigation or adjudication. The single exception to this true reciprocity of security clearances<br/>shall be that agencies may continue to require the polygraph before granting access. (p. 82)<br/>11. The Commission recommends that current requirements for neighborhood interviews and for<br/>interviewing educational references in every investigation be eliminated. (p. 86)<br/>12. The Commission recommends that greater balance be achieved between the initial clearance<br/>process and programs for continuing evaluation of cleared employees. (p. 87)<br/>13. The Commission recommends that both the Congress and the Executive Branch reevaluate<br/>the requirement to utilize a new financial disclosure form and consider staying its implementation<br/>until there is further evaluation concerning how it would be used and whether its benefits exceed<br/>its costs. The Congress and the Executive Branch should review alternative approaches to<br/>improving data collection, including utilization of the expanded access to certain financial and<br/>travel records provided for under Executive Order 12968. (p. 89)<br/>14. The Commission recommends that: (1) the director of scientific research at the Department<br/>of Defense Polygraph Institute establish a committee that includes cleared, outside scientific<br/>experts to develop a coherent research agenda on the polygraph; initiate and participate in a small<br/>grant program to stimulate independent research outside the Government; and review and comment<br/>on scientific progress and the quality of government-sponsored research in this field; and<br/>(2) independent, objective, and peer-reviewed scientific research be encouraged as the best<br/>means to assess the credibility of the polygraph as a personnel security tool and identify potential<br/>technological advances that could make the polygraph more effective in the future. (p. 91)<br/>15. The Commission recommends revising the Computer Security Act of 1987 to reflect the<br/>realities of information systems security in the Information Age.<br/>Some of the changes to the Act might include:<br/>•Moving the Computer Systems Laboratory from the National Institute of Standards<br/>and Technology to a higher visibility position within the Commerce Department,<br/>thereby increasing the likelihood of funding and personnel to support the<br/>civilian side of Government;<br/>•Directing agencies to set aside specific funds, perhaps as a budget line item, for<br/>information systems security training; and<br/>•Requiring the Office of Personnel Management to create a career path for<br/>information systems security professionals that includes network administration<br/>and computer crime investigation. (p. 104)<br/>16. The Commission recommends developing an information systems security career path across<br/>the Government. (p. 111)</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3750" href="javascript:ajaxLink('DiscussionTopicComment_3750', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3750')">Comments (1)</a></span><span id="DiscussionTopicTag_3750"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3750"></div>
+</div></td>
+</tr>
+<tr id="row_3738">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3738">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3738', '/akira/discussionVote.do?dbid=2237&topicID=3738&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 15</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3738'))" style="text-decoration:none;" id="TopicVote_3738" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 15</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3738'))">9</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3738', '/akira/discussionVote.do?dbid=2237&topicID=3738&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3738"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3738-4049"><span id="IdeaTitle_3738">Double Database to Monitor the Leahy Amendment&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6475-4049">dbw</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Why Is This Idea Important?<br/>We want to create an intersecting system of two databases to help implement the Leahy Amendment to the Foreign Operations Appropriations Act and Defense Appropriations Act by making that information available to the public. As stated on Senator Leahy’s website, “The Leahy Law makes it clear that when credible evidence of human rights violations exists, U.S. aid must stop. But, it provides the necessary flexibility to allow the U.S. to advance its foreign policy objectives in these countries. The law gives the Secretary of State the authority to determine when the law applies. In addition, it gives foreign governments an incentive to correct the problem: U.S. aid can resume if they bring to justice people who commit such crimes.”<br/><br/>To better implement this law, Americans and the world community should have access to an open database of all foreign military units who receive U.S. military aid and/or training. In addition, the State Department's Annual Human Rights reports should be indexed to note those military units that are implicated in any "gross violation of Human Rights."  The intersection of these two databases should trigger the implementation of the Leahy Amendment and thus begin a process that will press for justice by withdrawing further U.S. aid and training from the unit involved.   <br/><br/>Creating the databases for government use is not enough. These databases need to be made public, so both U.S. citizens and foreign military units can have access.  U.S. citizens should know what military units are being funded by the U.S. government and keep our country accountable for its spending. Foreign military units must see that they will be held accountable for their actions and place their funding and training at risk if they commit a violation of human rights.   <br/><br/>_______________________________________________________________<br/><br/>Documentation of the Amendments:<br/>The Leahy Amendment in the 2001 Foreign Operations Appropriations Act (Sec. 563 of P.L. 106-429) states :“None of the funds made available by this Act may be provided to any unit of the security forces of a foreign country if the Secretary of State has credible evidence that such unit has committed gross violations of human rights, unless the Secretary determines and reports to the Committees on Appropriations that the government of such country is taking effective measures to bring the responsible members of the security forces unit to justice.”<br/><br/>While the Foreign Operations law covers both training and assistance (such as weapons grants), the Leahy Amendment in the 2001 Defense Appropriations Act (Sec. 8092 of P.L. 106-259) covers only training, and states: “None of the funds made available by this Act may be used to support any training program involving a unit of the security forces of a foreign country if the Secretary of Defense has received credible information from the Department of State that a member of such unit has committed a gross violation of human rights, unless all necessary corrective steps have been taken.”<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3738" href="javascript:ajaxLink('DiscussionTopicComment_3738', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3738')">Comments (1)</a></span><span id="DiscussionTopicTag_3738"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=leahy amendment">leahy amendment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=human rights">human rights</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3738"></div>
+</div></td>
+</tr>
+<tr id="row_3734">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3734">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3734', '/akira/discussionVote.do?dbid=2237&topicID=3734&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 57</div><div>Votes Against : 0</div>', document.getElementById('TopicVote_3734'))" style="text-decoration:none;" id="TopicVote_3734" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 57</div><div>Votes Against : 0</div>', document.getElementById('TopicVote_3734'))">57</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3734', '/akira/discussionVote.do?dbid=2237&topicID=3734&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3734"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3734-4049"><span id="IdeaTitle_3734">Making Government More Open&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7533-4049">kehoefl</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Your campaign promises included making your administration more open by posting bills, etc on the internet where it could be viewed by the American People.<br/>I must say that on a couple of occassions I have checked the website to be able to check out a bill that was coming up for discussion or a vote, but could not find it there.  <br/>A prime example was the Stimulus Bill, which was voted on quickly and it did not allow the public to review it, much less have an opportunity to voice their concerns.<br/>I would like to see you keep your promise to make your administration more transparent by have the items posted where they can be reviewed.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3734" href="javascript:ajaxLink('DiscussionTopicComment_3734', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3734')">Comments (1)</a></span><span id="DiscussionTopicTag_3734"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3734"></div>
+</div></td>
+</tr>
+<tr id="row_3732">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3732">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3732', '/akira/discussionVote.do?dbid=2237&topicID=3732&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 32</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3732'))" style="text-decoration:none;" id="TopicVote_3732" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 32</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3732'))">26</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3732', '/akira/discussionVote.do?dbid=2237&topicID=3732&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3732"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3732-4049"><span id="IdeaTitle_3732">Blanket declassification&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6746-4049">farseer2002</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">As a beginning commitment toward openness and transparency - blanket declassify (without review) all federal documents created prior to 1941 in all subject matters.<br/><br/>Nuclear and other sensitive subjects due not exist prior to 1941.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3732" href="javascript:ajaxLink('DiscussionTopicComment_3732', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3732')">Comments (1)</a></span><span id="DiscussionTopicTag_3732"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=blanket declassification">blanket declassification</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3732"></div>
+</div></td>
+</tr>
+<tr id="row_3721">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3721">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3721', '/akira/discussionVote.do?dbid=2237&topicID=3721&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 14</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3721'))" style="text-decoration:none;" id="TopicVote_3721" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 14</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3721'))">9</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3721', '/akira/discussionVote.do?dbid=2237&topicID=3721&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3721"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3721-4049"><span id="IdeaTitle_3721">Fix FERPA&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7018-4049">director</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Congress passed FERPA in 1974 to safeguard the privacy of confidential "education records," like grades.  But schools and colleges are using FERPA to block disclosure of public records in which there is no legitimate privacy interest.  The U.S. Department of Education actually issued an interpretation in December that says schools should withhold even anonymous statistical information about students, such as how many students were disciplined for bringing guns to school and what punishment they received.  Congress needs to redefine "confidential education records" to bring sanity back to FERPA and to restore the public's ability to hold schools and colleges accountable.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3721" href="javascript:ajaxLink('DiscussionTopicComment_3721', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3721')">Comments (2)</a></span><span id="DiscussionTopicTag_3721"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3721"></div>
+</div></td>
+</tr>
+<tr id="row_3719">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3719">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3719', '/akira/discussionVote.do?dbid=2237&topicID=3719&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 25</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3719'))" style="text-decoration:none;" id="TopicVote_3719" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 25</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3719'))">18</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3719', '/akira/discussionVote.do?dbid=2237&topicID=3719&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3719"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3719-4049"><span id="IdeaTitle_3719">Develop a Critical Social Citizenry&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7440-4049">rprincipe</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Charge our schools with the task of developing a critical social citizenry.      <br/><br/><br/>Students equipped with the skills necessary to function as part of a critical social citizenry have done more than participate in established systems and community structures. They have practiced:<br/>•	critically assessing (questioning) established social, political, and economic structures<br/><br/>•	exploring strategies for change that address root causes of injustice and inequity (and holding the elected accountable) <br/><br/>•	acting to solve root causes of injustice and inequity within established social, political, and economic structures<br/><br/>“No Child Left Thinking: Democracy at-risk in American Schools”<br/>Independent School, spring 2008<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3719" href="javascript:ajaxLink('DiscussionTopicComment_3719', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3719')">Comments (2)</a></span><span id="DiscussionTopicTag_3719"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3719"></div>
+</div></td>
+</tr>
+<tr id="row_3714">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3714">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3714', '/akira/discussionVote.do?dbid=2237&topicID=3714&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 116</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3714'))" style="text-decoration:none;" id="TopicVote_3714" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 116</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3714'))">112</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3714', '/akira/discussionVote.do?dbid=2237&topicID=3714&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3714"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3714-4049"><span id="IdeaTitle_3714">Require Legislators to Read and Understand Legislation before Voting on it.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7383-4049">quality</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">This seems logical, and yet bills with sweeping consequences, sometimes numbering in the hundreds of pages, are printed when there is no time for anyone to read the bill, let alone intelligently consider it, before voting.   Constitution-bending pieces of legislation have been bullied into passage with a lot of noise about how we can't wait to pass it, even though we have to live with the consequences for years after it is passed.  This is how the Patriot Act was passed, for instance.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3714" href="javascript:ajaxLink('DiscussionTopicComment_3714', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3714')">Comments (5)</a></span><span id="DiscussionTopicTag_3714"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=legislation">legislation</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3714"></div>
+</div></td>
+</tr>
+<tr id="row_3711">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3711">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3711', '/akira/discussionVote.do?dbid=2237&topicID=3711&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 8</div><div>Votes Against : 19</div>', document.getElementById('TopicVote_3711'))" style="text-decoration:none;" id="TopicVote_3711" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 8</div><div>Votes Against : 19</div>', document.getElementById('TopicVote_3711'))">-11</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3711', '/akira/discussionVote.do?dbid=2237&topicID=3711&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3711"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3711-4049"><span id="IdeaTitle_3711">Put a Face on the Bureaucrats--Give Them Facebook Pages&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4312-4049">bharshaw</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Give each Federal bureaucrat his or her own Facebook(-type) page. Any member of the public can look up the local postman, any member of the bureaucracy can look up the person he's dealing with at a sister agency, etc. and enter messages, provide feedback and evaluations, ask questions.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3711" href="javascript:ajaxLink('DiscussionTopicComment_3711', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3711')">Comments (5)</a></span><span id="DiscussionTopicTag_3711"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3711"></div>
+</div></td>
+</tr>
+<tr id="row_3710">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3710">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3710', '/akira/discussionVote.do?dbid=2237&topicID=3710&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 54</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3710'))" style="text-decoration:none;" id="TopicVote_3710" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 54</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3710'))">52</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3710', '/akira/discussionVote.do?dbid=2237&topicID=3710&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3710"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3710-4049"><span id="IdeaTitle_3710">Transparency in Government Bureaucracy Pay, Benefits, Perks & Pensions&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7383-4049">quality</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">As the employers of everyone working in Government, we deserve to know what we are getting for our dollars.  For instance, how much are Government officials making in salary, benefits, perks & pensions?  At a time when millions of Americans are losing the above, wouldn't it be enlightening to see a readout on how much a Senator is making when he or she is on TV?<br/><br/>So often, elected officials present themselves as being 'one of us', and yet they have medical insurance and pension systems not at all similar to the ones legislated to the general public.  They can also qualify for these benefits in an absurdly short period of time.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3710" href="javascript:ajaxLink('DiscussionTopicComment_3710', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3710')">Comments (0)</a></span><span id="DiscussionTopicTag_3710"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=salaries">salaries</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=pensions">pensions</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=benefits">benefits</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3710"></div>
+</div></td>
+</tr>
+<tr id="row_3709">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3709">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3709', '/akira/discussionVote.do?dbid=2237&topicID=3709&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 18</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3709'))" style="text-decoration:none;" id="TopicVote_3709" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 18</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3709'))">12</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3709', '/akira/discussionVote.do?dbid=2237&topicID=3709&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3709"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3709-4049"><span id="IdeaTitle_3709">Focus on objectives, not alternatives&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7390-4049">Professor Ernest Forman </a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Brainstorming is a good start, but far from adequate.  Discussion and communication is important, but not enough.  Voting is 'democratic' but not an effective nor efficient way to make decisions.<br/><br/>A process that focuses on stakeholders' objectives will lead to choices of alternatives that best meet  objectives in a way that is open and transparent.   It is common for discussions of interested parties to focus on alternatives.  This approach, including voting,  almost always results in endless dialogs of pointing out the pros of one's favored alternatives and the cons of the others.  In contrast, discussions and processes that focus on the relative importance of objectives and the effectiveness of alternatives with respect to these objectives result in more effective solutions that are transparent in the sense that the rationale for the decisions are clear.  Even those not in favor of chosen alternatives can understand the rationale for the decisions. <br/><br/>Effective ways to address complex issues have been developed and successfully applied over the past 25 years.  The one that is most widely used throughout the world today is the Analytic Hierarchy Process (AHP).  It is a way to structure, measure and synthesize that is not only theoretically sound, but straightforward.  It allows for both objectivity and subjectivity.  (See Decision by Objectives by Forman and Selly as well as http://mdm.gwu.edu/forman and http://expertchoice.com. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3709" href="javascript:ajaxLink('DiscussionTopicComment_3709', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3709')">Comments (0)</a></span><span id="DiscussionTopicTag_3709"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=decision processes ahp structure">decision processes ahp structure</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=measure">measure</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=synthesize">synthesize</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3709"></div>
+</div></td>
+</tr>
+<tr id="row_3694">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3694">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3694', '/akira/discussionVote.do?dbid=2237&topicID=3694&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 18</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3694'))" style="text-decoration:none;" id="TopicVote_3694" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 18</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3694'))">12</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3694', '/akira/discussionVote.do?dbid=2237&topicID=3694&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3694"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3694-4049"><span id="IdeaTitle_3694">Establish Stakeholder Perspectives&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7245-4049">john</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I'm using this approach in the city of Portland and have used it with geographically dispersed and local organizations (communities). <br/><br/>The first step is to build the stakeholder matrix by identifying the stakeholder groups, and their interests. Measurements are developed that support the interests. By considering all the major stakeholder groups a balance set of measurements can be established. It is very important that the interests be quantified where possible. One way to do this is ask the stakeholder what a perfect program would look like. <br/><br/>Often stakeholders are ignorant of other stakeholders and their interests. <br/><br/>The stakeholder matrix is also useful in inviting representatives to a conversations where the different perspectives are focused on a specific problem or question. I've used a World Cafe format with a graphic recorder and a narrative that captures the outcome. <br/><br/>Here's an example of an output from a community Healthcare conversation. <br/>http://www.cityclubofcentraloregon.com/City_Club_Forums/Vision_for_Healthcare_Cafe_Summary/default.aspx<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3694" href="javascript:ajaxLink('DiscussionTopicComment_3694', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3694')">Comments (1)</a></span><span id="DiscussionTopicTag_3694"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3694"></div>
+</div></td>
+</tr>
+<tr id="row_3686">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3686">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3686', '/akira/discussionVote.do?dbid=2237&topicID=3686&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 29</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3686'))" style="text-decoration:none;" id="TopicVote_3686" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 29</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3686'))">23</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3686', '/akira/discussionVote.do?dbid=2237&topicID=3686&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3686"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3686-4049"><span id="IdeaTitle_3686">Opening Up Government Operations through a National Strategy for Sustainability&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5117-4049">Rob  Wheeler</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Citizens Network for Sustainable Development has been urging our federal government to fulfill it’s commitment to develop and implement a National Strategy for Sustainability for more than ten years now. I posted an idea and proposal on this idea yesterday (May 27) under the category of New Strategies and Techniques of Participation. It has already gotten quite a few votes and will probably receive substantially more than this posting. See: http://opengov.ideascale.com/akira/dtd/3299-4049. A National Strategy will not focus on just one or two components or criteria for better and more open government, but instead on most aspects of this challenge. I am thus including a description below of how a National Strategy for Sustainability could be used to address most of the categories that are listed in the Open Government Dialogue. <br/><br/>The Citizens Network for Sustainable Development is urging the Obama Administration and Congress to lead our country and people in Developing and Implementing a National Strategy for Sustainability, as agreed to by all of the UN Member States during both the Rio Earth Summit Conference in 1992 and the Johannesburg World Summit on Sustainable Development in 2002. Indeed all countries agreed to “begin to implement their National Strategy Plans by 2005”, so we are already several years behind in fulfilling this important commitment. <br/><br/>President Obama has repeatedly stated that his Administration will be both a good global citizen and will contribute substantially to achieving the Millennium Development Goals. Developing and implementing a National Strategy for Sustainability is needed to fulfill Millennium Development Goal #7 which calls for “ensuring environmental sustainability” and “integrating the principles of sustainable development into country policies and programs and reversing the loss of environmental resources.”<br/><br/>TRANSPARENCY <br/><br/>One of the primary objectives, goals, and components of a National Strategy for Sustainability should be to provide more transparency within government at all levels. Mechanisms should be developed as a part of the implementation process to make data more accessible, make government operations more visible, and to provide open access to key information such as is applicable to the primary indicators that are used to measure and assess progress that is being made to implement the sustainability plan. <br/><br/>PARTICIPATION<br/><br/>The work of existing and new Federal Advisory Committees should be integrated into both the development and implementation of the National Strategy for Sustainability. In fact some type of an independent National Council on Sustainable Development should be created, with a mandate and structure similar to that of the National Academy of Sciences and the National Academy of Public Administration, which will act as a Federal Advisory Committee for most purposes. <br/><br/>Many of the recommendations that come from the National Strategy Process could be instituted either as Executive Orders or as federal, state, and local rules, regulations, or legislation. In fact one of the primary goals of the process would be to evaluate existing rules, regulations, and legislation to determine whether they are sufficient for achieving set and agreed upon goals and then to take sufficient action to ensure that they are sufficient for achieving the goals. <br/><br/>COLLABORATION<br/><br/>Collaboration within, between and among various levels of government should be one of the primary focuses of the National Strategy. Indeed regional coordinating bodies and councils are needed at various levels of government to ensure that adequate processes are in place for efficient coordination, collaboration, and implementation. The President’s Council on Sustainable Development included many recommendations for such coordinating bodies and councils which ought to be acted upon, including a Joint Center on Sustainable Communities. I am including a summary of many of the primary recommendations from the President’s Council below. See: http://clinton5.nara.gov/PCSD <br/><br/>In addition, one of the key contributions that the development of a National Strategy could make would be to encourage and support the development of citizen initiatives and public-private partnerships. Indeed the focus on Sustainable Development, both in the US and around the world, has seen a growing interest and dedication to public-private partnerships which are particularly apparent in the recent development of UN Partnership Initiatives – of which both the Bush and Obama Administrations have championed and paid a great deal of interest. Indeed the National Strategy could serve as a primary means for raising awareness in the US, among stakeholders, government entities, and the public, about the work and efforts of these UN Partnerships and how the US can participate and take advantage more so in and of their development. <br/><br/>CAPACITY BUILDING<br/><br/>Another primary emphasis of the National Strategy should be to encourage and support Capacity Building and Development. At both the local level and within industries, municipalities and businesses have provided and undergone a great deal of training and staff development as they have developed their own sustainability plans. However, this is still far from universal and similar activities could now be more fruitfully developed as well at the state and federal levels. Development and implementation of a National Strategy could thus serve to foster and support the further development of such training and development programs. <br/><br/>In addition, there is a growing interest within the academic community in integrating Education for Sustainable Development throughout the curriculum – as mandated in the Outcome Document of the World Summit on Sustainable Development and the UN Decade on Education for Sustainable Development. The extent to which the U.S. Department of Education; federal, state, and local governments; and our educational institutions support and promote efforts to educate and train professors, teachers, and students about the basic principles, attributes, and components of sustainable development is also the extent to which our country will be prepared for the social, economic, and environmental challenges and requirements that are likely to confront us, and that we must deal with, in the 21st century. <br/><br/>Going beyond this, one of the key lessons that was learned from the President’s Council on Sustainable Development is the imperative need to publicize and promote the efforts to develop and implement the National Strategy for Sustainability in as broad and energetic a way as possible. One reason that more of the recommendations from the President’s Council were not implemented was that the process was not sufficiently promoted, especially in the earlier years. <br/><br/>Indeed all Americans must be made aware of the planning and implementation efforts and encouraged and welcomed to participate fully in the process. Indeed one of the primary components of the National Strategy should be to focus on communication strategies and an open and participatory process should be developed to enroll and involve as many people, stakeholders, and professionals in the communication process as possible. Just imagine the great suggestions and contributions that might come from the business community, students, and educators to enhance and promote the communication processes. <br/><br/>Indeed some great work is already being done by students, alternative and mass media, in local communities, and by professional organizations in order to promote the need and raise awareness about sustainable development – of which I could provide many excellent examples – including the Earth Team (http://www.earthteam.net); Guerrilla in the Greenhouse (http://www.greengorilla.com); Captain Planet Foundation (http://captainplanetfdn.org); NBC’s Green Is Universal; Free Range Studios;  GoodWorks Public Relations (http://www.goodworkspr.com); and Sustainable Today (http://SustainableToday.org); etc. <br/><br/>Finally, one of the primary components of the National Strategy should focus on Strategic Planning and Budgeting. In fact the development and implementation of the Strategy Plan could provide an excellent means of engaging the concerned public in planning and budgetary processes and indeed has often resulted in such interest at the local and state levels to date. In addition, sustainability indicators, Genuine Progress Indicators, and other assessment tools have often done a much better job of analyzing real world impacts than have more strictly defined economic indicators and also of including crucially important externalities in decision-making processes. <br/><br/>As you can see the development and implementation of a National Strategy for Sustainability could serve as a key vehicle and strategy for improving the operations, transparency, participation, and collaboration in government and at all levels. <br/><br/><br/>===============================================<br/><br/>Suggested Components and Activities for a<br/>National Strategy for Sustainability<br/><br/>Prepared by Rob Wheeler<br/>Citizens Network for Sustainable Development<br/><br/><br/>The proposed components included below were drawn primarily from the work of the President’s Council on Sustainable Development which met and solicited input from the American public in the 1990s. The Council’s proposals and recommendations should be reconsidered and augmented through a national effort to: develop a National Strategy for Sustainability and fulfill the commitments made by the US government during the Johannesburg World Summit on Sustainable Development in September 2002. <br/><br/>The reports and recommendations from the President’s Council on Sustainable Development are archived and can be downloaded at: http://clinton5.nara.gov/PCSD. <br/><br/>-------------------------------------<br/><br/>Some type of a National Council on Sustainable Development should again be established to lead the effort to develop and implement a National Strategy for Sustainability in the US. The role of the Council should be to:<br/><br/>A) Forge Consensus on Policy<br/>B) Demonstrate Implementation of Policy<br/>C) Get The Word Out <br/>D) Evaluate and Report on Progress Made<br/><br/>The National Strategy should:<br/><br/>Establish a White House Office which would have the authority to coordinate and integrate economic, social, and environmental policy throughout the Executive Branch and oversee implementation efforts for the National Strategy Plan.<br/><br/>Establish a new Interagency Working Group on Sustainable Development, again co-chaired by the Chair of the Council on Environmental Quality and the Chair of the National Economic Council. The Interagency Working Group should review and conduct a new survey of existing and needed federal programs and activities that could support and implement the recommendations coming from the past and present PCSD. The Interagency Working Group should recommend the means to include these programs and activities in the National Strategy Plan, following appropriate consultations.<br/><br/>The role of the Federal Government should be to:<br/><br/>Sponsor and promote a national dialogue to consider and develop recommendations as to how our country can make a rapid transition to full sustainability. <br/><br/>Develop and promote a national plan for shifting to full sustainability, including the specific steps which will need to be taken and the programs implemented in each sector or issue area.<br/><br/>Publish a catalogue of tools for initiating, leading, and implementing sustainable development efforts. Maintain an information clearinghouse to disseminate examples of best practices and community initiatives of value to county, city, state, federal, private sector, non-profit, and academic organizations.<br/><br/>Conduct policy analysis through a series of public forums on both governmental and private sector policies that contribute to building healthy communities.<br/><br/>Establish and support the work and activities of the Joint Center for Sustainable Communities<br/><br/>Promote and support the development of Eco-Industrial Parks<br/><br/>Develop a national plan and program for Sustainable Production and Consumption; and establish a federal focal point for the promotion and coordination of Extended Product Responsibility.<br/><br/>Provide sustainable community grants to cities and counties for local efforts to develop community-based strategies. Develop sustainable community awards programs to recognize outstanding efforts within communities, community programs, and their elected officials. Develop a peer exchange program to match experienced elected officials and professional staff who have proven solutions with jurisdictions that need to solve specific problems.<br/><br/>Develop a program to support initiatives and activities in rural areas and communities.<br/><br/>Develop and adopt federal metropolitan-scale policy through an Interagency Metropolitan Sustainable Development Working Group. Coordinate its activities with other interagency groups such as the Community Empowerment Board (CEB) and the Interagency Brownfields Initiative. Establish a pilot demonstration program to encourage metropolitan cooperation and problem solving.<br/><br/>Help to facilitate the creation of regional councils modeled after the PCSD's multi-stakeholder process. Establish federal interagency groups to work with the regional councils. Connect the critical issues of metropolitan and rural areas within each region to determine joint needs and collaborative solutions. Help the various regional councils to coordinate their efforts and work together to promote and implement sustainable development policies and practices.<br/><br/>Sponsor a national dialogue on the need for Education for Sustainable Development and take leadership in implementing a national effort to include it as a core part of the curriculum in schools throughout the United States. Support and implement the recommendations from the Education for Sustainability: Agenda for Action process. <br/><br/>Support the work and activities of the Sustainable Communities Network (SCN), connecting citizens nationwide with the resources they need to implement innovative processes and programs to restore the economic, environmental, and social health and vitality of their communities.<br/><br/>Develop a national advertising and educational campaign designed to help local elected officials and private citizens understand the importance of locally-based community action and to promote the National Strategy Plan for implementing sustainable development.<br/><br/>Rob Wheeler<br/>robineagle@worldcitizen.org<br/>1-717-264-5036<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3686" href="javascript:ajaxLink('DiscussionTopicComment_3686', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3686')">Comments (0)</a></span><span id="DiscussionTopicTag_3686"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3686"></div>
+</div></td>
+</tr>
+<tr id="row_3654">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3654">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3654', '/akira/discussionVote.do?dbid=2237&topicID=3654&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 25</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_3654'))" style="text-decoration:none;" id="TopicVote_3654" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 25</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_3654'))">17</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3654', '/akira/discussionVote.do?dbid=2237&topicID=3654&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3654"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3654-4049"><span id="IdeaTitle_3654">Keep all government radio traffic available to all&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7038-4049">gmclam</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Slowly, government agencies all over the USA are switching to digital and often encrypted radio transmissions.  The use of encryption and non-monitorable radio systems by government agencies must end.<br/><br/>In many communities, police, fire and other emergency radio signals have been monitored by reporters, private citizens and other government employees since they started to be used.  Now there are several radio systems in use by public agencies that "can not" be monitored (typically they are proprietary and techical information is not available) or they have switched to digitally encrypted signals.  Federal law prohibits monitoring encrypted signals.<br/><br/>To make this situation even worse; billions of taxpayer money is being used (even during this poor economy) to purchase and install these overly complex radio systems.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3654" href="javascript:ajaxLink('DiscussionTopicComment_3654', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3654')">Comments (1)</a></span><span id="DiscussionTopicTag_3654"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=encryption">encryption</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=scanners">scanners</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=radio">radio</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3654"></div>
+</div></td>
+</tr>
+<tr id="row_3642">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3642">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3642', '/akira/discussionVote.do?dbid=2237&topicID=3642&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 34</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3642'))" style="text-decoration:none;" id="TopicVote_3642" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 34</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3642'))">27</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3642', '/akira/discussionVote.do?dbid=2237&topicID=3642&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3642"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3642-4049"><span id="IdeaTitle_3642">Advance the Right of Access to Information through Adherence to Basic Principles and Full Implementation&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6913-4049">The Carter Center </a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">A group of over 125 members of the global access to information community from over 40 countries, representing governments, civil society organizations, international bodies and financial institutions, donor agencies, foundations, private sector companies, media outlets and scholars, gathered in Atlanta, Georgia from February 27-29, 2008, under the auspices of the Carter Center and adopted the Atlanta Declaration and Plan of Action for the Advancement of the Right of Access to Information. <br/><br/>The Atlanta Declaration included key principles to advance the implementation, enforcement, and exercise of the right of access to information. Unfortunately, the United States Freedom of Information Act does not meet these basic tenets. We encourage amendements to the US FOIA and its policies in order to meet the international norms, including the following:<br/><br/>Legal Tenets:<br/><br/>a. Access to information is the rule; secrecy is the exception;<br/><br/>b. The right of access to information should apply to all branches of government (including the executive, judicial and legislative bodies, as well as autonomous organs) at all levels (federal, central, regional and local);<br/><br/>c. The right of access to information should extend to non-state actors that: receive public funds or benefits (directly or indirectly); carry out public functions, including the provision of public services; and exploit public resources, including natural resources. The right of access to information extends only to the use of those funds or benefits, activities or resources;<br/><br/>d. The right of access to information should include a right to request and receive information, and a positive obligation on public institutions to disseminate information related to their core function;<br/><br/>e. The right to request information is independent of a personal interest in that information, and there should never be a need to provide a justification or reason;<br/><br/>f. The instrument or law should include procedures designed to ensure the full implementation and ease of use, with no unnecessary obstacles (such as cost, language, form or manner of request) and with an affirmative obligation to assist the requester and to provide the requested information within a specified and reasonable period of time;<br/><br/>g. Exemptions to access to information should be narrowly drawn, specified in law, and limited only to those permitted by international law. All exemptions should be subject to a public interest override, which mandates release of otherwise exempt documents when the public benefit of release outweighs the potential public harm;<br/><br/>h. The burden of proof to justify a denial should always falls on the holder of information;<br/><br/>i. The law should include clear penalties and sanctions for non-compliance by public officials; and<br/><br/>j. The requester should be guaranteed a right to appeal any decision, any failure to provide information, or any other infringement of the right of access to information to an independent authority with the power to make binding and enforceable decisions, preferably an intermediary body such as an Information Commission(er) or Specialist Ombudsman in the first instance with a further right of appeal to a court of law.<br/><br/>Effectively Implementing the FOIA:<br/><br/>The United States government should ensure a system of implementation that provides for:<br/><br/>a. The equitable exercise of the right of access to information; <br/><br/>b. Training of all public officials on the practice and application of the right; <br/><br/>c. Public education and training to empower persons to make full use of the law;<br/><br/>d. Allocation of necessary resources to ensure efficient and timely administration;<br/><br/>e. Strengthening of information management to facilitate access to information; <br/><br/>f. Regular monitoring and reporting on operation of the law; and<br/><br/>g. Review of the operation and compliance with the law, by legislative and key oversight bodies.<br/><br/>Moreover, companion legislation that would further promote the right of access to information and provide a supportive legislative framework should be enacted, including: laws compelling disclosure of political party and campaign financing; lobbying disclosure; archiving legislation; whistleblowing protection; and professional public administration laws. Moreover, contradictory provisions, such as those contained within an Official Secrets Act, should be repealed.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3642" href="javascript:ajaxLink('DiscussionTopicComment_3642', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3642')">Comments (1)</a></span><span id="DiscussionTopicTag_3642"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3642"></div>
+</div></td>
+</tr>
+<tr id="row_3641">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3641">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3641', '/akira/discussionVote.do?dbid=2237&topicID=3641&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 47</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3641'))" style="text-decoration:none;" id="TopicVote_3641" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 47</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3641'))">40</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3641', '/akira/discussionVote.do?dbid=2237&topicID=3641&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3641"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3641-4049"><span id="IdeaTitle_3641">Ensure Implementation and Enforcement of FOIA and Deter Backsliding&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6913-4049">The Carter Center </a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">115 participants from 18 countries in the Americas, representing governments, civil society organizations, international and regional bodies and financial institutions, donor agencies and foundations, the private sector, media outlets and scholars, gathered in Lima, Peru from April 28-30, 2009, under the auspices of The Carter Center, in collaboration with the Organization of American States, the Andean Commission of Jurists and the Knight Center for Journalism in the Americas, to advance the right of access to information in the region.<br/><br/>The assembled conference made a number of findings and suggested plans of action relevant to the United States, such as <br/><br/>1. States have a special obligation to disclose information pertaining to human rights violations or corruption. This is all the more important in the Americas regional context of past state-sponsored or approved human rights violations and the more recent “global war on terror,” whereby systematic torture and other cruel, inhuman and degrading treatment has been allowed to flourish under the veil of state secrets. <br/><br/>Claims of state secrets, national security, diplomatic relations or related grounds to shield information regarding human rights violations must be subject to review by a civilian court or other body that is fully independent of the executive branch. Claims should only be upheld where (a) the independent body has the opportunity to review the information sought to be suppressed, (b) disclosure of the information would demonstrably harm a legitimate national security interest, and (c) the restriction imposed is the least restrictive means possible for protecting that interest.<br/><br/>2. Increasing government capacity and strengthening administrative practices to respond to requests and make information proactively available will help support the realization of the right of access to information and can serve to raise confidence in the system, which may further foster demand. <br/><br/>3. Although technology can assist access to information, it is not a panacea. States use of websites and new technologies is but one avenue for dissemination rather than a substitute for meaningful access to information whereby all persons have the right to seek and receive information regardless of the medium.<br/><br/>4. In light of the global economic meltdown, private organizations have become significant beneficiaries of public funds and so must increasingly be covered by targeted transparency requirements.  Transparency in these organizations will allow for greater accountability, improved administration, and increased consumer and investor confidence.<br/><br/>5. The scope of access to information laws should cover key institutions and bodies and these should be subject to the full requirements of disclosure, including:<br/><br/>a)	Central banks and those responsible for the development of monetary policy; <br/>b)	Private sector bodies that provide public services or receive public funding; <br/>c)	Political parties and movements registered in the electoral system; and<br/>d)	Judicial and Legislative branches of government.<br/><br/>6. To ensure effective implementation and enforcement of FOIA, the government should:<br/><br/>a)	Designate a specific budget for each public body covered under the law to implement and sustain the necessary procedures;<br/><br/>b)	Increase capacity and resources for Information/Access Officers and Archival and Records Managers, including training and professionalization;<br/><br/>c)	Afford specialized training for all public officials in the areas of record-making, storage, retrieval and delivery; <br/><br/>d)	Ensure clear guidelines for classification of documents to minimize discretion;<br/><br/>e)	Sustain proactive disclosure measures; <br/><br/>f)	Strengthen reporting requirements related to operation of the law; <br/><br/>g)	Perform periodic evaluations of the efficiency and effectiveness of the information regulations, institutions and practice; <br/><br/>h)	Share best practices and collaborating across public agencies; and<br/><br/>i)	Encouraging the use of technology, as appropriate.<br/><br/>6. The US government should strive to build confidence in the system through:<br/><br/>a)	Ensuring that requests receive timely and satisfactory responses; <br/>b)	Providing effective and enforceable sanctions for inappropriate denials, obstructing requests for and receipt of information, and all other failures to comply with the right to information regime; and<br/>c)	Establishing appropriate enforcement measures.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3641" href="javascript:ajaxLink('DiscussionTopicComment_3641', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3641')">Comments (0)</a></span><span id="DiscussionTopicTag_3641"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3641"></div>
+</div></td>
+</tr>
+<tr id="row_3636">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3636">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3636', '/akira/discussionVote.do?dbid=2237&topicID=3636&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 33</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3636'))" style="text-decoration:none;" id="TopicVote_3636" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 33</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3636'))">29</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3636', '/akira/discussionVote.do?dbid=2237&topicID=3636&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3636"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3636-4049"><span id="IdeaTitle_3636">Require Public Disclosure of all Communications with Executive Branch Officials Regarding Recovery Act Funds&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6044-4049">Citizens for Ethics and Responsibility in Washington </a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The administration should require disclosure of all outside contacts with agency officials regarding the American Recovery and Reinvestment Act of 2009 (Recovery Act).  In February, President Obama signed the Recovery Act, which provides more than $350 billion in spending.  To ensure that all Recovery Act funds are expended in a transparent and responsible manner, President Obama issued a memorandum on March 20, 2009, restricting registered lobbyists from having oral communications with executive branch officials about particular Recovery Act projects, and requiring disclosure of other oral and written communications with lobbyists about the Recovery Act.<br/><br/>The administration can increase transparency by rescinding the restrictions on oral communications with registered lobbyists, and expanding the disclosure requirements to include all communications with executive branch officials related to the Recovery Act.  Although the ban was imposed for a laudable goal, it leaves in place a major loophole by continuing to permit lobbying by those who are not federally registered lobbyists, but who still have a direct pecuniary interest in the disbursement of Recovery Act funds.  <br/><br/>A much stronger alternative is for the administration to disclose any and all communications – written and oral, over the phone and in-person – regarding Recovery Act funds.  Agencies should post on their websites the names and business affiliations of all persons engaging in the communications, the names and positions of the government officials with whom the conversations took place, the dates of the communications, and the subject matter of the discussions.  These expanded disclosure requirements will not impose a significant burden on agency officials, who are already required to make these disclosures for communications with registered lobbyists about general Recovery Act issues.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3636" href="javascript:ajaxLink('DiscussionTopicComment_3636', '/akira/discussion.do?mode=comment&dbid=2237&topicID=3636')">Comments (0)</a></span><span id="DiscussionTopicTag_3636"><a href="/akira/ideafactory.do?discussionID=2237">Making Government Operations More Open</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3636"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 229<br/> Displaying 51 to 75<div class="pages"><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=1" class="nextprev" title="Go to Previous Page">&#171; Previous</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=0" title="Go to page 1">1</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=1" title="Go to page 2">2</a><span class="current">3</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=3" title="Go to page 4">4</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=4" title="Go to page 5">5</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=5" title="Go to page 6">6</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=6" title="Go to page 7">7</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=7" title="Go to page 8">8</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=8" title="Go to page 9">9</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=9" title="Go to page 10">10</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2237&pageOffset=3" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">New Strategies and Techniques</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2242">Top Rated (224)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2242">Recent (224)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_3049">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3049">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3049', '/akira/discussionVote.do?dbid=2242&topicID=3049&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 12</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3049'))" style="text-decoration:none;" id="TopicVote_3049" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 12</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3049'))">9</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3049', '/akira/discussionVote.do?dbid=2242&topicID=3049&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3049"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3049-4049"><span id="IdeaTitle_3049">Social Security too Slow&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4496-4049">brett60johnson</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The problem that I see is that Social Security is so far behind in helping people that are disabled for what ever reason, are losing everything including their homes. <br/>I feel that if Social Security worked faster that families would be able to keep their homes and it would help the mortgage companies. And since Social Security would have to hire more people it would put more people to work. So to me it would be a win win for a lot of people. <br/>It is really sad that so many families lose everything just because someone gets sick and can no long work.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3049" href="javascript:ajaxLink('DiscussionTopicComment_3049', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3049')">Comments (1)</a></span><span id="DiscussionTopicTag_3049"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3049"></div>
+</div></td>
+</tr>
+<tr id="row_3041">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3041">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3041', '/akira/discussionVote.do?dbid=2242&topicID=3041&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 19</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3041'))" style="text-decoration:none;" id="TopicVote_3041" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 19</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3041'))">15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3041', '/akira/discussionVote.do?dbid=2242&topicID=3041&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3041"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3041-4049"><span id="IdeaTitle_3041">“CROWD-SHAPE” Federal Agency Spending and Innovation&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4478-4049">michael.lennon</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">WHAT?<br/>Strengthen e-Participation at key decision points in federal agency innovation funding and performance assessment processes<br/><br/>WHERE? <br/>Planning and Assessment stages of 3 core management processes common to most federal agencies, specifically the:  <br/>1)	Acquisition process, <br/>2)	the Capital Planning and Investment Control (CPIC), and/or <br/>3)	Project Development Lifecycle. <br/><br/>HOW?  <br/>Participative Planning – involve the wisdom of crowds in brainstorming options for action and in assessing the feasibility, popularity and risks of these options <br/><br/>DemocrAssessment – create a scorecard that builds on existing government performance initiatives (.e.g. results.gov) by including direct citizen feedback in the assessment and evaluation process.<br/><br/>For more information see the following Slideshare, http://www.slideshare.net/Gov2.0/enhancing-fed-gov-transparency-democr-assessment-and-populist-planning?type=powerpoint</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3041" href="javascript:ajaxLink('DiscussionTopicComment_3041', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3041')">Comments (2)</a></span><span id="DiscussionTopicTag_3041"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3041"></div>
+</div></td>
+</tr>
+<tr id="row_3032">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3032">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3032', '/akira/discussionVote.do?dbid=2242&topicID=3032&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 7</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3032'))" style="text-decoration:none;" id="TopicVote_3032" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 7</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3032'))">5</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3032', '/akira/discussionVote.do?dbid=2242&topicID=3032&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3032"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3032-4049"><span id="IdeaTitle_3032">WIDGET ON EVERY IDEA AND PROPOSED BILLS&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4469-4049">Kevin Short</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">All of these ideas and Bills proposed for Public Opinion should have a WIDGET so interested people in participating in Government can Promote Support and Participation in ALL FORUMS and spread notice on their Blogs and Webpages.....<br/><br/>KEVIN D SHORT</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3032" href="javascript:ajaxLink('DiscussionTopicComment_3032', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3032')">Comments (1)</a></span><span id="DiscussionTopicTag_3032"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3032"></div>
+</div></td>
+</tr>
+<tr id="row_3027">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3027">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3027', '/akira/discussionVote.do?dbid=2242&topicID=3027&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 28</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3027'))" style="text-decoration:none;" id="TopicVote_3027" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 28</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3027'))">17</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3027', '/akira/discussionVote.do?dbid=2242&topicID=3027&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3027"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3027-4049"><span id="IdeaTitle_3027">Electoral Reform&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4381-4049">Robert David STEELE Vivas</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Both the Executive and Congress are in constant betrayal of the public trust because they represent less than 30% of the public.  70% of America did not vote for Obama, but to be fair to him, he is the same as Bush--irrelevant as long as we have a system owned by Wall Street.<br/><br/>We must demand of Obama and Congress, the latter as the price for not being recalled or defeated in 2010, an Electoral Reform Act along the following lines, drawing on Ralph Nader's lifetime of experience, as refined by Jim Turner and myself.<br/><br/>Phase I to be mandated for 2010 Election<br/><br/>Holiday Voting.  Proposed, that to avoid undue hardship to the hardest workers in America, the working poor, national and state elections shall only be held over a week-end or on a holiday.  If held on a Saturday, Orthodox Jews should have the option of voting in person on Sunday or by ballot in person the week prior, to be opened and counted on Election Day.<br/><br/>Honest Open Debates.  Proposed, that to end the current monopoly of the debates by the bifurcated two-party alliance against independent and third parties, that the League of Women Voters be restored to their role as the managers of honest open debates, to include third, fourth, and fifth parties.<br/><br/>Expanded Debates.  Proposed, that to end the charade of one individual being up to the task of managing America, that the debates be expanded to include a minimum of three Cabinet officials to be announced in advance, and generally to include the Attorney General, the Secretary of Defense, and the Secretary of State.  Should the League of Women Voters desire, the Transpartisan Policy Institute would undertake the scheduling of substantive policy debates engaging all announced candidates for specific Cabinet positions, and shall provide, on the basis of open source intelligence from the Earth Intelligence Network, and budgetary costs and implications from the Public Budget Office, a range of viable policy options for debate and deliberation.<br/><br/>Instant Run-Off.  Proposed, that to ensure the election of a winner elected by a majority, that the instant run-off concept be adopted for all national and state elections.  <br/><br/>Phase II to be mandated for 2012 Election, with Districts Redrawn by November 2009<br/><br/>Full and Balanced Representation.  Proposed, that to ascertain a properly representative balance in the House of Representatives for each state, and Open Registration be provided and that all parties having at least 10% of the voters registering a preference for their political philosophy, shall be eligible for assigned districts proportional to their number, and also to a proportional share of leadership positions in legislative bodies at all levels including the Congress of the United States of America.<br/><br/>Tightly-Drawn Districts.  Proposed, that we end the corrupt practice of gerrymandering, replacing it with compact computer drawn districts similar to the kind used in Iowa.<br/><br/>Full Public Funding of Diverse Candidates.  Proposed, to eliminate all federal financing of campaign, and all political action committees and structured bundled contributions to any candidate, that we institute a Campaign Contribution Tax Credit up to $100 per candidate up to ten candidates per individual in each election cycle to encourage broad based individual political campaign contributions.  <br/><br/>No Legislation Without Consultation.  Proposed, to eliminate special interest dominance of the legislative process, and to end the practice of passing legislation such as the Patriot Act without its actually being read, and to end all secret earmarks, that We all major legislation be published on line in Wiki format, with an easy to understand one-page summary, one week prior to its coming to a vote.  This also includes a demand that all earmarks be listed no less than one week in advance of their being considered for a vote, and that all earmarks be publicly announced and offered for amendment to the voters in the relevant district at least one week prior to the passage of national legislation affecting them.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3027" href="javascript:ajaxLink('DiscussionTopicComment_3027', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3027')">Comments (13)</a></span><span id="DiscussionTopicTag_3027"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=electoral">electoral</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reform">reform</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=elections">elections</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=districts">districts</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=voting">voting</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=legislation">legislation</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3027"></div>
+</div></td>
+</tr>
+<tr id="row_3006">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3006">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3006', '/akira/discussionVote.do?dbid=2242&topicID=3006&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 16</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3006'))" style="text-decoration:none;" id="TopicVote_3006" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 16</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3006'))">11</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3006', '/akira/discussionVote.do?dbid=2242&topicID=3006&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3006"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3006-4049"><span id="IdeaTitle_3006">potential for making mischief with crowd-sourcing (this site being an example)&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4351-4049">ctb14</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The government should be very careful with crowd-sourcing efforts. It is very easy for powerful interests to mobilize their members/friends to participate, skewing things in directions that are favorable to their views.  We already have examples of that on this site.  Imagine the AARP mobilizing its membership to re-write the laws for Social Security and Medicare.  In the real world, motivated and coached guidance from AARP to its membership would end up drowning out other voices.  That's why we have elected representatives, who have the choice to pay attention to highly-paid lobbyists, or not.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3006" href="javascript:ajaxLink('DiscussionTopicComment_3006', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3006')">Comments (3)</a></span><span id="DiscussionTopicTag_3006"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3006"></div>
+</div></td>
+</tr>
+<tr id="row_2998">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2998">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2998', '/akira/discussionVote.do?dbid=2242&topicID=2998&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 33</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_2998'))" style="text-decoration:none;" id="TopicVote_2998" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 33</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_2998'))">25</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2998', '/akira/discussionVote.do?dbid=2242&topicID=2998&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2998"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2998-4049"><span id="IdeaTitle_2998">Open Source Agency per 9-11 Commission&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4381-4049">Robert David STEELE Vivas</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Create the Open Source Agency (OSA) recommended by the 9-11 Commission on page 413, consistent with the Aspin-Brown ("should be a top priority") and Moynihan Commissions and others, to accomplish three things:<br/><br/>1.  Serve as the public intelligence agency, creating Open Source Intelligence (OSINT) that can be used to support the 99% of the US Government, state and local governments, and citizen groups that do not receive secret intelligence support today (i.e. everyone except the President, who only gets 4% of what he needs at a cost to the taxpayer of $65-75 billion a year).<br/><br/>2.  Serve as the national proponent, skunk works, and support agency for moving the entire nation to Free/Open Source Software (F/OSS) to end the corruption, fraud, waste, and abuse as well as the massive loss of productivity associated with proprietary software that is also unsafe.<br/><br/>3.  Serve as the national proponent, skunk works, and support agency for Open Spectrum as recommended by David Weinberger, Jock Gill, and others, to end the monopolization of frequencies by parties that are inherently inefficient and often corrupt.<br/><br/>HOWEVER, the OSA should NOT be part of the secret intelligence community, which calls Open Source Intelligence "Open Sores", but rather be fully-funded by the Department of Defense via non-reimbursable funding to the Department of State, where the OSA would be the sister agency to the Broadcasting Board of Governors (one brings global knowledge in, the other broadcasts US knowledge out).<br/><br/>750 international professionals have spoken to and worked with 7,500 international mid-career professionals across eight tribes of intelligence (government, military, law enforcement, academia, business, media, non-governmental, and civil society including labor unions and religions) for 20 years in pursuit of this objective.<br/><br/>The Open Source Agency as formulated by all of these professionals, and as discussed with citizen groups in recent years, would fund:<br/><br/>1.  National Strategy Center with full public transparency and participation, such that the Executive and Congress and Governors would be required to create coherent strategies that address the ten high-level threats to humanity (Poverty, Infectious Disease, Environmental Degradation, Inter-State Conflict, Civil War, Genocide, Other Atrocities, Proliferation, Terrorism, and Transnational Crime) by coherently harmonizing the twelve core policy domains (Agriculture, Diplomacy, Economy, Education, Energy, Family, Health, Immigration, Justice, Security, Society, Water) and budgets, all transparently, all with public "common sense" participation, all with a total elimination of the earmarks that have led to a Congress Of, By, and For Wall Street.<br/><br/>2.  Multinational Decision Support Center, building on the pioneering done by the US Central Command with the Coalition Coordination Center, but bringing together mid-career intelligence analysts from 90 nations instead of logisticians, working only with public information, and providing decision support to all organizations world-wide that are working toward peace and prosperity in the public lnterest.<br/><br/>3.  Assistant Secretary General for Decision Support in the United Nations, a ten person office funded by the OSA with a US Ambassador as Deputy and double-hatted as the Director of the Office of Information Sharing Treaties and Agreements.  This is how we vacuum clean the raw data in the UN System, which is nearly incoherent, and give back to the UN sense-making while leveraging the information across the ten threats and twelve policies to harmonized the budgets of 90+ nations against common objectives.<br/><br/>4.  Global Range of Needs and Gifts Table, an online capability that can be connected to via RapidSMS such as being pioneered by UNICEF so brilliantly, such that anyone can enter a "peace target" and anyone (or any group of individuals, or organizations) can commit to meeting the need.  Like needs can be clustered, blocks of giving can be distributed, all transparent.<br/><br/>For more information about all of this, visit www.oss.net and www.earth-intelligence.net.  Two free books online relevant to evaluating this idea are COLLECIVE INTELLIGENCE: Creating a Prosperous World at Peace, at www.oss.net/CIB; and ELECTION 2008: Lipstick on the Pig, at www.oss.net/PIG, with the chapters on Substance of Governance and the Annotated Bibliography particularly recommended.<br/><br/>We pray that this Administration will understand that "bipartisan" is what happens when the two parties shutting out all other parties agree to get together and stick it to the US taxpayer.  An Open Source Agency will empower all of the people all of the time, and leave no corrupt deed hidden--"put enough eyeballs on it, you get honest government Of By and For We the People."<br/><br/>-----------ADDED COMMENT FOR PERSPECTIVE--------------<br/><br/>A colleague whose knowledge I deeply respect has pointed out that as written my proposal for an Open Source Agency alienates every single major constituency now in power.  As much as I regret that, that is the point.<br/><br/>HOWEVER, while demanding that we all take back the power and become the informed citizens in charge of the Republic and the government that is supposed to serve We the People, not treat us with contempt as is now the case, I do wish to point out a couple of things:<br/><br/>1)  Intellectual property, spectrum rights, and various other trappings of capitalism as we now have it need to be reviewed, respected, and renegotiated.  To take one example, the purchase of Congress by Disney and other publishers to extend copyright far beyond the vision of the founders is corrupt, plain and simple.  Similarly, patents filed to keep new technologies off the market (including green energy, permanent paints, long-lasting anything) need to be restrained in the public interest--use it or lose it.<br/><br/>2)  Predatory immoral capitalism has destroyed the Republic and most of the world.  I point to John Bogle's book on The Battle for the Soul of Capitalism, William Grieder's book on The Soul of Capitalism, and Howard Bloom's forthcoming book on The Genius of the Beast: A Radical Re-Vision of Capitalsim that I totally endorse.  MORAL capitalism seeks to do well by doing good and that kind of capitalism is what I support.<br/><br/>In a nutshell, I apologize to all those that will be offended by my scorched earth depiction of what an Open Source Agency needs to do in the public interest (the book length version at Amazon and free at www.oss.net/BOOKS is THE SMART NATION ACT: Public Intelligence in the Public Interest).  There is absolutely no question in my mind but that an Open Source Agency will allow We the People to manage every aspect of our Nation's transformation with accountability, integrity, and transparency.  The Golden Rule will apply.  It's time we take our country back.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2998" href="javascript:ajaxLink('DiscussionTopicComment_2998', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2998')">Comments (6)</a></span><span id="DiscussionTopicTag_2998"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=osint">osint</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=f/oss">f/oss</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open spectrum">open spectrum</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2998"></div>
+</div></td>
+</tr>
+<tr id="row_2989">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2989">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2989', '/akira/discussionVote.do?dbid=2242&topicID=2989&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 22</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_2989'))" style="text-decoration:none;" id="TopicVote_2989" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 22</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_2989'))">16</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2989', '/akira/discussionVote.do?dbid=2242&topicID=2989&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2989"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2989-4049"><span id="IdeaTitle_2989">only a week for this "participation", over Mem. Day holiday??&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4351-4049">ctb14</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Why is the White House only holding this forum open for a week, and over the Memorial Day holiday, to boot?  I wonder about motivation.  Is it really to really get participation, or to limit the ability of the website to gather steam, if they don't follow up on some things?  Underwhelming implementation, folks.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2989" href="javascript:ajaxLink('DiscussionTopicComment_2989', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2989')">Comments (3)</a></span><span id="DiscussionTopicTag_2989"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2989"></div>
+</div></td>
+</tr>
+<tr id="row_2971">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2971">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2971', '/akira/discussionVote.do?dbid=2242&topicID=2971&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 181</div><div>Votes Against : 33</div>', document.getElementById('TopicVote_2971'))" style="text-decoration:none;" id="TopicVote_2971" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 181</div><div>Votes Against : 33</div>', document.getElementById('TopicVote_2971'))">148</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2971', '/akira/discussionVote.do?dbid=2242&topicID=2971&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2971"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2971-4049"><span id="IdeaTitle_2971">Use Randomly Selected Citizen Deliberative Councils to tap the collective wisdom of We the People &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4168-4049">cii</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Ad hoc, randomly selected, well-informed citizen deliberative councils like Citizens Juries, Citizen Assemblies, and Consensus Conferences have been used hundreds of times around the world to provide policy guidance to public officials and the citizenry.  The U.S. lags far behind in their use.<br/><br/>These similar approaches all enable a microcosm of a country or community to generate informed public judgment about specific issues.  <br/><br/>They are not legislatures.  They are temporary councils, more like juries, but they deliberate on public issues rather than private guilt, and they are far more actively engaged in becoming informed than any jury can be.  They get professional help in hearing each other and creatively deliberating.  <br/><br/>As with juries, random selection (a) creates greater diversity than one finds in a legislature, (b) makes it much harder for corrupting influences to skew the results, and (c) levels the conversation with an assumption that all participants are peers.  Also like a jury, a citizen deliberative council disbands as soon as it completes its work.<br/><br/>These councils can be used for any number of purposes -- to recommend solutions, to evaluate proposed legislation or ballot initiatives, to evaluate the performance of public officials or interview politicians seeking election, and more.  They are useful wherever a dependable, informed, reflective non-partisan (or "transpartisan") "voice of the whole" is desired.  Their recommendations can be advisory, or a mandate, or they can be put to a vote by the electorate.<br/><br/>A related process, a citizens' Wisdom Council, could serve as an annual "state of the union address" by a group of randomly selected citizens officially convened for the purpose.  They would not be assigned an issue to deliberate, but would have a creative conversation for several days and come to consensus conclusions they would then share with the country.  Whatever they came up with would certainly stimulate much discussion!<br/><br/>The point I would like to raise in this proposal for discussion is that randomly selected councils of citizens can, under the right conditions, generate far wiser recommendations than vast dialogue and deliberation programs involving thousands or millions of people. Random selection -- sortition -- was the foundation of Athenian Democracy.  Well designed microcosms can be more demographically representative of a whole community than a self-selected group or an elected legislature -- although all three forms have their democratic roles.  Perhaps most important in these times of tight budgets, government resources -- organizational, informational and facilitation -- can be more focused, resulting in higher quality outcomes at less cost.<br/><br/>This approach can also complement broader community or national dialogues. The special outcomes of citizen deliberative councils can be fed into the more broadly participative dialogues and deliberations proposed here by others.  The outcomes of citizen deliberative councils add a totally new voice -- the voice of the whole -- to the usually partisan public discourse we think of as democracy.<br/><br/>For more information on this approach and links to the various related practices, see http://www.co-intelligence.org/CDCUsesAndPotency.html.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2971" href="javascript:ajaxLink('DiscussionTopicComment_2971', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2971')">Comments (21)</a></span><span id="DiscussionTopicTag_2971"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen deliberative councils">citizen deliberative councils</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen juries">citizen juries</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizens assemblies">citizens assemblies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=consensus conferences">consensus conferences</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=deliberation">deliberation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=deliberative democracy">deliberative democracy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=random selection">random selection</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=sortition">sortition</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=we the people">we the people</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public discourse">public discourse</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public judgment">public judgment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=wisdom councils">wisdom councils</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=juries">juries</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=microcosms">microcosms</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2971"></div>
+</div></td>
+</tr>
+<tr id="row_2967">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2967">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2967', '/akira/discussionVote.do?dbid=2242&topicID=2967&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 2</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_2967'))" style="text-decoration:none;" id="TopicVote_2967" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 2</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_2967'))">-8</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2967', '/akira/discussionVote.do?dbid=2242&topicID=2967&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2967"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2967-4049"><span id="IdeaTitle_2967">ADJUSTED GOV'T OFFICE ACCESS &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4283-4049">go2thesun</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Adjust work hours of state and local gov't offices, VA  to  10am -7pm Sun -Thurs for fed funding.<br/><br/>Save gas make gov't more accessible to working public. <br/><br/>(Christians can do early mass and work.)</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2967" href="javascript:ajaxLink('DiscussionTopicComment_2967', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2967')">Comments (1)</a></span><span id="DiscussionTopicTag_2967"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2967"></div>
+</div></td>
+</tr>
+<tr id="row_2964">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2964">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2964', '/akira/discussionVote.do?dbid=2242&topicID=2964&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 3</div><div>Votes Against : 20</div>', document.getElementById('TopicVote_2964'))" style="text-decoration:none;" id="TopicVote_2964" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 3</div><div>Votes Against : 20</div>', document.getElementById('TopicVote_2964'))">-17</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2964', '/akira/discussionVote.do?dbid=2242&topicID=2964&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2964"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2964-4049"><span id="IdeaTitle_2964">Stop all fed hwy funding - revise standards.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4283-4049">go2thesun</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">No more toll roads ( to the wealthy spots)<br/>Car pool lanes used mostly by families + business = no change in gas use.<br/><br/>Fund mass transport only.<br/>In CA fund a metro-rail up the entire  5 /405 carpool lanes -state long. as demonstration project for the country.<br/><br/>Employ many now -green - real, future oriented solution. <br/>Makes americans more able with the transport cost savings. <br/>Saves taxpayers  billions in future by creating real affordable access to work shopping etc.<br/><br/>Local politics shift fed $ to wrong places and short term thinking. <br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2964" href="javascript:ajaxLink('DiscussionTopicComment_2964', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2964')">Comments (0)</a></span><span id="DiscussionTopicTag_2964"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2964"></div>
+</div></td>
+</tr>
+<tr id="row_2963">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2963">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2963', '/akira/discussionVote.do?dbid=2242&topicID=2963&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 63</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_2963'))" style="text-decoration:none;" id="TopicVote_2963" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 63</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_2963'))">46</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2963', '/akira/discussionVote.do?dbid=2242&topicID=2963&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2963"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2963-4049"><span id="IdeaTitle_2963">Have a national vote on the legalization of marijuana!&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4141-4049">copleykj</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I think we need to let the people decide on this issue. Bring it to a national vote so that it's not a bunch of politicians deciding what is good for us based on irrational fears and personal gains.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2963" href="javascript:ajaxLink('DiscussionTopicComment_2963', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2963')">Comments (2)</a></span><span id="DiscussionTopicTag_2963"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=marijuana peace privacy prohibition">marijuana peace privacy prohibition</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2963"></div>
+</div></td>
+</tr>
+<tr id="row_2961">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2961">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2961', '/akira/discussionVote.do?dbid=2242&topicID=2961&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 59</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_2961'))" style="text-decoration:none;" id="TopicVote_2961" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 59</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_2961'))">54</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2961', '/akira/discussionVote.do?dbid=2242&topicID=2961&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2961"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2961-4049"><span id="IdeaTitle_2961">Research and share best practices for targeted outreach to involve more than the usual suspects in public decision making&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4148-4049">gregkeidan</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">As Marcella has pointed out in an earlier post, one of the biggest and most important challenges facing anyone seeking to create a meaningful public engagement process is how to include more than "the usual suspects" in public decision making.  Typically underrepresented groups of people in public decision making and planning include immigrants, renters, young families, teens, people with low or no income, disabled or differently-abled people, people with limited English language skills, etc.  It takes significant forethought and investment of time and resources to effectively involve these underrepresented demographics in a truly inclusive process that brings all voices affected by a decision or plan to the table.  <br/><br/>There is a need for research to identify and share the best practices in the outreach and implementation stages of public engagement.  Specifically, what are the best practices for reaching out to and including specific underrepresented groups of people?  I have conducted research on best practices for including immigrants and Latino Americans in public meetings, and I encourage others to fund, conduct, and share similar research projects in order that we as a nation might build our capacity for a more democratic and participatory system that represents everyone's voice.  <br/><br/>While I am very impressed and thankful that the Obama administration is making this effort to explore new opportunities for deliberative public engagement, I am concerned that there seems to be such a heavy emphasis on online interaction and input.  While this technology can certainly be a great way to get lots of people in communication, it tends to leave out many of the underrepresented groups of people I listed above.  We need a variety of different models and opportunities for public engagement to remove as many barriers as possible to broad participation for all of us affected by important government decisions.<br/><br/>You can read about strategies for including immigrants in civic engagement efforts in "A Local Official's Guide to Immigrant Civic Engagement," available for free download from the Institute for Local Government at www.ca-ilg.org/cgi<br/><br/>I also worked on a research project for the nonprofit AmericaSpeaks on best strategies for including Latino Americans in deliberative democracy.  The findings are published in the Winter 2008 issue of the National Civic Review, please email me at gregkeidan@gmail.com for a copy.   </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2961" href="javascript:ajaxLink('DiscussionTopicComment_2961', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2961')">Comments (4)</a></span><span id="DiscussionTopicTag_2961"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=inclusive deliberative democracy keidan">inclusive deliberative democracy keidan</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2961"></div>
+</div></td>
+</tr>
+<tr id="row_2960">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2960">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2960', '/akira/discussionVote.do?dbid=2242&topicID=2960&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 2</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_2960'))" style="text-decoration:none;" id="TopicVote_2960" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 2</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_2960'))">-1</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2960', '/akira/discussionVote.do?dbid=2242&topicID=2960&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2960"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2960-4049"><span id="IdeaTitle_2960">Develop a realistic standard for the Certification and Accreditation IT processes.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4286-4049">cjennings</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent"><br/>What policy impediments to innovation in government currently exist?<br/><br/>Security - The Certification and Accreditation processes within certain branches or agencies of government block or discourage innovative technologies from being implemented. In one case, an additional $50,000 plus an additional year to implement kept a Virtual Institute at one government institution from being launch 2 years ago. The professional development program for K-12 teachers at this institution is just now getting off of the ground, but had suffered greatly because of this process. The vision of this project is now a small piece of what it could have been two years ago and what it could be now – innovative. I support such processes as long as they focus on a realistic process that is not cumbersome, costly, or discouraging.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2960" href="javascript:ajaxLink('DiscussionTopicComment_2960', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2960')">Comments (0)</a></span><span id="DiscussionTopicTag_2960"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=certification and accreditation processes">certification and accreditation processes</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2960"></div>
+</div></td>
+</tr>
+<tr id="row_2937">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2937">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2937', '/akira/discussionVote.do?dbid=2242&topicID=2937&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 11</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2937'))" style="text-decoration:none;" id="TopicVote_2937" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 11</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2937'))">7</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2937', '/akira/discussionVote.do?dbid=2242&topicID=2937&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2937"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2937-4049"><span id="IdeaTitle_2937">Crowd-Source the Federal Grant Selection Process&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4200-4049">david.wenbert</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The legendary Sen. William Proxmire's (D-WI) "Golden Fleece Award" famously documented cases of questionable, exotic, and, sometimes, downright bizarre instances of federal funds - generally research grants - wasted on projects of dubious merit. Of course, now we have the Digital Environment.  Crowdsource the grant selection process among qualifying applicants, and let the taxpayers and other stakeholders (i.e. cancer patients for cancer studies, zoologists on wildlife, etc.) choose from among the competing submissions. This will bring a vital measure of "Common Sense" to the process, often elusive to pointy headed bureaucrats in Washington, weeding out the most 'obviously silly' in favor of projects more generally agreed to be worthwhile.  In most cases, the aggregate wisdom of the general public should be quite adequate to make the selection (without predjudice, favoritism or influence peddling), while in highly technical subject areas, the choice could be crowdsourced among a more focused audience, drawn from the appropriate professional technical societies relevant to the discipline.  For example, the depth of knowledge of the Institute of Electrical and Electronic Engineers, American Institute of Aeronautics and Astronautics, American Nurses Association, National Education Association - and many others in other fields - could be harnessed, enabling their members to review and vote onilne as to which federal research grant proposals best advance the state-of-the-art in their respective disciplines.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2937" href="javascript:ajaxLink('DiscussionTopicComment_2937', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2937')">Comments (2)</a></span><span id="DiscussionTopicTag_2937"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2937"></div>
+</div></td>
+</tr>
+<tr id="row_2926">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2926">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2926', '/akira/discussionVote.do?dbid=2242&topicID=2926&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 10</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2926'))" style="text-decoration:none;" id="TopicVote_2926" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 10</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2926'))">3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2926', '/akira/discussionVote.do?dbid=2242&topicID=2926&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2926"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2926-4049"><span id="IdeaTitle_2926">international dialogue&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4185-4049">mail</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">communicate the resultsof this research with all governments of the earth and ask them to start a similar research in their country.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2926" href="javascript:ajaxLink('DiscussionTopicComment_2926', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2926')">Comments (0)</a></span><span id="DiscussionTopicTag_2926"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2926"></div>
+</div></td>
+</tr>
+<tr id="row_2916">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2916">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2916', '/akira/discussionVote.do?dbid=2242&topicID=2916&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 20</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_2916'))" style="text-decoration:none;" id="TopicVote_2916" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 20</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_2916'))">17</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2916', '/akira/discussionVote.do?dbid=2242&topicID=2916&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2916"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2916-4049"><span id="IdeaTitle_2916">NEPA: turn the writing of the EIS into an "open-book" process.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4031-4049">Nicholas Dewar</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">NEPA (National Environmental Policy Act) was designed with an unusual attention to public participation (unusual for 1970 that is!). Web 2.0 provides more ways to distribute information and to involve affected communities in the NEPA process. This gives us an opportunity to increase public participation in the NEPA process and improve the outcomes. <br/>NEPA requires public review at 3 specific points in the preparation of the Environmental Impact Statement (EIS). Because of the length of time required for many EISs, these public review points (scoping, draft EIS and final EIS) can be separated by many months, and, in cases where the project is controversial, lots of pressure can build up in the intervening months that can make the public meetings confrontational and unproductive.<br/>Instead of restricting public input to these three events, what if the EIS was compiled as an open book? How would it work if, for example, the drafting process started with a published frame-work, published draft chapters as and when they were written, received and displayed comments as the drafting progressed and reflected the comments in the text, inserted research results as they become available, etc. etc? I've seen some of this already (e.g. research results published as soon as they are available, an additional public meeting inserted between the DEIS and the FEIS, public comments accepted after the close of the comment periods, etc.) and this seemed to add to the sense of involvement and certainly reduced the tension and drama of the public meetings. So why not write it in the open?<br/>I'm sure that this will present some substantial challenges. I've never had to write an EIS, and would like to hear from you if you have. What would the challenges be?<br/>What do others think?</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2916" href="javascript:ajaxLink('DiscussionTopicComment_2916', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2916')">Comments (5)</a></span><span id="DiscussionTopicTag_2916"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=nepa eis public involvement">nepa eis public involvement</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2916"></div>
+</div></td>
+</tr>
+<tr id="row_2915">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2915">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2915', '/akira/discussionVote.do?dbid=2242&topicID=2915&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 6</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_2915'))" style="text-decoration:none;" id="TopicVote_2915" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 6</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_2915'))">3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2915', '/akira/discussionVote.do?dbid=2242&topicID=2915&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2915"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2915-4049"><span id="IdeaTitle_2915">Address Semantic Web 3.0 Interoperability First!&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4133-4049">info</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Extensive analysis inside DoD, DHS and DoE over the past 8 years has validated the need for the use of Semantic Web 3.0 Technology applied to specific problems that currently cost taxpayers Billions.  Web2 has proven it does not cut it.  Web2 does not take advantage of existing GIG ontologies that ensure secure interoperability, nor does it interface with the DoD Metadata Registry.<br/><br/>DoD Intel agencies have prove the use of DARPA initiated Semantic Web3 technology in Intelligence applications for years.  To apply Web3 to management issues, such as Transparency, first requires the development of a special community of practice geared around interoperability.  Examples such as NCOIC.org can serve as an example that addresses the complexity involved and can possibly accommodate these issues into their existing working groups.<br/><br/>Until a path for Semantic Web3 interoperability has been established, Open Govt concepts described in this Dialogue will be stuck in the usual IT quagmire with its share of GAO Reports and IT Budget over runs.  Given that Mr. Kundra lacks SemWeb experience, its imperative that the CFO.gov council take the lead in developing a Semantic Interoperability subcommittee to coordinate with industry and focus industry's feedback in clear English. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2915" href="javascript:ajaxLink('DiscussionTopicComment_2915', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2915')">Comments (2)</a></span><span id="DiscussionTopicTag_2915"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=semantic web">semantic web</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=web3">web3</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=web 3.0">web 3.0</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=new paradigm">new paradigm</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dod">dod</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dhs">dhs</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=doe">doe</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=darpa">darpa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ncoic">ncoic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=semantic interoperability">semantic interoperability</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=kundra">kundra</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2915"></div>
+</div></td>
+</tr>
+<tr id="row_2912">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2912">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2912', '/akira/discussionVote.do?dbid=2242&topicID=2912&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 10</div><div>Votes Against : 22</div>', document.getElementById('TopicVote_2912'))" style="text-decoration:none;" id="TopicVote_2912" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 10</div><div>Votes Against : 22</div>', document.getElementById('TopicVote_2912'))">-12</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2912', '/akira/discussionVote.do?dbid=2242&topicID=2912&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2912"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2912-4049"><span id="IdeaTitle_2912">Ability to vote "No" against a candidate.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4129-4049">bobhilt1</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">A "No" vote against a candidate would offset a vote for the candidate.  The candidate with the most net votes would win.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2912" href="javascript:ajaxLink('DiscussionTopicComment_2912', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2912')">Comments (4)</a></span><span id="DiscussionTopicTag_2912"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=voting">voting</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2912"></div>
+</div></td>
+</tr>
+<tr id="row_2911">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2911">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2911', '/akira/discussionVote.do?dbid=2242&topicID=2911&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 4</div><div>Votes Against : 24</div>', document.getElementById('TopicVote_2911'))" style="text-decoration:none;" id="TopicVote_2911" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 4</div><div>Votes Against : 24</div>', document.getElementById('TopicVote_2911'))">-20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2911', '/akira/discussionVote.do?dbid=2242&topicID=2911&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2911"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2911-4049"><span id="IdeaTitle_2911">Direct Democracy with Revokable Proxy Voting By Subject&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4129-4049">bobhilt1</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Given different expertise levels and passions to engage in certain topics, some people are simply far more expert than others.  If one were able to vote on anything, or alternatively assign one's votes on particular subject areas to someone else they trust to vote wisely, then one could have confidence that their vote is most aligned with their intent.  Proxied votes could be re-proxied to others as desired, potentially creating a strong voting blocks of like-minded individuals.<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2911" href="javascript:ajaxLink('DiscussionTopicComment_2911', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2911')">Comments (0)</a></span><span id="DiscussionTopicTag_2911"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=voting">voting</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=proxy">proxy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=democracy">democracy</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2911"></div>
+</div></td>
+</tr>
+<tr id="row_2908">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2908">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2908', '/akira/discussionVote.do?dbid=2242&topicID=2908&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 10</div><div>Votes Against : 22</div>', document.getElementById('TopicVote_2908'))" style="text-decoration:none;" id="TopicVote_2908" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 10</div><div>Votes Against : 22</div>', document.getElementById('TopicVote_2908'))">-12</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2908', '/akira/discussionVote.do?dbid=2242&topicID=2908&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2908"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2908-4049"><span id="IdeaTitle_2908">Random Citizen Congress&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3974-4049">drwtwilner</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">One way to increase participation in the legislative process is to poll the citizenry prior to an actual vote in the House or Senate.  To make the poll relatively unbiased, begin by having a computer algorithm divide the Nation into districts of 30,000, as specified in the Constitution; then, before Congress votes on a bill, choose one person at random in each district, send them an email with a link to the bill's text, and record their yay-nay-abstain.  Make the results available to everyone: Congress, the media, the public.  Let's see if our Representatives agree with their constituents.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2908" href="javascript:ajaxLink('DiscussionTopicComment_2908', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2908')">Comments (1)</a></span><span id="DiscussionTopicTag_2908"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=plebiscite">plebiscite</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2908"></div>
+</div></td>
+</tr>
+<tr id="row_2903">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2903">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2903', '/akira/discussionVote.do?dbid=2242&topicID=2903&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 7</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2903'))" style="text-decoration:none;" id="TopicVote_2903" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 7</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2903'))">0</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2903', '/akira/discussionVote.do?dbid=2242&topicID=2903&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2903"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2903-4049"><span id="IdeaTitle_2903">Diverse Ldrs/Citizens Address Pivotal Issues & Co-Create Sustainable Solutions thru Orbits of Influence Global Social Innovation&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4101-4049">julieannturner</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">WHY IS THIS IDEA IMPORTANT?<br/><br/>ORBITS OF INFLUENCE Social Innovation Initiative was designed to provide a co-creative space and proven master process through which diverse leaders may come together in dialogue to address and co-create sustainable solutions for the pivotal issues and ideas of our lives, work and world. <br/><br/>Using this model for public/civic dialogue, we have successfully addressed - and generated co-created visions and collaborative action plans for - such potentially divisive issues as illegal immigration, race relations/ multicultural/ multi-faith differences, crime/violence, governance (multi-function, multi-level, multi-departmental), same-sex marriage, homelessness/poverty and other critical social justice issues ... in forums which bring together diverse civic leaders, concerned citizens and individuals/representatives of those affected. <br/><br/>EQUAL VOICE - Every voice is respected as valid - and valuable - in co-creating our lives, our work, our communities, and our world. The Orbits of Influence model is designed to be shared - and is totally replicable and scalable for multi-size and multi-age dialogues.<br/><br/>ORBITS OF INFLUENCE Social Innovation Initiative/Global Leadership Dialogue Key Points:<br/><br/>●  The ORBITS OF INFLUENCE social innovation initiative was designed to provide a space and a process through which diverse leaders may come together in dialogue to address the pivotal issues and ideas of our lives, work and world.<br/><br/>●  ORBITS OF INFLUENCE embraces, and constantly seeks to expand, its diversity in all aspects – such as ethnicity, gender, age, experience, interest and belief system, as well as drawing from both public and private, business and community, realms - as the most critical issues we face clearly affect us all.<br/><br/>●  ORBITS OF INFLUENCE is based on the belief that "Everyone has a valid - and valuable - voice in creating community," and the innovative ORBITS process encourages leaders of every level, title, position to assume their own leadership voice, in the belief that each one has something unique and valuable to share with the whole.<br/><br/>●  The ORBITS dialogue process is especially effective where individuals with diverse interests and perspectives need a way to address sensitive issues - often pivotal issues these groups had previously been unable to address successfully, as they had not had an<br/>appropriate forum or process to enable them to do so, prior to their use of the ORBITS OF INFLUENCE model.<br/><br/>●  The ORBITS OF INFLUENCE model creates safe and open space in which diverse individuals may address these sensitive issues, as the process enables participants to self-select topics of interest to them (and, since topics can be submitted in advance, no one need feel "on the spot" to propose a sensitive topic), while ensuring that everyone's viewpoint is heard and respected.<br/><br/>●  The ORBITS OF INFLUENCE model transforms potential conflict into creative potential, providing a unique system and set of materials to facilitate an open and creative communication process, to ensure that everyone has an equal voice and contribution in the exchange.<br/><br/>●  ORBITS OF INFLUENCE is attracting diverse leaders from across the community - CEOs, small business owners, students, volunteers, educators, nonprofit executives, entrepreneurs, public officials and civic leaders alike - and many who have not previously found a safe forum to express their views among other influencers are discovering tremendous power and greater potential for collective influence through the space and process ORBITS OF INFLUENCE creates.<br/><br/>●  Rather than have only one set topic or agenda for each gathering (as it the norm in virtually all leadership gatherings), diverse leaders are invited to choose among a range of intriguing topics proposed in advance (in our "UNIVERSE OF IDEAS") , or to propose for themselves, the issues and ideas of most importance to them.<br/><br/>●  ORBITS participants may either choose to discuss a topic already proposed in various spheres of influence - from education to economic development, from healthcare to philosophy, from arts to technology, from diversity, religion and spirituality, to science and discovery.<br/><br/>In this way, each ORBITS dialogue circle is formed in real time, based on the interests, energy and passion of the diverse leaders who attend.<br/><br/>●  The ORBITS dialogue process, based on principles of the latest organizational and systems theory, consciously and intentionally creates the space and process for diverse leaders to expand their interaction with other influencers, and therefore increase the opportunity for systems-level thinking, collaboration and creativity - across traditionally separate spheres of thought.<br/><br/>This type of systems-level thinking - that spans artificial boundaries of our thinking - is essential for leaders who wish to address the complex issues our communities and world now face (such as inner-city education, which requires thinking across all spheres of influence - education, economic development, health/human services, arts/culture, information/technology, and more). Silo thinking is not sufficient.<br/><br/>As Einstein said, "The problems we have created cannot be solved at the level we created them." We must rise to a higher level Of collaborative thinking to address these issues, and dialogue is the forgotten leadership competency that enables us to begin this systems thinking process.<br/><br/>ORBITS OF INFLUENCE Model & Licensing<br/><br/>●  ORBITS OF INFLUENCE provides a powerful, proven, patent-pending leadership dialogue system that was designed specifically to enable diverse leaders from across all spheres of influence to engage in meaningful dialogue organized around the current issues of interest in their community, work and world. The ORBITS OF INFLUENCE model has been tested with leaders across North Texas in gatherings of up to 150 at a time, has produced consistent, successful results, and has sustained an ongoing, dynamic dialogue series among a growing, diverse community of participants (the ORBITS OF INFLUENCE system can scale up to 200 leader-participants per session).<br/><br/>●  Cities, universities, corporations, schools and nonprofits are now able to license this leadership dialogue system, to create this leadership dialogue for their own constituencies, where the scope of the dialogue topics (our "UNIVERSE OF IDEAS") is customized to encompass, and enable the participants to address, the specific universe of issues most important and critical to that particular group. <br/><br/>Because the UNIVERSE OF IDEAs or scope of discussion for each ORBITS event is “scalable” – in other words, the scope of dialogue for each gathering maybe selected by the organization or group of participants holding the event – the ORBITS OF INFLUENCE model may be customized to enable diverse groups of any size to address critical issues within the safe and open space that dialogue creates.<br/><br/>●  ORBITS OF INFLUENCE provides a complete system to enable the convening organization to progressively guide those diverse leadership conversations from dialogue to visioning, and on to shared, collective action, as the participants assume leadership for positive change. It does this through a sophisticated, cohesive system of equipment, innovative components, facilitation kits, materials, training, on-site facilitation, and an online community with collaborative spaces and tools, accessible to all participants.<br/><br/>●  The ORBITS OF INFLUENCE dialogue model was designed to be shared - for other cities and organizations to be able to easily adopt and/or license the ORBITS process and its turn-key package of innovative dialogue tools, to create their own space for transformational dialogue wherever diverse groups need to better understand different perspectives, and then move collectively into shared action.<br/><br/>The ORBITS OF INFLUENCE MODEL (USPTO Patent Pending) JULIE ANN TURNER & COMPANY • www.orbitsofinfluence.com • For ORBITS OF INFLUENCE Information, contact 972.612.2131 • © 2009 JULIE ANN TURNER & COMPANY</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2903" href="javascript:ajaxLink('DiscussionTopicComment_2903', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2903')">Comments (0)</a></span><span id="DiscussionTopicTag_2903"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=co-creative">co-creative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborate">collaborate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborative">collaborative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=co-creative">co-creative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=self-organize">self-organize</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=systems">systems</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizens">citizens</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=civic">civic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=discourse">discourse</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=issues">issues</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=sustainable">sustainable</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=orbits of influence">orbits of influence</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=global">global</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=innovate">innovate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=innovation">innovation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=scalable">scalable</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=governance">governance</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2903"></div>
+</div></td>
+</tr>
+<tr id="row_2896">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2896">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2896', '/akira/discussionVote.do?dbid=2242&topicID=2896&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 16</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2896'))" style="text-decoration:none;" id="TopicVote_2896" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 16</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2896'))">9</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2896', '/akira/discussionVote.do?dbid=2242&topicID=2896&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2896"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2896-4049"><span id="IdeaTitle_2896">Reduce impact of Special Interest Groups&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4078-4049"></a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">We should keep all US Senators and US Congressmen home in their home states.  They can debate, converse, maintain contact with each other using many different forms of technology.  By have all these representatives at home makes it nearly impossible or cost prohibitive for lobbyists and special interest groups to meet with them on a frequent basis.  It also allows for more easy access to representatives as they will be close to their constituents of their home district.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2896" href="javascript:ajaxLink('DiscussionTopicComment_2896', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2896')">Comments (1)</a></span><span id="DiscussionTopicTag_2896"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2896"></div>
+</div></td>
+</tr>
+<tr id="row_2893">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2893">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2893', '/akira/discussionVote.do?dbid=2242&topicID=2893&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 26</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_2893'))" style="text-decoration:none;" id="TopicVote_2893" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 26</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_2893'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2893', '/akira/discussionVote.do?dbid=2242&topicID=2893&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2893"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2893-4049"><span id="IdeaTitle_2893">COMMUNITY WEAVING AMERICA&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">wecare</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">We propose Community Weaving America! The mission is unique. We are weaving a new world one Good Neighbor at a time to...(the people engaged in Community Weaving complete the mission statement!) The time has come for people to be connected! Community Weaving creates an infrustructure in the grass roots comprised of people willing to be Good Neighbors who will serve as a support system. This system is needed in order to maintain social order as government becomes more open and transparent. This infrasture will provide government with the means to track how the people are adapting to change so they can respond to the needs and empower the people. <br/><br/>Community Weaving America creates an infrastructure within the grassroots that will help people assimilate information, identify hot spots, and create an adaptable citizenry that can be mobilized to maintain social order in times of chaos and confusion. We must prepare for the times ahead and work together!  <br/><br/>Community Weaving started in 1993 and America is filled with Good Neighbors and trained Community Weavers. Government can help build the effort exponentially by adopting Community Weaving practices as a new mode of operation. www.communityweaving.org <br/><br/>Governing systems are not able to meet the rising demand for services using current management practices. Too many people with too few representatives to reflect the voice of the people. <br/><br/>Recommend creating open and transparent governance system by training government staff how to engage citizens as Good Neighbors using a free web-based tool GoodNeighbors.net that makes human and tangible resources easily and immediately accessible and tracks the shift in reliance on formal systems to informal systems which reduces strain on government. This will require creative action and policy changes whereby agencies integrate Community Weaving practices into service delivery systems. To begin users and consumers will be recruited as Good Neighbors and interwoven into a new social safety net at the grassroots. This will create a whole system functioning of formal and informal community systems. This approach reduces the number of people relying on government systems to get their needs met because they will have free and direct access to the resources of the Family Support Network. <br/><br/>Family Support Networks are self-organized by Good Neighbors across the country. These networks are comprised of Good Neighborsa and places where people from diverse socio-economic backgrounds can get connected and find  support from their neighbors. Anyone connected into the network as a Good Neighbor can access the resources of the network for free...no lines...no paperwork, no qualifying!  This approach creates a more adaptable and equitable system of support owned and operated by the people. Taxpayers pay for social services, yet not everyone has access to the information and services. It's time everyone has access to the resources they are paying for! <br/><br/>Community Weaving makes a plethora of resources available for a minimal investment of taxpayer dollars. In 2006, 175,000 volunteer hours were tracked, valued as $2.6 million in volunteerism, on a budget less than $25,000. The funds saved can be used to serve the higher needs populations! Since the network is virtual, there is not need to pay for large buildings and costs associated with running them! <br/><br/>Suggest all government staff register as Good Neighbors to weave everyone together before lay offs leave people with valuable skills and abilities stranded and disenfranchised. <br/><br/>Train trainers in social services offices how to revamp policies to engage clients as Good Neighbor volunteers. This will leverage a myriad of human and tangible resources and increase social capital. This will capture the skills of the consumers and grow community capacity. <br/><br/>By training Community Weavers within organizations across community sectors people from diverse socio-eonomic backgrounds will be interwoven to reweave the fabric of community. This will break down silos and reduce duplication. <br/><br/>By training staff and citizens within the community as Community Weavers bridges are built to cross consumers over and connect them to the resources they need to get back on their feet with dignity and respect. Many will slef-organize into Family Support Networks and create their own informal systems of support that will prevent people from requiring formal assistance. By engaging consumers as Good Neighbors the government can play in instrumental role in re-weaving America and increasing community capacity to reduce reliance on formal systems and create resilient communities. <br/><br/>This approach weaves people into the broader community system. By integrating the Community Forum into Community Weaving, the voice of the people creates an accountability system to public officials. <br/><br/>In other words, Community Weaving reweaves the fabric of community and creates a more informed and engaged citizenry that is an integral part of the process of democracy. <br/><br/>Community Weaving America is the change we need to save our children's future and create a more caring, just and civil society!  <br/><br/><br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2893" href="javascript:ajaxLink('DiscussionTopicComment_2893', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2893')">Comments (1)</a></span><span id="DiscussionTopicTag_2893"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community weaving">community weaving</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=democracy">democracy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=neighbors">neighbors</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=neighborhoods">neighborhoods</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=family support network">family support network</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=family">family</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=network">network</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=support">support</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community">community</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=capacity building">capacity building</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=asset-based community building">asset-based community building</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=resiliency">resiliency</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community">community</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=support">support</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=social services">social services</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=agencies">agencies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=transform">transform</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=change">change</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=citizen i">citizen i</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2893"></div>
+</div></td>
+</tr>
+<tr id="row_2887">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2887">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2887', '/akira/discussionVote.do?dbid=2242&topicID=2887&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 18</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_2887'))" style="text-decoration:none;" id="TopicVote_2887" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 18</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_2887'))">10</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2887', '/akira/discussionVote.do?dbid=2242&topicID=2887&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2887"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2887-4049"><span id="IdeaTitle_2887">Identify inhibitors to Obama's vision of bottom-up democracy&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4053-4049">ken</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">An international team of practitioners of the science of Structured Dialogic Design (SDD) met online off and on this past December and January. They worked together to discover the roadblocks facing President Barack Obama in realizing his vision of a bottom-up democracy for the people and with the people of the United States of America. (For a full and transparent view of their activities go to: http://obamavision.wikispaces.com. <br/><br/>There were 15 active participants and several observers. They were located in Canada, United States, Mexico, England, Germany, Cyprus, South Africa, Australia, and Japan. The team participated asynchronously (different places at different times employing the Webscope wiki) http://obamavision.wikispaces.com for the beginning stages of SDD. The group then met synchronously (different places at the same time using web conferencing) for the influence structuring sessions. <br/>The triggering question addressed was: <br/><br/>"In the context of Obama's vision for engaging stakeholders from all walks of life in a bottom-up democracy employing Internet technology, what factors do we anticipate, on the basis of our experiences with SDDP, will emerge as inhibitors to the actualization of his vision?"<br/><br/>The participants generated 59 inhibitors and clarified them with 60+ messages. They gathered the inhibitors into 13 clusters and then each participant cast 5 votes for the inhibitors they deemed most important. 15 inhibitors received 2 or more votes.<br/><br/>In round 5, the participants engaged in synchronous interaction to construct a relational map displaying the influences among factors of higher relative importance, as determined from the voting results of Round 4. This "root cause map" draws distinctions between factors that exert strong leverage, appearing at the roots of the relational tree (map), and factors that are less influential appearing at the branches of the tree. Drawing these distinctions is critical in the design of a solution to the roadblocks for actualizing bottom-up democracy. Without diagnosing the roots of the issue the stakeholders run the risk of allocating resources to the symptoms and not the causes of the problem. <br/><br/>The deepest drivers, the inhibitors with the greatest leverage, identified by the participants are:<br/><br/>Corporate control of the means of democracy emerged as the most influential inhibitor to the realization of the bottom-up democracy vision. In other words, in accordance with the majority vote of the team, the initiative that exerts the highest leverage in inhibiting the practice of bottom-up democracy is the corporate control of the means of democracy.<br/><br/>Insufficient attention given to facilitator capacitation emerged as the second most influential inhibitor. Dr. Tom Flanagan provides a narrative regarding this inhibitor. <br/><br/>“It is perhaps no great surprise that when a panel of systems scientists from across the globe pull their heads together around challenges that President Obama is likely to face that the most influential factor underlying the success of such an outcome was judged to be the commitment that government leaders and agencies actually hold in supporting a grassroots effort. The global design team phrased this as ‘insufficient attention given to facilitator capacitation.’ <br/><br/>“Enabling pathways for many, many voices with many, many ideas to flow in an orderly fashion toward the highest summits of national thinking is not going to be an easy process.” <br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2887" href="javascript:ajaxLink('DiscussionTopicComment_2887', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2887')">Comments (4)</a></span><span id="DiscussionTopicTag_2887"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=root causes">root causes</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=co-laboratories of democracy">co-laboratories of democracy</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2887"></div>
+</div></td>
+</tr>
+<tr id="row_2886">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2886">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2886', '/akira/discussionVote.do?dbid=2242&topicID=2886&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 29</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_2886'))" style="text-decoration:none;" id="TopicVote_2886" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 29</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_2886'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2886', '/akira/discussionVote.do?dbid=2242&topicID=2886&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2886"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2886-4049"><span id="IdeaTitle_2886">The Office of Illness Prevention&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4054-4049">roy</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The reason we have a health care crisis is because we have a health crisis.  People are getting sicker sooner.  The present generation is predicted to have a shorter average lifespan than the previous generation.  From my research, the odds are very high that within the next two decades, every American will be suffering from some disease or illness, much of which will be untreatable.  I know of no health care system that can possible keep up with that patient load, and the proposals on the table to fix the present system are just bandaids.  <br/><br/>We need an Office of Illness Prevention (OIP).  Prevention is clearly the answer to the health care crisis - you would only need access to health care in the case of an accident or injury.  In actuality, this country does not have a true health care system, it has a BigPharma-funded illness maintenance system instead, that treats symptoms with a litany of dangerous drugs and medical procedures.  Even the term "preventive medicine" is an oxymoron.  Why would anyone need medicine to stay healthy?  There really is no illness prevention industry because there is no money in it - it is an anathema to the medical community, which has the distinction of being the third leading cause of death in the US.  As a holistic health practitioner and author of several books on illness prevention,including "The Wellness Project,"  I strongly advocate the formation of a totally independent committee to operate the Illness Prevention Office.  It must be independent of: the food industry, the industry-controlled FDA/EPA/USDA triangle, Big Pharma, the medical community, the health insurance industry, the Surgeon General, the NIH, and even the herbal and supplement industries.  It would conduct gov't funded university research into areas that have been completely ignored, such as using nature as a paradigm for health (I have personally already funded such research with great results: www.montecitowellness.com ).  <br/><br/>Those consumers  that follow the guidelines from the OIP would receive substantial reductions for catastrophe coverage, which is all they would need, much to the horror of the medical insurance industry.  There would be an anti-revolving-door policy as follows: anyone who has worked at one of the blacklisted agencies or industries listed above would not be able to work on any OIP project for at least a year after quitting their other post.  All of the research from the OIP would be posted free of charge to the world community, and there would be open dialog and feedback between consumers and the OIP via the web.  New professional designations would be created for Illness Prevention Practitioners, most of whom would have science backgrounds, but not necessarily medical degrees.  Prevention should be part of a mandatory curriculum taught in every medical school that receives Federal funds (all of them).  Ultimately, Illness Prevention would become a worldwide initiative, changing the face of health, and health care, as we know it.<br/><br/>Roy Mankovitz, Director<br/>Montecito Wellness, LLC<br/>Illness Prevention Research<br/>www.montecitowellness.com<br/>roy@montecitowellness.com<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2886" href="javascript:ajaxLink('DiscussionTopicComment_2886', '/akira/discussion.do?mode=comment&dbid=2242&topicID=2886')">Comments (3)</a></span><span id="DiscussionTopicTag_2886"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2886"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 224<br/> Displaying 151 to 175<div class="pages"><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=5" class="nextprev" title="Go to Previous Page">&#171; Previous</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=0" title="Go to page 1">1</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=1" title="Go to page 2">2</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=2" title="Go to page 3">3</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=3" title="Go to page 4">4</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=4" title="Go to page 5">5</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=5" title="Go to page 6">6</a><span class="current">7</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=7" title="Go to page 8">8</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=8" title="Go to page 9">9</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=7" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

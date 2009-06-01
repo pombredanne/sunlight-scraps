@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Rulemaking</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2245">Top Rated (46)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2245">Recent (46)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_4331">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4331">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4331', '/akira/discussionVote.do?dbid=2245&topicID=4331&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 3</div><div>Votes Against : 18</div>', document.getElementById('TopicVote_4331'))" style="text-decoration:none;" id="TopicVote_4331" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 3</div><div>Votes Against : 18</div>', document.getElementById('TopicVote_4331'))">-15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4331', '/akira/discussionVote.do?dbid=2245&topicID=4331&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4331"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4331-4049"><span id="IdeaTitle_4331">Labor Law Reform&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9539-4049">gabegabrielsky</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Of course Congress should pass the Employee Free Choice Act, but beyond that the Obama Administration should get behind its original campaign promise and pressure Congress to pass the Act.  <br/><br/>But that is only the beginning for real labor law reform.  Next, all the provisions of the Taft Hartley Law still in force should be repealed.  <br/><br/>That would include legalizing common situs picketing and legalizing all of the following types of strikes:<br/><br/>wildcat strikes<br/>jurisdictional strikes<br/>solidarity strikes<br/>sympathy strikes and secondary boycotts<br/>political strikes<br/><br/>Also, the so-called "right to work" provisions allowing some states to outlaw union shops should be repealed.<br/><br/>The right of the federal government to enjoin strikes should be repealed.  <br/><br/>The right to unionize should be extended to supervisors, lower management personnel, agricultural workers, independent contractors such as cab drivers and all other workers not presently covered under the National Labor Relations Act.  <br/><br/>The minimum wage law should be changed to a living wage law, guaranteeing all workers the right to a livable income pegged to the cost of living.  <br/><br/>Free birth to grave medical care, including pharmaceuticals, eye care, psychiatric care, dental care and alternative treatments such as chiropractic should be made available to every resident of the United States.  Everybody in, nobody out.  <br/><br/>Free public education should be available to every resident of the United States from infancy through graduate school.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4331" href="javascript:ajaxLink('DiscussionTopicComment_4331', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4331')">Comments (0)</a></span><span id="DiscussionTopicTag_4331"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4331"></div>
+</div></td>
+</tr>
+<tr id="row_4247">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4247">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4247', '/akira/discussionVote.do?dbid=2245&topicID=4247&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 hours ago</div><div>Votes For : 33</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_4247'))" style="text-decoration:none;" id="TopicVote_4247" href="javascript:Bubble.showTip('<div>Idea Created : 7 hours ago</div><div>Votes For : 33</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_4247'))">29</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4247', '/akira/discussionVote.do?dbid=2245&topicID=4247&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4247"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4247-4049"><span id="IdeaTitle_4247">Campaign Contribution Reform&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10403-4049">we_spencer</a></b> <span class="IdeaScale_SecondaryText">7 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Prohibit Campaign Contributions from non-voting organizations by requiring that funds be contributed by Natural individuals who are registered voters, limiting the maximum contribution to $5000.00 per voter, including the candidate, for any one election and requiring the funds be derived from the contributer's own income.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4247" href="javascript:ajaxLink('DiscussionTopicComment_4247', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4247')">Comments (0)</a></span><span id="DiscussionTopicTag_4247"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4247"></div>
+</div></td>
+</tr>
+<tr id="row_4201">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4201">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4201', '/akira/discussionVote.do?dbid=2245&topicID=4201&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 17 hours ago</div><div>Votes For : 1</div><div>Votes Against : 21</div>', document.getElementById('TopicVote_4201'))" style="text-decoration:none;" id="TopicVote_4201" href="javascript:Bubble.showTip('<div>Idea Created : 17 hours ago</div><div>Votes For : 1</div><div>Votes Against : 21</div>', document.getElementById('TopicVote_4201'))">-20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4201', '/akira/discussionVote.do?dbid=2245&topicID=4201&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4201"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4201-4049"><span id="IdeaTitle_4201">Limit IT Choices&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10184-4049">phil_lertora</a></b> <span class="IdeaScale_SecondaryText">17 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Isn't it great we have so many programming languages to choose from?  Java, .NET, Perl, PHP, Cold Fusion, Ruby, Flash, Javascript, Silverlight and on and on.  I say No.  Humans have been building houses since mankind has existed and the chances of you getting a home delivered on time are very slim - there is too much unecessary choice and change.  Blueprints are not re-used.  Building software suffers from many of the same issues.  Too much choice.  Let the commercial world play with endless choice and the management of that and have the tax payers benefit from standards.  <br/><br/>As an example, the government could standardize on PHP and Postgresql.  All custom developed software could be done by way of a controlled, tested code library.  All advanced user interface could be developed usign Prototype's Javascript Library (or whatever).  Anyone that wanted to deviate would have to navigate through your typical government bureaucracy - and it should be very hard to deviate.  The same would go for all IT decisions.  Why do we ask that the taxpayers pay for extensive COTS analysis efforts for problems that are not really unique from agency to agency and have those efforts yield a slew of different outcomes.  EMC, IBM, Microsoft, OpenText, Oracle all make CMS systems that really don't interoperate.  Should we allow a branch of the Department of Treasury to run EMC and branch in the Department of State another?  Worse yet, two different branches in Treasury running two different CMS products on different OS's, etc., etc.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4201" href="javascript:ajaxLink('DiscussionTopicComment_4201', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4201')">Comments (0)</a></span><span id="DiscussionTopicTag_4201"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=choice">choice</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=it">it</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=software development">software development</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4201"></div>
+</div></td>
+</tr>
+<tr id="row_4198">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4198">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4198', '/akira/discussionVote.do?dbid=2245&topicID=4198&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 18 hours ago</div><div>Votes For : 63</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_4198'))" style="text-decoration:none;" id="TopicVote_4198" href="javascript:Bubble.showTip('<div>Idea Created : 18 hours ago</div><div>Votes For : 63</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_4198'))">58</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4198', '/akira/discussionVote.do?dbid=2245&topicID=4198&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4198"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4198-4049"><span id="IdeaTitle_4198">The Constitution&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10082-4049">danmcmains</a></b> <span class="IdeaScale_SecondaryText">18 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">For our lawmakers to start following the constitution. And stop making silly laws all for political correctness.  Political Correctness has hampered Common Sense.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4198" href="javascript:ajaxLink('DiscussionTopicComment_4198', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4198')">Comments (3)</a></span><span id="DiscussionTopicTag_4198"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=constitution">constitution</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4198"></div>
+</div></td>
+</tr>
+<tr id="row_4181">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4181">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4181', '/akira/discussionVote.do?dbid=2245&topicID=4181&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 21 hours ago</div><div>Votes For : 1</div><div>Votes Against : 47</div>', document.getElementById('TopicVote_4181'))" style="text-decoration:none;" id="TopicVote_4181" href="javascript:Bubble.showTip('<div>Idea Created : 21 hours ago</div><div>Votes For : 1</div><div>Votes Against : 47</div>', document.getElementById('TopicVote_4181'))">-46</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4181', '/akira/discussionVote.do?dbid=2245&topicID=4181&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4181"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4181-4049"><span id="IdeaTitle_4181">Immigration Proposal: Tag & Tax&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">21 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Immigration Proposal: Tag & Tax<br/><br/>What do Americans want in an immigration program?  What reason would any immigrant or illegal decide to join any such program?  What plan could provide a clear and distinct path to United States citizenship?  What idea would the American people accept that would allow such a clear and distinct path to United States citizenship?  I believe that the idea expressed in this composition will answer all of the above questions.  <br/><br/>My solution to the modern immigration problem is a two fold suggestion.  First, the Real ID act must be formatted on the federal level and mandated for states use.  The Real ID act was passed in 2006 as an attachment to a war spending bill and was to go into effect in 2007.  What this bill didn’t provide was a formatted ID card, instead it asked the states to go to great expense and design it themselves.  The states said no, and that’s where we stand today, another unenforced bill.  I am sure that every state had a valid reason to not implement the Real ID Act.<br/><br/>The Real ID act, in my opinion, is one of the best ideas that came from this administration.  The Real ID, as I understand it, was to be an identification card with a built in computer chip.  On this chip would contain all the information required to identify a citizen in a read only format with encryption protection and safeguards.  Along with this information, the Real ID would contain a writable section that could store all of the citizen’s health, dentil, optical, and prescription information.  With this information a citizen can go to any doctor or hospital and have instant access to all the patients’ data.  Every time a citizen visits a doctor, dentist, optician, or pharmacist, that professional can access your Real ID to read and update your files in the writeable section only.  The Real ID can save lives with quicker access to the patients information from anywhere in the Untied States.  Every citizen who has an eye exam will have all there optical information, at hand, to buy glasses from any vender or venue.  With all of your dentil history in your pocket, you are empowered to switch to any dentist at will, if you desire.  The definition for “all information required” to identify a citizen must be spelled out, before adaption.  <br/><br/>The surface of the Real ID will still look very similar to today’s ID card or driver’s license, just a little thicker.  The Real ID will be a proof of citizenship card, driver’s license, social security card, and passport or temporary citizen status immigration card.  It’s up to congress to determine the range of options the Real ID Act encompasses. Immigration Real ID was to be colored pink or other color than full citizen card.  Every time a citizen goes in to have their drivers licensee renewed, the Real ID card will be issued. A citizen will then have to provide name, address, proof of residence, a birth certificate, and social security card to obtain the Real ID.  The proof of residence could be an electric bill showing residence or other document showing address. A grace period for the use of the current ID card could take place within eighteen to twenty four months, until full implementation, and then the Real ID will be required.  The use of the Real ID would be required to gain access to any government building, airport, employment, or banking institution.  I took poetic license with the listing of required services, actual listing of would be determined by congress.  <br/><br/>Now that we have clear distinction of “we” and “they”, we can now discus how to allow immigrants, illegal or otherwise, to obtain citizenship in the United States.  Essentially, every immigrant will have to pay for the privilege to be a citizen of the United States.  This is a citizenship fee.  Here is how this could work. Immigrants could be taxed on a higher income tax rate than naturalized/born Americans.  An Immigrant can either opt to pay a one time fee to become a United States citizen or opt to be taxed on a higher income tax scale, that would pay up to the entry fee, over years.  Whether this fee is $5,000 to $50,000 for United States citizenship; this would have to be determined by congress.  For the sake of this discussion, let’s call it $10,000.  An immigrant would then choose at what degree of higher tax rate to obtain the entry  Whether this tax rate is 10% higher for 10 year period, to pay up to the entry fee, or opt for a higher tax rate of 10-30% and shorter pay period.  An immigrant could opt to pay additional income taxes to pay toward the completion of the fee. The pay scale of the immigrant will be the determining factor as to the duration of the higher tax rate.  A straight line higher tax rate and duration period could be discussed.<br/><br/>The entry fee could be configured in a regional chart of the world.  Let’s say a Mexican national has an entry fee of $10,000 and a French national has an entry free of $12,000.  Again this regional fee would have to be determined by congress.  States that wish to prohibit immigration could raise the required citizen tax to reflect their desire for immigration.  States my add residence requirements to determine immigrant status.<br/>Tax revenue from this fee could be earned for the states, federal government, or both.  Increasing revenues to either organization would pay off debts and ease the general public tax burden.<br/><br/>Arguments <br/><br/>What if a foreign national marries a United States citizen?  The entry fee could be halved or reduced; to be determined by congress. <br/> <br/>What if a corporation wishes to import a foreign national?  The corporation could pay the entry fee.  It would be up to congress if the corporation gains a corporate income tax credit or deduction.  The citizenship fee should not be a bar against valued foreign nationals in gaining citizenship.  The Real ID system would determine the validity of the foreign national.<br/><br/>How invasive could the “all information required” to identify the citizen, be?  All of the information of your current drivers’ license or ID card would be included on the Real ID, and the information required in the computer chip could contain the following:<br/>•	Fingerprints.  The thumb print scanner used at many banking institutions to identify or file print information has set the stage for this type of identification.  The fingerprint scan can be done by a simple scanner, without messy ink.<br/>•	Retina scan.  Most Drivers License stations run a quick check on your vision to qualify for license.  A simple addition of a retina scanner to this process would consume very little of the citizens time. Optional.<br/>•	Photograph<br/>•	Social Security Number.  Would replace existing and antiquated social security cards.<br/>•	Access dates.  Dates and description of access check.  Optional.<br/>•	Status.  If the citizen is out of country, this information would be noted in the Real ID.  Dates and countries of destination information.  If temporary or immigration status national has left the country, a caution period or suspension of status could be recorded at boarder stations.  Reentering the country could remove such caution status.<br/>•	Medical Alert Information.  Contact numbers for emergency use could be provided by the citizen; at the citizens’ discretion. Citizen provided medical alert information, such as heart condition, diabetes, and so forth. <br/>As you can now see, much of the information required to identify a citizen is not very invasive to our rights.  If the Real ID deters criminal activity in any shape and form, isn’t this worth the inconvenience of signing up to it once.  Renewing the Real ID would require much less information and time at the DMV or Drivers License stations.  Lost or stolen Real IDs would require the noted information for reissuance.  Citizen should be able to fill out most of the forms for the Real ID card from their home computer, and then enter the issuance station to have their information in queue for ease of processing.<br/><br/>What if a citizen doesn’t want to use the writeable section of the Real ID card?  It is completely up to the citizen as to the use of this aspect of the Real ID card.  If the citizen wishes to have only optical information stored on the card, it is completely at their discretion.  The Real ID could store your children’s medical information, if the parent desired.<br/><br/>What kind of crimes would the Real ID prevent?  1) Identity Theft. 2) Use of multiple identity cards. 3) ID forgery. <br/> <br/>Is the Real ID in use today?  American solders in Iraq are using the Real ID, now.  I have interviewed one returned veteran and he commented that the Real ID was very useful and regrets that it doesn’t work here in the United States.  Having all of his medical files with him allowed him a better sense of security, knowing that if injured he would receive better treatment.  Information is power, and having any doctor empowered with your information could save your life.<br/><br/>What other functions could the Real ID provide?  The Real ID could be used as currency or credit.  The backside of the card or the computer chip of the Real ID could contain the information of your favorite credit or debit card company and used as a credit card.  A wallet function on the chip could act as currency; do be determined by congress. <br/><br/>Would children of immigrants be subject to the new tax?  This is a sticky question.  If children of immigrants are born in the United States, then those children are automatically citizens of the United States.  If this isn’t so, then I am not aware of it.  Children who are not born in the Untied States will have to pay the entry fee at some point in their life or their parents can pay it.  The parents may pay a discounted rate for their non-American born children; this discount rate may be higher for two or more children.<br/><br/>How difficult is the United States citizenship fee to pay?  The current loss of value of the American dollar has made many foreign currencies stronger in relation.  Let’s say the citizenship fee for a European was $10,000, dollars.  This would only cost a European national, $6,569 euro’s, as of February 28, ’08.  Keep this in mind; the United States is generally considered the lowest taxed country in the world.  Currently, all immigrants are experiencing our low income tax rates.  If they pay an initial higher income tax rate to gain the citizenship fee, then that higher tax rate may still be lower than what that national experienced in their home country.  <br/><br/>What kind of data storage device would the chip contain?  The data storage device would be similar to a flash memory data storage device.  It would contain sections of read only memory for hard data such as Social Security number, digital photo, address, and security data for forgery protection.  A second writable data section would allow your doctor, optometrist, and other health professionals to access health data of the primary and optional data of children of the owner. In case of an emergency, all of the health data of the individual would be readily available to the physicians to better treat the patient.  Whether a RFD chip would also be included into the device, I cannot say.  Passports have a RFD chip embedded into them.  RFD chips can only be detected at short ranges, a few feet.  The only thing that a RFD chip does is signal a string of numbers which would be unique to the individual.<br/><br/>What kind of special events could be planned for this immigration proposal?  In times of American prosperity or during election periods; a general citizenship fee easement program could be temporarily/permanent passed that would reduce the fee or allow those immigrants with little remaining to pay to automatically gain citizenship.  This could be used to generate times of celebration.  Conversely, if congress or a state wishes to reduce or prohibit further immigration, then the citizenship fee could be raised in value.<br/><br/>How much revenue could this immigration program generate?  It is estimated that there is twelve million illegal immigrants residing in the United States, and this number grows every year.  If twelve million immigrants had to pay a citizenship fee of $10,000 this would generate $120 billion dollars in revenue for the states and federal government.  <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4181" href="javascript:ajaxLink('DiscussionTopicComment_4181', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4181')">Comments (0)</a></span><span id="DiscussionTopicTag_4181"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=immigration proposal">immigration proposal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4181"></div>
+</div></td>
+</tr>
+<tr id="row_4157">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4157">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4157', '/akira/discussionVote.do?dbid=2245&topicID=4157&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 24</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_4157'))" style="text-decoration:none;" id="TopicVote_4157" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 24</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_4157'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4157', '/akira/discussionVote.do?dbid=2245&topicID=4157&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4157"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4157-4049"><span id="IdeaTitle_4157">Federal Regulation and Testing of all Genertically Modified Organisms (GMO)&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">22.	Federal Regulation and Testing of all Genetically Modified Organisms (GMO) by the FDA:  All genetically modified seeds sold within the United States and abroad must be tested by the Food and Drug Administration and/or other governmental agencies prior to allowing human consumption.  Currently there is no governmental oversight of this vital product which has found its way into nearly every processed food product that we the American people consume on a daily basis. The current system is only administered and tested by the GMO producer.  There are currently no reporting requirements submitted by said producer that demonstrates GMO products are safe for human consumption.  The current system relies on the farmer to declare to the seller as to which type of seed genome that was used, and then the grain elevators sell to the highest bidder; this allows an excessive amount of GMO products directly into our food supply.  Cross pollination of GMO corn does infiltrate the genetic stock of unmodified food grains. <br/>•	<br/>The states legislatures should pass laws requiring counties to declare crops produced within those boundaries as either GMO or unmodified.  This would lesson the chance of mislabeling and cross pollination issues.    <br/>•	<br/>Furthermore, the use of terminator type seed programs must be banned.  This seed program would effectively sterilize or neutralize the germ plasma of the grain produced by farmers, hence reducing the genetic diversity of our grain crops.  Terminator technology will highjack the biological diversity of whatever type of crop it is spliced to.  Meaning, cross pollination to non-modified crops may neutralize part of the crop replanted from prior year’s seeds.  Farmers will start to see gaps in their fields where cross-pollination has sterilized those seeds.  Farmers will then be forced to purchase seeds every year, thus reducing the biodiversity to an ever shrinking gene pool owned by corporate businesses. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4157" href="javascript:ajaxLink('DiscussionTopicComment_4157', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4157')">Comments (2)</a></span><span id="DiscussionTopicTag_4157"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=test gmo safety">test gmo safety</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4157"></div>
+</div></td>
+</tr>
+<tr id="row_4155">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4155">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4155', '/akira/discussionVote.do?dbid=2245&topicID=4155&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 12</div><div>Votes Against : 16</div>', document.getElementById('TopicVote_4155'))" style="text-decoration:none;" id="TopicVote_4155" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 12</div><div>Votes Against : 16</div>', document.getElementById('TopicVote_4155'))">-4</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4155', '/akira/discussionVote.do?dbid=2245&topicID=4155&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4155"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4155-4049"><span id="IdeaTitle_4155">Tort Reform&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">20.	Tort Reform: Maximum cap on lawsuit damages/payouts, of $250,000.  I am not a lawyer, but I do know that a nationalized health insurance program cannot operate without tort reform.  Meaning should you sue for multiple damage items, the maximum payout for all items would be $250,000; each count would not be $250,000 each but $250,000 total.  Damages are items beyond recovery of basis. <br/>•	<br/>Without tort reform and with medical profits being capped, then lawsuits would jeopardize the ability for all health institutions to operate.  Without tort reform and with medical profits capped, then a rash of hospital and clinic closings would ensue; if a national health care system were in place.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4155" href="javascript:ajaxLink('DiscussionTopicComment_4155', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4155')">Comments (2)</a></span><span id="DiscussionTopicTag_4155"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=tort reform">tort reform</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4155"></div>
+</div></td>
+</tr>
+<tr id="row_4135">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4135">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4135', '/akira/discussionVote.do?dbid=2245&topicID=4135&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 28</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_4135'))" style="text-decoration:none;" id="TopicVote_4135" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 28</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_4135'))">26</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4135', '/akira/discussionVote.do?dbid=2245&topicID=4135&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4135"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4135-4049"><span id="IdeaTitle_4135">Ideas, not Monologues&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9206-4049">eric</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Make a text limit of 500 words for each Idea submitted, and another 250 words for the reason why.<br/><br/><br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4135" href="javascript:ajaxLink('DiscussionTopicComment_4135', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4135')">Comments (1)</a></span><span id="DiscussionTopicTag_4135"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4135"></div>
+</div></td>
+</tr>
+<tr id="row_4128">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4128">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4128', '/akira/discussionVote.do?dbid=2245&topicID=4128&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 7</div><div>Votes Against : 32</div>', document.getElementById('TopicVote_4128'))" style="text-decoration:none;" id="TopicVote_4128" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 7</div><div>Votes Against : 32</div>', document.getElementById('TopicVote_4128'))">-25</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4128', '/akira/discussionVote.do?dbid=2245&topicID=4128&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4128"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4128-4049"><span id="IdeaTitle_4128">Make congress and senate an even political party member of numbers&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8048-4049">chloe_658</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">It is not fair to the people of the United States to have one house have a majority in democrats or republicans to pass votes on issues that will have an impact on the entire country. Each branch should have the exact same number of members from each party.  If one party member wanted to vote on an issue from another party then that would be fine, but at least it would be fair and balanced.  As it is now there is nothing fair about this process of having no checks and balances like our founding fathers wanted. I have watched C-SPAN with actual debates and things that sound like it would save the American people a lot of money are just thrown out because the other party has majority and is more into the issue than the one party. Take global warming or universal health care.  The majority of the republican party does not consider this a valid issue to tax people on, while the democratic party doesn't care if people are taxed on it, but since they are in majority they always win, even with some democrats voting on the side of the republicans.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4128" href="javascript:ajaxLink('DiscussionTopicComment_4128', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4128')">Comments (3)</a></span><span id="DiscussionTopicTag_4128"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=congress">congress</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=government">government</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=senate">senate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=right of the people">right of the people</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=founding fathers">founding fathers</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=constitution">constitution</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4128"></div>
+</div></td>
+</tr>
+<tr id="row_4119">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4119">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4119', '/akira/discussionVote.do?dbid=2245&topicID=4119&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 17</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_4119'))" style="text-decoration:none;" id="TopicVote_4119" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 17</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_4119'))">9</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4119', '/akira/discussionVote.do?dbid=2245&topicID=4119&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4119"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4119-4049"><span id="IdeaTitle_4119">Hostile takeovers should be illegal&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9481-4049">stevensje</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Very good American companies have been victims of hostile take overs. <br/><br/>The corporate\company CEOs, lawyers, etc. profit big time but not the company, employees, or shareholders. In towns with only a few industries the community suffers too. Huge debt can ruin them all. <br/><br/>When you think about it the hostile CEOs and directors have violated the corporate charter to be good citizens to that community, etc. No charge is filed. No state outrage by govenment to make it answer for the hostile take over being good or bad. It is against the law and has a huge fine. <br/><br/> </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4119" href="javascript:ajaxLink('DiscussionTopicComment_4119', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4119')">Comments (0)</a></span><span id="DiscussionTopicTag_4119"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4119"></div>
+</div></td>
+</tr>
+<tr id="row_4011">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4011">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4011', '/akira/discussionVote.do?dbid=2245&topicID=4011&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 127</div><div>Votes Against : 26</div>', document.getElementById('TopicVote_4011'))" style="text-decoration:none;" id="TopicVote_4011" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 127</div><div>Votes Against : 26</div>', document.getElementById('TopicVote_4011'))">101</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4011', '/akira/discussionVote.do?dbid=2245&topicID=4011&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4011"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4011-4049"><span id="IdeaTitle_4011">Single-Payer Health Care should be "on the table"&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7994-4049">Brett Garrett</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">In the spirit of transparency and accountability, the national health care debate must include an open and honest analysis of Single-Payer Health Care. We need a thorough analysis of Single-Payer and how it would affect the quality and costs of our health care system, compared to other proposals being discussed. <br/><br/>In 2003, Barack Obama stated: "I happen to be a proponent of a Single-Payer universal health care plan. We may not get there immediately, because first we've got to take back the White House, and we've got to take back the Senate, and we've got to take back the House."<br/>Source: http://www.pbs.org/moyers/journal/05222009/watch2.html<br/><br/>But today, now that "we" have in fact taken over the White House, Senate, and House, Single-Payer advocates are being shut out of the discussion. Only two Single-Payer advocates were invited (reluctantly) to the recent White House forums on health care reform, and they were not allowed to speak. The recent Senate Finance Committee hearings chaired by Senator Baucus did not include *any* representative for Single-Payer, and advocates who attended this hearing were arrested.<br/><br/>Congressman John Conyers supports Single-Payer, and his bill HR 676 has 93 co-sponsors. Bernie Sanders has introduced his own Single-Payer bill, S 703, in the Senate. Polls have shown that many Americans, including doctors and nurses, support Single-Payer health care.<br/><br/>Nurse Donna Smith describes Single-Payer as public financing and private delivery, combined "together in one system that takes out the waste and the abuse that's really happening, which is where all the money goes into the health insurance. Up to 30 percent of the [current health care] costs have nothing to do with health care at all and everything to do with fueling the health insurance [companies]."<br/>Source: http://www.pbs.org/moyers/journal/05222009/watch.html</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4011" href="javascript:ajaxLink('DiscussionTopicComment_4011', '/akira/discussion.do?mode=comment&dbid=2245&topicID=4011')">Comments (16)</a></span><span id="DiscussionTopicTag_4011"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=health">health</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=insurance">insurance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=health care">health care</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=single payer">single payer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=single-payer">single-payer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=health insurance">health insurance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=economy">economy</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4011"></div>
+</div></td>
+</tr>
+<tr id="row_3974">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3974">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3974', '/akira/discussionVote.do?dbid=2245&topicID=3974&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 75</div><div>Votes Against : 16</div>', document.getElementById('TopicVote_3974'))" style="text-decoration:none;" id="TopicVote_3974" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 75</div><div>Votes Against : 16</div>', document.getElementById('TopicVote_3974'))">59</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3974', '/akira/discussionVote.do?dbid=2245&topicID=3974&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3974"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3974-4049"><span id="IdeaTitle_3974">Require all laws be read aloud in congress and posted on youtube&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8541-4049">packolman</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I think all laws should be read out loud in the debates and then voted on. Also I think a copy the summary should be mailed to every voter. With a ballot attached. If in 60 days of passage the public says no it is defeated. Because the current system does not represent the majority of the common people. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3974" href="javascript:ajaxLink('DiscussionTopicComment_3974', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3974')">Comments (4)</a></span><span id="DiscussionTopicTag_3974"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3974"></div>
+</div></td>
+</tr>
+<tr id="row_3906">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3906">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3906', '/akira/discussionVote.do?dbid=2245&topicID=3906&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 16</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3906'))" style="text-decoration:none;" id="TopicVote_3906" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 16</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3906'))">13</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3906', '/akira/discussionVote.do?dbid=2245&topicID=3906&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3906"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3906-4049"><span id="IdeaTitle_3906">Review and update the Negotiated Rulemaking Act of 1990&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4642-4049">Kirk Emerson</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Negotiated rulemaking, first adopted in 1990 and reauthorized in 1996, has been an important innovation in federal rulemaking and was designed specifically to increase transparency and broaden participation of those affected by regulations. It has its critics, but most would agree it's potential has not been realized.  I recommend a review of the implementation of "reg negs" and  update of the law to incorporate the tenets of open government and the use of new communication and engagement technologies. <br/><br/>"Negotiated rulemaking is a process in American administrative law in which an advisory committee made up of disparate interest groups negotiates the terms of an administrative rule and proposes it to an agency. The agency publishes the rule in the Federal Register as a proposed rule and uses the normal rulemaking procedure of soliciting and evaluating public comments in order to decide whether to modify or adopt it." (Wikipedia)<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3906" href="javascript:ajaxLink('DiscussionTopicComment_3906', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3906')">Comments (0)</a></span><span id="DiscussionTopicTag_3906"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=rulemaking">rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=legislative changes">legislative changes</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3906"></div>
+</div></td>
+</tr>
+<tr id="row_3747">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3747">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3747', '/akira/discussionVote.do?dbid=2245&topicID=3747&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 98</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_3747'))" style="text-decoration:none;" id="TopicVote_3747" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 98</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_3747'))">84</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3747', '/akira/discussionVote.do?dbid=2245&topicID=3747&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3747"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3747-4049"><span id="IdeaTitle_3747">Repeal the Patriot Act&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7546-4049">phaxel</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The citizenry cannot genuinely contribute to government discourse when they live in the shadow of fear and oppression. Laws and statutes such as the Patriot Act allow the government to move in silence and darkness, diminishing accountability and leaving the people in a state of fear. American federal government is not based on the premise of oppression, it is based off of liberation and personal accountability. Wiretaps, and access to library records are not priviliges I ceded to the Federal government, it was the Congress. Im here to stand up and say I want my privileges to privacy back.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3747" href="javascript:ajaxLink('DiscussionTopicComment_3747', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3747')">Comments (6)</a></span><span id="DiscussionTopicTag_3747"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3747"></div>
+</div></td>
+</tr>
+<tr id="row_3659">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3659">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3659', '/akira/discussionVote.do?dbid=2245&topicID=3659&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 14</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3659'))" style="text-decoration:none;" id="TopicVote_3659" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 14</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3659'))">10</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3659', '/akira/discussionVote.do?dbid=2245&topicID=3659&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3659"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3659-4049"><span id="IdeaTitle_3659">Rebuttal Comment Periods&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6826-4049">bbrandon</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Electronic rulemaking should encourage dialogue between the stakeholders. This often does not occur because of standard gamesmanship. Parties file their comments on the last day of the comment period and no interaction can occur.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3659" href="javascript:ajaxLink('DiscussionTopicComment_3659', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3659')">Comments (1)</a></span><span id="DiscussionTopicTag_3659"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3659"></div>
+</div></td>
+</tr>
+<tr id="row_3657">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3657">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3657', '/akira/discussionVote.do?dbid=2245&topicID=3657&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 7</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_3657'))" style="text-decoration:none;" id="TopicVote_3657" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 7</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_3657'))">-2</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3657', '/akira/discussionVote.do?dbid=2245&topicID=3657&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3657"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3657-4049"><span id="IdeaTitle_3657">Adopt Wiki Type Commenting Systems&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6826-4049">bbrandon</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">In the past at least several agencies have experimented with a wiki-like dialog systems during rulemaking. The medical privacy rulemaking during the end of the Clinton Administration and some rules at the NMFS used a system whereby comments could be posted under individual parts of the preamble and the proposed rule text.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3657" href="javascript:ajaxLink('DiscussionTopicComment_3657', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3657')">Comments (0)</a></span><span id="DiscussionTopicTag_3657"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3657"></div>
+</div></td>
+</tr>
+<tr id="row_3651">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3651">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3651', '/akira/discussionVote.do?dbid=2245&topicID=3651&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 35</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3651'))" style="text-decoration:none;" id="TopicVote_3651" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 35</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3651'))">33</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3651', '/akira/discussionVote.do?dbid=2245&topicID=3651&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3651"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3651-4049"><span id="IdeaTitle_3651">Because some ideas were posted first the voting may not be entirely fair&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4612-4049">azaleahs</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">If your idea is submitted 5 minutes before the brainstorming process ends it may not receive enough votes to be considered even if its a fantastic idea.<br/><br/>How about brainstorming first, then a voting period with consideration of the ideas, then discussion of the top suggestions followed by implementation.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3651" href="javascript:ajaxLink('DiscussionTopicComment_3651', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3651')">Comments (7)</a></span><span id="DiscussionTopicTag_3651"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3651"></div>
+</div></td>
+</tr>
+<tr id="row_3649">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3649">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3649', '/akira/discussionVote.do?dbid=2245&topicID=3649&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 45</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3649'))" style="text-decoration:none;" id="TopicVote_3649" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 45</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3649'))">38</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3649', '/akira/discussionVote.do?dbid=2245&topicID=3649&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3649"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3649-4049"><span id="IdeaTitle_3649">Submit each idea in less than 500 words&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4612-4049">azaleahs</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Requires people to get to the point.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3649" href="javascript:ajaxLink('DiscussionTopicComment_3649', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3649')">Comments (7)</a></span><span id="DiscussionTopicTag_3649"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3649"></div>
+</div></td>
+</tr>
+<tr id="row_3630">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3630">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3630', '/akira/discussionVote.do?dbid=2245&topicID=3630&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 12</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3630'))" style="text-decoration:none;" id="TopicVote_3630" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 12</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3630'))">10</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3630', '/akira/discussionVote.do?dbid=2245&topicID=3630&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3630"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3630-4049"><span id="IdeaTitle_3630">Clean up online rulemaking data&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4062-4049">rgunn</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Help regulations.gov to realize its potential! Standards are needed for the data that agencies send to regulations.gov: the public is not well-served by the mishmash of definitions that is a legacy of administration time pressures and cooperation obtained by allowing too many agency-specific definitions. For example:<br/><br/>- the “Abstract” item on regulations.gov “document details” pages (“Summary” might be a better word) is often not filled in, or contains something other than a summary. There should be a dependable place - that is, the same place for all agencies - where the public can find a short description of what aq document is about.  <br/>- even with full-text search, the standards for the information agencies supply to describe their documents (metadata standards) should be reviewed for regulations.gov as a whole, not just for individual agencies.  <br/>- agencies should have help and incentives to increase the accuracy of their data. A spelling error can frustrate a search. Straightforward changes like using standard drop-down menus for data entry would help.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3630" href="javascript:ajaxLink('DiscussionTopicComment_3630', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3630')">Comments (0)</a></span><span id="DiscussionTopicTag_3630"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=making data more accessible">making data more accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3630"></div>
+</div></td>
+</tr>
+<tr id="row_3627">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3627">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3627', '/akira/discussionVote.do?dbid=2245&topicID=3627&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 11</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3627'))" style="text-decoration:none;" id="TopicVote_3627" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 11</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3627'))">8</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3627', '/akira/discussionVote.do?dbid=2245&topicID=3627&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3627"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3627-4049"><span id="IdeaTitle_3627">Require Web Sites That Provide Greater Explanatory Materials&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6826-4049">bbrandon</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Federal agencies must pay the Federal Register by the page for the length of their rulemaking preambles & rules. Thus a Register NPRM is far from a complete recital of the materials supporting a rulemaking proposal. As a consequence agencies should use the Web to supplement the Register.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3627" href="javascript:ajaxLink('DiscussionTopicComment_3627', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3627')">Comments (0)</a></span><span id="DiscussionTopicTag_3627"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3627"></div>
+</div></td>
+</tr>
+<tr id="row_3598">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3598">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3598', '/akira/discussionVote.do?dbid=2245&topicID=3598&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 18</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3598'))" style="text-decoration:none;" id="TopicVote_3598" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 18</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3598'))">15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3598', '/akira/discussionVote.do?dbid=2245&topicID=3598&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3598"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3598-4049"><span id="IdeaTitle_3598">Support public participation with rulemaking basics&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4062-4049">rgunn</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">OMB (the Office of Management and Budget) should provide guidelines for agencies and regulations.gov on basic information for the public. Each agency should provide a home page link to rulemaking information (preferably using a standard word or phrase: test whether “rulemaking,” “regulations” or another word works best for the public). At a minimum this page should include: <br/>- brief explanation of rulemaking, with links to details - perhaps a tutorial on regulations.gov - and agency-specific information<br/>- proposed rules and other actions the agency has open for comments, linked to background information<br/>- rulemaking the agency expects in the coming months (Unified Agenda information)<br/>- tips on making effective comments <br/>- sign up for notification regarding specific topics and for notification of rulemaking outcomes (publication of a final rule)<br/>- link to regulations.gov, for agencies, and to agencies for regulations.gov<br/>- links to other agencies or sub agencies that deal with related topics<br/><br/>OMB Guidance Practices Bulletin 2007 gave instructions to agencies regarding guidance documents (used to spell out policies or interpretations). Please review it: whether the substance is useful or not, the topics addressed, including what agencies must do with regard to transparency and public participation, specific attention to electronic participation, and for example the stated advantages to agencies of early involvement, would be useful for rulemaking as well! </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3598" href="javascript:ajaxLink('DiscussionTopicComment_3598', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3598')">Comments (0)</a></span><span id="DiscussionTopicTag_3598"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=capacity building">capacity building</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3598"></div>
+</div></td>
+</tr>
+<tr id="row_3547">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3547">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3547', '/akira/discussionVote.do?dbid=2245&topicID=3547&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 37</div><div>Votes Against : 0</div>', document.getElementById('TopicVote_3547'))" style="text-decoration:none;" id="TopicVote_3547" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 37</div><div>Votes Against : 0</div>', document.getElementById('TopicVote_3547'))">37</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3547', '/akira/discussionVote.do?dbid=2245&topicID=3547&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3547"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3547-4049"><span id="IdeaTitle_3547">In rulemaking & other comment periods, involve the public early; encourage interaction&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4062-4049">rgunn</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Public comments in the final stages of rulemaking (the process agencies use to translate legislation into action) are not the most participatory technique, but - online - they are far more transparent than in the past, and generally mandatory! However, by the time a proposed rule or other action is open for comments, important decisions may already have been made. Involving the public earlier and increasing interaction will move toward a more participatory process, can build understanding, and may produce better decisions. Examples:<br/>- Encourage agencies to use Advance Notices of Proposed Rulemaking (ANPRMs) to request comments at an earlier, more flexible stage and to encourage interactions among those with different views. Direct agencies to post ANPRM dockets (comments, background and so forth) on regulations.gov, and to use the same identifying number for the later Notice of Proposed Rulemaking (NPRM).<br/>- Assure that all agencies know that a second round of comments is possible and use this when appropriate. This allows commenters to say what they think of other’s first-round comments, even if the comments came in late.<br/>- Experiment with real discussions (not voting) alongside comment periods, wikis, and other ways to increase understanding and interaction. <br/>- Build capacity by providing specific guidelines and training for agency personnel, plus background information for the public.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3547" href="javascript:ajaxLink('DiscussionTopicComment_3547', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3547')">Comments (1)</a></span><span id="DiscussionTopicTag_3547"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=rulemaking">rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=making government operations more open. capacity building">making government operations more open. capacity building</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=training and development">training and development</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3547"></div>
+</div></td>
+</tr>
+<tr id="row_3494">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3494">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3494', '/akira/discussionVote.do?dbid=2245&topicID=3494&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 31</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3494'))" style="text-decoration:none;" id="TopicVote_3494" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 31</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3494'))">26</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3494', '/akira/discussionVote.do?dbid=2245&topicID=3494&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3494"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3494-4049"><span id="IdeaTitle_3494">Under Budget Reward&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Create incentive and reward for being under budget while still providing quality outcome. The current budget system often encourages people to waste money at the end to reach projected figures. When cuts come it is often as a percent of previous budgets, so the higher more wasteful budgets feel less pain than the efficient smaller ones. Change the system to reward being under budget. Allow a percent of the money saved to immediately reward those who saved it and the remainder to act as a credit buffer against future cuts. Shift the focus to reward being under budget.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3494" href="javascript:ajaxLink('DiscussionTopicComment_3494', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3494')">Comments (1)</a></span><span id="DiscussionTopicTag_3494"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=under cost">under cost</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=under budget">under budget</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reward">reward</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=incentive">incentive</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3494"></div>
+</div></td>
+</tr>
+<tr id="row_3423">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3423">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3423', '/akira/discussionVote.do?dbid=2245&topicID=3423&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 27</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_3423'))" style="text-decoration:none;" id="TopicVote_3423" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 27</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_3423'))">15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3423', '/akira/discussionVote.do?dbid=2245&topicID=3423&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3423"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3423-4049"><span id="IdeaTitle_3423">EMPOWER WOMEN&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6074-4049">noemachaplin</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">EMPOWER WOMEN to create a healthy environment for Young Generation.<br/>Violence against Women cause Billion Dollars expences.<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3423" href="javascript:ajaxLink('DiscussionTopicComment_3423', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3423')">Comments (0)</a></span><span id="DiscussionTopicTag_3423"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3423"></div>
+</div></td>
+</tr>
+<tr id="row_3378">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3378">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3378', '/akira/discussionVote.do?dbid=2245&topicID=3378&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 11</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3378'))" style="text-decoration:none;" id="TopicVote_3378" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 11</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3378'))">4</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3378', '/akira/discussionVote.do?dbid=2245&topicID=3378&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3378"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3378-4049"><span id="IdeaTitle_3378">Beware! "Open Government" should not create yet another layer of bureaucracy...&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4388-4049">klpetrak</a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Some might argue that "Open Government" is a contradiction in terms - you can be open or you can have government (Antony Jay and Jonathan Lynn, "Yes, Minister"). But let us not be pessimitic and accept that collective contributions from citizens will be considered by our Government in making important final decisions. Clearly, the time has not yet come for this initiative to produce anything more than possibly a useful advice. This being the case, let us keep all this simple and keep Parkinson's economic laws in our mind. Here is a reminder. <br/>Parkinson's Economic Laws: <br/>1. Work expands to fill the time available.<br/>2. Expenses rise to meet income.<br/>3. The more complex, the sooner dead. <br/><br/>Suggested rule: there should be no new personnel hired into the government administration in connection with the Open Government initiative. All the staff should be recruited from the existing, over-staffed government departments.<br/>  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3378" href="javascript:ajaxLink('DiscussionTopicComment_3378', '/akira/discussion.do?mode=comment&dbid=2245&topicID=3378')">Comments (1)</a></span><span id="DiscussionTopicTag_3378"><a href="/akira/ideafactory.do?discussionID=2245">Rulemaking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bureaucracy">bureaucracy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=making decision">making decision</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=responsibility">responsibility</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3378"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 46<br/> Displaying 1 to 25<div class="pages"><span class="current">1</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2245&pageOffset=1" title="Go to page 2">2</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2245&pageOffset=1" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

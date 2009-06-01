@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Legal & Policy Challenges</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2294">Top Rated (199)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2294">Recent (199)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_3196">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3196">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3196', '/akira/discussionVote.do?dbid=2294&topicID=3196&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 67</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3196'))" style="text-decoration:none;" id="TopicVote_3196" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 67</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3196'))">63</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3196', '/akira/discussionVote.do?dbid=2294&topicID=3196&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3196"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3196-4049"><span id="IdeaTitle_3196">Protecting Privacy&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4739-4049">rskoglund</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">To ensure civic participation, privacy should be a top concern.  Consumers expect the privacy and security of their data.  And the government should not violate federal privacy, data security and wiretap laws well as corresponding rules applicable to government agencies.  Numerous federal and state laws require government to maintain both the confidentiality and the protection of certain data, so IT solutions must be "government ready" by these criteria.  Ensuring the privacy and security of data will increase consumer confidence and trust in the way data is handled by government and non-government actors alike.  We cannot gamble public trust on IT solutions that have an open door to bad actors or that have unnecessary risks that would lead to even lower levels of civic engagement.<br/> </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3196" href="javascript:ajaxLink('DiscussionTopicComment_3196', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3196')">Comments (0)</a></span><span id="DiscussionTopicTag_3196"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=privacy">privacy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=security">security</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3196"></div>
+</div></td>
+</tr>
+<tr id="row_3194">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3194">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3194', '/akira/discussionVote.do?dbid=2294&topicID=3194&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 74</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3194'))" style="text-decoration:none;" id="TopicVote_3194" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 74</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3194'))">69</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3194', '/akira/discussionVote.do?dbid=2294&topicID=3194&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3194"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3194-4049"><span id="IdeaTitle_3194">The administration should curb new exemptions from FOIA&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3967-4049">Sunshine in Government Initiative </a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">According to government agencies themselves, every year federal departments and agencies cite roughly 140 statutes to deny thousands of requests for information; our coalition (the Sunshine in Government Initiative) estimates that more than 240 are on the books.  The agencies themselves are often the originators of these new legislative loopholes.<br/><br/>Recommendation:  Any new statutory exemptions proposed or supported by the Obama administration should be limited in scope and life and include oversight.  The Obama administration should prohibit agencies from proposing new Exemption 3 statutes unless agencies determine that:<br/><br/>1.  Existing statutory protections and exemptions within FOIA are not adequate<br/>2.  The interest in withholding is specific and articulated<br/>3.  The interest in withholding clearly is greater than the public interest in disclosure<br/>4.  The exemption is publicly disclosed at the time it is proposed<br/><br/>Further, any new proposals that meet the above criteria should be crafted narrowly to limit harm to the free flow of information.  Specifically, each new proposal under Exemption 3 should:<br/><br/>1.  Clearly state its purpose and explain why the existing exemptions are inadequate<br/>2.  Be narrowly drafted so as not to exceed the specific non-disclosure needs compelling the exemption<br/>3.  Provide for public reporting that measures the efficacy of the exemption in achieving its stated goals<br/>4.  Offers alternative and equivalent means of public oversight<br/>5.  Have a built-in sunset provision<br/>6.  Clearly state in the text of the statute that the proposal is not intended to inhibit whistle blowing<br/>7.  Ensure any penalties for improper decisions in carrying out the statute are themselves balanced and without favor to withholding or disclosure<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3194" href="javascript:ajaxLink('DiscussionTopicComment_3194', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3194')">Comments (2)</a></span><span id="DiscussionTopicTag_3194"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=foia">foia</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=exemptions">exemptions</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=sunshine in government initiative">sunshine in government initiative</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3194"></div>
+</div></td>
+</tr>
+<tr id="row_3191">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3191">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3191', '/akira/discussionVote.do?dbid=2294&topicID=3191&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 509</div><div>Votes Against : 61</div>', document.getElementById('TopicVote_3191'))" style="text-decoration:none;" id="TopicVote_3191" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 509</div><div>Votes Against : 61</div>', document.getElementById('TopicVote_3191'))">448</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3191', '/akira/discussionVote.do?dbid=2294&topicID=3191&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3191"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3191-4049"><span id="IdeaTitle_3191">Remove Marijuana from Schedule I of the Controlled Substances Act&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4963-4049">DarthNole </a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Dear Mr. President,<br/><br/>Please direct the DEA to remove marijuana from Schedule I and correctly classify it under the definitions that the Controlled Substances Act (CSA) provides.  You said in your press conference (after you released the ban on federal funds for stem-cell research) that you believed that science should dictate policy not politics and I respectfully request that you follow through with this pledge even on something so politically toxic as marijuana.<br/><br/>Schedule I of the CSA specifically states that in order to be placed in this schedule I that the substance in question must have "no accepted medical use for treatment in the United States."  Well... as of 1996 there are states that have accepted the medicinal uses of marijuana for treatment.  Currently there are 13 states that have ACCEPTED the medical use for treatment therefore the current scheduling goes against the definition that was put into place.<br/><br/>In 1970, when the CSA was established there were NO accepted uses for treatment in the US, so the initial scheduling was correct.  In 1988, when Administrative Law Judge Francis Young ruled that the DEA was required to reclassify marijuana there again were no states that had accepted the use for treatment and therefore the DEA had due cause to ignore the recommendation.  But after California ACCEPTED the medical use for treatment in 1996 the Scheduel I classification became incorrect soley based on the definition.<br/><br/>Why does the Federal Government currently provide Medical Marijuana to 4 citizens of the United States for treatment of their illnesses while upholding the classification under "no medical use for treatment"?  Isn't this a little hypocritical???</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3191" href="javascript:ajaxLink('DiscussionTopicComment_3191', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3191')">Comments (37)</a></span><span id="DiscussionTopicTag_3191"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3191"></div>
+</div></td>
+</tr>
+<tr id="row_3180">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3180">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3180', '/akira/discussionVote.do?dbid=2294&topicID=3180&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 87</div><div>Votes Against : 31</div>', document.getElementById('TopicVote_3180'))" style="text-decoration:none;" id="TopicVote_3180" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 87</div><div>Votes Against : 31</div>', document.getElementById('TopicVote_3180'))">56</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3180', '/akira/discussionVote.do?dbid=2294&topicID=3180&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3180"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3180-4049"><span id="IdeaTitle_3180">Creating term limits for Congress and the Senate &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4960-4049">jsmiththatguy</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Clean and simple. This would drastically reduce the chances of a "career politician" setting root in a lucrative job, and passing bills that only would convince voters to vote for this politician next election. I feel that many wasteful spending bills are passed by these somewhat greedy individuals. It would attempt to reinstate that principle held by many of the America's founders that those that are in government shoul serve not be served </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3180" href="javascript:ajaxLink('DiscussionTopicComment_3180', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3180')">Comments (11)</a></span><span id="DiscussionTopicTag_3180"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3180"></div>
+</div></td>
+</tr>
+<tr id="row_3162">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3162">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3162', '/akira/discussionVote.do?dbid=2294&topicID=3162&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 34</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3162'))" style="text-decoration:none;" id="TopicVote_3162" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 34</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3162'))">31</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3162', '/akira/discussionVote.do?dbid=2294&topicID=3162&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3162"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3162-4049"><span id="IdeaTitle_3162">Authentication of Web Documents&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4877-4049">larrym</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Government must quickly develop a method by which all documents from the federal government, especially those born digital, which are on the web are authenticated. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3162" href="javascript:ajaxLink('DiscussionTopicComment_3162', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3162')">Comments (0)</a></span><span id="DiscussionTopicTag_3162"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3162"></div>
+</div></td>
+</tr>
+<tr id="row_3161">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3161">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3161', '/akira/discussionVote.do?dbid=2294&topicID=3161&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 885</div><div>Votes Against : 144</div>', document.getElementById('TopicVote_3161'))" style="text-decoration:none;" id="TopicVote_3161" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 885</div><div>Votes Against : 144</div>', document.getElementById('TopicVote_3161'))">741</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3161', '/akira/discussionVote.do?dbid=2294&topicID=3161&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3161"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3161-4049"><span id="IdeaTitle_3161">End Imperial Presidency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4845-4049">david</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Leave the White House less imperial than you found it.  Appoint an independent prosecutor to prosecute Bush, Cheney, and their top officials in order to deter in the future the crimes of aggressive war, misleading congress, defrauding congress, misspending funds, war crimes, murder, warrantless spying, torture, domestic propaganda, violations of the Hatch Act and the Voting Rights Act, obstruction of justice, misprision of felony, retaliating against whistleblowers, etc.  Restore to Congress the power to legislate, the power to begin and end wars, the power to raise and spend money, the power to approve or reject treaties and appointments, and the power to oversee the functioning of the federal government including through the power of impeachment and the power of inherent contempt.  That means no more signing statements rewriting laws, and instead support for legislation that would criminalize such behavior.  And it means similar action on each of the other offenses.  <br/><br/>We, the people, must:<br/><br/>Demand that Congress ban the use of funds for any activities created in violation of the law by presidential signing statements.<br/><br/>Amend the Constitution to clearly ban the use of presidential pardons to pardon crimes authorized by the president.<br/><br/>Amend the War Powers Act and the Constition to include the requirement that Congressional authorizations of war include time limits of no more than 12 months, after which Congress must vote again to extend the war or end it, to disallow the unconstitutional initiation of wars without Congressional approval, and to make the law enforceable.<br/><br/>Make war profiteering by any war maker a major felony. This would apply to any employee of the federal government or anyone who had within the past decade been an employee of the federal government.<br/><br/>Legislate a requirement that, in any war, the military aged children and grandchildren of the president, the vice president, all cabinet officials, and all Congress members serve on the front lines in the most dangerous combat positions -- no exceptions, no exemptions.<br/><br/>Prohibit the use of mercenaries or any armed contractors, as well as the use of any military force on American soil except when directly engaged in defensive war against a foreign nation.<br/><br/>Repeal the Detainee Treatment Act of 2005, the Military Commissions Act of 2006, the 2008 FISA Amendments Act, the Protect America Act, the original Foreign Intelligence Surveillance Act, and the PATRIOT Act.<br/><br/>Ban secret budgets, secret laws, and secret agencies.<br/><br/>Change the Senate rules to eliminate the filibuster.<br/><br/>Create a task force to research whether the Senate has ever served any useful purpose not better served by the House.<br/><br/>End all rendition, as distinct from extradition.<br/><br/>Amend the Constitution to make the ban on ex-post-facto laws include any laws that would retroactively grant immunity for crimes.<br/><br/>Amend the Constitution to bar the vice president from exercising executive power.<br/><br/>Amend the Constitution to clarify the congressional power of inherent contempt.<br/><br/>Amend the Constitution to include the right to vote and to have one's vote counted publicly at the polling place.<br/><br/>Give Washington, D.C., full voting representation in Congress.<br/><br/>Amend the Constitution to ban private financing of campaigns, create public financing, and provide free air time to candidates.<br/><br/>Sign and ratify the Rome treaty to join the International Criminal Court.<br/><br/>*****<br/><br/>OPTIONAL PART 2 OF THIS PROPOSAL - Drafted and withheld at first, posted May 29th in response to useful comments from ttahiti and many others posted below.<br/><br/>Release more evidence, and support organizations suing in court for the release of evidence.  <br/><br/>Ask Congress to update and reissue the subpoenas that were refused during the 110th Congress, and to enforce them through inherent contempt.   <br/><br/>Support media reform and independent media outlets.  Break up the monopolies.  Invest in public media, including an E-Span election network to provide free substantive election coverage.<br/><br/>Advance a long-term vision in which the corrupting influences of money, media, and party are restrained, and our rights are restored, enforced, and expanded, including the right to vote and to have our votes counted publicly and locally, equal rights for all, environmental rights, the right to education and healthcare, worker rights, the right to basic welfare, freedom of press, freedom from war lies, and the right to know your rights.  <br/><br/>Push for approval, ratification, and enforcement of international human rights treaties.  Build toward Constitutional amendments or a convention with a plan to establish the right to know the laws and to have them applied equally, a ban on signing statements, whistleblowers protected, inherent contempt established, corporations stripped of human rights, monopolies restricted, clean campaign money and free media created, the power of parties reduced, nonpartisan (not bipartisan) redistricting, limiting election seasons, no more electoral college, a bigger House with no Senate, the right to be represented, no appointing of senators, limiting terms for judges, requiring a balanced budget, limiting bills to single topics and requiring clarity, allowing legislation by public initiative, allowing recall elections, creating citizen assemblies, and developing a fourth (people's) branch of government.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3161" href="javascript:ajaxLink('DiscussionTopicComment_3161', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3161')">Comments (184)</a></span><span id="DiscussionTopicTag_3161"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=power">power</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=rule of law">rule of law</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=constitution">constitution</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3161"></div>
+</div></td>
+</tr>
+<tr id="row_3148">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3148">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3148', '/akira/discussionVote.do?dbid=2294&topicID=3148&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 275</div><div>Votes Against : 54</div>', document.getElementById('TopicVote_3148'))" style="text-decoration:none;" id="TopicVote_3148" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 275</div><div>Votes Against : 54</div>', document.getElementById('TopicVote_3148'))">221</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3148', '/akira/discussionVote.do?dbid=2294&topicID=3148&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3148"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3148-4049"><span id="IdeaTitle_3148">single-payer healthcare&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4812-4049">docnangee</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Take a look at Paul Krugman's article on healthcare reform at:<br/><br/> http://www.nytimes.com/2009/05/22/opinion/22krugman.html<br/><br/>We need government run healthcare now. Mr. Obama, please do not be fearful of standing up to private interests on this issue. They are refusing to cooperate. We will stand behind you on this important issue.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3148" href="javascript:ajaxLink('DiscussionTopicComment_3148', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3148')">Comments (8)</a></span><span id="DiscussionTopicTag_3148"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3148"></div>
+</div></td>
+</tr>
+<tr id="row_3144">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3144">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3144', '/akira/discussionVote.do?dbid=2294&topicID=3144&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 21</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_3144'))" style="text-decoration:none;" id="TopicVote_3144" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 21</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_3144'))">11</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3144', '/akira/discussionVote.do?dbid=2294&topicID=3144&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3144"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3144-4049"><span id="IdeaTitle_3144">Mandatory Exit Strategy&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4793-4049">zauberer44</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">My idea is to require any major or minor initiative or bill in congress to outline a minimum of two exit strategies.  As any bill exits committee and enters open debate, it must articulate how its effects are intended to work and what mitigation strategies will be used to ensure it maintains its rightful purpose.  Each bill will delineate a time frame for objective completion and address optimum as well as adverse scenarios.  This initiative will also minimize deception and abuse of the system by outlining appropriate steps to take in these cases.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3144" href="javascript:ajaxLink('DiscussionTopicComment_3144', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3144')">Comments (3)</a></span><span id="DiscussionTopicTag_3144"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=exit">exit</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=strategy">strategy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=accountability">accountability</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=congress">congress</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bill">bill</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=legislation">legislation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=intention">intention</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ambiguity">ambiguity</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=deliberation">deliberation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=debate">debate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=plan">plan</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=analyze">analyze</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bill">bill</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3144"></div>
+</div></td>
+</tr>
+<tr id="row_3114">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3114">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3114', '/akira/discussionVote.do?dbid=2294&topicID=3114&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 90</div><div>Votes Against : 26</div>', document.getElementById('TopicVote_3114'))" style="text-decoration:none;" id="TopicVote_3114" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 90</div><div>Votes Against : 26</div>', document.getElementById('TopicVote_3114'))">64</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3114', '/akira/discussionVote.do?dbid=2294&topicID=3114&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3114"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3114-4049"><span id="IdeaTitle_3114">Lets have a scientific fact based look at 911. &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4687-4049">sewalkie</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">They say 911 changed eveything. Now that the dust has cleared and the scientific reports on the collapse of the World Trade Center are finally finished, lets have another look at 911. <br/>   The 911 commission members have said the investigation is a whitewash. Hundreds of scientists, architects and engineers, professors, firefighters, medical professionals, pilots, family member say the official story can not be true. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3114" href="javascript:ajaxLink('DiscussionTopicComment_3114', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3114')">Comments (7)</a></span><span id="DiscussionTopicTag_3114"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3114"></div>
+</div></td>
+</tr>
+<tr id="row_3109">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3109">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3109', '/akira/discussionVote.do?dbid=2294&topicID=3109&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 65</div><div>Votes Against : 23</div>', document.getElementById('TopicVote_3109'))" style="text-decoration:none;" id="TopicVote_3109" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 65</div><div>Votes Against : 23</div>', document.getElementById('TopicVote_3109'))">42</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3109', '/akira/discussionVote.do?dbid=2294&topicID=3109&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3109"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3109-4049"><span id="IdeaTitle_3109">end the war on obscenity&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4648-4049">patriotact</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">stop trying to outlaw porn and obscenity. it wastes everyones time and money. government, courts, people.<br/><br/>also remove the FCC's power to ban speech. how does suing howard stern or the superbowl halftime show help anyone?<br/><br/>tag: censorship</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3109" href="javascript:ajaxLink('DiscussionTopicComment_3109', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3109')">Comments (2)</a></span><span id="DiscussionTopicTag_3109"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=free speech">free speech</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=fcc">fcc</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obscenity">obscenity</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=pornography">pornography</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=porn">porn</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3109"></div>
+</div></td>
+</tr>
+<tr id="row_3078">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3078">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3078', '/akira/discussionVote.do?dbid=2294&topicID=3078&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 210</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_3078'))" style="text-decoration:none;" id="TopicVote_3078" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 210</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_3078'))">195</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3078', '/akira/discussionVote.do?dbid=2294&topicID=3078&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3078"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3078-4049"><span id="IdeaTitle_3078">End Corporate Influence/Control of Our Government&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4576-4049">toddputnam</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Due to a clerical error in the Supreme Court header notes of a decision made in the late 1800s, corporations have been granted all the rights of people. Legally speaking, they've been given "personhood" and therefore are entitled to all the rights of citizens enshrined in the Constitution, except for the right to vote.<br/>Consequently, corporations have been granted the right to "freedom of speech" which our founders had never envisioned. Furthermore, their ability to spend their economic resources in electoral politics has been determined to be an exercise of their free speech.<br/>Because corporations hold far more wealth than all the human citizens of the U.S. combined, they have massive undue influence in our electoral and political process. As a result, government often acts to benefit corporations and at the expense of the public.<br/>Over the years, giant corporations have continued to consolidate their power and control of our political system, our media, our educational system, our economy, our public institutions and even over the non-profit sector and our leisure and entertainment.<br/>This has not been good for our society, for our livelihoods, or for our government. If this trend is not stopped very soon, we will reach a point where it cannot be rolled back.<br/>The solution doesn't have to be complex. Revoking corporate "personhood" and enforcing existing laws would be a start.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3078" href="javascript:ajaxLink('DiscussionTopicComment_3078', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3078')">Comments (8)</a></span><span id="DiscussionTopicTag_3078"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=corporations democracy lobbying power personhood corruption reform election security public">corporations democracy lobbying power personhood corruption reform election security public</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3078"></div>
+</div></td>
+</tr>
+<tr id="row_3067">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3067">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3067', '/akira/discussionVote.do?dbid=2294&topicID=3067&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 33</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_3067'))" style="text-decoration:none;" id="TopicVote_3067" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 33</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_3067'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3067', '/akira/discussionVote.do?dbid=2294&topicID=3067&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3067"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3067-4049"><span id="IdeaTitle_3067">Change Legal Perception of Spammers, Junkmailers, & Telemarketeers&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4469-4049">Kevin Short</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Here's the basis of my opinion.<br/><br/>It is illegal to use another's money - time - resources without their permission, to do so is considered a THEFT OF SERVICE.<br/><br/>To deny the same Individual the use of his own resources is a DENIAL OF SERVICE.<br/><br/>To intrude on an Individual's Privacy is a Constitutional Violation.<br/><br/>Now, to address Spammers, Telemarketers, and Junk Mailers - ATTENTION JUDGES!!!!! - FREE SPEECH CAN BE WITHHELD IF YOU'RE COMMITTING A CRIME IN DOING SO!!!!!!!!!!<br/><br/>Free speech rights pertains to public forums ONLY.<br/><br/>In other words when a telemarketer calls, its a crime for what he is doing is a DENIAL OF SERVICE for the Owner of the phone - He can't receive his desired communications. A DENIAL OF SERVICE IN THE COMPUTER WORLD GETS 20 YEARS. It is no less of a crime to do it on a phone - AND THERE IS NO LEGAL DIFFERENCE!!!.<br/><br/>Also THEFT OF SERVICE charges apply.  The Telemarketer is accessing personal resources / equipment WITHOUT PERMISSION WHICH CONSTITUTES THEFT OF SERVICE.  This misconception of Telemarketer's rights originated back when Ma Bell owned all Phone Equipment and was a public service.<br/><br/>THIS IS NO LONGER THE CASE AND EXISTING LAWS NEED TO BE ENFORCED.<br/><br/>The individual pays, and maintains phone and computer for SELF USE ONLY and it is NOT Public Equipment / Resources which can be used without permission - to do so is ALSO an invasion of privacy and is NOT a public forum where free speech rights are guaranteed.<br/><br/>The ONLY phones Telemarketers have a right to are PAY PHONES for they are public property.<br/><br/>The same applies to the internet and computers. To Impede and disrupt the effectiveness of an individuals resources with spam, forcebly recording it on equipment NOT OWNED BY THE SPAMMER and NOT PUBLIC EQUIPMENT, violating the individuals privacy, STEALING RESOURCES OF MONETARY VALUE FOR THE INDIVIDUAL TO DEAL WITH IT is Illegal. The Same as DENIAL OF SERVICE.<br/><br/>Spammers are COMMITING CRIMES IN NON PUBLIC FORUMS IN ORDER TO "PROMOTE THEIR FREE SPEECH".<br/><br/>Because of the violations of other individuals personal rights and the theft of resources - THEIR RIGHT TO FREE SPEECH IN THIS MANNER MAY BE CONSTITUTIONALLY DENIED!!!!  For where these instances of attempted free speech are being done is NOT a public Forum, NOT a public owned resource where free speech is guaranteed. So In doing so, FREE SPEECH RIGHTS DO NOT APPLY.<br/><br/>Now on the subject of Junk Mail  If I take my junkmail over to the mall plaza and go to throw it in the garbage dumpster, a sign on the dumpster says $2500 theft of service charge will be applied to unauthorized use.<br/><br/>Here's the clincher - There's NO DIFFERENCE between dumping junkmail in the dumpster or in my mailbox Legally.<br/><br/>Once again the mailbox was put there for my personal use, personally paid for and maintained.  To receive desired communications which I ORIGINATE / ELECT to receive.<br/><br/>The use of which unsolicited QUALIFYS AS A THEFT OF SERVICE OR A THEFT OF RESOURCES.<br/>The time an individual has to take to deal with junkmail has monetary value - the stealing of which is a crime when unsolicited.<br/><br/>People go AWWW it only takes a second to deal with it, but tell the family who didn't have a Living room when they saved all their junkmail for a year.<br/><br/>So according to junkmailers it's legal for me to contract the post office or other delivery service to deliver junk cars, debris, unwanted building product, refuse, to the white house to deal with at THEIR EXPENSE.<br/><br/>When you start talking of the expense of constantly dealing with large debris such as cars it WOULD get expensive and would be an OUTRIGHT THEFT of their resources, money and time<br/><br/>THERE IS NO LEGAL DIFFERENCE BETWEEN THIS AND WHAT HAPPENS EVERYDAY AT MY MAILBOX<br/><br/>Just because you can pay to have something delivered does NOT mean in any form is legal.<br/><br/>Here's How privacy is supposed to work,   I want to buy a car, so I go online and elect to receive solicitations for a period of 1 to 3 months after which my privacy rights are reenacted and all junk mail MUST stop.  None of this electing to receive mail from partners crap, where they just change their name and solicit again, the individual must have elected to receive directly (They just keep changing their name saying they are a partner to which you subscribed) Only legal communications are solicited.<br/><br/>The ONLY constitutionally legal means of advertising are newspapers, TV, magazines etc. where the individual ELECTS to purchase said content KNOWING it contains advertising.<br/><br/>This is where the lobbying of politicians has been paying off.<br/><br/>Sad Part is almost everybody doesn't realize their privacy rights AND USE OF their resources are being ignored in the SUPPOSED legal form of free speech.<br/><br/><br/>Once again, Free Speech rights CANNOT be claimed when a CRIME IS BEING COMMITTED IN A NON- PUBLIC AND NON-PUBLIC OWNED FORUM.<br/><br/>The constitution doesn't say anything about jumping through hoops and spending large amounts of money to deny junkmail, spamming, telemarketers to receive privacy rights and right to limit use of PERSONAL RESOURCES to oneself. And the large bulk of spam together, and telemarketers constitutes harrasment<br/><br/>THE JUDGES AND LAWYERS HAVE THE TEETH TO DEAL WITH BUT REFUSE TO USE against spammers, telemarketers, and Junkmailers.<br/><br/>Time to vote some one in who'll enforce existing laws WHICH ARE ADEQUATE.<br/><br/>The garbage in garbage dumps will decrease 2/3's - Fewer trees will need to be cut protecting our resources<br/>Privacy will finally be done and decided by who it's intended for - the individual himself and these problems will have been dealt with according to the Constitution - WHAT A CONCEPT!!!<br/><br/>And the penalty to those commiting these crimes? Payback of all the man hours dealing with their garbage, Uh, let's see,  10 million incidents of spam time times taking each individual's monetary valued time of 1 minute to deal with it its............LIFE IN PRISON!!!!!!<br/><br/>get the picture?Huh</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3067" href="javascript:ajaxLink('DiscussionTopicComment_3067', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3067')">Comments (2)</a></span><span id="DiscussionTopicTag_3067"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3067"></div>
+</div></td>
+</tr>
+<tr id="row_3048">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3048">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3048', '/akira/discussionVote.do?dbid=2294&topicID=3048&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 5</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3048'))" style="text-decoration:none;" id="TopicVote_3048" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 5</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3048'))">-6</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3048', '/akira/discussionVote.do?dbid=2294&topicID=3048&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3048"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3048-4049"><span id="IdeaTitle_3048">3 new papers, and event at CAP, on Web 2.0 & Fed Govt&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4517-4049">peter</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">On June 1, the Center for American Progress will host an event on "Web 2.0 and the Federal Government."  http://www.americanprogress.org/events/2009/06/web20.html.  Lunch served and free to the public if you RSVP.  Webcast.<br/><br/>3 new papers by Peter Swire, who was counsel to change.gov during the transition:<br/>■It's Not the Campaign Any More: How the White House is Using Web 2.0 Technology So Far.<br/>■New Media Challenges: Legal and Policy Considerations for Federal Use of Web 2.0 Technology. <br/>■How to Buy Free Software: Procuring Web 2.0 Technology for the Federal Government.<br/><br/>Excellent panel of speakers:<br/>Tim O'Reilly, Founder and CEO of O'Reilly Media, Inc.<br/>Alec Ross, Senior Advisor for Innovation to Secretary of State Hillary Clinton, charged with blending new information technologies with diplomacy.<br/>Faiz Shakir, Research Director for The Progress Report and ThinkProgress.org at Center for American Progress Action Fund.<br/>Peter Swire, Senior Fellow at the Center for American Progress and the C. William O’Neill Professor of Law at the Ohio State University.<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3048" href="javascript:ajaxLink('DiscussionTopicComment_3048', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3048')">Comments (0)</a></span><span id="DiscussionTopicTag_3048"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3048"></div>
+</div></td>
+</tr>
+<tr id="row_3046">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3046">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3046', '/akira/discussionVote.do?dbid=2294&topicID=3046&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 152</div><div>Votes Against : 44</div>', document.getElementById('TopicVote_3046'))" style="text-decoration:none;" id="TopicVote_3046" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 152</div><div>Votes Against : 44</div>', document.getElementById('TopicVote_3046'))">108</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3046', '/akira/discussionVote.do?dbid=2294&topicID=3046&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3046"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3046-4049"><span id="IdeaTitle_3046">Eliminate the Electoral College&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4109-4049">lfduncan</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">When America was an infant, it was hard to communicate in a timely fashion. This is no longer the case with current communication vehicles. The Electoral College, with a mere 538 voters, is no longer needed to decide America's choice of president. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3046" href="javascript:ajaxLink('DiscussionTopicComment_3046', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3046')">Comments (17)</a></span><span id="DiscussionTopicTag_3046"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=electoral college">electoral college</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3046"></div>
+</div></td>
+</tr>
+<tr id="row_3043">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3043">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3043', '/akira/discussionVote.do?dbid=2294&topicID=3043&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 34</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_3043'))" style="text-decoration:none;" id="TopicVote_3043" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 34</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_3043'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3043', '/akira/discussionVote.do?dbid=2294&topicID=3043&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3043"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3043-4049"><span id="IdeaTitle_3043">Simplified Bill Writing&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4109-4049">lfduncan</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Limit a new bill to 3 pages typed, so the essence of meaning can be conveyed quickly and without redundant rhetoric.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3043" href="javascript:ajaxLink('DiscussionTopicComment_3043', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3043')">Comments (0)</a></span><span id="DiscussionTopicTag_3043"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=simplified">simplified</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bill writing">bill writing</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=conciseness">conciseness</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=clarity">clarity</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3043"></div>
+</div></td>
+</tr>
+<tr id="row_3042">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3042">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3042', '/akira/discussionVote.do?dbid=2294&topicID=3042&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 30</div><div>Votes Against : 48</div>', document.getElementById('TopicVote_3042'))" style="text-decoration:none;" id="TopicVote_3042" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 30</div><div>Votes Against : 48</div>', document.getElementById('TopicVote_3042'))">-18</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3042', '/akira/discussionVote.do?dbid=2294&topicID=3042&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3042"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3042-4049"><span id="IdeaTitle_3042">America needs a law to prevent the hiring of illegal immigrants.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4256-4049">billb1776</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">America needs to enforce the law to prevent the hiring of illegal immigrants.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3042" href="javascript:ajaxLink('DiscussionTopicComment_3042', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3042')">Comments (8)</a></span><span id="DiscussionTopicTag_3042"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=traitors">traitors</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3042"></div>
+</div></td>
+</tr>
+<tr id="row_3039">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3039">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3039', '/akira/discussionVote.do?dbid=2294&topicID=3039&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 10</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3039'))" style="text-decoration:none;" id="TopicVote_3039" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 10</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3039'))">4</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3039', '/akira/discussionVote.do?dbid=2294&topicID=3039&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3039"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3039-4049"><span id="IdeaTitle_3039">Recognize the Government is enabling Hackers......&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4469-4049">Kevin Short</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">By the requirement of retention of Records beyond their usefulness. By the extending of storage of outdated information the Government IS CREATING A WINDOW OF OPPORTUNITY FOR HACKERS FOR YEARS INSTEAD OF DAYS!!!!<br/><br/>Personally I think Electronic Theft along with this ENABLEMENT is what Destroyed our Economy<br/><br/>Identity Theft along with the Loss of Stock Market Information, Company secrets Etc.<br/><br/>Recognize that there are as many Crooks in Government with access to this information as out here in the Real World. <br/><br/>CLOSE THE WINDOW OF OPPORTUNITY!!!!!</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3039" href="javascript:ajaxLink('DiscussionTopicComment_3039', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3039')">Comments (0)</a></span><span id="DiscussionTopicTag_3039"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3039"></div>
+</div></td>
+</tr>
+<tr id="row_3037">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3037">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3037', '/akira/discussionVote.do?dbid=2294&topicID=3037&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 9</div><div>Votes Against : 101</div>', document.getElementById('TopicVote_3037'))" style="text-decoration:none;" id="TopicVote_3037" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 9</div><div>Votes Against : 101</div>', document.getElementById('TopicVote_3037'))">-92</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3037', '/akira/discussionVote.do?dbid=2294&topicID=3037&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3037"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3037-4049"><span id="IdeaTitle_3037">Guantanimo Bay for traitors to America...&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4256-4049">billb1776</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">We should keep Gitmo open only for one reason, that being to jail all the people who betray America by hiring illegal immigrants instead of legal American citizens.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3037" href="javascript:ajaxLink('DiscussionTopicComment_3037', '/akira/discussion.do?mode=comment&dbid=2294&topicID=3037')">Comments (4)</a></span><span id="DiscussionTopicTag_3037"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=gitmo guantanimo bay treason traitors">gitmo guantanimo bay treason traitors</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3037"></div>
+</div></td>
+</tr>
+<tr id="row_2979">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2979">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2979', '/akira/discussionVote.do?dbid=2294&topicID=2979&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 3</div><div>Votes Against : 72</div>', document.getElementById('TopicVote_2979'))" style="text-decoration:none;" id="TopicVote_2979" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 3</div><div>Votes Against : 72</div>', document.getElementById('TopicVote_2979'))">-69</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2979', '/akira/discussionVote.do?dbid=2294&topicID=2979&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2979"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2979-4049"><span id="IdeaTitle_2979">SOCILOGY PROVED CULTURES GOOF, BADLY, OFTERN, AND STUDIED WHY!!!~&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4299-4049">serendipityassn</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">REPORT GENIUSES IDENTIFY CULTURES ERRORS.<br/>GIGO'D INFO IS DEADLY, COSTLY, MAKES CULTURES WORSE,<br/>FALSE INFO IN AG, HEALTH SAFETY, EDUCATION, +++<br/>CALL RE EVIDENCE SOURCES, 190 ARTICLES, ON SA WEB, NO HOME PAGE  all info required.<br/>why ignore physics, sociology, 428 books by historians on ESTABLISHMENTS SHOOTING INNOVATORS, WHISTLE BLOWERS.<br/>  www.serendipityassn,org <br/><br/>KEY ARTICLES<br/>	HEMSTREET CONSULTANTS  &  SERENDIPITY ASSOCIATION    CEO DR DOUG C. HEMSTREET    619-284-2468   © <br/>	HOW TO MAKE THE WORLD WORK PROJECT–R & D & IMPLEMENTATION-HOLISTIC HEALTH+WORLD PEACE<br/>	4154 46th St #12    SAN DIEGO CA  92105-1850    ➤ www.serendipityassn.org     (ONLY IF MOVED % Vicky &  Charles Marshall, Crystal Lake ILL)<br/>	“IT ISN’T WHAT WE KNOW THAT GETS US IN TROUBLE, IT’S WHAT WE KNOW THAT ISN’T SO”<br/>	PARADIGM SHIFTS CREATED BY 46 SCIENTIFIC DISCOVERIES DRASTICALLY ALTERED OUR CONCEPTS OF REALITY<br/>	“MAKE NO LITTLE PLANS. THEY HAVE NO POWER TO STIR MEN’S SOULS”<br/> 	All That Is Needed For Evil To Succeed Is For Men Of Good Will To Do Nothing<br/>Power Corrupts. Absolute Power Corrupts Absolutely.     We Ignore the Lessons of History & Herstory.<br/>			<br/>➤	  ”But Faith, Fanatic Faith, Once Wedded Fast To Some Dear Falsehood, Hugs It To The Last.” Thomas Moore<br/><br/>➤Secretary of the Board of Directors for Each Member + All Committees, Officers + ETHICS<br/>New York Times Corporation & All Divisions	212-556-1234				<br/>229 W. 43rd St, New York, NY 10036                    		 		Sent 1980 0n  <br/>									See ➤➤ www.serendipityassn.org <br/>➤Challenge For All Media, Educators, Firms, & Governments. Why assume Physics is wrong?<br/>	   	➤Add Evidence Report for each member & committee. Call re evidence & reference sources.<br/>	Study all Geniuses info Serendipity Web’s 190+ articles Summarize Geniuses Info Accurately.<br/>	➤Politicians, staff, & government management refuse to examine any research proving errors.<br/>➤➤For All Media, Educators, & Firms +++				    7-5-06              May 5, 2009<br/>Dear NYT CEO, Each Officer, Board Member, Editors, Columnists, All Committees, Divisions, News Service, & Boston Globe,<br/>	➤➤➤Geniuses Solutions To Media Costs & Circulation Are In Science, Sociology, & History<br/>GIGO’d Info Is Costly of Lives & Wealth ➤Sociology Proved Only 4.6% can consider New Info! Why? Sociology & History proved Cultural Conditioning is hypnotic in character. That’s Why Ads Sell. ➤Whistle Blowing Re Cultural Blind Spots, Geniuses Report 35 Errors, Omissions, Fantasies.<br/>Ask why media ignored regulation history--Power firms, Mortgages, Health, Safety, Education +<br/>	➤Proposal Re: Ethics, Integrity, Geniuses Info, Science Forefront, & Fiscal Errors Correction<br/>	Correct Major Management Errors. ➤➤Apply All Eleven Elements of a New Scientific Method.<br/> “Lasting Contribution” Waddington, leaders wisdom+. Examine “What We’ve Lost” Graydon Carter 2005, and Thomas Oliphant/s “Utter Incompetents” 2008, Ego & Ideology in the Age Of Bush.<br/>Arianna Huffington “Right Is Wrong”+ 43+ books US errors. Geniuses agree Geniuses info is valid! <br/>	Act Ethically.➤WHAT IF Geniuses Are Right on 35 Cultural Errors, Omissions, Fantasies???   <br/>	Act AS IF They Are. Geniuses Info Summaries-➤Study 190+ articles  www.serendipityassn.org  ➤➤➤Study Why NYT’s Board, Officers, and Others Ignored Proposals to Be Honest & Ethical.<br/>➤Media Repeats Establishment Info AS IF It’s True, ignoring research proving it Distorted or False, Often injurious to people and ecologies, Proves Far More Damaging Then Creating False Stories! ➤➤➤Why suppress Whistle Blowers Info??? ➤Why Ignore University+Other Nations Research???<br/>➤Myth Conceptions are poor foundations for articles, planning, research, decisions, and actions.<br/><br/>➤Why ignore 32 studies of safety training that will make reporters far safer in our dangerous world? It increases intuitive awareness of danger, errors, and best action. Physics explains why it reduces accidents and error 98%-99.7%. <br/>Energy Healing is Applied Physics, validated by 42 studies. Corrects all distortions in the Life Energy Field, Aura, aiding health, safety training, and life. Transpersonal Psychology aids safety training. ➤➤Demonstrate Laser OmniOrb Devices with 163 times the energy of a pyramid, from Pyradyne Inc LA. ➤Their Medallion Device eliminates 100% of Jet Lag.<br/>➤Library demos  aid understanding of Physics, will increase science enrollment. Well designed safety training programs, refreshers, and practice increase awareness of best action and danger, almost completely eliminating possibilities of kidnaping, bombing, shootings, accidents, rape, violence, any dangers & errors.<br/>Physics proved that we are a Fully Integrated Holographic MultiDimensional SubSystem Element of a MultiDimensional Holographic Universe SubSystem. Physics explains why these tools are effective. How many of the “Nuts” you hear from and discount are advising on Geniuses info that cultures still discount and suppress?  Physics applies to everything, even us. Geniuses info is discounted and ignored for two to hundreds of generations, sometimes thousands. This is costly and very damaging to all cultures and to long term human survival.<br/>➤Challenge. Can you cease assuming that any establishment info is accurate?  When people are involved, it often isn’t. Greed, arrogance, stupidity, education errors, cultural blind spots+<br/>We propose that directors, officers, and editors do something unusual to benefit humanity which will also correct internal management errors, offer many new and expanded business opportunities, and improve your profitability. Start with the obvious. ➤Physics proved our universe is a MultiDimensional Holographic SubSystem. We, Earth, and all we deal with are Completely Integrated Fully Interrelated MultiDimensional Holographic SubSystems of our Universe.  ➤Instrumentation shows Acupuncture Points, Meridian Lines, and Chakras. Study why our best universities and firms ignore 37+ studies of Natural Healing System Vegetarian Diet Prevention saving 56% to 68% of health costs, reducing illnesses 76% to 83%. This will reduce retirement and employee costs. Media, even NYT Jane Brody, promote malnutrition, ignoring research on biological nutrition, with 56% to 68% cost savings on Vegetarian Diet Healing and Prevention, 76%-83% less illness. Why??? ➤US Govt says to use all whole grains. White bread is proven to cause two health problems. The lack of 26 nutrients missing from white flour and 19 from white rice are proven to injure health in many ways, directly involved in many health problems. None or very little sugar, low salt, no junk food. Tax all junk and non foods $10-$30. Per Pound or Item to improve health and to recover costs to taxpayers of health problems caused by malnutrition. Junk foods are deadly. Why promote illness, death?<br/>	➤Sane cultures will use Prevention on all problems. Most Humans Don’t. I ask that you assume that Geniuses in all fields are right, examine the research, evidence sources, and references on the forefront of science and human knowledge conflicting with beliefs. Sociology Cultural Psychology and history show why and how we ignore new discoveries and info. We still shoot Whistle Blowers even in the hard sciences and in seeking solutions for problems. There are 428+ books by historians on how establishments shoot innovators and whistle blowers, today as throughout history. We are the same people now.➤Examine the 46 scientific discoveries that created major Paradigm Shifts, the Forefront of Science, Physics, Sociology, Weather Change Research, Education, Training, Biology, Holistic Health, Healing Victim’s Body Mind Systems, Safety, Prevention of Rape, Violence, Crime, Murder, Greed, Vested Interest Pressures and Distortions. Results will surprise you.  Geniuses are almost always right, yet Sociology finds are ignored for two to hundreds of generations.<br/>	➤Twenty five studies validate Holistic Health, saving 80%. Read the 1997 President’s Health Committee 23 person Holistic Health study reporting ➤“Holistic Health Is Valid. Integrate All Holistic Health Healing Modalities to Save Lives, Suffering, and Billions”. I talked with them. This report was suppressed. Who suppressed it?  Why??? ➤This is a major crime.<br/>	➤Examine why you’ve missed evidence in so many fields proving establishments info false or distorted. ➤USA officials put info on serious errors and actual crimes under Secret or Executive Privilege to hide illegal actions and their major or embarrassing goofs. Pass laws making these coverups very serious Felonies, with mandatory very long jail sentences.  ➤➤President Jimmy Carter writes that USA Bush Government used 50+ designations to restrict unclassified information, created 81%<br/> more secrets in 2005 then in 2000, reported by www.OpenTheGovernment.org. <br/>	Our summary of geniuses info indicates 23 + Pulitzer Prize stories. ➤The Union Of Concerned Scientists Web Page reports show Bush acted illegally. He ordered 23+ agencies and management to falsify data on health, labor, pollution, environment destruction, agriculture, etc.3/04 & 7/04-49 & 33 pages. Results–twenty two+ agencies and groups falsified info. Only two people quit in protest. HHS falsified web page, publications, even phone info. Said “Abstinence is the only way to prevent STD’s and pregnancy”. This is proven to raise pregnancy and STD rates considerably. ➤HHS fails to Use Eleven Elements of the New Scientific Method Physics requires, systems research, accident and error prevention training, ignores and suppresses 25 Studies Validating Holistic Health, with 80% savings and abilities to heal all problems. US Government was paid under the table for 82 years to eliminate MD’s competitors and put MD’s in full charge of US “Health Care” systems. MD Illness Care Is Not Health Care. MD’s are Pharmaceutical Shills. Study why NY Times reporters and editors suppressed all of this info. Many told NYT and most media about it. Do major expose’s on Educator’s, governments, and media’s many very damaging failures. Media have been told about the 212+ books on the 1838 ongoing MD war against Alternative Medicine.  Ignored. <br/>	➤Zoology Research proved by 1999 that over 450 species have homosexuals. It’s illegal to not allow marriage for gays and lesbians. Religions and non profits lying about gays and lesbians, killing many, must lose their tax exemptions under IRS regulations. They must forfeit all business and professional licenses! All involved are actively promoting violence and murder, and actively aiding and abetting suicide. All Individuals and Groups involved are Guilty of Crimes.➤FIRST Amendment outlaws laws against stem cell research, abortion, and any homosexual marriage or other activities.<br/>➤Government Elected and Hired Officials have no immunity for actions aiding and promoting murder by lying about homosexuals, Health Care, suppressing Holistic Health Healing, Prevention, not requiring safety training that reduces accidents and errors 98%-99.7%, increasing creativity, violence prevention tools, and overpopulation past farmland’s ability to feed them, destroying ecological systems. This causes starvation. One+ Billion will starve by 2100, Six Billion by 2140. Overpopulation is the major factor in violence, war, and destruction of ecological systems. These actions and inactions are manslaughter and genocide. Management, Educators, Governments, and Editors fail to be truthful.<br/>       ➤Military and State Dept. Ignored Cultural Psychology Research on Islamic Societies,  safety training that eliminates 98% to 99.7% of accidents and errors, Holistic Health validation, regeneration feasibility, scientific devices that eliminate pests, improve health, safety, solve problems, aid R & D projects, plus much else. <br/>➤➤➤Add a Holistic Health Editor and writers. MD writers suppress science in health, still sure that all other healers are quacks, aiding the 1838 to present MD war against Alternative Medicine that paid Congress 82 years cash under the table to eliminate MD’s competitors. ➤Congress still takes five kinds of payoff’s, almost everyone is subject to brain washing. Photos have been used to blackmail many. It’s far Cheaper to own politicians then to pay them off. ➤Retrain all editors and writers on the forefront of science and knowledge in all fields, the implications of Systems Research, Paradigm Shifts, of  Being an Integrated Part of a Holographic Universe, the many lessons of history, and how we continue to suppress new to us info now as throughout history. ➤➤Humans still teach very sanitized history. Sociology Cultural Psychology research proved that Cultural Conditioning Is Hypnotic in Character. That is why advertising sells. Humans take two to hundreds, even thousands of generations to get “New To Us” info conflicting with beliefs into establishments and cultures. Law schools teach that 50 witnesses to a staged event will give almost 50 different descriptions of what happened. <br/> ➤➤➤Teach all to question establishment info. Carefully examine and check evidence and references on any data conflicting with cultural norms, belief systems, mind set. <br/>	What “We Absolutely Know Is So” is often found false by science. <br/>	➤Science has a very bad habit. Science keeps proving that establishments are wrong.<br/>		➤Whistle Blowing!   WHAT IF Our Geniuses Are Right??? ➤➤➤ www.serendipityassn.org <br/>	An Honest Evaluation of Geniuses Research Summaries requires reading all key articles. <br/>➤”A Basic Cultural Urgent Problems GIGO Data Bases”, Education, Libraries, Peace, Media NYT, Media Ethics, Ed Scientific Method, Fix, Risk, Agriculture, Govt, Safety, Security, ACLU, Military, Health Enhancement References+Study 190+ articles-SA Web. Check Evidence, References.<br/>➤Radionic Devices Offer Proven Solutions to BioWarfare, Agriculture, Education, & Research.<br/>	Examine and apply Physics proof that Reality Is a MultiDimensional Holographic SubSystem.<br/><br/>	Examine the implications of ignoring major research. ➤Physics Discarded the Mechanistic World View since 1963, Proving False Much That We Still Teach AS IF It’s True.  469 books by scientists, 86 by Physicists, explain. A Physics Nobel Prize Winner reports that “Everything is Mind Stuff”. Well Proven.<br/>➤Reality is a MultiDimensional Holographic SubSystem. Physics requires using all Eleven Elements of A New Scientific Method, plus Four Design of Experiment Tools often needed to be scientific. Physics explains: Energy Healing as Applied Physics, Psychotronics, Radionics, Pyramid Energies, Safety, Spatial Relationships, Psychic Phenomena, why we avoid collisions dancing, driving, and much else. ➤One percent can see Auras, 5% of kids, and 63% can learn to see them clearly. Many see patterns in Auras, enabling them to pick out dangerous people, violent, criminals, stress, illness, fatigue, error prone, all other problems. <br/>➤Time Is Proven To Be An Illusion, so some can identify problems before they appear. Listen to your feelings, to the still small voice within.<br/>	Physics proved MD mechanistic systems concepts are wrong. People are Completely Integrated Holographic Mind Body Energy Field Spirit SubSystems. This is the foundation for Holistic Health Healing, and explains thirty two safety studies with 98% to 99.7% less accidents and errors in the study groups doing Yoga, Tai Chi, Meditation, and Aikido. Clear all energy field distortions with MariEL Reiki to do even better. Learn why small women-girls, can’t be attacked successfully by five men after two years of Aikido. Training increases intuitive awareness of danger, error, best action, creativity, and the rate of invention. ➤People avoid danger. This aids security, works much better when we add Meditation, Yoga, Tai Chi. <br/>	➤➤Why ignore NLP permanent stress removal, Instrumentation showing Acupuncture Points, Meridian Lines, and Chakras, Energy Healing validation as Applied Physics by 42 studies, 53 studies report all viruses, bacteria disappear. Why/How DoD spent $195,639,238 on Psychic Research thru 2001. Top Brass cancelled nine research projects-3-02. DoD goofed in not using them. These are Major Stories. See Fix and Security articles.<br/>	➤Holistic Health is validated by twenty five studies, saves 80%+, found valid by the President’s Health Committee 23 person study in 1997, yet their report was suppressed. I talked with them. Natural Healing System Vegetarian Diet Prevention Studies find 56% to 68% savings with 76% to 83% less illness. Media, educators, non food, junk food, anti nutrition marketing. Cultures promote malnutrition, causing birth defects, illness, killing babies, children, and adults. Learn why we still have an 1838 to present war against Alternative Medicine, reported in 212+ books, with 483+ MD’s losing their MD license for working successfully with any Alternative Medicine modalities, even BioNutrition and Herbs. ➤The 981 who were charged spent many millions protecting their MD licenses. Call their attorneys. I talked with eight.<br/>➤➤➤There are five types of payoffs today. <br/>➤➤➤MD’s paid Congress cash under the table for 82 years to take charge of health care and eliminate all of their Alternative Medicine competition, even herbs and nutrition. Study 212+ books on the ongoing war against Alternative Medicine, Suppressing Science in Health, Healing, and Prevention. MD’s fail to research the actual causes of each mind body health problems. Science requires research on the causes of any problem. Prevention is always far less costly. These are all ongoing major White Collar Crimes!<br/>➤We ignore Mind Body Health Problem Prevention. Eight Public Health grads told me that arthritis and diabetes are cured by herbs and diet. Cataracts also. ➤Holistic Health eliminates the need for over 90% of pharmaceuticals by Healing all of the Actual Causes of  Problems. Drugs often suppress symptoms, and seldom fix causes. ➤Eight attorneys told me that all have winnable lawsuits against MD’s, medical organizations, HHS, all health nonprofits, and media for aiding the 1838 to present MD HHS ongoing war against science in health care. <br/>➤➤This ongoing RICO is a true conspiracy. <br/>Attorneys report that this is ilegal Theft by Deception, Criminal Malfeasance, and Manslaughter. Raising funds to find cures when Holistic Health has proven able to cure All Mind Body Health Problems is quite illegal. This Violates the Deceptive Practices Act and kills many people daily.<br/>➤➤➤Elected officials, management, and MD’s are criminally liable for aiding manslaughter in aiding MD and safety errors and crimes.  None Have Immunity for Aiding and Abetting Manslaughter or Genocide! <br/>➤Science advances by 2200 will make feasible weapons that will make Nuclear Bombs seem like popguns. This may happen even sooner. ➤We create all sane balanced cultures before this event, or make destruction of life and planet even worse. Many Humans Are Proven to Lack Sanity in All Human Societies.<br/>	➤➤IF you check references and examine evidence this time, this info will enable applying all of the lessons of science, history, cultural and social psychology to prevent and solve problems. Our governments act illegally against children, women, men, ecology, and science throughout history and today. Human overpopulation and actions continue to destroy Earth’s environment, and is wiping out our increasingly slimmer chance of survival.<br/>➤➤➤We are very far past the point of being able to achieve comfortable human survival.<br/>	➤➤➤Help Make Long Term Human and Ecology Survival the First Order of Business for Corporations, Educators, and Governments. Study Cost Benefit Analysis, Cause Effect, and Long Term Planning Research. Note military, all families, victims, stressed, ill, and/or injured need the info on using Imagery NeuroLinguistic Programming tools to permanently eliminate internalization of stress in three to ten hours, one long day. Traumatic events create hypnotic patterns in 90% of victims minds. Counseling won’t work on hypnotic programs. NLP dehypnotizes traumas. Studies prove that Safety Training drastically reduces the possibility of accidents, murders, errors. Holistic Health Prevention and Healing tools Heal All Mind Body problems, avoid illness, eliminate all genetic errors, and heal any victimization. All perpetrators can be healed with Holistic Health, Imagery NLP, and Energy Healing. This is proven to be Applied Physics, healing people and animals bodies by correcting all distortions in Holographic Energy Fields involved in the creation of all life and all matter.<br/>	➤Physics explains why Training and Practice in Yoga, Tai Chi, Meditation, and Aikido Increases the Intuitive Awareness of Danger, Best Action, and Error, Reducing Loss and Injury 98%-99.7% for all in dangerous areas and jobs: Highways, Storms, Cities, Bikes, Boards, Schools, Water, War, Wilderness. ➤ This will work in MD Systems. Maybe even in Congress???<br/>	➤Help stop governments, media, AARP, DoD, and educators Civil Rights and Human Rights ongoing violations in health, safety, education, agriculture, and homosexuality.<br/>➤Oil is gone by 2100. Drastic Weather Changes and an Increasing Rate of Environmental Destruction require reducing world population below 2 billion. ➤How many people can Earth support with No Oil for Agriculture, Food Processing, Storage, and Transport, with weather changes drastically reducing Earths’ crop production? ➤Only 500 million IF we do everything right, Earth’s 200 AD population. UCSD Professor Milton Sauer wrote this in 1994. Others report this. I wrote this in 1998. Eight Major Disasters face  humanity and Earth<br/>Plan ahead???  ➤Or starve six billion by 2240. <br/>➤Anti abortion anti birth control anti population reduction is genocide. This killed half of the 20 million starved since 1893.  <br/>➤Starvation will kill One+ Billion  by 2100, Six Billion by 2140. Unless Humans Change  Very Quickly.   Are We Able to Change???<br/>	➤Anti abortion is genocide of billions, as we lack sure birth control methods. Women die in pregnancy and child birth, 1 in 9 to 1 in 27000 with prenatal care and natural vegetarian nutrition. ➤Anti abortion is manslaughter. Abortion is ten  times safer then pregnancy and birth. <br/>➤Anti abortion clearly violates Separation of Church and State. Anti birth control, anti population reduction and control are manslaughter, and genocide of millions now.<br/>	➤Poor nutrition and junk food increase birth defects, illness, and fatality rates.  All of these actions are major crimes.<br/>	➤➤➤While Reducing Populations 93%, Fix Genetic Errors. Breed men and women for intelligence, empathy, sanity, cooperation, long term survival.  Examine Sociology research explaining why we ignore obvious info.<br/>➤I started the Serendipity Association to address Geniuses info on 35 cultural errors, omissions, and fantasies. These are involved in people ignoring the actual basic root causes of all problems. The Actual Causes of Problems are interrelated. ➤➤There is only a little evidence of Intelligent Humans on Earth. ➤➤We are designing the only non profit association acting to identify and apply a systems approach to correct all of the actual basic causes of humanity’s problems as interrelated, fully integrated subsystems. Help us bring together the world’s geniuses to optimize effective programs, to develop a creative science and systems based program applying all of the forefront of science and knowledge to effectively identify the causes of, and prevention of our many interrelated problems. ➤Prevention and correcting basic problem causes is far less costly then just working on symptoms..<br/>	➤➤Cultures still discount, ignore, put down, and ostracize geniuses, act to suppress innovation today as throughout the history of humanity, and aid Vested Interests acting against the best interests of people, ecological systems, and long term human survival. This results in massive damage to Civil Rights and Human Rights of everyone. Destroys habitats.<br/> ➤Why ignore that using all of Holistic Health will enable curing almost all employees, board members, customers, and people of any Stress, Illnesses, Injuries, Genetic Anomalies, Birth Defects, even Vision and Hearing Problems? ➤All Problems with mind body health, loss, anger, fear, life, self confidence, rapists, pedophiles, STD’s, sexuality, relationships, and failures heal with all of Holistic Health.<br/>Prosperity Training Workshops change lives.<br/>	➤➤➤Our Demo Healing Project will work with any Mind Body Problem Free If Not Healed. A complete Holistic Health System will heal all problems and almost all people. <br/>➤I value my time greatly. I Guarantee Healing.  ➤Science and Physics applies to ecologies, plants, people, animals, and planet Earth. All are a Completely Integrated Holographic SubSystem of our MultiDimensional Holographic Universe.<br/>Effective evaluation of geniuses info summary requires Serendipity’s info-190+ articles-Web<br/>➤➤Sociology Cultural Psychology proved that only 4.6% of humanity can even consider any new ideas that disagree with their Mind Set. ➤Individuals and establishments faced with conflicting new to them info, ignore it, hide it, discount it, distort it, and even create false information to buttress their position. The history of the race and the history of science show inherent habits of suppressing and discounting innovation, often killing the innovator. Dr Joseph Lister noted that “Asepsis is important”. He was ostracized. Western hospitals then were far more deadly then home care and home birth. Research proved home birth with midwives is still safer then hospitals.<br/>➤Asepsis was adopted 56 years later. Many eastern healers and cultures had been using asepsis for thousands of years. <br/>	We discarded Phonics. We took 51 years to reinstall it. Whole Word education was studied and proven invalid. We are still the same people that goofed in many fields.<br/>	➤We still fail to teach the most important findings of our geniuses. Education’s many failures are proven by our graduates making all  the decisions and taking the actions that have created our many and increasing problems. They continue to make problems far worse. None ‘Just Happened’ by accident. ➤Somebody ‘Out There’ didn’t step in and create these many problems. Graduates from schools created almost all of humanities problems. Let’s fix educations errors, omissions.<br/>	Why haven’t home and property owners, educators, and media yelled about IRS taxing Illusionary Profits in the sale of any asset. Unless the purchase price is adjusted to current real dollars, taxes are paid on currency depreciation caused by government policies and other events. Homes bought for $100,000, sold years later for $300,000, may have cost in terms of today’s real dollars $200,000 to $400,000. It seems illegal to tax non existent money, even very real losses. Why do Business Schools flunk thinking in so many areas, ignoring science, sociology, and the many lessons in the history of human error, greed, stupidity, and arrogance???<br/>	➤We still work on symptoms instead of the actual basic causes of each problem. ➤We ignore systems interrelationships.  We often fail to identify all of the interrelated basic causes of our major social problems.  ➤We fail to hold our educators, governments, corporations, and all other institutions liable for their damaging and often deadly errors, omissions, and fantasies. Law applies the Deceptive Practices Act to all business and government actions. ➤Quantum Physics proved the mechanistic world view concept a fantasy since 1963.  <br/>➤We can work on symptoms for Eons but still have the same old problems, even creating new problems. Apply all of the many lessons of history. These Lessons are Very Valuable Only<br/>IF USED. Why take actions proven ineffective and/or problem causing in the past???<br/>	➤It is urgent to remove all donated and personal wealth from all elections and require high intelligence and the ability to pass a very rigorous exam on the forefront of knowledge, science, history, sociology, how cultures work and fail to work to meet needs of people and ecologies, cost benefit analysis, cause effect relationships, in order to run for any office, or to be appointed or hired by governments as management, key staff, or perhaps any staff.<br/>➤Responsible ethical government requires holding all officials legally liable for damaging decisions and actions that ignore research that would prevent losses, costs, problems, injuries, and deaths. People in positions of power must be required to have both accurate knowledge, intelligence, and the Wisdom needed to make the best decisions.<br/>➤Stop all five types of payoffs, as all are well used today. Some elected and hired officials have been set up, photographed, and blackmailed. This is cheaper then payoffs. How many are owned by Vested Interests, voting as ordered by Money Interests? Greed first. Wisdom is missing almost completely.<br/>	➤➤➤Only when government members, educators, school boards, corporate boards, and all other institutions, management, staffs, and all world citizens are well educated, with a very full understanding of all elements of the systems they deal with, and Are Legally Held Fully Liable for All Of  Their Decisions, Actions, and Results will we be able to create cultures, countries, and a world that functions for the benefit of all children, adults, and ecologies everywhere, and establish sustainable well balanced ecological systems needed by all life. <br/>➤➤We will not have honest ethical responsible governments until all involved are held fully responsible for all decisions and actions.<br/>➤➤➤It’s very urgent to plan ahead for over one hundred thousand years. Cause effect info exists. Why destroy Earth’s ecologies and us???<br/>➤The Challenger loss, New Orleans, and other disasters happen because management and governments are unable to consider proven scientific, engineering, and sociology research.<br/>➤➤The Army Corp of Engineers failure to design and build dikes and canals using good engineering practice makes them legally liable and criminally liable for all losses from dike failures. Manslaughter charges are past due.<br/>	➤Help stop these many still ongoing wars against human and ecological survival. <br/>	➤Ocean CO2  rose from 315 ppm in 1958 to 377 ppm in 2004, after being stable for 400,000 years until industrialization in the 1800's.  As CO2 in oceans and lakes continues to increase, acidity will destroy phytoplankton’s ability to form shells with calcium. They feed the zooplankton that feed fish. This will wipe out the foundation for the ocean’s food chain. The current rate of increase of CO2 will result in fish being substantially gone in the relativity near future, 2300's?. ➤It is most urgent to genetically redesign phytoplankton for high CO2 levels. Atmospheric CO2 is still increasing rapidly from humans activities.  CO2 dissolves in oceans, lakes, and streams.  No fish soon.<br/>➤Do the genetic redesign needed for coral to survive at higher and lower temperatures.<br/>Methane releases from tundra, rice fields, cows, and human activities make warming far worse.	➤Food production reduction by weather changes and no oil, plus overpopulation, creates the most urgent emergencies of the eight major disasters facing  humanity. Plan ahead??? <br/>Or starve six billion by 2140?  Anti abortion anti birth control killed half of the 19 million starved since 1893, and will kill One + Billion by 2100, Six Billion by 2140. We act to make this worse.<br/>The Gulf Stream is slowing, and may stop bringing warmth to Atlantic basin agriculture, reducing  crop yields drastically for all Atlantic basin areas   ➤Weather Changes are reducing crops drastically by creating far worse crop conditions then Earth has had for eons. This becomes far more disastrous with no oil for agriculture by 2100. ➤➤➤Melting of tundra far more rapidly then expected, releasing vast stores of Methane, may possibly? create a feedback loop, melting tundra at increasing rates, speeding global warming. There is a potential of complete catastrophe for life on Earth. <br/>	This cycle happened twice before, destroying 94% of life on Earth. This methane release feedback loop speeding Earth’s heating may, at some point, be irreversible. Rice field bacteria produce 1/3 of the methane, tundra melt 1/3, cows 1/5.  Would Buffalo herds produce less Methane? Their hooves are far less destructive to prairie meadows. <br/>➤The failures of governments to eliminate all greenhouse gases will starve One+ Billion by 2100, Six Billion by 2140, maybe even most life on Earth, Violating Civil and Human Rights.<br/>	➤Glacier and polar ice melting at an increasing rate will raise ocean levels 10' by 2140, 20'+ by 2280. Or more.<br/>	➤➤➤Even Britannica and Microsoft have proven unable to correct obvious reference book errors, omissions, and fantasies. They all ignore Paradigm Shifts, miss how to increase the rate of invention, increase possibilities of scientific breakthroughs, and Act AS IF Physics and major research on Alternative Medicine elements that create Holistic Health Systems don’t exist. ➤Holistic Health Valid-25 studies. ➤Most media, publishers, software, and web ignore readability research, even on book jackets and ads. ➤➤➤The purpose of words is to communicate. Very small print–why? Any print on Dark Background is bad, dark print on dark bg is unreadable. Book jackets, articles, and ads often unreadable. Lite orange, red, salmon is very hard to read. Why design print so words are very hard to read?  <br/>	➤➤We fail to use all Eleven Elements of the New Scientific Method Physics requires, plus Four Design of Experiment Elements often necessary in order to be scientific. All life and Earth is a Completely Integrated Holographic SubSystem Element of a MultiDimensional Holographic Universe SubSystem. This is true of everything we work with, people also.<br/>➤➤➤Encyclopedias continue to reprint over a thousand errors, and refuse to examine massive amounts of scientific research and evidence. They still ignore the many lessons of history, herstory, sociology, and science. Almost all MD based articles, even in the best encyclopedias,  are quite incorrect. MD’s paid Congress cash under the table for 82 years to be in charge of health care and to eliminate all competitors. MD’s still fight the 1838 to present war against any, even MD’s, using any elements of Alternative Medicine. 981 MD’s were charged by MD Mafia for daring to use Alternative Medicine, 483 lost MD licenses.  Many MD’s are afraid of losing licenses if they even work with parts of Holistic Health. Herbs and Biological Nutrition work far better then drugs. ➤All Mind Body Health problems heal when we use very complete Holistic Health Integrated Systems, using all five healing tools needed to heal body mind life systems.<br/>➤Help promote science for Body Mind Health and Safety. Stop ongoing crimes against all <br/>employees, boards, budget, and all people by greedy Vested Interests.  Use NLP Imagery to permanently eliminate all of the actual basic causes of children and adults internalizing stress. This takes only three to ten hours, one day. Use Energy Healing for resistant cases and for all who can’t work with Imagery NLP. Most can work with each other and use info in books to eliminate stress almost as fast as the grads.  <br/>As physics proved bodies are part of minds, this works with all body mind health problems.  Obesity, vision, spines, any mind body problem.<br/>➤A Nobel Prize Winning Physicist states that “Everything Is Mind Stuff:” Us also. We are Holographic SubSystems. Science proved our bodies are literally part of our minds. This shows why it is urgent to DeHypnotize subconscious programs affecting attitudes, thinking, actions, and health.<br/>	➤Racial bad habits, cultural problems, and cultural blind spots offer tremendous opportunities for corporations to create the well designed new MultiMedia ReEducation materials needed by all world leaders, educators, corporations, institutions, staff, children, and adults. Start these urgently needed reeducation projects to correct and prevent our many problems, to save lives, and to save billions.<br/>	➤Complete reeducation of all humans is urgently needed to enable making fully informed decisions on GIGO free information that will benefit employees, children, adults, families, stockholders, customers, ecologies, long term human ecological survival, and all cultures.  Market Multimedia Reeducation Packages, Workshops, CD’s, DVD/s, books, films, and tapes to retrain all leaders, educators, politicians, corporations, nonprofits, donors, and all Earth’s citizens on Geniuses Knowledge at the forefront of science and knowledge and how to apply it as a complete, integrated system to correct and prevent all of our problems.  We still ignore that prevention is far less costly.<br/>➤➤➤We still have all of the inherent habits humans developed, evolved, as tribal peoples. Only 4.6% can consider new info that conflicts with mind set, explore new areas, change habits easily. This is designed in, true of all species.<br/>	➤NYT is in an exceptional position to address these issues. Give our world’s leaders info on how and why they have been given false, distorted, very incomplete info on problem prevention, health, safety, longevity, agriculture, education, sexuality, family interrelationships, marriage, child development, overpopulation effects, science, oil, how cultures work to meet or fail to meet the needs of children, adults, animals, plants, ecologies, and increasingly more massive damages to long term human ecological survival. Market all the reeducation materials needed to address as a system all of the actual  basic causes  of problems, enabling cultures to act sanely for the first time in history. <br/>	➤Why ignore research on Cost Benefit Analysis and Cause Effects in Integrated Holographic SubSystems, and Even Ignore Plant Animal Crops Weather Change Balance??? <br/>➤Let’s work together to create an optimum reeducation project. Correct all fourteen errors in Formal Education, eight in Informal Ed. Teach all ten ways to eliminate Stress Internalization. Publicize how NeuroLinguistic Programming Imagery permanently eliminates internalization of stress in three to ten hours, one day. These tools will almost eliminate suicide, reducing rape and violence. Add training in Yoga, Tai Chi, Meditation, and Aikido, Reducing Accidents and Errors 98% to 99.7% and Increasing Creativity. Use Energy Healing to do even better. Tell all that police report 90% hit after dark riding bikes or crossing streets wear dark clothes. Media and Educators fail to teach any safety info or practices to kids or adults. Promote Active Listening. <br/>	➤➤➤Zoology studied 450 species with homosexuals. ➤Fantasy: “Homosexuality Is a Life Style Choice”. Does that explain a four times greater suicide rate of homosexual youth when they learn God designed them gay, lesbian, or bisexual? These Lies directly cause suicide, plus violence and murder of any suspected of being homosexual. Bigots kill on suspicion. God Designed Humans 7.3% Gay, Lesbian, and Bisexual. True Of All Species.<br/>	➤Let us develop, use, and market optimum reeducation programs and workshops for all leaders, staffs, board members, officers, corporations, governments, and educators to make them aware of culture’s 35+ errors, omissions, and fantasies. ➤➤Teach the Eleven Elements of the New Scientific Method to enable hundreds of profitable R & D projects that are feasible in a Holographic Earth and Universe. We can develop and market programs to correct all of the basic causes of these many errors, omissions, fantasies, and massive false assumptions. Develop and use effective training in clear and critical thinking based on the GIGO Free Data Bases Needed to Avoid All Such Errors in the Future. Create education programs to teach everyone all of the actual total costs of violence, rape, mistreatment of babies, children, and women, junk food, malnutrition, war, false info, and ignorance. Apply cost benefit analysis and cause effect studies to show clearly all of the effects on cultures of spending wealth on weapons, military actions, and waste of any nature. ➤When Violence is used to solve problems in and between cultures, it always creates many far more damaging and very long term difficulties to children, adults, ecologies,  and all elements of every culture.<br/>➤Health Safety Training can change bad health habits. Safety training changed very dangerous work places to safe ones.. ➤Serendipity’s 190+ Web articles cover most of the major errors. <br/>Ask Your Geniuses To Report On What We Missed, and Advise Serendipity on how we can improve our writing, projects, and proposals.<br/>Phone me about evidence sources, references, and the world’s forefront of science research. <br/>➤Talk with attorneys who studied the 1838 to Present Ongoing War Against Alternative Medicine in representing 981 MD’s charged with using any Alternative Medicine method.  Learn why authors, health, and medical book publishers ignore 25 studies in 19 countries reporting “Holistic Health is valid, proven able to cure all “MD Incurable” problems inexpensively, saving 80%+ on MD costs”. The 52+ USA medical schools teaching an Alternative Medicine or Holistic Health class do it very ineptly. Study why cultures ignore Netherlands MD’s reports on Healing “MD Incurables” by working with Energy Healers.<br/>➤➤➤Cultural Conditioning is proven hypnotic in character. That’s Why Advertising Sells.<br/>➤This is the major factor in our gullibility, in our still continuing to believe any institution’s proven false info even long after research proved them involved in very serious, damaging, often very deadly errors and crimes. ➤Security?  Research based on Geniuses info enables eliminating Jet Lag with Medallion Devices from 4+ firms. Teach how and why 32 studies prove training in Yoga, Tai Chi, Aikido, and Meditation increases Intuitive Awareness of Danger, Error, Best Action, Creativity, reducing accidents 98% to 99.7%, errors 96% to 99%+. People Are Able to Avoid Danger! This will improve safety for all media people in dangerous areas. The increase in creativity will increase the rate of invention and new discoveries. Use Duke U and European psychic research and psychic abilities to catch all moles. NLP and Holistic Health is taught at Kennedy U, Orinda CA. ➤Use the One % of people that see Auras clearly to identify all problem people, criminals, rapists, pedophiles, violence prone, bombers, saboteurs, all other dangers, and victims. Almost all victims of any traumatic event can be healed completely.<br/>Use Natural Healing System Vegetarian Diet Prevention to reduce illness 76% to 83%, and costs 56% to 63%, 37 studies. I was born 1/26/1927, quit getting colds when I went Vegetarian in 1973. Reduce costs over 80% with Holistic Health Training, Healing, Prevention, and Complete Holistic Health Care Insurance, Prevention, and Treatment Programs. Insure everyone with a single payer Holistic Health System for 60%+ less costs, healing even most “MD Incurables”. ➤Correct Vision with Imagery within five days. This works on all problems, as bodies are Holograms, part of minds.  ➤Win law suits against MD health care providers and HHS for ongoing RICO. Their 1838 ongoing MD suppression of science in health care tortures people, is very deadly, and increasingly costly. ➤“What Everyone Knows Is So” is often proven false.  History repeatedly shows this.<br/>➤Apply all of science to improve effectiveness in all areas considerably. Use physics based research to solve weather control, proven feasible by projects in Britanin, develop devices to eliminate fires from a distance, and eliminate toxins or radiation from any area. ➤➤Physics indicates we may be able to develop new power sources from the underlying structure of matter within 40-60 years and $1.8 trillion max. Start this now, as it may take longer to succeed. This may be the only viable long term solution to energy needs. No more oil very soon. ‘They’ aren’t making any more.  ➤We solved nuclear power and bombs with 1938-44 science. The spinoffs in new science development will pay for the energy project, and solve many other problems by creating the foundation for the next two levels of basic science needed to work with MultiDimensional Holographic SubSystems. <br/>➤Physics and other sciences indicate that these projects are all scientifically feasible, IF we work with all of our Completely Interrelated, Integrated Holographic SubSystem.  Physics opens possibilities to solve hundreds of science and engineering projects we can’t address with mechanistic mind sets. Let’s use Science 2009.<br/>BASIC CAUSES OF 9-11 GOOFS STILL IGNORED–CULTURAL BLIND SPOT RESEARCH<br/>	I offer info and services to enable your using the forefront of science and knowledge to increase effectiveness and reduce errors. Security and cultures are ignoring research in many fields.  Workshops on the Forefront of Science and Knowledge will bring together the geniuses in each field to teach all key people and staffs an overview and understanding of the forefront of science and all knowledge. This is Mandatary to break human’s inherent habit of discounting any new to them info that conflicts with the actual inherent Mind Set of people and establishments. Why report AS IF 1800's info on science, sociology, and history is true???  Media will increase circulation IF they report honestly on Geniuses info. See article Security 9-11 and other Security, Govt + articles on SA web.<br/>	➤Establishments and investigative groups are still ignoring the key factors in 9-11, the Challenger loss, dike failures, WW2 12-7-41 radar failure to warn of Hawaii bombing, and all other failures to examine and use all applicable needed info to prevent and solve problems. <br/>➤This is always the inherent human habit of Psychologically Discounting any new info that conflicts with expected patterns. This is aided by greed, arrogance, payoffs, the Good Old Boy’s Network, stupidity, and the Bigotry Against and Suppression of Geniuses that is designed in to human cultures. ➤Each language has inherent world views and basic assumptions designed into languages. Language, Education, Culture, Religion, and Histories of each culture affect attitudes, emotions, world view, concepts, war, violence, women’s issues, and actions. <br/>	➤Sociology Cultural Psychology research proved that Cultural Conditioning is hypnotic in character, and is the major factor in human gullibility, disasters, errors, war, crime, rape, violence. This Is Why Advertising Works.<br/>➤➤➤Therefore Only 4.6% of people can even consider new to them info that conflicts with Their Mind Set.  This inherent habit makes ads effective. ➤Training in awareness of and how to override what Cultural Psychologists call the Vested Interests Syndrome is needed by all leaders, educators, governments, security, staff, adults, children, and cultures everywhere. <br/>	Help to aid and protect health, security, safety, military, pilots, ATC, drivers, parents, and kids. ➤Ignoring our geniuses findings in Cultural Psychology, sociology, science, history, climate, crops, the effects of language, religion, education, and culture on world view and actions, and major research on cultural blind spots is arrogant, short sighted, and very expensive. Governments, State Department, FBI, CIA, DOD, corporations, media, and educators need all science info, and research on training that drops accidents 98% to 99.7%, errors 96% to 99%, and Use NeuroLinguistic Programming  Imagery to permanently eliminate stress internalization in one 5-10 hour day.<br/>➤Training increases the intuitive awareness of danger, error, best action, creativity, and the rate of invention. This will increase the ability of all in military, education, government, and media to avoid most attacks, bombs, guns, and accidents, get the blood off the highways, and make children far safer. ➤Safety research proved “No One Has An Accident by Accident”. Inattention, distraction, stress, pharmaceuticals, drugs, and alcohol are major causes. ➤➤Finland almost completely eliminated alcohol from drivers. We can do this here. Driving Drunk is attempted murder. Charge all drunk drivers for trying to kill people. Research proves Holistic Health Drug Rehabilitation & Prevention Systems will get 99%+ permanent rehabilitation on all addictions: pharmaceuticals, hard drugs, food, tobacco, alcohol, even socially damaging behavior and criminal habits.<br/>	➤Why not use all of science? Injured and ill military, agents, families, and all people can be healed quickly with Holistic Health Sciences, even head and spinal cord injuries, yet this info on Energy Medicine as Applied Physics, validated by 42 recent studies and 5,000 years of use history is withheld from security agents, families, sports players, schools, military, media, Justice Department, and cultures. All involved in any sport need the safety training to prevent injuries, and Holistic Health Healing to heal all injured in any sport.“MD Incurable” injuries can all  be healed. ➤➤FBI management, agents, US Attorney, DoD, and elected officals refused to examine evidence of safety and error reduction training that will increase agent effectiveness and their ability to deal with Holographic SubSystems, enable avoiding detection in covert work, and the ongoing major crimes in MD Allopathic Medicine’s 1838 to present war against science in health care, their 1838 ongoing fascist suppression of Alternative Medicine, Holistic Health, Natural Healing System Vegetarian Diet Healing and Prevention, Herbal Medicine, Yoga, the Interrelationships of Mind Body Environment. ➤Physics proved bodies are mind stuff, literally part of the mind. ➤MD’s paid Congress under the table for 82 years to be in charge of all health care and eliminate all competition. There are 212+ books on this ongoing war. Expose it and stop it. This is theft by deception, criminal malfeasance,  torture, manslaughter, and RICO. In 1987 AMA was found guilty of conspiracy, restraint of trade, and anti trust, lost their appeal. ➤11 smarter MD groups settled out of court.<br/>	➤Serious negligence in security training is still ignored. They miss Sociologist’s Cultural Psychology research on each culture, the effects of history, language, religion, subculture, culture, and education on emotions, attitudes, world view, and their probable actions.<br/>Understanding geniuses research needs all of this info and more. We sent data to DoD, media, government, and educators since 1975.<br/>Discounting proven new info is anti security.<br/>➤➤We gave this info to DoD’s Chief of Staff Colin Powell and FBI agent Moss in 1992, and many others since. None bothered to check references, talk with researchers, and examine evidence. ➤Always Examine who disagrees with establishments and why. The Good Old Boy Network is alive, well, and very damaging. <br/>➤Address all of the interrelated major factors involved in our massive failure to develop fully democratic, responsible, responsive, intelligent, caring governments and firms that plan ahead for ten thousand years in all actions who work with entire Interrelated Holographic SubSystems to gain best results for all people and ecologies..<br/>➤All decisions and actions need to create the best possible outcome for children, adults, and environment in the long term. We still fail to act, even in the face of our experience that the design of most government systems requires elected officials to raise massive amounts of money for elections.  This results in them acting in favor of establishment contributors, and against the best interests of people, ecologies, the actual needs of people, society, and long term human survival.  Examine the evidence on political sellouts throughout our history reported in 783+ books, and the major sellouts today in health, safety, education, agriculture, violence, crime, justice systems design, and in handling info, ignoring problem prevention, definition, actual causes, interrelationships, systems, and valid scientifically based solutions. Leaders, their key people, and staffs all fail to consider or verify Whistle Blowers and University info. There are 428 histories on establishments shooting down innovators and whistle blowers, often literally.  Major sellouts were shown by the failure to examine and act on the President’s Health Committee 23 person Holistic Health study 1997  report “Holistic Health is valid, Integrate It, Save Lives, Suffering, Billions”. Neither Clinton nor the public was told that they had the info on curing 99%+ of breast and skin cancer, vision, stress, AIDS, and all other mind body health problems of any nature. I talked with them. The report was suppressed. Why? ➤➤Who did it? Who ordered it ignored to suppress science in health care??? Greed?<br/>➤Pharmaceutical MD money buys votes. MD’s running the Health Committee suppressed the Holistic Health study results. Brain washing works. Payoffs help. MD systems. MD  schools all promote pills, not science. Drugs are seldom needed. We can heal both problems and causes. There are five types of payoffs now. Use Herbs and all elements of Alternative Medicine.<br/>	Examine our summaries of geniuses info, security, safety,  military, and other proposals.<br/> Education still has 22 errors, omissions, and fantasies. Agriculture and weather cycle studies find that Earth will only be able to feed one billion people in the 2100's, even IF we develop new power sources from the underlying structure of matter. Physics and other research indicates this is feasible. Oil is gone by 2100. ➤➤➤Earth can only support 500 million without oil. Fuels are used by Agriculture. Can’t grow fuel and food. Both require crop land and fuel. Do corn bio fuels use 1.29 gallons of oil to produce and deliver one gallon of bio fuel, only 70% as powerful???<br/>➤All structures must be built for very low energy use. Straw bale construction, triple glazed windows, fireproof construction, and solar panels are urgently needed. Fossil fuel availability is decreasing rapidly. Ergonomic design, low maintenance design, lightning rods, fireproof construction, and very low energy use is less costly over the life of buildings. Saves money on insurance and saves lives. Not requiring this kills some people.<br/>	➤Home and Business  Insurance Firms Violate Deceptive Practices Act When They Fail to Cover Full Replacement Value. Why no criminal charges??? Do we need more laws, or are we failing to apply current laws???<br/>	IRS seems to act illegally when they tax property sales without adjusting purchase price to the dollars current value. Isn’t it illegal to tax nonexistent profit of depreciated dollars?<br/>➤Promote Solar Panel efficiency research. National and international building codes are important. Psychotronic devices from many firms like Pyradyne Inc in LA will make all buildings and areas more livable. ➤Buy Pyradyne’s Laser OmniOrb, with 163 times the energy of a standard pyramid, demonstrate for all your people, use for research . Get prices from them, order through us, check made out to them, and we get credit. ➤➤They and others make Medallions that eliminate Jet Lag. No Jet Lag is important to all travelers and government. Yet Media, DOD, State, Educators ignore device research and Physics. “Science, What’s That?” attitude is very damaging and costly. <br/>	We need to plan ahead in all fields. ➤➤➤Farms use oil. ➤How many people can Earth feed without good crop weather and fuel? ➤Perhaps 500 Million IF We Rebuild Ecologies we depended on throughout human history..  Earth’s Population in 200 AD Is All Earth Can Support with weather changes and no oil.  Talk with Prof Milton Searle, UCSD Biology Dept.<br/> ➤Get George Kuepper’s 2006 report on Radionic and Tower devices, SA web Ag.. Appropriate Technology Transfer For Rural Areas, 16,000 farmers, and USN research in 1984 report “Radionic Devices Eliminate All Insect Pests, Viruses, Bacteria, Fungus, and Mold from any target area, using different frequencies for each item”. Saves farmer’s budgets 17%-22%+, keeps toxins out of food and environment, saves farm workers lives, and improves health for everyone. They increase soil fertility. They will remove any insect pest, bacteria, viruses, fungus, and mold from commercial buildings, houses, hospitals+. Make soils more fertile. No fertilizers or poisons. Use after floods and storms. ➤Tower Devices make plants and animals healthier and calmer in a 2,500 acre area, reducing farm birth defects 98.4%. Pregnant women near a Tower for nine months will tend to be free of birth defects. Place these throughout all cities. These devices are ignored, suppressed, as they are only explained by Quantum Physics. ➤Radionic Devices will eliminate all biowarfare agents, yet DoD fails to study them. Military has eight major errors, 23 altogether. We’ve mailed Joint Chiefs, DoD, and State Dept since 1992. General Powell received our material in 1992. Didn’t respond to mail or phone calls. ➤FDA closed two firms for daring to state that Radionics eliminates viruses and bacteria. D.C. Post Office needs these now.<br/>	We urgently need to require that all elected, appointed, and hired key people, decision makers, researchers,. and their staffs have a high IQ, Mensa level or more, and the ability to pass a test on the forefront of science, history, sociology, human knowledge, all of the interrelationships in science and knowledge, and the  implications of systems research, physics proof that all we deal with, and us, are Completely Integrated, Interrelated MultiDimensional Holographic SubSystems of a MultiDimensional Holographic Universe, Cost Benefit Analysis, Cause Effect Studies, and Long Term Effects of Actions.. This is urgent for all school and university boards, media, corporations, security, government officials, staffs, politicians, kids, and all people. Our Holographic Universe requires Eleven Elements of the New Scientific Method, and often Four Design of Experiment Modalities to be scientific.  ➤➤Optimum decisions can’t be made on a badly GIGO’d data base.  Geniuses data at the forefront of science and knowledge is needed by all involved in decisions, education, information handling, children, cultures, research, and life. Earth can’t afford decisions made with ignorance of accurate data, or to please Vested Interests, greed, and power.<br/> GIGO’d info is costly and deadly.<br/>	➤World Peace and World Health are feasible Only IF we correct all 22 errors in education world wide, and use all of the info geniuses have developed for all planning, raising children, education, and all actions. <br/>	We can increase creativity, reduce populations rapidly, eliminate violence and actions against people and Earth, yet we make no effort to apply geniuses info that will make sane survivable societies feasible.<br/>➤➤When all leaders know we face eight possible and probable disasters, learn what our geniuses have discovered, and how very damaging actions based on false info are, many will change their destructive habits of thought and action. Some will renounce war to act for human survival. Business and cultures act to make destruction of ecologies and weather changes far worse. There are 32 studies of training that reduces accidents and errors 98% to 99.7% by increasing intuitive awareness of errors, best action, and danger. They avoid danger and errors. The study groups work with Yoga, Tai Chi, Meditation, and Aikido. Studies have been reported in our literature since 1938, every paper 7-87, an AP story on the 32nd study.  ➤Failure to require this training for all drivers, pilots, parents, children, espionage, military, security, firemen, and leaders results in many avoidable deaths and injuries. Training reduces violence in schools, families, and cultures, increasing creativity and rates of invention. <br/>	➤Governments, both elected and hired officials, HHS, DoD, corporations, Homeland Security, educators, media, corporations, HR management, and all staffs  are involved in these ongoing crimes.<br/>	➤The scientific method requires questioning all assumptions. Read “Education Scientific Method, Eleven Elements”. Four Design of Experiment Tools Often Necessary to be Scientific. Study all SA articles and evidence.<br/>➤False Assumptions are dangerous and very expensive. Always ask who disagrees with establishments and why. They are often, not always, right. Examine all of the evidence far more  carefully when it conflicts with your belief system. Check evidence, references. <br/>	➤Let’s correct all of the actual basic causes of our many problems and apply the forefront of science and knowledge in all areas of life and human survival! <br/>➤Stop the extremely damaging Discrimination, Discount, and Bigotry Against Geniuses and Their Discoveries. Promote very long term planning ahead for thousands of years. Examine Effects of Actions Over Ten Centuries and Over Eons. ➤Promote effective systems planning ahead in all that we do for at least 100,000 years. Act AS IF humanity was going to live on Earth for more then a few years. <br/>Why continue to act to destroy humanities’ increasingly small chance of survival???<br/>➤➤Call me re receipt, references, and actions planned.  ➤Encourage Whistle Blowing. <br/>➤Help create a major nonprofit to offer rewards, protection, better jobs, education, and relocation if needed, for all who identify problems and coverups in our culture and world. Publicize the five types of payoffs rampant in our culture and world, the damage done by the Good Old Boys Network, and how both act against babies, children, women, families, men, cultures, ecology, and both short and long term human ecological survival. Require criminal penalties against all who act against people and long term survival. We are far past any possibility of comfortable human survival.<br/>➤Does any religion’s teaching say to promote starvation and war by pushing overpopulation and destroying ecological systems??? Or to kill women by forcing pregnancy and birth??? Or to ignore and lie about health, healing, and prevention tools???<br/>	➤➤➤GIGO’d information systems are very costly of lives and wealth. Decisions based on false or distorted info wastes lives and money.  We have destroyed ecological systems at an increasing rate, do even worse each year. <br/>➤We are out of oil before 2100. <br/>➤Emphasize that science keeps proving ‘What We Absolutely Know Is So’ is quite incorrect, and what happens when establishments are caught in serious errors, omissions, fantasies, and fraud.  ➤➤Teach how and why Matriarchal Cultures are far more effective in meeting the needs of children, families, adults, ecologies, and long term survival. They always do far better at seeing the complete system, all details, planning for all needs, planning for the future. ➤➤➤If you want jobs done right, hire women.  ➤Will humans reduce world population 93% to 500 million, or starve six billion by 2140??? <br/>➤We must rebuild ecologies rapidly to support even 500 million next century.<br/>	➤We are very far past any possibility of comfortable human and ecological survival.<br/>Our best universities prove unable to examine research or listen to professors proving errors. Cross disciplinary education is urgent, as all departments info applies to all others. Physics, Sociology, and History clarify major errors. Science enables many opportunities for research, health, healing, and problem solving not feasible with the proven false mechanistic concepts.<br/>Graduates lack basic info on the implications of Holographic MultiDimensional SubSystems, Systems research, cause effect relationships, cost benefit analysis, the many lessons of history, how Science keeps proving wrong what we absolutely know is so, why Geniuses new information is ignored for two to hundreds, sometimes thousands of generations, when it conflicts with Basic Beliefs, why Mind Set takes precedence over new scientific information and research, and both how and why we take many generations to act on new to us info. There are 428+ books by historians on establishment habit of shooting innovators and whistle blowers, today as throughout history. We are still the same biologically designed people, all but 4.6% unable to even consider new info that conflicts with their beliefs, their Mind Set!!! This is inherent in the biological design of ALL SPECIES, literally designed in to all humans. ➤➤We evolved in tribal cultures. We still think and act with tribal attitudes and responses.<br/>	Why do you feel you have to keep proving that Sociologists are correct by refusing to examine evidence, research, science, sociology, and history???   Geniuses exist in universities and throughout all cultures. Why ignore their findings??? Addre</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2979" href="javascript:ajaxLink('DiscussionTopicComment_2979', '/akira/discussion.do?mode=comment&dbid=2294&topicID=2979')">Comments (6)</a></span><span id="DiscussionTopicTag_2979"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=geniuses identify 35 cultural errors">geniuses identify 35 cultural errors</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=omissions">omissions</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=fantasies">fantasies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=in usa">in usa</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2979"></div>
+</div></td>
+</tr>
+<tr id="row_2978">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2978">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2978', '/akira/discussionVote.do?dbid=2294&topicID=2978&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 74</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_2978'))" style="text-decoration:none;" id="TopicVote_2978" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 74</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_2978'))">57</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2978', '/akira/discussionVote.do?dbid=2294&topicID=2978&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2978"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2978-4049"><span id="IdeaTitle_2978">Invest in America's future by expanding forgiveness programs for student loan borrowers&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4314-4049">jillrsevern</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">A huge percentage of Americans are/will be saddled with crippling student loan debt from skyrocketing education costs.  Public work forgiveness programs are filled with loopholes that exclude those who have borrowed significant amounts and who have been paying for a longer time. We are creating a society of permanent indebtedness which prevents all but the very rich and very poor from exploring careers in less than profitable, but vital liberal arts.  if we cannot reduce education costs then we must help students to bear this burden.  If we can't expand forgiveness programs, then we should consider all borrowers to deduct the full amount of interest accrued on their loans as we do for homeowners.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2978" href="javascript:ajaxLink('DiscussionTopicComment_2978', '/akira/discussion.do?mode=comment&dbid=2294&topicID=2978')">Comments (2)</a></span><span id="DiscussionTopicTag_2978"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=student loans education costs">student loans education costs</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2978"></div>
+</div></td>
+</tr>
+<tr id="row_2969">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2969">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2969', '/akira/discussionVote.do?dbid=2294&topicID=2969&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 19</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2969'))" style="text-decoration:none;" id="TopicVote_2969" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 19</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2969'))">15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2969', '/akira/discussionVote.do?dbid=2294&topicID=2969&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2969"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2969-4049"><span id="IdeaTitle_2969">Protect medical data on computer - hippa/privacy is made a joke&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4283-4049">go2thesun</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">My privacy was violated in VA and county - by phone- TO DENY - too many DISABiLITY ISSUES for per diem.<br/>no proof on record. but if you read some knew before i was even signed up in that VA /COUNTY SYSTEM. <br/>HUD HAD med INFO  direct !?! to leave too disabled in the road?<br/>at VA too many people have access.<br/><br/>ONLY  MED RECORDS AND DiRECT CARE TEAM AND ONE TIME SPECiALIST ACCESS  SHOULD BE LOGGED IN ALLOWED.<br/><br/>ALL SOCIAL WORKER AND SUPPORT STAFF ONE TIME ACCESS with release of info AND DOCUMENT with all SIGN IN.<br/><br/>until i got one very special doc to help- years nsc multi disabled older female vet left in the road disabled -not an addict   black listed for too many medical conditions  from per diem shelter and most care programs.<br/><br/>how did  a VA 500 MILES AWAY HAVE INFO BEFORE I WAS EVEN SIGNED IN for care? telephone<br/>how did hud have med info to  say too many medical conditions for help on hud violations? telephone</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2969" href="javascript:ajaxLink('DiscussionTopicComment_2969', '/akira/discussion.do?mode=comment&dbid=2294&topicID=2969')">Comments (0)</a></span><span id="DiscussionTopicTag_2969"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2969"></div>
+</div></td>
+</tr>
+<tr id="row_2965">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2965">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2965', '/akira/discussionVote.do?dbid=2294&topicID=2965&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 6</div><div>Votes Against : 25</div>', document.getElementById('TopicVote_2965'))" style="text-decoration:none;" id="TopicVote_2965" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 6</div><div>Votes Against : 25</div>', document.getElementById('TopicVote_2965'))">-19</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2965', '/akira/discussionVote.do?dbid=2294&topicID=2965&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2965"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2965-4049"><span id="IdeaTitle_2965"> Feds please ask car insurance companies to promote gas/cost  savings.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4283-4049">go2thesun</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Cut insurance rates for those who do not drive  7-9 am and  4-6 pm,  1-3am (ER visIts excluded) big sticker on car<br/>tickets for violating.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2965" href="javascript:ajaxLink('DiscussionTopicComment_2965', '/akira/discussion.do?mode=comment&dbid=2294&topicID=2965')">Comments (0)</a></span><span id="DiscussionTopicTag_2965"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2965"></div>
+</div></td>
+</tr>
+<tr id="row_2956">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2956">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2956', '/akira/discussionVote.do?dbid=2294&topicID=2956&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 8</div><div>Votes Against : 68</div>', document.getElementById('TopicVote_2956'))" style="text-decoration:none;" id="TopicVote_2956" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 8</div><div>Votes Against : 68</div>', document.getElementById('TopicVote_2956'))">-60</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2956', '/akira/discussionVote.do?dbid=2294&topicID=2956&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2956"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2956-4049"><span id="IdeaTitle_2956">gitmo&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4264-4049">greg12569</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">why don't we send the prisoners to the artic or antartic and human rights group can visit them all they want.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2956" href="javascript:ajaxLink('DiscussionTopicComment_2956', '/akira/discussion.do?mode=comment&dbid=2294&topicID=2956')">Comments (5)</a></span><span id="DiscussionTopicTag_2956"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2956"></div>
+</div></td>
+</tr>
+<tr id="row_2952">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2952">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2952', '/akira/discussionVote.do?dbid=2294&topicID=2952&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 8</div><div>Votes Against : 51</div>', document.getElementById('TopicVote_2952'))" style="text-decoration:none;" id="TopicVote_2952" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 8</div><div>Votes Against : 51</div>', document.getElementById('TopicVote_2952'))">-43</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2952', '/akira/discussionVote.do?dbid=2294&topicID=2952&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2952"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2952-4049"><span id="IdeaTitle_2952">Guantanamo Bay...&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4256-4049">billb1776</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">You could send the detainees to West Point for our cadets to get to know our enemies.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2952" href="javascript:ajaxLink('DiscussionTopicComment_2952', '/akira/discussion.do?mode=comment&dbid=2294&topicID=2952')">Comments (0)</a></span><span id="DiscussionTopicTag_2952"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=gitmo disgrace dirty uniforms">gitmo disgrace dirty uniforms</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2952"></div>
+</div></td>
+</tr>
+<tr id="row_2913">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2913">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2913', '/akira/discussionVote.do?dbid=2294&topicID=2913&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 43</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2913'))" style="text-decoration:none;" id="TopicVote_2913" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 43</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2913'))">36</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2913', '/akira/discussionVote.do?dbid=2294&topicID=2913&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2913"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2913-4049"><span id="IdeaTitle_2913">Limit IRS Regulation to 100 Pages&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4130-4049">esoltas</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Our nation's schoolchildren abide such rules everyday--so why is government allowed to fill libraries with the mind-numbingly complex literature that is income tax law? Congress must scrap the existing income tax regulation in favor of something the American public, even they themselves, can read. As was shown by the tax-code embarrassments of  Timothy Geithner and Kathleen Sebelius, even the authors of our income tax laws find them utterly unreadable.<br/><br/>America needs to have a tax code it can read within a week, not several lifetimes. The fact that a billion-dollar industry that revolves solely around completing your income taxes for you is shameful and reflective of the government-sponsored confusion the IRS has created.<br/><br/>Furthermore, simplifying the income tax system will reap benefits for the American people and business. Even the IRS stands to gain, as it can more easily find the true tax evaders, not just the innocent ones who misread a bit of the legalese. Small-business owners will no longer lose valuable time sifting through complex taxation literature or have to pay their entire profit to a company like H&R Block. By streamlining the income tax, it will be a second stimulus to small businesses across America.<br/><br/>What I advocate is none less than an extension of these criticisms:<br/>-Whether it be through Congressional legislation or by Geither if he as such authority over the IRS (which I doubt) is to publish a document, 100 pages, double spaced and in 12-point Times New Roman, that contains the full form of income taxes for the individual and business. <br/>-If Congressional action is required, then make it clear that this is not a subversive method of raising taxes. Do not touch tax rates. However, the well-concealed loopholes manipulated by the petrochemicals industry and big-businesses will have to be dropped to fit the length limit.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2913" href="javascript:ajaxLink('DiscussionTopicComment_2913', '/akira/discussion.do?mode=comment&dbid=2294&topicID=2913')">Comments (0)</a></span><span id="DiscussionTopicTag_2913"><a href="/akira/ideafactory.do?discussionID=2294">Legal & Policy Challenges</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=income tax">income tax</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=100 pages">100 pages</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=irs">irs</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2913"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 199<br/> Displaying 126 to 150<div class="pages"><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=4" class="nextprev" title="Go to Previous Page">&#171; Previous</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=0" title="Go to page 1">1</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=1" title="Go to page 2">2</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=2" title="Go to page 3">3</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=3" title="Go to page 4">4</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=4" title="Go to page 5">5</a><span class="current">6</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=6" title="Go to page 7">7</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=7" title="Go to page 8">8</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2294&pageOffset=6" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

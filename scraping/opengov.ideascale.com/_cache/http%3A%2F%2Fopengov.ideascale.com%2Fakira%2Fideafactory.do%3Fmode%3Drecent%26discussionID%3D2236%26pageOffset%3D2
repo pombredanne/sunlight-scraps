@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Making Data More Accessible</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2236">Top Rated (221)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2236">Recent (221)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_4320">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4320">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4320', '/akira/discussionVote.do?dbid=2236&topicID=4320&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 88</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4320'))" style="text-decoration:none;" id="TopicVote_4320" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 88</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4320'))">77</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4320', '/akira/discussionVote.do?dbid=2236&topicID=4320&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4320"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4320-4049"><span id="IdeaTitle_4320">Lack of Transparency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/11097-4049">celliottt</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I just don't understand why so much money (almost a million dollars now) has been spent keeping his original birth certificate, passport, college records, and his records as a law prof sealed.  It makes it looks like there is something to hide.  The foreign press is having a heyday with the gulibility of the American people. Why is Obama given a pass from the media and is allowed to get away with so much.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4320" href="javascript:ajaxLink('DiscussionTopicComment_4320', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4320')">Comments (4)</a></span><span id="DiscussionTopicTag_4320"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4320"></div>
+</div></td>
+</tr>
+<tr id="row_4317">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4317">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4317', '/akira/discussionVote.do?dbid=2236&topicID=4317&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 94</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4317'))" style="text-decoration:none;" id="TopicVote_4317" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 94</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4317'))">84</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4317', '/akira/discussionVote.do?dbid=2236&topicID=4317&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4317"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4317-4049"><span id="IdeaTitle_4317">Transparency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/11044-4049">davemclucas</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">How can we have transparency when our elected (not by me) president refuses to release his birth certificate?  Until that is done, I will not acknowledge Barrack as being our constitutionally elected president.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4317" href="javascript:ajaxLink('DiscussionTopicComment_4317', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4317')">Comments (9)</a></span><span id="DiscussionTopicTag_4317"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4317"></div>
+</div></td>
+</tr>
+<tr id="row_4316">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4316">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4316', '/akira/discussionVote.do?dbid=2236&topicID=4316&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 89</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4316'))" style="text-decoration:none;" id="TopicVote_4316" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 89</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4316'))">78</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4316', '/akira/discussionVote.do?dbid=2236&topicID=4316&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4316"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4316-4049"><span id="IdeaTitle_4316">So lets see it already...&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10025-4049">yvette31157</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Prove you're not the imposter that those of us not fooled by you think you are.  There will be no rest during your administration period until you do.  If you are not who you say you are, do the country that you say you love a real service and get out now.<br/>The courts so far, have said that the private citizens of this country have no right to demand that you show proof.  I say that private citizens are who this country really is and not you fools in Washington making a mess of things and taking advantage of the people, not to mention taking our hard earned money.  If we are be forced to pay the bill we have every right to know exactly what kind of product we are getting.  After all I wouldn't buy the shirt on my back, that you are trying take from me, without first examining it for flaws.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4316" href="javascript:ajaxLink('DiscussionTopicComment_4316', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4316')">Comments (1)</a></span><span id="DiscussionTopicTag_4316"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4316"></div>
+</div></td>
+</tr>
+<tr id="row_4315">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4315">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4315', '/akira/discussionVote.do?dbid=2236&topicID=4315&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 92</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4315'))" style="text-decoration:none;" id="TopicVote_4315" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 92</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4315'))">82</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4315', '/akira/discussionVote.do?dbid=2236&topicID=4315&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4315"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4315-4049"><span id="IdeaTitle_4315">Release your birth certificate&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/11032-4049">betcarjet</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">It is an outrage that we have such a compliant main-stream media what will allow such a cover up.  These issues of Obama's birth certificate were raised PRIOR to the election but they were "laughed off" as the WH Press Secretary is doing today.  Americans need to know if their president has a legitimate right to the office.  Congress investigated John McCain's citizenship when he was the son of an active-duty military officer.  Where was the investigation into Barak Obama who never grew up as an Amerian?  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4315" href="javascript:ajaxLink('DiscussionTopicComment_4315', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4315')">Comments (6)</a></span><span id="DiscussionTopicTag_4315"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4315"></div>
+</div></td>
+</tr>
+<tr id="row_4311">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4311">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4311', '/akira/discussionVote.do?dbid=2236&topicID=4311&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 86</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4311'))" style="text-decoration:none;" id="TopicVote_4311" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 86</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4311'))">77</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4311', '/akira/discussionVote.do?dbid=2236&topicID=4311&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4311"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4311-4049"><span id="IdeaTitle_4311">We Demand the Truth about your Citizenship&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10966-4049">mkline777</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">There is only ONE reason he will not provide the proper paperwork If he does it will disqualify him He knows that so what does he have to lose to holdout on the phony one from HI. IT'S THAT SIMPLE</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4311" href="javascript:ajaxLink('DiscussionTopicComment_4311', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4311')">Comments (4)</a></span><span id="DiscussionTopicTag_4311"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4311"></div>
+</div></td>
+</tr>
+<tr id="row_4310">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4310">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4310', '/akira/discussionVote.do?dbid=2236&topicID=4310&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 96</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_4310'))" style="text-decoration:none;" id="TopicVote_4310" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 96</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_4310'))">83</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4310', '/akira/discussionVote.do?dbid=2236&topicID=4310&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4310"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4310-4049"><span id="IdeaTitle_4310">Prove you are not a FRAUD "President" Obama!&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10973-4049">np_350</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Your long-form birth certificate, Mr. Obama, is the first step for making this administration more transparent.  Everything you say about making government more open is meaningless and hypocritical unless you PROVE YOUR ELIGIBILITY TO SERVE.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4310" href="javascript:ajaxLink('DiscussionTopicComment_4310', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4310')">Comments (9)</a></span><span id="DiscussionTopicTag_4310"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=birth certificate">birth certificate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=hypocrite">hypocrite</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=transparency">transparency</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=eligibility">eligibility</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4310"></div>
+</div></td>
+</tr>
+<tr id="row_4308">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4308">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4308', '/akira/discussionVote.do?dbid=2236&topicID=4308&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 85</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4308'))" style="text-decoration:none;" id="TopicVote_4308" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 85</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4308'))">75</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4308', '/akira/discussionVote.do?dbid=2236&topicID=4308&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4308"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4308-4049"><span id="IdeaTitle_4308">Obama Live Birth Certificate&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10990-4049">haralick</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">There is no reason why Obama does not release to the public his<br/>live birth certificate to show that he was indeed born in<br/>Hawaii. This is what a significant fraction of the American public<br/>wants and he is obligated to do so, even if he thinks that he has<br/>no legal requirement to do so. Further, this would be consistent<br/>with the Obama open government concept.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4308" href="javascript:ajaxLink('DiscussionTopicComment_4308', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4308')">Comments (4)</a></span><span id="DiscussionTopicTag_4308"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4308"></div>
+</div></td>
+</tr>
+<tr id="row_4304">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4304">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4304', '/akira/discussionVote.do?dbid=2236&topicID=4304&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 83</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4304'))" style="text-decoration:none;" id="TopicVote_4304" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 83</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4304'))">73</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4304', '/akira/discussionVote.do?dbid=2236&topicID=4304&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4304"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4304-4049"><span id="IdeaTitle_4304">Nothing to gain, everything to lose by concealing documents&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10778-4049">company_man</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The way I see it, President Obama can only gain negative publicity and increased scrutiny for continuing to conceal documents pertaining to his place of birth, foreign student status, voting records,etc. I does not seem helpful either when his press secretary cackles like a hyena when questioned about it.<br/><br/>President Obama can only be perceived as having performed some questionable, decietful, or even illegal acts by concealing this documentation.<br/><br/>The United States of America have the highest expectations for the POTUS. Just because others have come before and soiled the nation and its highest office does not mean that we the people want it defamed further.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4304" href="javascript:ajaxLink('DiscussionTopicComment_4304', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4304')">Comments (2)</a></span><span id="DiscussionTopicTag_4304"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4304"></div>
+</div></td>
+</tr>
+<tr id="row_4303">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4303">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4303', '/akira/discussionVote.do?dbid=2236&topicID=4303&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 97</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4303'))" style="text-decoration:none;" id="TopicVote_4303" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 97</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4303'))">86</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4303', '/akira/discussionVote.do?dbid=2236&topicID=4303&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4303"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4303-4049"><span id="IdeaTitle_4303">I used to live in Hawaii...&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10663-4049">G S</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">...and a "Certificate of Live Birth" is NOT the same thing as a "Birth Certificate" in that state.  You can check this out for yourself via their own state websites.<br/><br/>I now live in Houston and two weeks ago had a chance convesation with a foreign student who is going to school here for Business. He is from Kenya.  I asked him what do the Kenyan people think about Obama and all the controvery about where he was born?  He got quiet and smiled a big white toothed smile against his dark skin and said, "Everyone in Kenya knows Obama was born there."<br/><br/>Can I prove his comment is true?  No.  BUT I can relay the conversation I had to whomever reads this.  <br/><br/>If this were a court case - and many are trying to make it so with no success - I'd say the evidence is stacked against our President that he has not been "transparant" with information the American people should know.  <br/><br/>I just fail to understand WHY this issue is so hard for him.  It seems to be such a "no-brainer" and could make all of these comments go away. Simply produce the ORIGINAL Birth Certificate and College Transcripts with such corroborated information.  That's all.  <br/><br/>If he indeed was born here. Put my suspicions and seemingly a huge amount of others, based on posts here, to rest.<br/><br/>Be "transparant" with Government informationa as you say you wish to do, Mr President.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4303" href="javascript:ajaxLink('DiscussionTopicComment_4303', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4303')">Comments (6)</a></span><span id="DiscussionTopicTag_4303"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=birth certificate">birth certificate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=president">president</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama">obama</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=transparency">transparency</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=freedom of information">freedom of information</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=constitution">constitution</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4303"></div>
+</div></td>
+</tr>
+<tr id="row_4302">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4302">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4302', '/akira/discussionVote.do?dbid=2236&topicID=4302&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 100</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_4302'))" style="text-decoration:none;" id="TopicVote_4302" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 100</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_4302'))">87</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4302', '/akira/discussionVote.do?dbid=2236&topicID=4302&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4302"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4302-4049"><span id="IdeaTitle_4302">Birth Certificate Please&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10867-4049">squidmaz48</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">We as Americans value our Constitution. We all have to follow rules when going through marriage, births, school, jobs,etc.  We are required to show proof who we are. Please as a "leader" won't you do the same. It has been proven that the copies submitted to the state of Hawaii are complete frauds. Go to Philip Berg's (Esquire) website. He has 2 cases pending . Another delay from the courts till September 09. There is a link there on the left side COLB Facts. Just read it and draw your own conclusion. As a concerned American natural born citizen it is important to pass information along to fellow Americans.God Bless America.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4302" href="javascript:ajaxLink('DiscussionTopicComment_4302', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4302')">Comments (6)</a></span><span id="DiscussionTopicTag_4302"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=birth certificate">birth certificate</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4302"></div>
+</div></td>
+</tr>
+<tr id="row_4301">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4301">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4301', '/akira/discussionVote.do?dbid=2236&topicID=4301&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 95</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4301'))" style="text-decoration:none;" id="TopicVote_4301" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 95</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4301'))">86</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4301', '/akira/discussionVote.do?dbid=2236&topicID=4301&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4301"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4301-4049"><span id="IdeaTitle_4301">Transparency?&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10633-4049">rosepetal57</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">From WND:  The "Certification of Live Birth" posted online and widely touted as "Obama's birth certificate" does not in any way prove he was born in Hawaii, since the same "short-form" document is easily obtainable for children not born in Hawaii. The true "long-form" birth certificate – which includes information like the name of the birth hospital and attending physician – is the only document that can prove Obama was born in Hawaii, but to date he has not permitted its release for public or press scrutiny. <br/><br/>From Joseph Farah, WND: The billboard campaign was born of frustration with timid elected officials in Washington, corrupt judges around the country and a news media that show a stunning lack of curiosity about the most basic facts of Obama's background – especially how it relates to constitutional eligibility for the highest office in the land. <br/><br/>"As Obama transforms this country from self-governing constitutional republic to one governed by a central ruling elite, the simple fact remains that no controlling legal authority has established that he is indeed a 'natural born citizen' as the Constitution requires," Farah said. "Obama's promises of transparency have become a bad joke as he continues to hide simple, innocuous documents like his birth certificate and his student records." <br/><br/>The idea behind the billboard campaign is to make sure Obama cannot avoid this question any longer. He must be asked to produce it at every turn, Farah says. Billboard space is currently being hunted in Houston, Dallas, Sacramento, San Francisco, Seattle and other metro areas. <br/><br/>"Is it unusual for a news agency to launch such a campaign?" asks Farah. "Yes it is. But we live in very unusual times. The founding fathers built special protections into the First Amendment for the free press. The reason they did that is because they understood a vibrant 'Fourth Estate' was necessary as an independent watchdog on government. It is in that tradition that WND assumes this role – since nobody else in the press will do it." <br/><br/>Oddly, though congressional hearings were held to determine whether Sen. John McCain was constitutionally eligible to be president as a "natural born citizen," no controlling legal authority ever sought to verify Obama's claim to a Hawaiian birth. <br/><br/>What's the hold up President Obama?</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4301" href="javascript:ajaxLink('DiscussionTopicComment_4301', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4301')">Comments (5)</a></span><span id="DiscussionTopicTag_4301"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama's long form birth certificate">obama's long form birth certificate</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4301"></div>
+</div></td>
+</tr>
+<tr id="row_4300">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4300">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4300', '/akira/discussionVote.do?dbid=2236&topicID=4300&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 94</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4300'))" style="text-decoration:none;" id="TopicVote_4300" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 94</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4300'))">85</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4300', '/akira/discussionVote.do?dbid=2236&topicID=4300&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4300"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4300-4049"><span id="IdeaTitle_4300">Who is this guy&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10844-4049">gwar44</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Only people who have something to hide would fight so hard to keep such things as school records and your birth cert secret. When the truth finaly comes out and the country is thrown into chaos as people feel decieved by every level of government,maybe then people will start to act like citizens instead of party hacks.It is hard to believe that people put party politics above loyalty to this nation.America is in dire straights with this administration and its ignorant followers</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4300" href="javascript:ajaxLink('DiscussionTopicComment_4300', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4300')">Comments (8)</a></span><span id="DiscussionTopicTag_4300"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4300"></div>
+</div></td>
+</tr>
+<tr id="row_4299">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4299">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4299', '/akira/discussionVote.do?dbid=2236&topicID=4299&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 99</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_4299'))" style="text-decoration:none;" id="TopicVote_4299" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 99</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_4299'))">92</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4299', '/akira/discussionVote.do?dbid=2236&topicID=4299&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4299"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4299-4049"><span id="IdeaTitle_4299">Make Your Eligibility Public&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10911-4049">cwboy3</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Anyone willing to expose government secrets should certainly be willing to show his own simple school and birth records to prove he is qualified for his position. Stop stonewalling.<br/><br/>If those records support that you're qualified as natural born then what's the problem? What are you hiding. I certainly would have no problem presenting school and birth information and have HAD to do so for several jobs. This information is generally a matter of public availability so why go through so much effort to hide yours?</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4299" href="javascript:ajaxLink('DiscussionTopicComment_4299', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4299')">Comments (2)</a></span><span id="DiscussionTopicTag_4299"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4299"></div>
+</div></td>
+</tr>
+<tr id="row_4298">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4298">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4298', '/akira/discussionVote.do?dbid=2236&topicID=4298&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 100</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_4298'))" style="text-decoration:none;" id="TopicVote_4298" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 100</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_4298'))">93</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4298', '/akira/discussionVote.do?dbid=2236&topicID=4298&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4298"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4298-4049"><span id="IdeaTitle_4298">transparency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10914-4049">kap262</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Obama should just end the controversy about the constitutionality of his presidency by just showing his birth certificate.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4298" href="javascript:ajaxLink('DiscussionTopicComment_4298', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4298')">Comments (3)</a></span><span id="DiscussionTopicTag_4298"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama birth certificate">obama birth certificate</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4298"></div>
+</div></td>
+</tr>
+<tr id="row_4297">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4297">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4297', '/akira/discussionVote.do?dbid=2236&topicID=4297&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 98</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4297'))" style="text-decoration:none;" id="TopicVote_4297" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 98</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4297'))">88</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4297', '/akira/discussionVote.do?dbid=2236&topicID=4297&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4297"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4297-4049"><span id="IdeaTitle_4297">birth cert&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10931-4049">tompam2</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">OBAMA SHOULD  TO PRODUCE HIS BITH CERTIFICATE. TO PROVE TO ALL U.S CITIZENS THAT HE IS LEGAL TO SERVE AS PRESIDENT OF THIS COUNTRY.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4297" href="javascript:ajaxLink('DiscussionTopicComment_4297', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4297')">Comments (2)</a></span><span id="DiscussionTopicTag_4297"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4297"></div>
+</div></td>
+</tr>
+<tr id="row_4293">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4293">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4293', '/akira/discussionVote.do?dbid=2236&topicID=4293&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 104</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4293'))" style="text-decoration:none;" id="TopicVote_4293" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 104</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4293'))">95</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4293', '/akira/discussionVote.do?dbid=2236&topicID=4293&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4293"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4293-4049"><span id="IdeaTitle_4293">Obama Birth Certificate&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10914-4049">kap262</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Obma should just end the controversary over the constitutionality of his<br/>presidency and show the long form of his birth certificate.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4293" href="javascript:ajaxLink('DiscussionTopicComment_4293', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4293')">Comments (3)</a></span><span id="DiscussionTopicTag_4293"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama birth certificate">obama birth certificate</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4293"></div>
+</div></td>
+</tr>
+<tr id="row_4291">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4291">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4291', '/akira/discussionVote.do?dbid=2236&topicID=4291&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 104</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4291'))" style="text-decoration:none;" id="TopicVote_4291" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 104</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4291'))">95</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4291', '/akira/discussionVote.do?dbid=2236&topicID=4291&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4291"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4291-4049"><span id="IdeaTitle_4291">stop stonwalling on the birth Cert issue&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10878-4049">mrbuzzsaw</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent"> I have noticed many people on here claiming the Cert of live birth as legit but we all know it is not.<br/> you have gone to Great Expense to  prevent people from Demanding the  real document. if your doc was legit you would not spend a single dime  on lawyers.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4291" href="javascript:ajaxLink('DiscussionTopicComment_4291', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4291')">Comments (1)</a></span><span id="DiscussionTopicTag_4291"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4291"></div>
+</div></td>
+</tr>
+<tr id="row_4289">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4289">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4289', '/akira/discussionVote.do?dbid=2236&topicID=4289&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 100</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4289'))" style="text-decoration:none;" id="TopicVote_4289" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 100</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4289'))">91</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4289', '/akira/discussionVote.do?dbid=2236&topicID=4289&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4289"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4289-4049"><span id="IdeaTitle_4289">Just Do It&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10798-4049">jamesmiller</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The American people are possibly the most watched, investigated and surveiled people in the world.  With massive ammounts of information available to the government and others about each citizen, it seems appropriate that the president, who allows this information to be gathered about us should provide basic information about himself to the America;n people<br/><br/>When it comes to the legitimacy of a person to hold public office there should be complete and total disclosure of all data that verifies his/her elibibility to occupy office.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4289" href="javascript:ajaxLink('DiscussionTopicComment_4289', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4289')">Comments (0)</a></span><span id="DiscussionTopicTag_4289"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4289"></div>
+</div></td>
+</tr>
+<tr id="row_4286">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4286">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4286', '/akira/discussionVote.do?dbid=2236&topicID=4286&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 111</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_4286'))" style="text-decoration:none;" id="TopicVote_4286" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 111</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_4286'))">98</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4286', '/akira/discussionVote.do?dbid=2236&topicID=4286&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4286"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4286-4049"><span id="IdeaTitle_4286">Some ask WHY; I ask WHY NOT!&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10672-4049">jim.reisinger</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">PRODUCE YOUR LONG FORM PROOF OF BIRTH AND ALL YOUR SCHOLASTIC RECORDS..</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4286" href="javascript:ajaxLink('DiscussionTopicComment_4286', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4286')">Comments (2)</a></span><span id="DiscussionTopicTag_4286"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4286"></div>
+</div></td>
+</tr>
+<tr id="row_4285">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4285">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4285', '/akira/discussionVote.do?dbid=2236&topicID=4285&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 121</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_4285'))" style="text-decoration:none;" id="TopicVote_4285" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 121</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_4285'))">104</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4285', '/akira/discussionVote.do?dbid=2236&topicID=4285&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4285"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4285-4049"><span id="IdeaTitle_4285">Prove that yu are elegible to be President!&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10812-4049">emeraldvalley</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Release the vault copy of your birth certificate! I know that you won't because you are a Kenyan just like your grandmother said you are.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4285" href="javascript:ajaxLink('DiscussionTopicComment_4285', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4285')">Comments (2)</a></span><span id="DiscussionTopicTag_4285"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=birth certificate">birth certificate</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4285"></div>
+</div></td>
+</tr>
+<tr id="row_4284">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4284">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4284', '/akira/discussionVote.do?dbid=2236&topicID=4284&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 107</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4284'))" style="text-decoration:none;" id="TopicVote_4284" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 107</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4284'))">95</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4284', '/akira/discussionVote.do?dbid=2236&topicID=4284&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4284"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4284-4049"><span id="IdeaTitle_4284">STUDENT RECORDS / FOREIGN AID&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10863-4049">rmills2</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I would like to see Barack's student records to verify that he did not take aid as a foriegn student.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4284" href="javascript:ajaxLink('DiscussionTopicComment_4284', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4284')">Comments (0)</a></span><span id="DiscussionTopicTag_4284"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4284"></div>
+</div></td>
+</tr>
+<tr id="row_4283">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4283">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4283', '/akira/discussionVote.do?dbid=2236&topicID=4283&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 124</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_4283'))" style="text-decoration:none;" id="TopicVote_4283" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 124</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_4283'))">109</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4283', '/akira/discussionVote.do?dbid=2236&topicID=4283&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4283"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4283-4049"><span id="IdeaTitle_4283">Obama's correct birth certificate&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10800-4049">w8lwd</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">just show us the proper document, not the false ones!</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4283" href="javascript:ajaxLink('DiscussionTopicComment_4283', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4283')">Comments (6)</a></span><span id="DiscussionTopicTag_4283"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4283"></div>
+</div></td>
+</tr>
+<tr id="row_4282">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4282">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4282', '/akira/discussionVote.do?dbid=2236&topicID=4282&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 125</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_4282'))" style="text-decoration:none;" id="TopicVote_4282" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 125</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_4282'))">111</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4282', '/akira/discussionVote.do?dbid=2236&topicID=4282&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4282"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4282-4049"><span id="IdeaTitle_4282">Show proof you're not a usurper&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10752-4049">nyabzns</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Allow a news organization with an honorable reputation ( not NBC , MSNBC , CNN , ABC ,etc ) to obtain your long forum birth certificate from your home state.<br/><br/>While your at it , we the voters ( Your Boss ) would like to see your passport history, school records and college records. We'd also like to see any and all paperwork related to government grants or loans issued for you to go to school. <br/><br/>And how about documentation of your legal name change ? No one knows whether to call you Barry or Barack, Hussain or Soetoro.<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4282" href="javascript:ajaxLink('DiscussionTopicComment_4282', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4282')">Comments (1)</a></span><span id="DiscussionTopicTag_4282"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4282"></div>
+</div></td>
+</tr>
+<tr id="row_4279">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4279">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4279', '/akira/discussionVote.do?dbid=2236&topicID=4279&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 133</div><div>Votes Against : 16</div>', document.getElementById('TopicVote_4279'))" style="text-decoration:none;" id="TopicVote_4279" href="javascript:Bubble.showTip('<div>Idea Created : 5 hours ago</div><div>Votes For : 133</div><div>Votes Against : 16</div>', document.getElementById('TopicVote_4279'))">117</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4279', '/akira/discussionVote.do?dbid=2236&topicID=4279&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4279"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4279-4049"><span id="IdeaTitle_4279">Long form birth certificate&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10741-4049">drewmer</a></b> <span class="IdeaScale_SecondaryText">5 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I think the president should release his long form birth certificate and educational records showing that he is truly eligible to be president of the United States.  He should live up to the same standards as Senator John McCain.  When at least 400,000 people have enough concern to sign a petition then the matter must not be fully decided.  Releasing this information is quick and simple.  When the legal system is used to keep this information out of the public eye, then there is the appearance of something being hidden.  If the president would like to show that those 400000 people are just right wing extremists or racists or just wrong all he needs to do is to allow a simple set of documents to be released.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4279" href="javascript:ajaxLink('DiscussionTopicComment_4279', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4279')">Comments (3)</a></span><span id="DiscussionTopicTag_4279"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4279"></div>
+</div></td>
+</tr>
+<tr id="row_4277">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4277">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4277', '/akira/discussionVote.do?dbid=2236&topicID=4277&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 hours ago</div><div>Votes For : 90</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4277'))" style="text-decoration:none;" id="TopicVote_4277" href="javascript:Bubble.showTip('<div>Idea Created : 6 hours ago</div><div>Votes For : 90</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4277'))">78</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4277', '/akira/discussionVote.do?dbid=2236&topicID=4277&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4277"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4277-4049"><span id="IdeaTitle_4277">JFK 1961 Speech: Americans Think Secrecy Is Repugnant &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10590-4049">thomasegleston</a></b> <span class="IdeaScale_SecondaryText">6 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Yes in 1961 John F. Kennedy gave a speech to the media about how Americans find secrecy in Government and the media repugnant. When the Government keeps secrets from the real American people (other than top secrets) WE THE PEOPLE tend to get a little annoyed. Mr. Obama's Birth Certificate, his Senatorial records and his financial and college records are not top secret but are demanded. His Birth Certificate is not only demanded by the American people but is also demanded and a law according to the Constitution of the United States of America. Open Government is a joke if we are not allowed to see these records. I also demand this of all Presidents past and future. We are still awaiting Mr. Bush's Military Discharge certificate. So let me join the American choir by demanding these records, all of them.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4277" href="javascript:ajaxLink('DiscussionTopicComment_4277', '/akira/discussion.do?mode=comment&dbid=2236&topicID=4277')">Comments (0)</a></span><span id="DiscussionTopicTag_4277"><a href="/akira/ideafactory.do?discussionID=2236">Making Data More Accessible</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=america  constitution  rule of law  jfk  secrecy  birth certificate">america  constitution  rule of law  jfk  secrecy  birth certificate</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4277"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 221<br/> Displaying 51 to 75<div class="pages"><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=1" class="nextprev" title="Go to Previous Page">&#171; Previous</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=0" title="Go to page 1">1</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=1" title="Go to page 2">2</a><span class="current">3</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=3" title="Go to page 4">4</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=4" title="Go to page 5">5</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=5" title="Go to page 6">6</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=6" title="Go to page 7">7</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=7" title="Go to page 8">8</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=8" title="Go to page 9">9</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2236&pageOffset=3" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

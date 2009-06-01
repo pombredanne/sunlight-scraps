@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">New Strategies and Techniques</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2242">Top Rated (224)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2242">Recent (224)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_3717">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3717">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3717', '/akira/discussionVote.do?dbid=2242&topicID=3717&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 17</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3717'))" style="text-decoration:none;" id="TopicVote_3717" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 17</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3717'))">13</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3717', '/akira/discussionVote.do?dbid=2242&topicID=3717&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3717"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3717-4049"><span id="IdeaTitle_3717">Social Security should be paid on the same numbered day of each month.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7449-4049">temenyeweet</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Presently Social Security is paid on, say, the Third given weekday of each month. For those without any other significant income, that means a new payment sometimes arrives 5 weeks after the previous one. Increasing the amount of time it must cover by 25% is pretty serious. Obviously the scheme came up to level out the payments, to unbulge the work of the payers.<br/>Might I suggest it be paid on the numbered day of the month which corresponds to the number of the person's birthday? Thus if this hypothetical person was born on the 20th, the check would come on the 20th instead of on the 3rd Wednesay.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3717" href="javascript:ajaxLink('DiscussionTopicComment_3717', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3717')">Comments (6)</a></span><span id="DiscussionTopicTag_3717"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3717"></div>
+</div></td>
+</tr>
+<tr id="row_3708">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3708">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3708', '/akira/discussionVote.do?dbid=2242&topicID=3708&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 12</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3708'))" style="text-decoration:none;" id="TopicVote_3708" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 12</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3708'))">1</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3708', '/akira/discussionVote.do?dbid=2242&topicID=3708&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3708"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3708-4049"><span id="IdeaTitle_3708">Strengthen the role of US nonprofit organizations as sites of democratic practice&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7160-4049">carolinebmca</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Leaders of nonprofit service organizations are committed to building the capacity of those they work with to stand on their own. But they know that service provision by itself will not solve the systemic issues many of their clients face.  Human services agencies and nonprofits in general know well that the more clients are educated about the choices available to them for support and the more involved they are in the decision-making about that support, the more likely they are to feel that they are capable and empowered to make decisions about their own lives in general.  <br/><br/>In due course many of these same agencies are coming to realize that clients educated about issues in their communities and given the opportunity to make decisions about those issues feel empowered to impact those decisions, through initiatives ranging from developing their own community-based programs to lobbying their legislators.  With their strong national infrastructure and their reach into low-income and other marginalized communities, community-based nonprofits are identified as places where clients/constituents can be brought into the democratic process to speak up – individually and collectively – for their rights. <br/><br/>Nonprofits have often been seen as a cornerstone of U.S. democracy, especially for those who are ignored or marginalized in our society. Over the years the enormous expansion – in number and size of groups – began to demand that nonprofit leaders focus on their organizations, developing their skills to inspire and manage even in uncertain times. As a result, organization leaders have become experts in areas ranging from communications to finance to human resource management to – most importantly – meeting the growing needs of the people they serve even as the organizations themselves struggle to make ends meet.  Rarely do they have the time to actually express their role in the democratic process. <br/><br/>For almost a decade, the Building Movement Project (http://www.BuildingMovement.org) has been working to advance ways nonprofits can significantly contribute to building movement for progressive social change. We propose that the government support and promote the following initiatives to address how nonprofits can be leaders in engaging their clients, board, volunteers and staff members as active community members who can address the systemic issues that affect their lives:<br/><br/>*Develop methods for constituent involvement and leadership in service organizations that transforms the relationship between provider and clients and supports organizational staff on how to move beyond program advisory groups towards constituent civic engagement.<br/><br/>*Convene and provide support for alliances of local nonprofit groups that are being pushed to retreat from advances towards social change to give them new commons-based approaches for working together, prioritizing mutual benefit rather than individual advancement.<br/><br/>*Make available information, models and tools on issues such as resident and women’s leadership, cross-race organizing, and training public and nonprofit mid-level staff on social change/justice issues and how to formulate policy strategies.<br/><br/>*Explain how to engage staff and volunteers on issues related to social change/justice and its relationship to service organizations.<br/><br/>*Offer support for organizations on how they can raise money from individuals including constituents, with special attention to how groups of color can raise funds in communities of color.<br/><br/>*Accelerate discussions and increase the focus on structural solutions that develop multigenerational leadership as older generation leaders in the sector commit to stay in their positions both for financial reasons and to contribute to the current “movement moment”, while younger ones seek more influence and voice.<br/><br/>*Document and promote organizational structures that are nimble and inclusive for nonprofits interested in attracting a multigenerational workforce and building movement for social change.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3708" href="javascript:ajaxLink('DiscussionTopicComment_3708', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3708')">Comments (0)</a></span><span id="DiscussionTopicTag_3708"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3708"></div>
+</div></td>
+</tr>
+<tr id="row_3703">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3703">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3703', '/akira/discussionVote.do?dbid=2242&topicID=3703&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 40</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3703'))" style="text-decoration:none;" id="TopicVote_3703" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 40</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3703'))">34</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3703', '/akira/discussionVote.do?dbid=2242&topicID=3703&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3703"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3703-4049"><span id="IdeaTitle_3703">Citizen’s Deliberation on Critical Issues&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4711-4049">kaliya</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Purpose --To facilitate the emergence of an inclusive, legitimate, informed, coherent and trustworthy voice of We the People<br/><br/>Introduction:<br/>When the Framers of our Constitution met in Philadelphia in 1787, digital media, modern psychology, social psychology, and ecological and systems science did not exist.  The deliberative democracy today means integrating the best of face-to-face social collaboration technologies with information and communication technologies for wise governance decisions. <br/><br/>The Problem:<br/>At the heart of America’s liberal democracy are competitive elections, but this design choice does not enhance collective intelligence and wisdom. It fragments communities and societies into reductionist, adversarial “sides” and reduces complex spectra of possibilities to oversimplified “positions” that preclude creative alternatives. The norm is that citizens abdicate decision-making to elected officials, who are in turn heavily influenced by the special interests they must serve to raise money to be re-elected. With few exceptions, existing processes of democracy<br/>* Do not provide much effective power to ordinary citizens<br/>* Promote at least as much ignorance and distraction as informed public dialogue<br/>* Serve special interests better than the general welfare<br/>* Impede breakthroughs that could creatively resolve problems and conflicts, and<br/>* Undermine the emergence of inclusive community wisdom<br/><br/>Voting developed as a process to support self-governance in American history, and at its inception in the 18th century it was new and innovative. In the town halls of New England, citizens gathered together, debated, and decided among themselves those who would hold leadership positions in the community. The method has not scaled to address the wicked (very difficult and complex with no easy answer) problems we as a country and world face. Wicked problems are incomplete, contradictory and have changing requirements; and solutions to them are often difficult to recognize because of their complex interdependencies—solutions may reveal or create more wicked problems. Economic, environmental, social, and political issues are wicked problems.<br/><br/>Deliberative Democracy Methods<br/>In Tom Atlee’s book, The Tao of Democracy: Using Co-Intelligence to Create a World that Works for All (http://www.taoofdemocracy.com/), he highlights several working examples of Citizen Deliberative Councils., including Citizen Jury, Consensus Conference, and Wisdom Council.<br/><br/>These efforts have common characteristics that can be replicated in other communities. They are, to some extent, official, with an explicit mandate from government agencies to address public issues or the general concerns of the community. They generate a specific product such as findings or recommendations to the larger community and elected officials. They are real councils, meaning that they are in-person, face-to-face assemblies. Council members are from a fair cross-section of society, often randomly selected peer citizens. These bodies are temporary, not meeting for more than a few weeks. Their efforts are deliberative and balanced, and often facilitated to help participants to understand diverse points of view.<br/><br/>These processes were created before the Web existed, and as such were labor intensive, expensive and difficult to scale. But now we have an emerging suite of online tools that can augment these processes and reduce their costs. The right combination of face-to-face deliberation with online tools can be as revolutionary as the self-governance process developed by the Framers in 1787.<br/><br/>Any neighborhood council, city council, region, state or even national lawmakers can use these processes to tap the wisdom and decision making potential of the people. <br/><br/>There are 7 steps common to these three processes Citizen Deliberative Councils., including Citizen Jury, Consensus Conference, and Wisdom Council each one does it a bit differently. I  have a facilitation and a technology background and I worked with Tom Atlee to understand the deeper purpose of each step articulate ways extend the method  and explore how technology tools could be used in each step to lower the cost and increase the scalability.   We were very clear we don’t know “the answer” that the right mix of face to face and online tools to supplement them needs to be found by doing experiments that is researching how to get it to work best.   We propose a series of well designed experiments to refine one or several variations that are relatively low cost and very effective. <br/><br/>There is a PDF that articulates the steps in each of the three methods and how technology might be used to augment them.  http://www.kaliyasblogs.net/papers/CitizenVoices.pdf<br/><br/><br/>Here’s how online tools can be used in each of the steps. <br/><br/>1) Pick an Issue. Choose the topic from all the possible problems that could be tackled. Issues can be surfaced online using popular participation websites such as Digg that allow users to rank issues or polling via a network like Twitter.<br/><br/>2) Frame the Issue. Framing an issue for deliberation means describing the range of approaches to an issue and the arguments and evidence for and against each approach. A wiki is the kind of tool that will allow large groups of people (think Wikipedia) to work on understanding and elucidating an issue together.<br/><br/>3) Select Deliberators. This step is key to the legitimacy of citizen councils. The selection of deliberators must represent the diversity of the community and be resistant to outside pressures. This gives them a legitimacy that is similar to, but more refined than, the selection of juries, which also seeks to convene a cross-section of the community. Database tools can be used to create unbiased and inclusive selections of deliberators. These same kinds of tools can also be used to pool citizens willing to participate in deliberative councils.<br/><br/>4) Collect Information and Expertise. Gathering information from a range of experts and stakeholders about the pros and cons of different approaches is the next step. This is an important factor in both collective intelligence (which learns from and integrates diverse views) and legitimacy (the willingness of ordinary citizens and officials to respect the outcomes of the process). We can find experts via the Web, draw in their expert testimony via web video conferencing, and perhaps have online forums where their knowledge is aggregated. Massive data sets of expert information are now free and available about critical issues, such as environmental toxins and the relationship between lobbying funds and legislation in Congress. These can be compiled, presented and widely shared with visualization tools, using methods beyond prose or PowerPoint to present critical information and tell relevant stories.<br/><br/>5) Deliberation. Most citizen deliberative councils involve 12-24 deliberators meeting in concentrated dialogue over four to eight days (distributed over one to ten weeks, depending on the method), led by professional facilitators. Since this may not be feasible in all circumstances, we can use the distributed intelligence of the Web to augment the in-person deliberations. Deliberations can happen both online and face-to-face over time, thus reducing the time and cost. Different algorithmic and semantic tools can be used to help deliberators see patterns of agreement and understanding.<br/><br/>6) Decision-Making. It is important to find processes that produce a deliberative Voice of “We the People” that the vast majority of the population will recognize as legitimate. Online tools like Synanim. com build consensus and shared statements using a multi-step online process. Iteration can also happen using methods like Digg or Slash-dot-style voting and community commentary.<br/><br/>7) Dissemination and Impact. It is critically important to the ultimate success of citizen deliberative councils that their impact on public awareness, public policy, and public programs be discussed and understood. Online tools are critical to these assessments in a variety of ways. Politicians and other officials should also sign pledges in support of these efforts (this can be a campaign issue) that can be shared online. Ongoing feedback can be integrated and continually shared with the public using online phenomena like Facebook and organized citizen networks to share results and empower “We the People” to ensure its Voice is heard.<br/><br/><br/>-------<br/>This is based on an article I wrote for Rebooting America Deliberative Democracy in Theory and Practice - http://rebooting.personaldemocracy.com/node/5510<br/><br/>Kaliya Hamlin<br/>unconference.net <br/>identitywoman.net<br/>http://www.twitter.com/identitywoman<br/>kaliya (at) mac (dot) com<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3703" href="javascript:ajaxLink('DiscussionTopicComment_3703', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3703')">Comments (0)</a></span><span id="DiscussionTopicTag_3703"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=technology">technology</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=twitter">twitter</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ideas">ideas</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=deliberation">deliberation</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3703"></div>
+</div></td>
+</tr>
+<tr id="row_3691">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3691">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3691', '/akira/discussionVote.do?dbid=2242&topicID=3691&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 23</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3691'))" style="text-decoration:none;" id="TopicVote_3691" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 23</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3691'))">21</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3691', '/akira/discussionVote.do?dbid=2242&topicID=3691&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3691"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3691-4049"><span id="IdeaTitle_3691">A Model for Partnerning Citizens, Experts and Policy Makers&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7081-4049">gfowler</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Policy makers who seek public input should understand the nature and limits of the information they seek. Do they want to know about community values? Or do they want to know some technical data about their options? Are they trying to give rational structure to their policy problem? Or, are they trying to evaluate alternative policies under consideration?<br/><br/>Involving the general public in complex public policy issues works best when, as a matter of empirical fact based on our experience in Oregon, policy makers, the public, and technical experts engage with one another as partners in a common endeavor. All three are members of the same community, but they have different roles to play in serving the common good. The general public articulates community values. Experts identify relevant facts and probabilities. Policy makers combine community values and the best available data in choosing among various alternatives.<br/><br/>Specifically, citizen participation contributes to the realization of three important goals: First, the normative rationale of deliberation gives meaning to democracy in policy formation and implementation. Second, value input from a broad range of the public can get decision makers to think outside the box and enhance the quality of the decision process; and third, participation plays an important educational and psychological role in the social development of the individual citizen. <br/><br/>The "Public Policy Partnership (PPP) Model" proposed here can be combined with various group process techniques such as focus groups, town hall meetings, or community meetings. These various approaches yield qualitative data to aid the policy maker's intuitive understanding of the values information relevant to the issue at hand. The model can also be combined with quantitative survey methods to assess the distribution and intensity of values held by members of a given community.<br/><br/>On the public side of the discourse, the process begins with the policy maker's desire to understand the community values relevant to the particular policy issue at stake. The key to this discourse mode is the question, "What is important to you about X?" followed by "Why?" asked recursively to move from superficial preferences to more stable core values.<br/><br/>Properly designed community meetings can generate public input that flows from questions that encourage wise discussion among a broad cross section of the public. For example, in the realm of science and technology, how private should genetic information be? Should it be exclusively under the control of the individual? The family? Humanity? Pharmaceutical companies? Who should have access to information about a person's genetic makeup?  Private individuals or families? The State? These are not factual matters to be decided by experts, but rather matters related to the values held by the community.<br/><br/>Expert information, on the other hand, is evidence-based data about issues. Technical discourse relies on established norms for determining the most plausible evidence. Here the policy maker needs to hear and understand the strength of the evidence that a given explanation of an issue is the best one available. It is a common practice for the policy maker to commission technical reports from appropriate expert consultants. A difficult and critically important task of the policy maker is to guide the technical experts to focus on those specific aspects of their field of expertise relevant to the issue at hand. <br/><br/>In this model, the policy maker is a "receptor site." The policy decision maker--a committee, commission, legislature, board of directors, or negotiation team--must be committed to combine the public's input about values with expert information about facts into a coherent policy. A well-prepared receptor site will optimize this outcome by a) involving the decision makers in the design of the information-gathering process, and b) coming to agreement with them on how they can best bring the information obtained to bear in deciding among policy alternatives. <br/><br/>The PPP model proposed here replaces the usual three-step approach of 1)consulting with experts, 2) selecting among various policy options provided by those experts, and then 3) inviting public comment on a near final draft of a policy statement with a public participation process structured to partner citizens experts, and policy makers in a coordinated process that can broadly formulate the decision problem, guide analysis to improve participants' understanding of decisions, seek the meaning of analytic findings and uncertainties, and improve the ability of interested and affected parties to participate effectively in the risk decision process.       </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3691" href="javascript:ajaxLink('DiscussionTopicComment_3691', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3691')">Comments (1)</a></span><span id="DiscussionTopicTag_3691"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=partnership">partnership</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3691"></div>
+</div></td>
+</tr>
+<tr id="row_3678">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3678">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3678', '/akira/discussionVote.do?dbid=2242&topicID=3678&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 8</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_3678'))" style="text-decoration:none;" id="TopicVote_3678" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 8</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_3678'))">-2</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3678', '/akira/discussionVote.do?dbid=2242&topicID=3678&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3678"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3678-4049"><span id="IdeaTitle_3678">Begin to teach and operate government services with principles of enlightened capitalism. &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7198-4049">debra</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">http://www.noodlebrain.com is a gateway to the humanities and teaches people about what is important regarding our economies and how humanities assure us of policies that are based in ethics, logic and passion where principles rule, not politics.  First step is to change failing banks into government run banks, same employees (not management) and offer the people of America 14% interest on their savings so that we can have capital without relying on the greed of the corrupt wealthy.  Second step is to offer loans at 5% interest so that we can make more money saving than we can borrowing, but the incentive to borrow is strong so that growth can occur.  Third is to get HR 676 passed so that we are no longer buying crap instead of healthcare.  Fourth is to standardized our public education systems across the country so that we can still communicate and avoid the tearing apart of our commonwealth by folks who believe and invest in a new world order.  Forth, give the job of parenting back to the parents, and reserve the role of the press and the police for real criminals and terrorists, including those who promote hate radio.  Fifth, get the Fairness Doctrine back in our rule of law so all parties can have an equal point of view and our people are no longer propagandized "1984" style but the wealthy folks point of view that really wants to cause civil war so Halliburton can rebuild America.  We are not that stupid.  That is why we need to review http://www.noodlebrain.com that retrains people rendered stupid by the current economy to think outside of the box.  Sixth, teach people to get their integrity intact by sending them to http://www.noodlebrain.com/nbpits.swf.  And finally, we need real music, not pap. on our radio stations. real music arouses the imagination and instructs the will!  You can find a source on internet radio: Ear Candle Radio is a good start. <br/><br/>Thanks, Mr. President!  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3678" href="javascript:ajaxLink('DiscussionTopicComment_3678', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3678')">Comments (0)</a></span><span id="DiscussionTopicTag_3678"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3678"></div>
+</div></td>
+</tr>
+<tr id="row_3667">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3667">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3667', '/akira/discussionVote.do?dbid=2242&topicID=3667&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 75</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_3667'))" style="text-decoration:none;" id="TopicVote_3667" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 75</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_3667'))">66</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3667', '/akira/discussionVote.do?dbid=2242&topicID=3667&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3667"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3667-4049"><span id="IdeaTitle_3667">A National Approach to Public Engagement: Discovering Common Ground from Neighborhood to Nation&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7153-4049">kenoli</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Institute of the Commons  (http://www.iotc-hub.org) <br/>Submitted by co-directors, Kenoli Oleari and Marc Tognotti<br/><br/>A National Approach to Public Engagement: Discovering Common Ground from Neighborhood to Nation<br/><br/>We recommend a bold and far-reaching but simple and doable process for re-energizing citizenship across the country, connecting individuals and local vision, purpose and action to national and global vision, purpose and action. We imagine an inspiring project to unify our country and invigorate the concept of citizenship, a project with the inspiring symbolic power of Kennedy’s proclaimed goal of landing a man on the moon. <br/><br/>Institute a process to find and subsequently build on common ground at every level from our neighborhoods to the nation, as follows:<br/><br/>(simplified)<br/><br/>1.	Start at the level of walking-distance neighborhoods to create networks of independent and autonomous neighborhood assemblies that agree to assemble the full diversity of perspectives in large numbers in order to: <br/>a.	let every view be heard to create a shared big picture in which everyone sees themselves acknowledged; do this with regard to: the past, the present, and dreams for the future, considering all levels: personal, the local community and the larger world;<br/>b.	engage the everyone together in exploring the whole before proposing action; <br/>c.	focus on discovering future goals and values supported by all – a shared vision for  the neighborhood, the local town or city, and the larger world.<br/>d.	enable people to take individual responsibility for planning and committment to action;<br/>To do this, use techniques drawn from large-group processes suited to the task (e.g. future search, open space technology, world café, whole-scale change, etc.).<br/><br/>2.	Building on the outcomes, repeat the pattern at succeeding levels: cities, regions, states, at each step sending (from each lower level to the next above) teams of delegates that remain in ongoing dialogue with and accountable to the lower levels and ultimately to the neighborhoods at the ground level. <br/><br/>The outcomes include: <br/><br/>Identification of shared goals that can be acted upon, because supported by all, and that can be subsequently deepened and developed at every level of our nation: individual, neighborhood, city, region, state and nation. We are looking to create an engine for the progressive development of agreement, collective intelligence and trust in our culture, for the progressive coordination of action in the service of shared goals, for the gradual re-empowerment of local community to serve as a source of innovation and economic prosperity and a check and balance to power at higher levels.<br/><br/>A culture where there is true partnership between government and civil society, including appropriate division of labor between individual, community, public and private sectors, which also means a real rebirth and reinvigoration of the practice of Citizenship: again we will have individual citizens, groups and communities acting as citizens, citizens at every level and in every sector of individual and group identity. <br/><br/>In this way, we can create an autonomous, ongoing neighborhood-based participatory democracy infrastructure, a fifth independent branch of our republic, that will provide a stronger foundation for our representative democracy — something much like what Thomas Jefferson proposed in his idea for a “ward system,” an idea that has been revived from time to time by notable Americans, including, recently, Senator Gary Hart in his book Restoration of the Republic. At the Institute of the Commons, we have outlined approaches (legislative and otherwise) capable of getting the ball rolling on this vision through public or private funding (http://www.iotc-hub.org)<br/><br/>(Full Version)<br/><br/>Institute of the Commons (www.iotc-hub.org)<br/>A "Trust the Process" Implementation Proposal for a National approach to Public Engagement<br/><br/> We need a plan for how to implement a national public engagement program, an implementation plan for building a network of public engagement across the country. <br/><br/>The most important thing we bring to the table is not our understanding of process, but our experience with process, i.e. what we know as a result of doing it. We have thousands of people around the world who have experience convening and implementing large groups of people using small and large teams of facilitators. There are a few highly visible examples of this, but there are many less visible examples which have built a huge community of skilled convenors. All of this energy can be brought into this project.<br/><br/>Here is a view of how this might happen. It could be much improved if a large group got together using some of our process skills to put all of our experience to the task. This is meant to inspire and to give a sense that something like this could be done.<br/><br/> We hear a lot about the fact that bold steps are needed. Well, bold steps can't be taken unless we can envision them. By their nature bold steps are out of the box. If we propose something that is like what is already going on, we will never get anything different than what is already going on. Personally, I'd rather be bold and fall short than miss an opportunity and spend the rest of my life doing something I didn't want to do and which doesn't work anyway. Besides, anything we imagine immediately begins to exist in the universe in some energetic form. <br/><br/>A bold imagining . . .  and a practical suggestion to stimulate the imagination:<br/><br/>1.  This network and all public participation has to be process and participation focused, not issue focused. It is not about getting together experts and advocates on an issue but about bringing together the full range of citizens, including experts, advocates and officials, to work together to find a collaborative response to whatever issue is on the table.<br/><br/>2.  It needs to be a distributed network with the different nodes of that network, e.g. neighborhoods, communities, regions, states, associations, networks, any groupings of people interacting at higher and higher levels with each other. Some of this can parallel and interact with the distributed structure of contacts and operatives Obama created during his campaign. This is something he has already done! These groups don't need to be parallel or uniform. Because a high diversity of people will be assembled at every level, a self-organizing, coordinating and regulating process will evolve. More on this below.<br/><br/>3.  A "Trust the Process" Network Process: At the core of this will be a "network process" by which the whole country can be engaged from the neighborhood to the national level through a series of assemblies, starting at the lowest levels (neighborhood, community, region) and connection through higher and higher networks (region, state, national, global). Some of the expected benefits and outcomes might include:<br/><br/>  • Build capacity for convening large groups of people whenever and wherever needed on any issue.<br/>  • Inform decision makers on any issue being taken up across the country in real time (this actually feeds into local and state, as well as national government)<br/>  • Work at the local level to build cohesive communities that can network with each other and feed into networks of communities; (this can serve other purposes, like emergency preparedness, response to the economic crisis, community mutual support for unemployed, failed mortgage holders, distributed energy development, schools, health care.)<br/>  • Build more effective local state and regional government by supporting the capacities of constituencies to act on their own and interact effectively with governing entities.<br/>  • Expose a larger and larger circle of people to this kind of public process and begin skill development to widen the field of experience. (Eventually these skills will become more endemic than Roberts Rules of Order.)<br/><br/>4.  The first network process: One way to kick this off is to put money into existing networks like NCDD, the future search network, the Open Space Network, the Center for Wise democracy, CII, the AI network, networks of local groups that provide mediation and facilitation services, the AS network, the IAF network, the ODN network, Institute of the Commons and more; (there are thousands, maybe 10s of thousands of such networks; I've only named a few I am connected with). This money will be used to start this process by modeling it in a test run which will be used to design and implement the network process itself. These groups will convene the first "Trust the Process" national network process by convening large groups (30 to thousands) of process people and other stakeholders (as always, full diversity) at each node to focus on how to build this national process network. These can be Open Space meetings, future search meetings, 20th Century town halls, Dynamic Facilitation, Whole Scale Change, A.I. processes, World Cafes, TOP stuff, any kind of effective large group engagement process that makes sense to those assembling, all feeding into each other. These can be hosted by networks of experienced process people and planned and convened by diversified planning teams of local stakeholders.  This should be mobilized through the network process, NOT AS ONE BIG NATIONAL MEETING. It will follow the format of the network process, starting at the lowest level and networking between those nodes and upward, in this case, to the national level. The idea here is to: <br/><br/>  • Include lots of experience process people (people who do public process, not heads of agencies who advocate for public process) along with other stakeholders <br/>  • Hone and vitalize the network process framework<br/>  • Provide a test run of the network process<br/>  • Set up some basic guidelines for the network process (see 11, below)<br/>  • Give people at every level, neighborhood, regional, state, national, experience with participative public process.<br/>  • Begin to identify coordinating mechanisms for the process aspect of this project (don't over do this one)<br/>  • Identify other potential process activities (like Wisdom Council, the British Columbia process, other) that might be taken up on a national (or other) level. (This should not dominate the process and might be a separate process.)<br/><br/>5.  Whenever a "network process" is implemented, each node or assembly needs to act on its own authority, not be subsidiary to any centralized authority. Coordination as needed can be implemented as needed starting at each node. Then networks of these assemblies can convene likewise, to focus on the next level, etc., until we have a national network capable of convening citizens at any and all levels from local neighborhoods to national or even larger levels. There will be less need to start with national assemblies, as people can be assembled quickly at even the neighborhood level to feed into networks feeding up to whatever level is desireable (e.g. region, state national or higher).  With a fully mobilized network in the wings, this can happen quickly, even in a matter of weeks or months.<br/><br/>6.  Instead of setting any kind of central governance up for this process up front, any coordination functions can grow from this network as the need for coordination arises OUT OF THE ACTUAL ACTIONS of the network. It can arise and modify itself as needed.<br/><br/>7.  It probably makes sense to keep these assemblies small (say, less than 1000, or even 500, people), especially at the lower levels so that they start out with face-to-face interaction and provide enough diversity of nodes, and are rooted in local walking-distance neighborhoods where people can be in regular contact and share a common, embodied rather than virtual, daily experience. If they are too large to begin with, the input from local nodes will be blurred. As the network expands, it will be appropriate to assemble larger groups (in the multi-thousand range). It is my sense that the nodes need to meet on their own, not as a part of a larger process that includes nodes. There is too much dynamic here for making the nodes subsidiary to the larger process. It also takes longer and more resources to organize a large multi-node event. Nodes can organize by themselves and then join in networks of nodes. This parallel organizing will speed things up and diversify the input at the next level.<br/><br/>8.  On any issue, the network process can be mobilized. Whenever an issue comes along, a community, a local government, a state government, the Obama network, any entity wanting to engage the public or networks of these entities, can call on this network process as needed. It could be used for such purposes as an informing or authoring legislation, an environmental impact report, an economic development project, any project requiring public engagement, or any need requiring local and wider discovery and implementation of solutions. Many nodes will develop their own process and coordination over time to meet their own needs. Much planning at all levels may go on using sections of this network. How this will all be organized or coordinated can grow out of the network itself or sub-sections of the network.<br/><br/>9.  It is important not to let this get into the hands of hierarchically-oriented structures like universities, "national" NGOs, government agencies, advocacy groups. It is important not to over-direct it from the beginning. This has to be established right off the bat. It has to be a de-centralized network based in  autonomous units, ultimately, possibly, rooted in networks of independent autonomous neighborhoods, coordinating through function and process, not governance or hierarchy.<br/><br/>Of course this is the kind of thing that some national public process advocacy group will want to control because they know that is the only way it will be done right, some government agency will want to get funding to write rules for, some academic group will want to control because they are used to doing this, some business will want to turn into a commodity, or some consultants or others will want to get rich off of. Perhaps citizens will all want some authority to do it for them.  <br/><br/>Our biggest hedge here is getting lots of diverse people involved from all levels of society so they all have a stake in making it work.  Once they get a taste, they will never want to go back. This will be much more effective than any control strategy.<br/><br/>10.  This can, in fact be a model for global organization.<br/><br/>11.  The regulating and coordinating dynamics, as alluded to above, will grow from highly diversified participation and be built on the needs that evolve from the actual action outcomes at each node and network level. There is some reason to provide, from the beginning, some guidelines that would be useful to support a true self-organizing dynamic at every level. This is something I think needs to be developed by a large group of people (diverse, as well, but including a strong component of people with LOTS of process experience.). The first iteration of this could be established in the initial network process described in 4, above. As an example of the kind of thing I am suggesting, I can offer some of what has worked for us in this regard:<br/><br/>  • A full range of stakeholders (I know there are various means for achieving this and they should all be used as appropriate) including functional stakeholders (peoples roles and experience in society) and demographic stakeholders (race, gender, wealth, ability, etc.)<br/>  • It would be useful to have some guides for determining this. As I have said elsewhere, the guides we use are: Those affected, those with the power or resources to hold things back or move them forward, people with the experience, knowledge, wisdom and skills needed. There are other methods, including random selection. With good planning at each node and network level, the appropriate method for doing this can be worked out. What is critical is that this is done in a way that does provide a way for a broad diversity of voices to participate.<br/>  • A planning process that involves a microcosm of the whole from the very start.<br/>  • Full inclusion. <br/>  • Focus on discovering common ground, not resolving conflict.<br/>  • All voices invited to uncompromisingly share their views, perspectives and feelings on the topic (understanding the whole by understanding the parts); create a shared picture of the whole in which all see themselves acknowledged<br/>  • A way to support the convergence of these voices to discover where their common ground lies<br/>  • Focus on action based on individuals making voluntary choices and public commitments (where people's energy shows up)<br/>  • Process that follows the energy rather than directing the energy.<br/>  • A planning process that involves a microcosm of the whole.<br/><br/>12.  One way to start building this list is to bring together a mini-network of process people (plus, as always, other stakeholders) to set up some initial parameters (a list like the one in 11, above) to set the whole thing in motion. Obama did something like this to suggest how to assemble house meetings. Part of the task of the first larger network process (see 4, above) will be to modify this list as needed and develop an ongoing set of guidelines for generating a self organizing network.<br/><br/>13.  There are going to have to be some cultural changes here in government. This won't work in a command and control environment. The actual functions of government don't have to change, but if members of government participate at every level, the outcomes of this participative network can be implemented organically through existing government structures. Oversight, control and regulation can continue in governmental realms. However, there are going to have to be some shifts in culture around this process itself. It is going to have to be built on a "trust the process" approach. The nodes and networks described will have to grow out of the process and results of that process at each stage. Controls on funding will have to be looser than in the typical government process, with power to utilize resources distributed through the network. This could possibly be achieved by instituting a grant program funded by government -- one possible route that we have developed at Institute of the Commons.<br/><br/>14.  If full diversity is attained in this process, there won't be any need to give it any kind of statutory power, as people with statutory power will be part of the process, and because statutory power is ultimately answerable to the ultimate authority: the people themselves, through this process articulate themselves into networks with the capacity to think and act collectively in pursuit of common goals. The idea is a culture of true partnership between community or civil society and government, rather than a relation of dependency. The many involved will partner with those having statutory power in building visions which can be implemented through a partnership between all parties, including government entitites. Implementation will come through commitment, relationship, shared vision, common ground and collaborative action rather than statutory authority.<br/><br/>15.  The academic community could serve a useful and important role observing, recording, providing historical context, disseminating information, etc., as well as sitting in the room with us and joining our conversations.<br/><br/>16.  We can recruit (or rather Obama can recruit) both public and private funding for this process. The suppliers of both of these kinds of funding are going to have to learn "trust the process." Obama will have to be the first to learn this.<br/><br/>17.  People need to be compensated for their work here. The network itself can contribute to an understanding of how to do this. Parameters can grow out of the process based on a shared understanding of what kinds of things need to be compensated.<br/><br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3667" href="javascript:ajaxLink('DiscussionTopicComment_3667', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3667')">Comments (1)</a></span><span id="DiscussionTopicTag_3667"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=strategies">strategies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=methods">methods</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=tools">tools</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=neighborhood">neighborhood</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community">community</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=networks">networks</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=engagement">engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=common ground">common ground</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3667"></div>
+</div></td>
+</tr>
+<tr id="row_3665">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3665">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3665', '/akira/discussionVote.do?dbid=2242&topicID=3665&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 10</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3665'))" style="text-decoration:none;" id="TopicVote_3665" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 10</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3665'))">8</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3665', '/akira/discussionVote.do?dbid=2242&topicID=3665&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3665"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3665-4049"><span id="IdeaTitle_3665">List ALL Factors That Impact New Fed Projects &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7074-4049">mchlsrrb</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Too often I read about a project, like building a Bridge to Nowhere or to an Airport, without mention on the number of people or vehicles, now and five years from now, that would use the bridge, Airport, Shopping Mall, Shipping Dock, Train Tunnel, Street Tunnel, etc.<br/>I have seen the building of a shipping port without a plan on how to remove the shipping containers or, even worse, assume a solution that is either uneconomical or intolerable to the public, like using 20 trains daily through the middle of a many cities. The trains travel at an uneconomical 10 mph.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3665" href="javascript:ajaxLink('DiscussionTopicComment_3665', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3665')">Comments (1)</a></span><span id="DiscussionTopicTag_3665"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=train tunnel">train tunnel</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=shipping port">shipping port</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3665"></div>
+</div></td>
+</tr>
+<tr id="row_3629">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3629">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3629', '/akira/discussionVote.do?dbid=2242&topicID=3629&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 4</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_3629'))" style="text-decoration:none;" id="TopicVote_3629" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 4</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_3629'))">-6</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3629', '/akira/discussionVote.do?dbid=2242&topicID=3629&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3629"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3629-4049"><span id="IdeaTitle_3629">Allow us to be the generation that fixes what is broken&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4424-4049">ericscottlykins</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">...and don't forget about proper maintenance.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3629" href="javascript:ajaxLink('DiscussionTopicComment_3629', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3629')">Comments (0)</a></span><span id="DiscussionTopicTag_3629"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ofa">ofa</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3629"></div>
+</div></td>
+</tr>
+<tr id="row_3620">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3620">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3620', '/akira/discussionVote.do?dbid=2242&topicID=3620&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 24</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3620'))" style="text-decoration:none;" id="TopicVote_3620" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 24</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3620'))">19</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3620', '/akira/discussionVote.do?dbid=2242&topicID=3620&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3620"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3620-4049"><span id="IdeaTitle_3620">Develop and introduce the USA Public Freedom Act&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6861-4049">Alexander  Moll</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">THE USA PUBLIC FREEDOM ACT<br/>Expanding and Improving Domestic and International <br/>Collaborative Governance Opportunities for All Americans<br/><br/>A Proposal Summary<br/><br/>Since the 1600s, U.S. citizens and Europeans have held a shared value fundamental to our democratic heritage, of what we once called, public freedom. In the U.S. and French tradition of the eighteenth century, the idea contrasted with individual or private freedom. Public freedom meant having the means to effectively and regularly exercise first amendment rights through participatory decision-making in shared governance(1).  It is a term synonymous with public sphere or collaborative governance(2)—the original expression of participatory democracy. As the main group activity for maintaining civic health, it was regarded as the basis of political accountability and community.   <br/><br/>The USA Public Freedom Act is a transpartisan measure to strengthen deliberative democracy opportunities for U.S. citizens in each of the 435 congressional districts, including the District of Columbia and all U.S. territories.  As a strategic policy framework for the participation component of the Open Government Directive, it expands opportunities for individuals of all ages to serve as collaborators in federal public policymaking.  Its introduction to the U.S. House of Representatives, the U.S. Senate and the White House is especially important now, when so many communities are struggling to deal with critical social, economic, and democratic deficits.<br/> <br/>I. The Act Authorizes a Commission to Design Implementation Plans for Institutional Structures that Facilitate Opportunities for Americans to Regularly Participate in Collaborative Governance to Craft Federal Policy: To build on the success stories across the globe of deliberative democracy in the service of federal collaborative governance, whereby federal policymaking partners with citizen-initiated policymaking, this first provision of the Act authorizes the creation of a focused Commission.  The Commission will within three months of the Act’s passage:<br/>• Develop and present to the U.S. Congress an institutional plan of implementation for the institutionalization of several measures for the Open Government Directive, including measurements of progress and evaluations of effectiveness. <br/>• Survey the results and apply the lessons of Open Government from around the globe, including, but not limited to the following: the U.S. Environmental Protection Agency’s tools for democratic watershed collaboration; the work of dialogue and deliberation in European Citizen Consultations; and the Citizens’ Parliament of Australia. Craft recommendations and action plans, including budgets for a Presidential Delegation consisting of 50 members representing all 50 U.S. states and territories, dedicated to identifying targeting resources to new, untested community organizations that seek to connect the input from and results of deliberative democracy programs to federal government policymaking schedules.  <br/><br/>Footnotes:(1)Arendt, Hannah, On Revolution (New York: Viking Press, 1963; Penguin Books, 2006), 109. Arendt writes, “If the men who, on both sides of the Atlantic, were prepared for the revolution had anything in common…it was a passionate concern for public freedom much in the way Montesquieu or Burke spoke about it…” <br/>(2)Weil, Frank A. The Weil Program on Collaborative Governance at Harvard University. Collaboration, as an equitable working partnership at the international level, occurs frequently in Track II and cultural diplomacy already serves the purpose of negotiated resolutions under the same ethic:  Namely, non-officials (academic scholars, retired civil servants and military officials, public figures, social activists, etc.) engage in dialogue and deliberation with the aim of conflict resolution or confidence-building.<br/><br/>• Recommend a Fellowship program for scholars focused on pioneering interdisciplinary, institutional implementation plans for embedding permanent structures for cross-sector and intra-sector collaboration among foundations, federal institutions, local and state governments, institutions of learning, the private sector, etc. related enhancing simultaneously specific areas of national need such as Education, the Public Sphere, Open Government, and Government Ethics and Accountability.  <br/><br/>II. The Act Establishes a New Federal Mandate for the Office of Public Engagement to Empower All U.S. Communities with One Centrally Located Local Public Assembly Center  for Collaborative Governance: The White House Office of Public Engagement will within three months of the Act’s passage:<br/>• Expand and the enhance the public sphere(3) by recruiting 250,000 U.S. citizens as national deliberative democracy participants to 250,000/year via outreach, information/ communication technologies (ICT) and an annual nation-wide town meeting series of 100 meetings in all 50 U.S. continental states. As part of a new national commitment to addressing national challenges in health care, education, climate change, foreign affairs, and the global economic crisis.<br/>• Devote $50,000,000.00/year for U.S. National Deliberations of one federal policy the public votes to pursue and incorporate plans from several established and emerging nonprofit organizations, consultants, and scholars, including the Democracy Delegates Demonstration Project (for summary plan see www.democracydelegates.org) inspired by the Federal Forum Project of 1932-39, sponsored by the Carnegie Corporation of New York and the U.S. Office of Education.<br/>• Establish one memorial to the history of Open Government in a location to be voted by the American people.<br/>• Communicate via a Presidential Address that this Act should be taken as a multi-generational solution, imagining the next generation of civic engagement as a systematic means to enhance public policy-making standards and accountability—the results of Open Government.  <br/>• Provide funding for a national convention to convene all of the cross-sector collaborators involved in the Demonstration Project called Democracy Delegates. As a national initiative, it seeks to extend the responsibilities of representative democracy to local citizens who could individually bridge the divide between the legislative process and citizen deliberation that optimizes the policy maturation process.  As a first step, after the Act’s passage, a diverse group of scholars, students, NGO professionals, teachers, foundation leaders, news media professionals, Capitol Hill staffers, retirees, technologists, as well and dialogue and deliberation practitioners and various collaborators will collaborate in strategic, project planning sessions at a national convention.  The convention would be dedicated to convening representatives of civic engagement across the country to deliberate resolutions and joint-responsibilities for a pilot project version of a nation-wide forum series with members of Congress, tentatively called, Democracy Delegates. <br/><br/>Footnote: (3)The public sphere is an area in social life where people can get together and freely discuss and identify societal problems, and through that discussion influence political action.<br/><br/>• Creates the Obama Education Award of $7,000 to keep up with the rising cost of college, and links it to Pell Grants so it will continue to increase in the future.  The Award can be used for pay for higher education, including student loans for students in full or part-time programs involving undergraduate or graduate coursework related to advancing the capacity of congressional districts and their communities to create and sustain deliberative democracy, focused on community organizing, volunteerism, civic engagement, deliberative democracy, political communication, public policy, philosophy, sociology, or information technology.<br/><br/>III. Support Increased Collaborative Governance Opportunities for Students. Public service toward open government early in life will put more youth on a path to a lifetime of service enhancing the results of government business.  The Act: <br/><br/>• Strengthens the current program of the Partnership for Public Service and the National Academy of Public Administration, as well as other institutions, and authorizes a Summer of Inter-Agency with the White House Office of Public Engagement and the Office of Science and Technology for high school seniors.<br/> <br/>IV. Support Increased Collaborative Opportunities for Retirees.  Many retiring citizens are ready, willing, and able to be involved in deliberative democracy and collaborative, federal priority-setting, agenda-setting, and policymaking and have skills needed by our communities.  The Act:<br/>• Strengthens and expands the financial and social capital of all current NCDD U.S. members—scholars and practitioners alike – to implement deliberative democracy experiments that build the capacity and service delivery resources and permanent structures necessary to sustain and enhance the delivery of open government transparency, collaboration, and participation.<br/>• Enhances incentives for retirees to give a year of public service through the new Office of Public Engagement (OPE), by enabling them to transfer their educational award to a child or grandchild. <br/>• Creates OPE Fellowships to help retirees participate in longer-term open government public service.  <br/> <br/>V. Support Increase of Volunteerism for Collaborative Governance by Persons All Ages.  Many Americans who are not able to make a significant time commitment to collaborative policymaking or information sharing can offer their public service in other ways.  The legislation:<br/>• Expands the volunteer pool by establishing a “Millennial Generation Fund” to assist nonprofit organizations in recruiting and managing additional volunteers from high schools whose students have the option to pursue formal civics courses.  For every high school student who participates in the program, an additional $2,000 shall be disbursed from the U.S. Department of Education to high schools who agree to allocate the funds into an endowment for preserving secondary civics education.  <br/> <br/>VI. Support Innovation and Collaboration in the Public-Private Sector: Entrepreneurs who have launched innovative organizations or businesses such as Mediators Foundation, AmericaSpeaks/Global Voices, Ashoka, IDEO, the Drucker Institute—to name just a few—are experimenting with new solutions to pressing problems.  The Act:<br/>• Recognizes and supports the effective role of social entrepreneurs in meeting community and national challenges by establishing an “Open Government Fund” to serve as venture capital to help the nonprofit sector seed new, untested nonprofits, recruit talent, and collaborate with each other and the private sector in connecting public consensus on policy with government-initiated legislation schedules and implementation efforts.<br/>• Allocates $250,000,000.00/year equally among the U.S. states and territories.  A full twenty percent of this fund shall be allocated to annual state-wide town meetings that incorporate the best methods of community organizing, dialogue, deliberation, and collaboration among members of the public as a whole, inclusive of people from all walks of life.  A full ten percent of the investment shall be put toward additional revenue generating mechanisms such as for-profit enterprises, individual donor strategies, and the pooling of foundation and individual peer-to-peer funds across U.S. communities.<br/> <br/>VII. Intra-Executive Branch Collaboration: The Act strengthens inter-agency and inter-commission collaboration by devoting federal dollars to public-private partnerships via federal contracts.  The legislation:<br/>• Charges the Open Government Commission to identify existing public and private sector firms able and willing to assist the White House in convening interactive, innovative group process fora for the purpose of providing agencies increased opportunities to participate in policymaking and to provide their Government with the benefit of their collective expertise and information.  <br/>• Charges the Open Government Commission to convene a series of meetings for a Open Agency Coalition of leaders and their staff from a sample of the following independent federal agencies, including the traditional non-independent entities such as the Dept. of Defense: <br/>o National Endowment for the Humanities<br/>o National Endowment of the Arts<br/>o Government Accountability Office<br/>o U.S. Institute of Peace<br/>o The International Atomic Energy Agency<br/>o Office of Government Ethics<br/>o Peace Corps<br/>o U.S. Institute of Peace<br/>o Presidential Foreign Intelligence Advisory Board <br/>o Postal Service Board of Governors<br/>o U.S. Extension Service<br/>o U.S. Libraries<br/>o Corporation for Public Broadcasting<br/><br/>• Provides $1,000,000.00 to the Open Government Commission to facilitate the Open Agency Coalition’s ability to create an implementation plan and budget for making Government more collaborative with one year of this Act’s passage.  Specifically, the purpose of such meetings shall facilitate the ability of participants to work together in the service of collaborative governance toward creating a plan for increased, regular and productive opportunities in deliberative democracy within every U.S. political jurisdiction (city or township) concerning every piece of federal legislation on the White House and U.S. Congress docket.    <br/>• Provides $50,000.00 for each congressional office to hire one public liaison or collaborative legislative affairs staff person to convene congressional district constituent-based policymaking with public officials for joint-policymaking and working partnership in the delivery of services and the consent of the governed per policy per political jurisdiction. <br/><br/><br/>VIII. Support International Collaborative Governance Opportunities: The Act strengthens the current “Track II” or “Smart Power” programs of the U.S. Institute of Peace and the U.S. Department of State, or the National Endowment for Democracy, which coordinates and supports short-term international citizen-diplomacy opportunities for skilled professionals in developing nations.  The Act: <br/>• Recognizes and supports the emerging the cross-sector learning collaborative in the field of diplomatic and policymaking experiments, called the Global Leadership Laboratory (GL2), currently under the auspices of the EastWest Institute and the Mediators Foundation.  <br/>• Supports the efforts of the GL2 to create an environment in which decision-makers’ capabilities are optimized, which currently does not exist.  Therefore, the U.S. Department of State shall allocate $40,000,000.00 to fund its development and implementation, including the participation of one-hundred U.S. Federal managers both inside and outside of the U.S. Department of State, including U.N. liaisons, to devote on average at least 5 hours a week toward tackling international collaborative governance or policymaking among nations. The fund divided equally in $10,000,000.00 increments to five dimensions of the project will address the following four dimensions of the project:<br/>o Principle 1. Includes all strategically relevant perspectives in real time. The network of conveners of the Lab will be so diverse geographically and politically that stakeholders could be systematically and rapidly included in the conversation.<br/>o Principle 2. Employs state-of-the-art visual data management and presentation methods. (GL2) will set a new standard for including global problem-solving software, skillful human-computer interface, GeoEye and Google Earth geographic data, etc.<br/>o Principle 3.Applies remote meeting technologies for rapid convening of virtual conversations. By using either Hewlett Packard’s HALO Systems technologies or Cisco’s TELEPRESENCE tools, (GL2) will enable almost anyone anywhere to be “present” at short notice.<br/>o Principle 4. Organizes and designs workspace that invigorates, catalyzes and inspires. Unlike current venues, (GL2) will bring in the environmental attributes that have been proven to raise levels of human performance.<br/><br/>IX. Support the Construction of One Building for Deliberative Democracy: The White House Office of Public Engagement will within one year of the Act’s passage:<br/>• Support the effort to host and facilitate a design competition and construction of one 10,000-20,000 sq. foot building dedicated deliberative democracy and open government.  The building shall provide indoor and outdoor environments in which citizens’ capabilities for dialogue and deliberation toward democratic participation and collaboration in the process of local, state, and federal policymaking are optimized.  Therefore, the U.S. Department of Education shall allocate $30,000,000.00 to fund its development, implementation, and programmatic maintenance, including the participation of fifty U.S. local public officials of the political jurisdiction surrounding the physical site of the building, including White House liaisons, to devote on average at least 5 hours a week toward facilitating the national collaborative governance or policymaking process for government-to-citizen constructive partnership.  The location of the building shall be determined by a citizens’ panel made of fifty-one citizens, one form each continental U.S. State, including the District of Columbia. <br/><br/>Author of USA PUBLIC FREEDOM ACT: Alexander D. Moll<br/><br/>Why Is This Idea Important?<br/><br/>This summary of a piece of legislation called, The USA Public Freedom Act, offers a public policy corollary to the Edward M. Kennedy Serve America Act. Whereas the Serve America Act reauthorizes and expands national service programs administered by the Corporation for National and Community Service, the Public Freedom Act introduces a national policy framework for instituting deliberative democracy, specifically, and participatory democracy, generally, in the way communities across the U.S. form the consent of the governed and general political representation per policy, instead of only per election or per candidate. Whereas the Corporation engages four million Americans in result-driven service each year, the Public Freedom Act seeks to engage millions of Americas in result-driven deliberative democracy each to enhance local, state, and federal government efforts to maintain the ingredients of open government: transparency, participation, and collaboration within policy making the overall business operations of governance.<br/><br/>Without such a national policy and supporting permanent structures to execute such policy--in detail--beyond the initial first step of the Open Government Directive, the U.S. shall continue to lag behind other nations in terms of democratic governance as a part of open government. Without significant fiscal and social capital investments in how we as a nation administer democratic representation in the consent of the governed per policy, unless we erect the necessary networks, technology, and infrastructure for representing public will per policy with government will, the disconnect between the people and their representatives will continue to be compromised by layers of bureaucracy, special interests, geography, and lack of public trust between the two entities.<br/><br/>Only a collaborative, constructive partnership in open government, protected under such national policy and its resulting investment in democracy, can bridge the divisions of our government sphere with our public sphere. This demonstrates why the proposed Act is important and must be refined by the Open Government Initiative, its author, and the people of the United States.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3620" href="javascript:ajaxLink('DiscussionTopicComment_3620', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3620')">Comments (2)</a></span><span id="DiscussionTopicTag_3620"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=deliberative democracy">deliberative democracy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public deliberation">public deliberation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=civic engagement">civic engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public freedom">public freedom</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ict">ict</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public sphere">public sphere</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open government">open government</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=politics">politics</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=serve america act">serve america act</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=transpartisan">transpartisan</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ncdd">ncdd</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=and gl2.">and gl2.</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3620"></div>
+</div></td>
+</tr>
+<tr id="row_3617">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3617">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3617', '/akira/discussionVote.do?dbid=2242&topicID=3617&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 10</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_3617'))" style="text-decoration:none;" id="TopicVote_3617" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 10</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_3617'))">-5</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3617', '/akira/discussionVote.do?dbid=2242&topicID=3617&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3617"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3617-4049"><span id="IdeaTitle_3617">limit number of ideas that a person can post per week &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6607-4049">jfsabl</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Regarding this board or future dialogue boards: a lot of space is taken up by people reposting their issue, or venting about a personal issue, or posting ideas that they have not put much thought into.  It's taking a lot of work to wade through the drek in search of thoughtful, national-level proposals, and some very good ideas are being buried. <br/><br/>I'd suggest a strict baseline limit on the number of posts per week.   Then, give generous extra "posting credits" to people whose ideas garner support (for example, "in the top 30% of proposals," or "more than 25 votes").  People who really do have multiple great ideas retain basically unrestricted access.  People with a few good ideas would be encouraged to polish them up so they are understandable and get votes.  And people with bad posting habits or other problems would retain access, but on a limited basis.<br/><br/>Bad postings would not count as a negative, so people would be encouraged to improve, instead of being discouraged from participating.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3617" href="javascript:ajaxLink('DiscussionTopicComment_3617', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3617')">Comments (5)</a></span><span id="DiscussionTopicTag_3617"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=fix ideas board">fix ideas board</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=improve participation process">improve participation process</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3617"></div>
+</div></td>
+</tr>
+<tr id="row_3601">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3601">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3601', '/akira/discussionVote.do?dbid=2242&topicID=3601&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 9</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3601'))" style="text-decoration:none;" id="TopicVote_3601" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 9</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3601'))">7</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3601', '/akira/discussionVote.do?dbid=2242&topicID=3601&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3601"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3601-4049"><span id="IdeaTitle_3601">Great source for advice on participation&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6909-4049">pstern</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">This process can benefit from a recent thorough study by the National Academy of Sciences/National Research Council:  Public Participation in Environmental Assessment and Decision Making.  It will save a lot of effort in thinking through how to organize participation because it synthesizes decades of research.  The report can be read online at www.nap.edu by searching for "public participation" and following the leads to read the report.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3601" href="javascript:ajaxLink('DiscussionTopicComment_3601', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3601')">Comments (0)</a></span><span id="DiscussionTopicTag_3601"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3601"></div>
+</div></td>
+</tr>
+<tr id="row_3590">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3590">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3590', '/akira/discussionVote.do?dbid=2242&topicID=3590&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 23</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3590'))" style="text-decoration:none;" id="TopicVote_3590" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 23</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3590'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3590', '/akira/discussionVote.do?dbid=2242&topicID=3590&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3590"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3590-4049"><span id="IdeaTitle_3590">Define Collaborative Governance Broadly&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6834-4049">Lisa Blomgren Bingham</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Open Government Directive should define collaboration in governance broadly. Collaborative governance includes public involvement or civic engagement, collaboration with stakeholder groups, collaborative public management, and dispute resolution with citizens and stakeholders. It can occur upsteam in policy-making, midstream in policy implementation, and downstream in policy enforcement. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3590" href="javascript:ajaxLink('DiscussionTopicComment_3590', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3590')">Comments (1)</a></span><span id="DiscussionTopicTag_3590"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3590"></div>
+</div></td>
+</tr>
+<tr id="row_3578">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3578">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3578', '/akira/discussionVote.do?dbid=2242&topicID=3578&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 43</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3578'))" style="text-decoration:none;" id="TopicVote_3578" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 43</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3578'))">36</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3578', '/akira/discussionVote.do?dbid=2242&topicID=3578&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3578"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3578-4049"><span id="IdeaTitle_3578">Establish a National Commission on Community and Regional Resilience&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6806-4049">edwardswc</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Establish a  National Commission on Regional and Community Resilience composed of elected governors, elected mayors, appropriate representatives of national organizations and associations and representatives of private business to supervise the creation of common framework for community and regional resilience that meets the needs of our citizens, businesses and governments, voluntary and faith-based organizations at the community level, provides an  understanding  of and agreed upon terminology for community and regional resilience; examines how communities and regions can collaborate to achieve and sustain  cost-effective resilience; and recommends  to governments at all levels policies that are required to foster  resilient communities.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3578" href="javascript:ajaxLink('DiscussionTopicComment_3578', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3578')">Comments (2)</a></span><span id="DiscussionTopicTag_3578"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=resilience public-private community regions">resilience public-private community regions</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3578"></div>
+</div></td>
+</tr>
+<tr id="row_3569">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3569">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3569', '/akira/discussionVote.do?dbid=2242&topicID=3569&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 20</div><div>Votes Against : 1</div>', document.getElementById('TopicVote_3569'))" style="text-decoration:none;" id="TopicVote_3569" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 20</div><div>Votes Against : 1</div>', document.getElementById('TopicVote_3569'))">19</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3569', '/akira/discussionVote.do?dbid=2242&topicID=3569&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3569"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3569-4049"><span id="IdeaTitle_3569">Document review periods.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6746-4049">farseer2002</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">For ALL Environmental Impact Statements (EISs), Remedial Investigation/Feasibility Studies (RI/FSs) and similar documents open for public review and comment, there should be not less that 30 days comment period for each additional 750 pages of document. <br/><br/>So, a 1,000 age document would have a 60 day (minimum) comment period.<br/><br/>This should apply to drafts, finals and all such documents.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3569" href="javascript:ajaxLink('DiscussionTopicComment_3569', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3569')">Comments (0)</a></span><span id="DiscussionTopicTag_3569"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=comment periods.">comment periods.</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3569"></div>
+</div></td>
+</tr>
+<tr id="row_3555">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3555">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3555', '/akira/discussionVote.do?dbid=2242&topicID=3555&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 35</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3555'))" style="text-decoration:none;" id="TopicVote_3555" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 35</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3555'))">31</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3555', '/akira/discussionVote.do?dbid=2242&topicID=3555&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3555"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3555-4049"><span id="IdeaTitle_3555">Redefine and revitalize role of libraries - convene non-partisan citizen dialogue events&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6731-4049">veronique</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Simply put, there are very few truly non-partisan environments that have a presence in every community across our nation.  Libraries, a friend argued recently, are the "last bastion od democracy" - and are uniquely positioned to gather their local citizens into a new national democratic practice of getting together regularly to: access and share information; voice opinions, and take action as individuals or in groups.<br/><br/>Libraries can truly create and facilitate a "National Dialogue."<br/><br/>The ideal "National dialogue event" would be a seamless on and offline process and include multiple stakeholders on every issue, be presented in a similar format, for every issue - creating a "method to the madness" for citizens, allowing them to feel as if consuming an issue is the same practice and process no matter the issue, leaving them able to focus more time and attention on the details of the issue.<br/><br/>I am looking for people to work with on creating a series of "Actionshops" - a non-partisan workshop model that I have been piloting.  I invite you all to visit www.andactiononline.com - still a work a progress, but you'll get the sense of the democratic "For The People, by The People" personality that is being built here.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3555" href="javascript:ajaxLink('DiscussionTopicComment_3555', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3555')">Comments (1)</a></span><span id="DiscussionTopicTag_3555"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=non-partisan">non-partisan</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=libraries">libraries</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3555"></div>
+</div></td>
+</tr>
+<tr id="row_3523">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3523">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3523', '/akira/discussionVote.do?dbid=2242&topicID=3523&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 16</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3523'))" style="text-decoration:none;" id="TopicVote_3523" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 16</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3523'))">14</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3523', '/akira/discussionVote.do?dbid=2242&topicID=3523&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3523"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3523-4049"><span id="IdeaTitle_3523">Break down the barriers to Open Government positively, collaboratively, and proactively&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6542-4049">Jason Nichols</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Open government requires transformation – it must happen.  However, the nature of government is to resist transformation.  Therefore, the irresistible force of transformation WILL meet the immovable object of bureaucracy and resistance.  If this collision is not anticipated and proactively addressed, the benefits of Open Government will be delayed, taxpayer money will be wasted, and high-profile failures will be used against the proponents of Open Government further slowing down what is in all of our best interests.<br/><br/>Recognizing that this collision will happen, the public sector must work with its private sector partners to implement a combination of policy, funding, communication and management initiatives which provide a platform, protection and toolkit for those agencies and programs which want to implement Open Government.<br/><br/>First, policy must be addressed.  The White House and Congress have made a good first step with the implementation of Recovery.gov.  This is an excellent example of “carrot and stick” approach, where if an Agency receives funding, it must comply with a new standard of transparency and reporting.  This same model should be evaluated closely for Open Government.  For new initiatives such as Data.gov, the leadership in government must find a way to enforce Open Government as well as encourage it, going beyond voluntary participation by the agencies.<br/><br/>Next, creative funding should be addressed.  Given that the CIOs see Open Government as the next in a long series of unfunded mandates, how can pressures be eased in practical and efficient manner?  One approach will be to “seed” small initiatives in each Agency.  The White House, working with Congress can play the role of venture capitalist, with each Agency representing areas of possible investment.  Ask each CIO to a few candidates for small, agile and quick transformation; have them present to an investment board which evaluates on the principals of ROI, and quickly release funds.<br/><br/>And, communication should be addressed.  Many CIO and Agency heads want to implement Open Government, but how?  What are the best practices?  Where are the centers of excellence, contract vehicles, template management plans and lessons learned which can reduce risk and increase confidence?  The White House’s newly appointed CIO and CTO should spearhead a special session of the agency CIO council to specifically address these issues.  Through participation, the Agency CIOs and their staff will gain valuable information on how to launch Open Government initiatives.  Further, the building blocks of Web 2.0 and open source can greatly assist in this area with inter-agency collaboration.<br/><br/>Finally, management must be addressed.  If an Open Government initiative is launched at an Agency, and transformation is the goal, does that imply that a new way of program and project management must also be implemented?  Partially, yes.  Open Government does require a new way of thinking, but many traditional management approaches work just fine.  Government needs to merge their existing standards and management models, evaluate emerging private sector approaches (ex: agile project management, cloud computing), and come up with a hybrid approach that works for them.  A key for any transformational initiative will be to test the new approach on a small scale first, obtain success, build enthusiasm, and then scale out.  This also compliments the funding constraints mentioned above.<br/><br/>In summary, for those of us that believe in the promise of Open Government, we must provide the environment for the first wave of initiatives to succeed.  This environment is a collection, or toolkit, which the Agencies use to get evolutionary projects off the ground, proving success, and gaining enthusiasm.  We need to nurture those that take the initial risk.  And, we need to provide the platform for when those projects DO succeed, the second and much bigger wave occurs, truly embedding the principles of Open Government into core Agency strategy and implementation.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3523" href="javascript:ajaxLink('DiscussionTopicComment_3523', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3523')">Comments (0)</a></span><span id="DiscussionTopicTag_3523"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open government">open government</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=policy">policy</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=funding">funding</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=management">management</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=communication">communication</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3523"></div>
+</div></td>
+</tr>
+<tr id="row_3510">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3510">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3510', '/akira/discussionVote.do?dbid=2242&topicID=3510&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 30</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_3510'))" style="text-decoration:none;" id="TopicVote_3510" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 30</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_3510'))">16</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3510', '/akira/discussionVote.do?dbid=2242&topicID=3510&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3510"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3510-4049"><span id="IdeaTitle_3510">Election reform&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Increase the incentive to vote, make it easier to participate, and place in prison anyone who tries to stop another citizen from voting including employers or election officials. Examples: (1) Issue a receipt for appearing at the polling place with a time stamp, name, and voter id number. Employers are required to document what percentage of their employees went to the polling place. High percentages are rewarded and low percentages are investigated for making it too difficult for their employees to vote. (2) Submit this voting receipt with federal taxes for a good citizenship refund (3) Spread elections over a multi-day period to increase participation and resolve any voting irregularities (4) Mandate mail in balloting as an option for any citizen eligible to vote (5) Create a mandatory prison term for each person prevented from voting not some type of fine or slap on the wrist and (6) Eliminate the electorally college and use simple popular vote. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3510" href="javascript:ajaxLink('DiscussionTopicComment_3510', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3510')">Comments (3)</a></span><span id="DiscussionTopicTag_3510"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=election">election</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reform">reform</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=receipt">receipt</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reward">reward</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=refund">refund</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=mail">mail</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ballot">ballot</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3510"></div>
+</div></td>
+</tr>
+<tr id="row_3498">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3498">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3498', '/akira/discussionVote.do?dbid=2242&topicID=3498&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 45</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3498'))" style="text-decoration:none;" id="TopicVote_3498" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 45</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3498'))">39</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3498', '/akira/discussionVote.do?dbid=2242&topicID=3498&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3498"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3498-4049"><span id="IdeaTitle_3498">Global perspective&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Require a global perspective and awareness to solutions by comparing them to similar projects implemented around the world. Require a brief summary comparing the current project to the best international example with justification for any differences. Many highly effective solutions have already been found and tested which do not need to be slowly recreated again from trail and error while living in ignorance. Examples include health care, energy efficiency, waste recycling, education reform, voter participation programs, etc… Standard best examples could be posted online with citizens having the ability to comment, research, and provide suggestions.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3498" href="javascript:ajaxLink('DiscussionTopicComment_3498', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3498')">Comments (2)</a></span><span id="DiscussionTopicTag_3498"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=global">global</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=awareness">awareness</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=comparison">comparison</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=recreate">recreate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=suggestions">suggestions</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=solutions">solutions</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3498"></div>
+</div></td>
+</tr>
+<tr id="row_3481">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3481">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3481', '/akira/discussionVote.do?dbid=2242&topicID=3481&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 19</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3481'))" style="text-decoration:none;" id="TopicVote_3481" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 19</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3481'))">16</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3481', '/akira/discussionVote.do?dbid=2242&topicID=3481&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3481"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3481-4049"><span id="IdeaTitle_3481">local dialog&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6415-4049">crinklroot</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Support and encourage initiatives to involve local citizens in dialog about sugnificant issues and suport a channel for them to convey their conclusions to the legislature and executive branches.  Examples:  Kettering Foundation's National Issues Forum and the Everyday Democracy initiative.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3481" href="javascript:ajaxLink('DiscussionTopicComment_3481', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3481')">Comments (0)</a></span><span id="DiscussionTopicTag_3481"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3481"></div>
+</div></td>
+</tr>
+<tr id="row_3480">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3480">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3480', '/akira/discussionVote.do?dbid=2242&topicID=3480&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 34</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3480'))" style="text-decoration:none;" id="TopicVote_3480" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 34</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3480'))">27</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3480', '/akira/discussionVote.do?dbid=2242&topicID=3480&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3480"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3480-4049"><span id="IdeaTitle_3480">Shifting decision making criteria from win/lose to ALL-win norms to build a world that works for all.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6367-4049">info</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The win/lose approach to life which results in the well being of a few at the expense of the many is showing itself to be unworkable. Conflicts are escalating and environmental systems are breaking down.<br/><br/>The time is ripe to build an ALL-WIN world which works well for all, including our environment. The world has become interdependent and this means that it is in the interest of all of us to ensure that all people can achieve meaning and happiness in their lives in their own unique ways providing they harm no one else and that the health of our environment is nurtured. <br/><br/>Where discontent reigns we find that individual people can do a great deal of harm. (That is why the Universal Declaration of Human Rights has become traditional international law.) So it is in the interest of us all that each child, woman and man can find their own unique happiness as long as they do not harm others and respect the environment. That is the all-win principle.<br/> <br/>Therefore, it is important that all those in government learn to base their own actions and all policies on the all-win norm by constantly asking the questions: Does this action harm anyone? Does this help to strengthen our natural environment? <br/><br/>This norm may be hard to understand for many since the inevitability of the win/lose norm has been successfully propagated by those powers that benefited from it.<br/> <br/>Therefore it will not be easy for civil servants (and others) to transform their values. It will require ALL TO BE EDUCATED AND GET PRACTICAL EXPERIENCE TO DISTINGUSH BETWEEN WIN/LOSE AND ALL-WIN ACTIONS.<br/><br/>They will then realize that there is a huge constituency of people who already support all-win norms. These often belong to non-governmental organizations (there are 1000s of them in the U.S., and 10,000 in a tiny country like Bangladesh alone). All these dedicate their money, energy and time to actions that benefit the greater good. <br/><br/>Using all-win policies, the U.S. Administration will gain their support. This will be a mutually reinforcing relationship. They can support all-win actions by the U.S. administration; and with the backing of the U.S. Administration, these groups might form a more cohesive force.<br/><br/>Integrating the all-win norm into U.S. politics is essential for the U.S. to regain respect in the world and for President Obama to live up to the great expectations his excellent policies are generating. Integration of the all-win norm in global politics is also essential if our world, inspired among others by the U.S., is to complete the globalization process in a way that strife is transformed into harmony and enmity into goodwill.<br/><br/>The all-win norm is visible throughout nature: the cells in the human body function on the basis of all for one and one for all and so do all elements of an ecosystem. We see the all-win principle at work in global society in the form of traffic rules, postal and other communications systems. Through the latest crises, the all-win norm is increasingly catching on. It is realistic and absolutely essential if our world is to work well for all.<br/><br/><br/>Perhaps we can get together and see how a number of us can help in this process?<br/><br/>Wishing President Obama all the best in the wonderful changes he is making,<br/><br/>Dr. Lisinka Ulatowska <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3480" href="javascript:ajaxLink('DiscussionTopicComment_3480', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3480')">Comments (0)</a></span><span id="DiscussionTopicTag_3480"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=values">values</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=all-win">all-win</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=win/win">win/win</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=education">education</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=human rights">human rights</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=globalization">globalization</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=leadership">leadership</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=civil servants">civil servants</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3480"></div>
+</div></td>
+</tr>
+<tr id="row_3473">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3473">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3473', '/akira/discussionVote.do?dbid=2242&topicID=3473&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 26</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3473'))" style="text-decoration:none;" id="TopicVote_3473" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 26</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3473'))">23</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3473', '/akira/discussionVote.do?dbid=2242&topicID=3473&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3473"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3473-4049"><span id="IdeaTitle_3473">Reward individual for finding wasted money&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Provide a financial reward system for exposing wasted tax payer money, providing solutions which save money, or collecting taxes which are not paid. For example, offer 20 percent of the money saved to a citizen who can identify and prove corporate or private tax evasion. Or, rewarded with a percent of the money saved by identifying when special interest groups make deals which waste tax payer money. Change the incentive structure.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3473" href="javascript:ajaxLink('DiscussionTopicComment_3473', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3473')">Comments (1)</a></span><span id="DiscussionTopicTag_3473"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reward">reward</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=tax">tax</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=waste">waste</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=incentive">incentive</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3473"></div>
+</div></td>
+</tr>
+<tr id="row_3471">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3471">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3471', '/akira/discussionVote.do?dbid=2242&topicID=3471&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 28</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_3471'))" style="text-decoration:none;" id="TopicVote_3471" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 28</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_3471'))">20</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3471', '/akira/discussionVote.do?dbid=2242&topicID=3471&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3471"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3471-4049"><span id="IdeaTitle_3471">Congress relocation: reduce special interest power&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Reduce the power of special interest lobbies and increase accountability to citizens by shifting the physical location of elected representatives back to their local geographic areas. With current technology, it is possible for elected officials in the Congress to remain in their election districts and not relocate to Washington DC. This makes it much more difficult  for special interest groups to focus their resources in a single location, and it greatly increases local citizens ability to directly influence their representatives. Physical relocation is based on a time when transportation was by horse and communication by pigeon.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3471" href="javascript:ajaxLink('DiscussionTopicComment_3471', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3471')">Comments (1)</a></span><span id="DiscussionTopicTag_3471"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=relocate">relocate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=congress">congress</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=local district">local district</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=speical interest">speical interest</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=lobbies">lobbies</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=washington dc">washington dc</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3471"></div>
+</div></td>
+</tr>
+<tr id="row_3470">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3470">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3470', '/akira/discussionVote.do?dbid=2242&topicID=3470&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 29</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3470'))" style="text-decoration:none;" id="TopicVote_3470" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 29</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3470'))">27</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3470', '/akira/discussionVote.do?dbid=2242&topicID=3470&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3470"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3470-4049"><span id="IdeaTitle_3470">Election power equalization&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Reduce the incentive to remain in power and make it easier for new qualified individuals to obtain office without being rich. Change the way committee chairpersonships are awarded based on the number of years elected, so there is no advantage after 2 terms in office and there is a limit on consecutive terms as chairperson. Also, balance the playing field for potential newly elected individuals using the public airways which are owned by the citizens and leased out by the government. Grant public airway time to those running based on a combination of terms in office and the financial resources of the opponent. Maximum free airtime is given to the first time person plus an additional amount based on the financial resources of the opposition (such as 50% of difference between campaign war chest). The public airways are owned by all citizens and could make elections much more fair.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3470" href="javascript:ajaxLink('DiscussionTopicComment_3470', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3470')">Comments (0)</a></span><span id="DiscussionTopicTag_3470"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=chairperson">chairperson</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=election">election</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=airway">airway</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=incentive">incentive</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3470"></div>
+</div></td>
+</tr>
+<tr id="row_3469">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3469">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3469', '/akira/discussionVote.do?dbid=2242&topicID=3469&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 26</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3469'))" style="text-decoration:none;" id="TopicVote_3469" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 26</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3469'))">24</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3469', '/akira/discussionVote.do?dbid=2242&topicID=3469&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3469"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3469-4049"><span id="IdeaTitle_3469">Full line item detail: Federal&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Release full details of federal government expenditures down to the accounts payable item level so that citizens can see where the money is really going and make meaningful suggestions. Avoid hiding all detail in large budget line items. Possible implementation could include:<br/>(A) posting spreadsheets on Google Docs to make the information easily sorted/searched/charted, and (B) allowing interactive discussion/feedback with open source content management systems like Drupal or Joomla. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3469" href="javascript:ajaxLink('DiscussionTopicComment_3469', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3469')">Comments (1)</a></span><span id="DiscussionTopicTag_3469"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=line item">line item</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=accountability">accountability</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=details">details</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=google">google</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3469"></div>
+</div></td>
+</tr>
+<tr id="row_3443">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3443">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3443', '/akira/discussionVote.do?dbid=2242&topicID=3443&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 8</div><div>Votes Against : 20</div>', document.getElementById('TopicVote_3443'))" style="text-decoration:none;" id="TopicVote_3443" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 8</div><div>Votes Against : 20</div>', document.getElementById('TopicVote_3443'))">-12</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3443', '/akira/discussionVote.do?dbid=2242&topicID=3443&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3443"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3443-4049"><span id="IdeaTitle_3443"> Practical Democracy&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6280-4049">fredgohlke</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent"><br/>     To improve our nation's government and our society, we can no longer allow unknown politicians to select our political leaders.  Instead, we must select them from among ourselves.  We must insure they are the best of our people rather than the worst.  In other words, our leaders must be selected FROM the people rather than FOR the people.<br/><br/>     Our method must be democratic (i.e., allow the entire electorate to participate) and egalitarian (i.e., give everyone an equal chance to participate).  The following sections describe a way to accomplish this while harnessing human nature by making probity a prime concern when evaluating potential representatives.<br/><br/>     Although the process is continuous, I will describe it as having two phases.  The human factors dominating the first phase will metamorphose into a different set of factors as the second phase develops.  This metamorphosis is the 'magic' of the process; it makes virtue a valuable quality for aspiring candidates.<br/><br/><br/>Selecting Leaders, Method<br/><br/>1) Divide the electorate into groups of three people (triads).<br/><br/>2) Assign a date and time by which each group must select one of<br/>   the three to represent the other two.<br/><br/>   a. No participant may vote for himself.<br/><br/>   b. If a group is unable to select a representative in the<br/>      specified time, the group is disqualified.<br/><br/>3) Divide the participants so selected into groups of three.<br/><br/>4) Repeat from step 2 until a target number of selections is<br/>   reached.<br/><br/><br/><br/>Selecting Leaders, Discussion (1)<br/><br/>     An Election Commission conducts the process.  It names the participants of each group and supplies the groups with the text of pending ordinances and a synopsis of the budget appropriate to the group.  In addition, on request, it makes the full budget available and supplies the text of any existing ordinances.  This insures a careful examination of public matters and encourages a thorough discussion of partisan views on matters of public concern.<br/><br/>     For convenience, we refer to each iteration as a 'Level', such that Level 1 is the initial grouping of the entire electorate, Level 2 is the grouping of the selections made at Level 1, and so forth.  The entire electorate participates at level 1 giving everyone an equal opportunity to advance to succeeding levels.<br/><br/>* As the process advances through the levels, the amount of time the participants spend together increases.  At level 1, groups may meet for a few minutes, over a back-yard fence, so-to-speak, but that would not be adequate at higher levels.  As the levels advance, the participants need more time to evaluate those they are grouped with.  They also need transportation and facilities for meeting and voting.  These are mechanical details.<br/><br/>* The public has a tendency to think of elections in terms of just a few offices: a congressional seat, a senate race, and so forth. There are, however, a large number of elected officials who fill township, county, state and federal offices.  The structure outlined here provides qualified candidates for those offices.<br/><br/><br/>Selecting Leaders, Partisanship<br/><br/>     At any time up to one week before an election, voters may declare themselves to be members of any party and may create a new party, simply by declaring membership in it.  Voters that do not declare party membership will automatically be assigned to a set of voters with no party affiliation.  The Electoral Commission will create triads from members of the same party, as long as more than two members of a party advance.  When less than three members of a party advance, the party's remaining candidates are merged with the no-party candidates.  This allows elevation of partisan interests to the highest level supported by the party's membership.  (Rules for handling overflow situations are omitted from this presentation.)<br/><br/><br/>Selecting Leaders, Discussion (2)<br/><br/>     The initial phase of the process is dominated by participants with little interest in advancing to higher levels.  They do not seek public office; they simply wish to pursue their private lives in peace.  Thus, the most powerful human dynamic during the first phase (i.e., Level 1 and for some levels thereafter) is a desire by the majority of the participants to select someone who will represent them.  The person so selected is more apt to be someone who is willing to take on the responsibility of going to the next level than someone who actively seeks elevation to the next level, but those who do actively seek elevation are not inhibited from doing so.<br/><br/>     As the levels increase, the proportion of disinterested parties diminishes and we enter the second phase.  Here, participants that advance are marked, more and more, by an inclination to seek further advancement.  Thus, a powerful human trait is integrated into the system.<br/><br/>     Those who actively seek selection must persuade their group that they are the best qualified to represent the other two.  While that is easy at the lower levels, it becomes more difficult as the process moves forward and participants are matched with peers who also wish to be chosen.<br/><br/>     Each participant must make a choice between the other two people in the group knowing that they must rely on that person's integrity to guide their future actions and decisions.  Since they are unable to control the person selected (except as otherwise provided to implement the bi-directionality mentioned below), they must choose the person they believe most likely to conduct public business in the public interest.<br/><br/>     However, they do not make their choices blindly.  Elections are a periodic process.  The majority of those seeking advancement will do so each time the process recurs.  Some will be successful.  They will achieve public office and their performance will be a matter of public record.  When they participate in subsequent occurrences of the process, their peers can evaluate that record to help them decide the candidate's suitability for advancement.  Furthermore, the names of advancing candidates are announced as each level completes.  Members of the public with knowledge of unseemly acts by an advancing candidate can present details for consideration at the next level.  Since, after the initial levels, the peers also seek advancement, they won't overlook inappropriate behavior.<br/><br/>     Face-to-face meetings in three-person groups eliminate any possibility of voting machine fraud.  Significantly, they also allow participants to observe the non-verbal clues humans emit during discourse and will tend to favor moderate attitudes over extremism.  The dissimulation and obfuscation that are so effective in media-based politics will not work in a group of three people, each of whom has a vital interest in reaching the same goal as the miscreant.  Thus, the advancement of participants will depend on their perceived integrity as well as the probity with which they fulfill their public obligations.<br/><br/>     This is a distillation process, biased in favor of the most upright and capable of our citizens.  It cannot guarantee that unprincipled individuals will never be selected ... such a goal would be unrealistic ... but it does insure that they are the exception rather than the rule.<br/><br/>     The process is inherently bi-directional.  Because each elected official sits atop a pyramid of known electors, questions on specific issues can easily be transmitted directly to and from the electors for the guidance or instruction of the official.<br/><br/>     The cost of conducting an election by this method is free to the participants, except for the value of their time, and minimal to the government.  Thus, it removes the greatest single cause of corruption in our current system ... the need for campaign funds.<br/><br/><br/>Selecting Leaders, Simplified Illustration<br/><br/>     This table is built around a hypothetical election in a community with an electorate of 2,000 voters.  For simplicity, we omit party considerations and assume each triad selects a candidate.  The election is to produce a Mayor for the community, a Council member, and two candidates for state and national offices.<br/><br/>                                Selected<br/>                                Randomly<br/>                                  From<br/>                  Full          Previous  Total  People    People<br/>Level Candidates Triads Overflow  Level  Triads Selected Unselected<br/>  1      2000      666      2              666     666      1334<br/>  2       668      222      2       1      223     223       445 (1)<br/>  3       223       74      1       2       75      75       148<br/>  4        75       25                      25      25        50<br/>  5        25        8      1       2        9       9        16 (2)<br/><br/>(1) If the number of candidates does not divide equally into<br/>    triads, any candidates remaining are overflow.  Level 2 is a<br/>    special case.  When there is overflow from Level 1, the extra<br/>    person(s) automatically become candidates at Level 2.<br/>    Thereafter, when there is overflow at any level, the number<br/>    of people needed to create a full triad are selected at<br/>    random from the people who were not selected at the previous<br/>    level.<br/><br/>(2) The nine people selected at level 5 decide which of the nine<br/>    will serve as Mayor, which will serve on the Council, and which<br/>    will advance to compete for state and national offices.<br/><br/>    To give a very rough idea of the time lapse required for such an election, we will hypothesize triad lives of 5 days for the 1st and 2nd levels, 12 days for the 3rd and 4th levels, 19 days for the 5th and 6th levels, and 26 days thereafter.  For the example, that would work out something like this:<br/><br/>     Level  Start     Report         Days<br/>       1)  07/09/08  07/14/08          5<br/>       2)  07/16/08  07/21/08          5<br/>       3)  07/23/08  08/04/08         12<br/>       4)  08/06/08  08/18/08         12<br/>       5)  08/20/08  09/08/08         19<br/><br/>     The 9 people selected at level 5, would start meeting on September 10th and make their selections by September 29th, 19 days later.<br/><br/>CONCLUSION<br/>     The idea presented here will be considered radical.  It bears little chance of adoption because it protects no vested interest.  The only way such a process will ever be adopted is if the concept can be made a topic of discussion, particularly among students interested in achieving a righteous government.<br/><br/>Respectfully submitted,<br/><br/>Fred L. Gohlke<br/>30 Bernath Street<br/>Carteret, New Jersey 07088<br/>fredgohlke@verizon.net<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3443" href="javascript:ajaxLink('DiscussionTopicComment_3443', '/akira/discussion.do?mode=comment&dbid=2242&topicID=3443')">Comments (0)</a></span><span id="DiscussionTopicTag_3443"><a href="/akira/ideafactory.do?discussionID=2242">New Strategies and Techniques</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=practical democracy">practical democracy</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3443"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 224<br/> Displaying 76 to 100<div class="pages"><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=2" class="nextprev" title="Go to Previous Page">&#171; Previous</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=0" title="Go to page 1">1</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=1" title="Go to page 2">2</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=2" title="Go to page 3">3</a><span class="current">4</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=4" title="Go to page 5">5</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=5" title="Go to page 6">6</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=6" title="Go to page 7">7</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=7" title="Go to page 8">8</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=8" title="Go to page 9">9</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2242&pageOffset=4" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

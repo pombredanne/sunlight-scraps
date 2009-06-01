@@ -1,0 +1,962 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Performance Appraisal</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2251">Top Rated (23)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2251">Recent (23)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_4215">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4215">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4215', '/akira/discussionVote.do?dbid=2251&topicID=4215&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 16 hours ago</div><div>Votes For : 18</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_4215'))" style="text-decoration:none;" id="TopicVote_4215" href="javascript:Bubble.showTip('<div>Idea Created : 16 hours ago</div><div>Votes For : 18</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_4215'))">13</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4215', '/akira/discussionVote.do?dbid=2251&topicID=4215&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4215"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4215-4049"><span id="IdeaTitle_4215">Performance Evaluations in the Gov't&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10208-4049">cbndabear</a></b> <span class="IdeaScale_SecondaryText">16 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">As a gov't employee with the Dept of Justice, I have been required to write my own performance evaluations for the last four years. When I say required, it is more along the lines of "if you don't write them, then you will just have to accept what is given to you, and it may not be as favorable". So, I've been giving myself very impressive performance evaluations, both quarterly and yearly, for the last four years (I've worked for the Dept. for 15 years now). I don't really see how this practice is beneficial to either myself or the agency, so I did an experiment. I chose to take a chance on what I would get as a yearly eval if I didn't write it this year. You would be amazed at the results........I got the same yearly evaluation as I did two years ago, and the most amazing part is, they forgot to change the date! What is my point? Glad you asked! I'm sure I'm not the only gov't employee in this position. I think it would be a good idea to have supervisors held more accountable for the way they evaluate thier staff. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4215" href="javascript:ajaxLink('DiscussionTopicComment_4215', '/akira/discussion.do?mode=comment&dbid=2251&topicID=4215')">Comments (3)</a></span><span id="DiscussionTopicTag_4215"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4215"></div>
+</div></td>
+</tr>
+<tr id="row_3922">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3922">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3922', '/akira/discussionVote.do?dbid=2251&topicID=3922&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 9</div><div>Votes Against : 1</div>', document.getElementById('TopicVote_3922'))" style="text-decoration:none;" id="TopicVote_3922" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 9</div><div>Votes Against : 1</div>', document.getElementById('TopicVote_3922'))">8</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3922', '/akira/discussionVote.do?dbid=2251&topicID=3922&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3922"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3922-4049"><span id="IdeaTitle_3922">Revise Information Collection Request requirements to encourage feedback on collaboration in the field.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4642-4049">Kirk Emerson</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Paperwork Reduction Act requires approval by OMB of most government requests for information from people who are not in government.  This can be a lengthy and cumbersome review process and tends to discourage agencies from seeking outside feedback from stakeholders and the public on the performance of public outreach and engagement efforts(be they meetings, hearings,dispute resolution efforts, consensus building, dialogues, etc). <br/><br/>Not only should the Information Collection Request (ICR) procedures be streamlined, but there should be development of standard and tailorable performance evaluation tools for widespread use by agencies.  These should be both paper and web-based evaluation tools.<br/><br/>The U.S. Institute for Environmental Conflict Resolution developed evaluation tools over several years in collaboration with other agencies and now those tools can be used with permission by multiple agencies to assess processes used for collaborative problem solving or resolution of environmental conflicts.  The information gleaned from these evaluation data are useful for performance feedback to managers, contractors, and participants.  It is also very helpful information at the case and aggregate level for training purposes.  <br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3922" href="javascript:ajaxLink('DiscussionTopicComment_3922', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3922')">Comments (0)</a></span><span id="DiscussionTopicTag_3922"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=performance">performance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=evaluation">evaluation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=icr">icr</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3922"></div>
+</div></td>
+</tr>
+<tr id="row_3842">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3842">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3842', '/akira/discussionVote.do?dbid=2251&topicID=3842&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 31</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3842'))" style="text-decoration:none;" id="TopicVote_3842" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 31</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3842'))">29</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3842', '/akira/discussionVote.do?dbid=2251&topicID=3842&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3842"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3842-4049"><span id="IdeaTitle_3842">Objective Rather Then Subjective Performance Appraisals&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7866-4049">anthonynteu</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The performance appraisal systems at many of our government agencies including HHS have been a failure for far too long.  In their current structure they do not ensure that ratings are in line with actual performance and they are highly subjective rather then objective allowing for varied interpretations and abuse by managers who want to play favorites and not look at the work that has actually been achieved.  Written performance measures should be established at all levels for all elements and at one level above and one level below the fully successful level.  If this is done managers and employees will all know what is expected of them and how to achieve the desired rating.  Due to the funding issues associated with the awards structure related to many performance appraisal systems they have become quota driven system that often ignores performance instead of rewarding it.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3842" href="javascript:ajaxLink('DiscussionTopicComment_3842', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3842')">Comments (0)</a></span><span id="DiscussionTopicTag_3842"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3842"></div>
+</div></td>
+</tr>
+<tr id="row_3742">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3742">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3742', '/akira/discussionVote.do?dbid=2251&topicID=3742&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 10</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3742'))" style="text-decoration:none;" id="TopicVote_3742" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 10</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3742'))">7</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3742', '/akira/discussionVote.do?dbid=2251&topicID=3742&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3742"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3742-4049"><span id="IdeaTitle_3742">Rebuilding Project Assessment by Overseas Beneficiary Neighborhoods&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6475-4049">dbw</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">It has been said that the total dollars lost in rebuilding Iraq is greater than that lost in the Madoff Scandal.  No-bid contracts characterized the reconstruction program, money was lost without a trace. To assure that reconstruction funds do good for their intended neighborhoods, we propose a assessment and rating system in which beneficiary neighborhoods must sign off before final payment to the contractors helping rebuild their neighborhood.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3742" href="javascript:ajaxLink('DiscussionTopicComment_3742', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3742')">Comments (0)</a></span><span id="DiscussionTopicTag_3742"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=international overseas usaid reconstruction">international overseas usaid reconstruction</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3742"></div>
+</div></td>
+</tr>
+<tr id="row_3587">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3587">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3587', '/akira/discussionVote.do?dbid=2251&topicID=3587&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 21</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3587'))" style="text-decoration:none;" id="TopicVote_3587" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 21</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3587'))">19</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3587', '/akira/discussionVote.do?dbid=2251&topicID=3587&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3587"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3587-4049"><span id="IdeaTitle_3587">Support Managers and Hold Them Accountable&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6834-4049">Lisa Blomgren Bingham</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Managers need to be held accountable for building their own and their staff’s competencies in public engagement and collaboration. They also need access to education and training in order to learn how to build collaboration into governance at the earliest stages and with a dedicated budget. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3587" href="javascript:ajaxLink('DiscussionTopicComment_3587', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3587')">Comments (0)</a></span><span id="DiscussionTopicTag_3587"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3587"></div>
+</div></td>
+</tr>
+<tr id="row_3515">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3515">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3515', '/akira/discussionVote.do?dbid=2251&topicID=3515&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 19</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3515'))" style="text-decoration:none;" id="TopicVote_3515" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 19</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3515'))">16</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3515', '/akira/discussionVote.do?dbid=2251&topicID=3515&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3515"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3515-4049"><span id="IdeaTitle_3515">Website for Publicly Thanking Specific Civil Servants&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5643-4049">Greg Elin</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">We need a website where citizens can publicly thank civil servants for taking the extra step. <br/><br/>Citizens who had a good or outstanding experience with a civil servant (or elected official) would be able to go to the site and put in a commendation. The commendation would automatically route (as appropriate) to the individual as well as the individual's supervisor. <br/><br/>In addition to creating incentives for government employees, such a site would both model expectations for others and share success stories that would improve confidence in government.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3515" href="javascript:ajaxLink('DiscussionTopicComment_3515', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3515')">Comments (0)</a></span><span id="DiscussionTopicTag_3515"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3515"></div>
+</div></td>
+</tr>
+<tr id="row_3495">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3495">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3495', '/akira/discussionVote.do?dbid=2251&topicID=3495&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 12</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3495'))" style="text-decoration:none;" id="TopicVote_3495" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 12</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3495'))">7</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3495', '/akira/discussionVote.do?dbid=2251&topicID=3495&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3495"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3495-4049"><span id="IdeaTitle_3495">Anonymous evaluation system&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Create an easy anonymous web based method for providing feedback and evaluation on all projects. Every project will have a public tracking number and be web searchable. Those with any knowledge or interest in the project can post public comments and suggestions about it with responses being optional. An independent organization can be responsible for investigating any important items of interest. Evil grows in the dark where things are easily hidden, so shine some light from all directions.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3495" href="javascript:ajaxLink('DiscussionTopicComment_3495', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3495')">Comments (5)</a></span><span id="DiscussionTopicTag_3495"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=anonymous">anonymous</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=evaluation">evaluation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=accountability">accountability</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3495"></div>
+</div></td>
+</tr>
+<tr id="row_3472">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3472">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3472', '/akira/discussionVote.do?dbid=2251&topicID=3472&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 5</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3472'))" style="text-decoration:none;" id="TopicVote_3472" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 5</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3472'))">1</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3472', '/akira/discussionVote.do?dbid=2251&topicID=3472&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3472"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3472-4049"><span id="IdeaTitle_3472">Accountability/Reward Employees&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6386-4049">Jon Galt</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Create a web based accountability and reward system for all employees or organizations which receive federal taxpayer funds using open source web based content management systems to reduce any overhead. For example, allow local citizens to evaluate the performance of employees motivating the lowest performers to improve by being publicly identified, and financially rewarding the top performers for their service to the public.  This shifts some of the focus and reward back to the citizen as the customer of a service paid for by their tax dollars. The reward could come in the form of a federal tax reduction to the high performs to avoid all budget arguments.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3472" href="javascript:ajaxLink('DiscussionTopicComment_3472', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3472')">Comments (0)</a></span><span id="DiscussionTopicTag_3472"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=accountability">accountability</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=reward">reward</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=incentive">incentive</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=employee">employee</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=local">local</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3472"></div>
+</div></td>
+</tr>
+<tr id="row_3256">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3256">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3256', '/akira/discussionVote.do?dbid=2251&topicID=3256&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 4</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3256'))" style="text-decoration:none;" id="TopicVote_3256" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 4</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3256'))">-1</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3256', '/akira/discussionVote.do?dbid=2251&topicID=3256&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3256"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3256-4049"><span id="IdeaTitle_3256">Appraisals &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5429-4049">jonathanruelas12</a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Rewards should be given according to profession or situation. Workers should receive some type of incentives like coupons, time-off work.  Workers' performance needs to be accurately monitored.  <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3256" href="javascript:ajaxLink('DiscussionTopicComment_3256', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3256')">Comments (0)</a></span><span id="DiscussionTopicTag_3256"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3256"></div>
+</div></td>
+</tr>
+<tr id="row_3228">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3228">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3228', '/akira/discussionVote.do?dbid=2251&topicID=3228&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 35</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3228'))" style="text-decoration:none;" id="TopicVote_3228" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 35</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3228'))">33</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3228', '/akira/discussionVote.do?dbid=2251&topicID=3228&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3228"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3228-4049"><span id="IdeaTitle_3228">Transform Relationship with Native Americans&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5275-4049">evan.mcgown</a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">When American activists try to bring up with the Chinese government the human rights issue of Tibet's oppression, their general reply is, "When you address the unresolved issues with Native Americans, then we'll talk."<br/><br/>Obama was the first US president to ever visit a Native American reservation while on campaign. And still, at the inauguration, there was no ceremonial presence or mention of the people who originally were free in this land until "America" came along.  <br/><br/>We are hypocrites if we continue to talk of freedom and liberation and yet do nothing to apologize and make ammends for our 500-year abuse and systematic oppression of Native Peoples.<br/><br/>Specific measures to be taken?  There should be research done into this once the general principle is perceived and its importance agreed upon: that America was and is still founded upon clearly documented mistreatment of, broken official treaties with, and religious persecution of the original peoples of this land.  There is much to be done.<br/><br/>A few years ago, Canada's government officially enacted a Truth and Reconciliation process that is now going on, including widespread interviews with victims of government Residential Schools.  Our government should do the same, and more, serving as a role model for China, Israel, Iran, or any country we wish to sit down and seriously talk with about "human rights" and "freedom". <br/><br/>We need to change our public education to reflect a truer story of America's founding and development, and we need to change our current policies and land-use to reflect at least some of the original agreements that our government made at one time and then broke.  </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3228" href="javascript:ajaxLink('DiscussionTopicComment_3228', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3228')">Comments (2)</a></span><span id="DiscussionTopicTag_3228"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=native americans">native americans</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=oppression">oppression</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=justic">justic</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=truth and reconciliation">truth and reconciliation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=freedom">freedom</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=human rights">human rights</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3228"></div>
+</div></td>
+</tr>
+<tr id="row_3164">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3164">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3164', '/akira/discussionVote.do?dbid=2251&topicID=3164&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 23</div><div>Votes Against : 1</div>', document.getElementById('TopicVote_3164'))" style="text-decoration:none;" id="TopicVote_3164" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 23</div><div>Votes Against : 1</div>', document.getElementById('TopicVote_3164'))">22</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3164', '/akira/discussionVote.do?dbid=2251&topicID=3164&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3164"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3164-4049"><span id="IdeaTitle_3164">Federal Government Managers Need New Competencies &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4889-4049">chris</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent"><br/><br/>If the issue is how to strengthen our democracy and promote efficiency and effectiveness by making government more transparent, participatory, and collaborative, then federal managers, among others, need the competencies –skill, attitudes, etc., to enable them do that effectively. <br/><br/>What do federal managers need to be aware of, to know about, and to do in order to make government more transparent, participatory, and collaborative? <br/><br/>We can look to one of the competencies established by the International City and County Managers Association (ICMA) for local government managers, described as Democratic Advocacy and Citizen Participation:<br/><br/>Demonstrating a commitment to democratic principles by respecting elected officials, community interest groups, and the decision making process; educating citizens about local government; and acquiring knowledge of the social, economic, and political history of the community (requires knowledge of democratic principles, political processes, and local government law; skill in group dynamics, communication, and facilitation; ability to appreciate and work with diverse individuals and groups and to follow the community’s lead in the democratic process). <br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3164" href="javascript:ajaxLink('DiscussionTopicComment_3164', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3164')">Comments (0)</a></span><span id="DiscussionTopicTag_3164"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3164"></div>
+</div></td>
+</tr>
+<tr id="row_3010">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3010">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3010', '/akira/discussionVote.do?dbid=2251&topicID=3010&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 35</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3010'))" style="text-decoration:none;" id="TopicVote_3010" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 35</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3010'))">30</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3010', '/akira/discussionVote.do?dbid=2251&topicID=3010&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3010"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3010-4049"><span id="IdeaTitle_3010">implement 360 degree performance appraisals in federal government&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4351-4049">ctb14</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The federal government needs to move to 360 degree performance appraisals, in which more than just a person's boss opines about an employee's performance in his or her job.  It is too easy for a boss to be subjective, without a check of getting the views of the employee's peers and subordinates.  It's very easy, for example, for a manager or executive to look good to his or her boss, but be just an awful manager of his or her subordinates.  Many higher-level executives never learn how badly their subordinate managers and executives are doing, because they do not care to gather input from the subordinates of their subordinates, or they do not have a systematic way to do so.  360 reviews require work and forethought to operate correctly, but if you have worked for awful bosses before, the opportunity cost of not evaluating them is quite high.  Technology might be able to play a facilitating role in this, but OPM and the protectors of the merit system would need to devote a lot of thought and care to how to do this.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3010" href="javascript:ajaxLink('DiscussionTopicComment_3010', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3010')">Comments (5)</a></span><span id="DiscussionTopicTag_3010"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3010"></div>
+</div></td>
+</tr>
+<tr id="row_3008">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3008">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3008', '/akira/discussionVote.do?dbid=2251&topicID=3008&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 11</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3008'))" style="text-decoration:none;" id="TopicVote_3008" href="javascript:Bubble.showTip('<div>Idea Created : 7 days ago</div><div>Votes For : 11</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3008'))">0</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3008', '/akira/discussionVote.do?dbid=2251&topicID=3008&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3008"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3008-4049"><span id="IdeaTitle_3008">criteria for federal employee appraisals&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4351-4049">ctb14</a></b> <span class="IdeaScale_SecondaryText">7 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Criteria for federal employee performance appraisals should be set by career managers and executives, not political appointees.  It is too easy for a president and political appointees to use discretion under the law to frustrate congressional intent, if  they can use the lever of performance appraisals to get federal employees to focus on an ideological agenda, versus execution of the law that is faithful to congressional intent.  The bureaucracy needs to be depoliticized.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3008" href="javascript:ajaxLink('DiscussionTopicComment_3008', '/akira/discussion.do?mode=comment&dbid=2251&topicID=3008')">Comments (1)</a></span><span id="DiscussionTopicTag_3008"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3008"></div>
+</div></td>
+</tr>
+<tr id="row_2933">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2933">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2933', '/akira/discussionVote.do?dbid=2251&topicID=2933&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 9</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_2933'))" style="text-decoration:none;" id="TopicVote_2933" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 9</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_2933'))">0</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2933', '/akira/discussionVote.do?dbid=2251&topicID=2933&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2933"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2933-4049"><span id="IdeaTitle_2933">Bar Code (and Inventory, Annually) Every Object Owned by The Federal Government&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4200-4049">david.wenbert</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Contemporary "3-D" barcode technology can encode significant amounts of information on inventory control decals (i.e. identifying a specific custodial official with cognizance over the object), but even first generation serial/sequential code tags could rapidly bring some semblance of control to the federal tangible assets database.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2933" href="javascript:ajaxLink('DiscussionTopicComment_2933', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2933')">Comments (7)</a></span><span id="DiscussionTopicTag_2933"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2933"></div>
+</div></td>
+</tr>
+<tr id="row_2789">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2789">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2789', '/akira/discussionVote.do?dbid=2251&topicID=2789&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 68</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2789'))" style="text-decoration:none;" id="TopicVote_2789" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 68</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2789'))">61</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2789', '/akira/discussionVote.do?dbid=2251&topicID=2789&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2789"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2789-4049"><span id="IdeaTitle_2789">Give Citizens a Simple Checklist for Rating "Public Engagement"&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3860-4049">Stephen Buckley</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">When I attend a meeting that is supposed to involve some type of "public engagement", it would be nice to have a simple checklist that I could use to rate whether that meeting really was Transparent, Participatory, and Collaborative.<br/><br/>This simple checklist could be the standard tool for citizens to provide feedback to government agencies about the quality of their public engagement activities.  In fact, the requirement for federal department and agencies to "solicit public feedback" about their public engagement is mentioned three (3) times in President Obama's Memorandum on Transparent and Open Government.<br/><br/>The checklist could contain simple "Yes/No" questions, along these lines:<br/><br/>"Was it Transparent?"<br/><br/>--> At some public meetings, it is not clear what is being discussed.  Even if the meeting's agenda is available, the actual proposal or other documents being discussed are not made available to the public.<br/>[Transparent? Check "No".]<br/><br/>"Was it Participatory?"<br/><br/>--> At some public meetings, members of the public are allowed to attend, but are not given an opportunity to ask questions and comment on the proposal being discussed.<br/>[Participatory? Check "No".]<br/><br/>"Was it Collaborative?"<br/><br/>--> Even when a public meeting allows for public *feedback* on a proposal, it may have skipped over the step for public *input* could have shaped the proposal differently.<br/>[Collaborative? Check "No".]<br/><br/>Of course, different citizens can have different judgements about the very same meeting.  But, just like a "customer survey", a review of the collected checklists should provide some objective evidence about the quality of public engagement.<br/><br/>ALSO, this standard checklist should be developed and promoted by government agencies - now - in order to gauge their current effort *before* they attempt improvements.  Otherwise, they won't know - later on - if they are doing any better. (You know: it's like weighing yourself *before* the diet.)<br/><br/>[NOTE: The League of Women Voters (LWV) have some local chapters with an "Observer Corps" that use checklists to rate public meetings.  However, different chapters have developed different formats.  The LWV's experience would be helpful in creating a federal checklist for "citizen observers".] </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2789" href="javascript:ajaxLink('DiscussionTopicComment_2789', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2789')">Comments (6)</a></span><span id="DiscussionTopicTag_2789"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=transparent">transparent</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborative">collaborative</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participatory">participatory</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=checklist">checklist</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=measure">measure</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=judge">judge</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=rate">rate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public">public</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=input">input</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=feedback">feedback</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=obama">obama</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=league of women voters">league of women voters</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=solicit">solicit</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=customer">customer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=survey">survey</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=standard">standard</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=tool">tool</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=public engagement">public engagement</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=observer">observer</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=observer corps">observer corps</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2789"></div>
+</div></td>
+</tr>
+<tr id="row_2753">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2753">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2753', '/akira/discussionVote.do?dbid=2251&topicID=2753&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 65</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_2753'))" style="text-decoration:none;" id="TopicVote_2753" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 65</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_2753'))">59</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2753', '/akira/discussionVote.do?dbid=2251&topicID=2753&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2753"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2753-4049"><span id="IdeaTitle_2753">Encourage Legislation to Enforce Transparency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3991-4049">21stCenturyRTK </a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The president should encourage Congress to establish a criminal penalty for willful concealment or destruction of non-exempt agency records requested under FOIA, as well as penalties for employees and contractors who repeatedly fail to comply with CUI policies and employees and contractors with original classification authority who repeatedly fail to comply with proper classification policies. <br/><br/>Such penalties would be the flip side of the criminal prohibition against unauthorized disclosure. Such penalties would occur after an employee or contractor has been notified of non-compliance and has gone through re-training.<br/><br/>Enhanced citizen suit power should be explored. A private citizen can bring a lawsuit against a government body for engaging in conduct prohibited by statute. For example, a citizen can sue a corporation under the Clean Water Act for illegally polluting a waterway. A private citizen can also bring a lawsuit against a government body for failing to perform a nondiscretionary duty. For example, a private citizen could sue the Environmental Protection Agency for failing to promulgate regulations that the Clean Water Act required it to develop. The president should ask the Government Transparency Officer to advise him on options for citizen suit power outside of FOIA to encourage greater transparency.<br/><br/>- From the 21st Century RTK Agenda</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2753" href="javascript:ajaxLink('DiscussionTopicComment_2753', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2753')">Comments (2)</a></span><span id="DiscussionTopicTag_2753"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2753"></div>
+</div></td>
+</tr>
+<tr id="row_2751">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2751">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2751', '/akira/discussionVote.do?dbid=2251&topicID=2751&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 5</div><div>Votes Against : 19</div>', document.getElementById('TopicVote_2751'))" style="text-decoration:none;" id="TopicVote_2751" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 5</div><div>Votes Against : 19</div>', document.getElementById('TopicVote_2751'))">-14</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2751', '/akira/discussionVote.do?dbid=2251&topicID=2751&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2751"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2751-4049"><span id="IdeaTitle_2751">I'd like to see new laws that help ensure fair performance appraisal systems in companies&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3995-4049">cat-samjas-0l9</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">There is much research available on what good performance management looks like. Too often as implemented it is hurtful and does not help an employee improve. These days, with so many people out of work - some laid off, some forced to leave due to bad management practices rather than the employee - this issue impacts peoples lives and work productivity. We need better laws that help monitor processes companies use to make decisions on who is promoted, what criteria is used, and how rewards are paid. You doubt this? Just consider what we've recently seen in the Banking industry, the Auto industry, etc. One root of all this lies in each companies performance management system and processes.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2751" href="javascript:ajaxLink('DiscussionTopicComment_2751', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2751')">Comments (2)</a></span><span id="DiscussionTopicTag_2751"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2751"></div>
+</div></td>
+</tr>
+<tr id="row_2743">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2743">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2743', '/akira/discussionVote.do?dbid=2251&topicID=2743&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 36</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2743'))" style="text-decoration:none;" id="TopicVote_2743" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 36</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2743'))">29</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2743', '/akira/discussionVote.do?dbid=2251&topicID=2743&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2743"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2743-4049"><span id="IdeaTitle_2743">Provide Incentives to Promote Disclosure&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3991-4049">21stCenturyRTK </a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The president should make transparency a factor in federal employee performance evaluations where it is a part of the job description. Changing the culture of government to be more transparent will require direct individual accountability for employees and supervisors and recognition of work to improve transparency. Too often in the past, information requests have been denied, new online tools delayed, and information removed without any specific official or employee being held responsible for the action – either internally or externally. As much as possible, this accountability should be structured as positive incentives for employees – better performance evaluations for those employees that make strong contributions to ensuring an agency or office is conducting business more transparently.<br/><br/>The next administration should require an annual Transparency Scorecard (based on the metrics established by the Working Group) for each agency, with an overall report by OMB, which would be part of the E-Government Act report or a larger Management Reporting structure. Competition is a great incentive when seeking fast changes in performance. Government should create such a competitive incentive by requiring publicly disclosed Transparency Scorecards covering a wide range of agency dissemination activities. Congress should receive the annual OMB report and could request a report from elsewhere, such as GAO, on a regular basis. The possibility of adapting the Program Assessment Rating Tool (PART) should be explored. A PART review helps identify a program’s strengths and weaknesses to inform funding and management decisions aimed at making the program more effective. The assessment would have to be adjusted to both catch transparency/dissemination program failures and analyze why a program falters, as well as what is necessary to strengthen it to accomplish the goals of transparency and dissemination.<br/><br/>Transparency awards (Window on Government Award) should be created and regularly given to acknowledge agencies and civil servants that have made government more transparent. Awards are a simple but clear indication of the administration’s approval for transparency efforts. Acknowledgement of the best new tools, highest performing offices, and most innovative efforts is one of the best ways to make other parts of government aware of these actions with the hope they will create similar changes elsewhere.<br/><br/>- From the 21st Century RTK Agenda</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2743" href="javascript:ajaxLink('DiscussionTopicComment_2743', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2743')">Comments (2)</a></span><span id="DiscussionTopicTag_2743"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2743"></div>
+</div></td>
+</tr>
+<tr id="row_2706">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2706">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2706', '/akira/discussionVote.do?dbid=2251&topicID=2706&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 16</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_2706'))" style="text-decoration:none;" id="TopicVote_2706" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 16</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_2706'))">3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2706', '/akira/discussionVote.do?dbid=2251&topicID=2706&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2706"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2706-4049"><span id="IdeaTitle_2706">Fraud waist and abuse, Dep of Energy...&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">skidadsr</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Carter established the Dep. of Energy to figure out how the US could become less reliant on foreign oil and now 20+ years later the US is still very reliant on foreign oil, probably even more so.  So why do they exist if they/it cannot get the job done after over 20 years?  Is it only strange to me that billions of tax dollars are going into this Dep. and nothing to show for it? </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2706" href="javascript:ajaxLink('DiscussionTopicComment_2706', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2706')">Comments (3)</a></span><span id="DiscussionTopicTag_2706"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2706"></div>
+</div></td>
+</tr>
+<tr id="row_2517">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2517">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2517', '/akira/discussionVote.do?dbid=2251&topicID=2517&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 18</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_2517'))" style="text-decoration:none;" id="TopicVote_2517" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 18</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_2517'))">10</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2517', '/akira/discussionVote.do?dbid=2251&topicID=2517&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2517"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2517-4049"><span id="IdeaTitle_2517">US Patent & Trademark Office should link performance appraisal of managers and FOIA Officers to transparency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3906-4049">Patent Examiner</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The performance of USPTO managers and FOIA officers who seek to suppress information about patent operations that may shed light on corrupt managerial practices -should be judged under their performance appraisal plans as evidence of poor performance.<br/><br/>For example, for managers who order destruction of documents such as the manager who ordered the destruction of 2nd pair of eyes lists as revealed in an email released under FOIA request 07-370 (this email was dated August 15, 2006 and sent at 12:44 PM), this type of behavior for managers should be frowned upon and should be appraised negatively.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2517" href="javascript:ajaxLink('DiscussionTopicComment_2517', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2517')">Comments (2)</a></span><span id="DiscussionTopicTag_2517"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2517"></div>
+</div></td>
+</tr>
+<tr id="row_2515">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2515">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2515', '/akira/discussionVote.do?dbid=2251&topicID=2515&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 7</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_2515'))" style="text-decoration:none;" id="TopicVote_2515" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 7</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_2515'))">-7</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2515', '/akira/discussionVote.do?dbid=2251&topicID=2515&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2515"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2515-4049"><span id="IdeaTitle_2515">USPTO Should be made to post information on its performance appraisal ratings&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3906-4049">Patent Examiner</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Everywhere I comment on this board, I'm doing so in my personal capacity.  The USPTO should be made to post for the public to see, information on the distribution of the performance appraisals that it has given to patent examiners.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2515" href="javascript:ajaxLink('DiscussionTopicComment_2515', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2515')">Comments (1)</a></span><span id="DiscussionTopicTag_2515"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2515"></div>
+</div></td>
+</tr>
+<tr id="row_2482">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2482">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2482', '/akira/discussionVote.do?dbid=2251&topicID=2482&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 54</div><div>Votes Against : 25</div>', document.getElementById('TopicVote_2482'))" style="text-decoration:none;" id="TopicVote_2482" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 54</div><div>Votes Against : 25</div>', document.getElementById('TopicVote_2482'))">29</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2482', '/akira/discussionVote.do?dbid=2251&topicID=2482&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2482"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2482-4049"><span id="IdeaTitle_2482">Let our Military be "Open" &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">heidi50</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">End Don't ask Don't tell. How can you ask for open Government when you are telling your own employees to lie. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2482" href="javascript:ajaxLink('DiscussionTopicComment_2482', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2482')">Comments (5)</a></span><span id="DiscussionTopicTag_2482"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2482"></div>
+</div></td>
+</tr>
+<tr id="row_2428">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2428">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2428', '/akira/discussionVote.do?dbid=2251&topicID=2428&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 11 days ago</div><div>Votes For : 240</div><div>Votes Against : 55</div>', document.getElementById('TopicVote_2428'))" style="text-decoration:none;" id="TopicVote_2428" href="javascript:Bubble.showTip('<div>Idea Created : 11 days ago</div><div>Votes For : 240</div><div>Votes Against : 55</div>', document.getElementById('TopicVote_2428'))">185</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2428', '/akira/discussionVote.do?dbid=2251&topicID=2428&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2428"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2428-4049"><span id="IdeaTitle_2428">3.	Create Incentives and a Recognition Program to Promote Participation, Collaboration and Transparency Among Federal Agencies&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">jgoldman</a></b> <span class="IdeaScale_SecondaryText">11 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Federal Government should celebrate those agencies and federal managers who demonstrate a strong commitment to open government and develop new innovations for working with the public. An annual award should honor excellence in open government. The award should contain criteria requiring broad-based collaboration and community involvement, innovation, and promotion of best practices that result in outcomes that advance the President’s agenda. Incentives to pilot new public engagement and collaboration programs should be created, like a competition for funding and the creation of senior leadership competency requirements that focus on participation and collaboration skills. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2428" href="javascript:ajaxLink('DiscussionTopicComment_2428', '/akira/discussion.do?mode=comment&dbid=2251&topicID=2428')">Comments (2)</a></span><span id="DiscussionTopicTag_2428"><a href="/akira/ideafactory.do?discussionID=2251">Performance Appraisal</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=award incentive participation collaboration best practices">award incentive participation collaboration best practices</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2428"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

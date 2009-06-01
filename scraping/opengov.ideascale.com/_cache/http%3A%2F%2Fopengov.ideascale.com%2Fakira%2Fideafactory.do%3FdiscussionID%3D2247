@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Between Federal, State, and Local Governments</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2247">Top Rated (61)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2247">Recent (61)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_4444">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4444">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4444', '/akira/discussionVote.do?dbid=2247&topicID=4444&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 minutes ago</div><div>Votes For : 7</div><div>Votes Against : 0</div>', document.getElementById('TopicVote_4444'))" style="text-decoration:none;" id="TopicVote_4444" href="javascript:Bubble.showTip('<div>Idea Created : 10 minutes ago</div><div>Votes For : 7</div><div>Votes Against : 0</div>', document.getElementById('TopicVote_4444'))">7</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4444', '/akira/discussionVote.do?dbid=2247&topicID=4444&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4444"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4444-4049"><span id="IdeaTitle_4444">Cutting Waste/Fraud in Social Service Organizations&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/11512-4049">geriguzman</a></b> <span class="IdeaScale_SecondaryText">10 minutes ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The auditors should be allowed to audit all grants and government funding of Social Service groups ,regardless if it is funded by another branch of the government other than just the one that they represent.. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4444" href="javascript:ajaxLink('DiscussionTopicComment_4444', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4444')">Comments (0)</a></span><span id="DiscussionTopicTag_4444"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4444"></div>
+</div></td>
+</tr>
+<tr id="row_4395">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4395">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4395', '/akira/discussionVote.do?dbid=2247&topicID=4395&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 hours ago</div><div>Votes For : 7</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_4395'))" style="text-decoration:none;" id="TopicVote_4395" href="javascript:Bubble.showTip('<div>Idea Created : 2 hours ago</div><div>Votes For : 7</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_4395'))">-10</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4395', '/akira/discussionVote.do?dbid=2247&topicID=4395&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4395"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4395-4049"><span id="IdeaTitle_4395">immigration CAN work,let's get it done&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/11549-4049">drannette</a></b> <span class="IdeaScale_SecondaryText">2 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Give all illegals a chance to register. Say 6 months (I prefer 3) all they have to do is get a form at the post office. they have to have a job or a person who "sponsors" them. An address also. then they will receive a registration card. Not the legal card, but one that is a different color, becasue an illegal person is not like a legal immigrant. But we can give EACH a chance. Let's stop the fighting and threats. thene ach January each "Immigrant" again, fill sout a form at th epost office and after five years they can take the immigration and naturalization test, - IN ENGLISH - and we can save a lot of money by requiring each person to be naturalized into a USA ciitzen has to have knowledge of the english language. NO LONGER spanish and English, our language is ENGlish. It will bring cost money to do this program, but also money can be made by teaching classes, etc. New job swill be created and some or many will be OVER. childrne pick up language quickly and if the mexican people want to live here, they MUST also speak English. I am a naturalized citizaen from the Netherlands and this is how it was done the first many years I was here. these people will have jobs, pay tazxes, own homes, get educated, have a structured program to work on to attain citizenship. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4395" href="javascript:ajaxLink('DiscussionTopicComment_4395', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4395')">Comments (0)</a></span><span id="DiscussionTopicTag_4395"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4395"></div>
+</div></td>
+</tr>
+<tr id="row_4373">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4373">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4373', '/akira/discussionVote.do?dbid=2247&topicID=4373&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 hours ago</div><div>Votes For : 18</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_4373'))" style="text-decoration:none;" id="TopicVote_4373" href="javascript:Bubble.showTip('<div>Idea Created : 2 hours ago</div><div>Votes For : 18</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_4373'))">13</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4373', '/akira/discussionVote.do?dbid=2247&topicID=4373&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4373"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4373-4049"><span id="IdeaTitle_4373">Sickos...&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/11268-4049">Heidi </a></b> <span class="IdeaScale_SecondaryText">2 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I think pedophiles should be considered for the death penalty depending on the severity of their crime.  For example; how many children, their ages, and how long they have been committing the crime.  Some of these people need to be put down like a wounded animal!  They are only harmful to our society.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4373" href="javascript:ajaxLink('DiscussionTopicComment_4373', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4373')">Comments (0)</a></span><span id="DiscussionTopicTag_4373"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4373"></div>
+</div></td>
+</tr>
+<tr id="row_4321">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4321">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4321', '/akira/discussionVote.do?dbid=2247&topicID=4321&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 12</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_4321'))" style="text-decoration:none;" id="TopicVote_4321" href="javascript:Bubble.showTip('<div>Idea Created : 4 hours ago</div><div>Votes For : 12</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_4321'))">6</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4321', '/akira/discussionVote.do?dbid=2247&topicID=4321&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4321"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4321-4049"><span id="IdeaTitle_4321">Federal and State Asset Forfeiture Laws Need Reform&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5500-4049">glentackitt</a></b> <span class="IdeaScale_SecondaryText">4 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">DRIVING THROUGH TENAHA, TEXAS, DOESN'T PAY FOR SOME TEXAS, BLACK MOTORISTS<br/><br/>The Tenaha, Texas welcome sign on March 3.  The tiny east Texas town is making money by pulling over black motorists and seizing their cash and property without charging them with any crime.  A lawsuit alleges that the town's police pull over motorists -- especially African Americans -- and extort money and valuables by threatening criminal charges or worse. <br/><br/>You can drive into this dusty fleck of a town near the Texas-Louisiana state line if you're African American, but you might not be able to drive out of it -- at least not with your car, your cash, your jewelry or other valuables. <br/><br/>That's because the police here allegedly have found a way to strip motorists, many of them black, of their property without ever charging them with a crime.  Instead they offer out-of-towners a grim choice: Sign over your belongings to the town, or face felony charges of money laundering or other serious crimes. <br/><br/>More than 140 people reluctantly accepted that deal from June 2006 to June 2008, according to court records.  Among them were a black grandmother from Akron, Ohio, who surrendered $4,000 in cash after Tenaha police pulled her over, and an interracial couple from Houston, who gave up more than $6,000 after police threatened to seize their children and put them into foster care, the court documents show.  Neither the grandmother nor the couple were charged with or convicted of any crime. <br/><br/>Officials in Tenaha, along a heavily traveled state highway connecting Houston with several popular gambling destinations in Louisiana, say they are engaged in a battle against drug trafficking, and they call the search-and-seizure practice a legitimate use of the state's asset-forfeiture law.  That law permits local police agencies to keep drug money and other property used in the commission of a crime and add the proceeds to their budgets. <br/><br/>"We try to enforce the law here," said George Bowers, mayor of the town of about 1,100 residents, where boarded-up businesses outnumber open ones and City Hall sports a broken window.  "We're not doing this to raise money.  That's all I'm going to say at this point."<br/><br/>But civil rights lawyers call Tenaha's practice something else: highway robbery.  The attorneys have filed a federal class-action lawsuit seeking unspecified damages and a halt to what they contend is an unconstitutional perversion of the law's intent, used primarily against African Americans who have done nothing wrong. <br/><br/>Tenaha officials "have developed an illegal 'stop and seize' practice of targeting, stopping, detaining, searching, and often seizing property from apparently nonwhite citizens and those traveling with nonwhite citizens," asserts the lawsuit, which was filed in U.S.  District Court in the Eastern District of Texas. <br/><br/>The property seizures are not happening just in Tenaha.  In southern parts of Texas near the Mexican border, for example, Latinos allege that they are being singled out. <br/><br/>According to a prominent Texas state legislator, police agencies across the state are wielding the asset-forfeiture law more aggressively to supplement their shrinking operating budgets. <br/><br/>"If used properly, it's a good law-enforcement tool to see that crime doesn't pay," said Democratic state Sen.  John Whitmire, chairman of the Senate's Criminal Justice Committee.  "But in this instance, where people are being pulled over and their property is taken with no charges filed and no convictions, I think that's theft."<br/><br/>Money, minorities<br/><br/>David Guillory, an attorney in nearby Nacogdoches who filed the federal lawsuit, said he combed through Shelby County court records from 2006 to 2008 and discovered nearly 200 cases in which Tenaha police seized cash and property from motorists.  In about 50 of the cases, suspects were charged with drug possession. <br/><br/>But in 147 others, Guillory said the court records showed, the police seized cash, jewelry, cellphones and sometimes even automobiles from motorists but never found any contraband or charged them with any crime.  Of those, Guillory said he managed to contact 40 of the motorists directly -- and discovered that all but one of them were black. <br/><br/>"The whole thing is disproportionately targeted toward minorities, particularly African Americans," Guillory said.  "Every one of these people is pulled over and told they did something, like, 'You drove too close to the white line.' That's not in the penal code, but it sounds plausible.  None of these people have been charged with a crime; none were engaged in anything that looked criminal.  The sole factor is that they had something that looked valuable."<br/><br/>In some cases, police used the fact that motorists were carrying large amounts of cash as evidence that they must have been involved in laundering drug money, even though Guillory said each of the drivers he contacted could account for where the money had come from and why they were carrying it -- such as for a gambling trip to Shreveport, La., or to purchase a used car from a private seller. <br/><br/>Once the motorists were detained, the police and the Shelby County district attorney quickly drew up legal papers presenting them with an option: Waive their rights to their cash and property or face felony charges for crimes such as money laundering -- and the prospect of having to hire a lawyer and return to Shelby County multiple times to contest the charges in court. <br/><br/>Apparently routine<br/><br/>The process apparently is so routine in Tenaha that Guillory discovered pre-signed and pre-notarized police affidavits with blank spaces left for an officer to fill in a description of the property being seized. <br/><br/>Jennifer Boatright, her husband and two young children -- a mixed-race family -- were traveling from Houston to visit relatives in East Texas in April 2007 when Tenaha police pulled them over, alleging that they were driving in a left-turn lane. <br/><br/>After searching the car, the officers discovered what Boatright said was a gift for her sister: a small, unused glass pipe made for smoking marijuana.  Although they found no drugs or other contraband, the police seized $6,037 that Boatright said the family was carrying to purchase a used car -- and then threatened to turn their children, ages 10 and 1, over to Child Protective Services if the couple didn't agree to sign over their right to their cash. <br/><br/>"It was give them the money or they were taking our kids," Boatright said.  "They suggested that we never bring it up again.  We figured we better give them our cash and get the hell out of there."<br/><br/>Several months later, after Boatright and her husband contacted an attorney, Tenaha officials returned their money but offered no explanation or apology.  The couple remain plaintiffs in the federal lawsuit. <br/><br/>Except for Tenaha's mayor, none of the defendants in the federal lawsuit, including Shelby County Dist.  Atty.  Lynda Russell and two Tenaha police officers, responded to requests for comment about their search-and-seizure practices.  Lawyers for the defendants also declined to comment, as did several of the plaintiffs in the lawsuit. <br/><br/>But Whitmire says he doesn't need to await the suit's outcome to try to fix what he regards as a statewide problem.  On Monday, he introduced a bill in the state Legislature that would require police to go before a judge before attempting to seize property under the asset-forfeiture law -- and ultimately Whitmire hopes to tighten the law further so that law-enforcement officials will be allowed to seize property only after a suspect is charged and convicted in a court. <br/><br/>"The law has gotten away from what was intended, which was to take the profits of a bad guy's crime spree and use it for additional crime fighting," Whitmire said.  "Now it's largely being used to pay police salaries -- and it's being abused because you don't even have to be a bad guy to lose your property." <br/><br/>Synopsis:<br/>Innocent owners who are never charged with a crime still must prove their innocence in complex proceedings, where many cases are lost before even coming to trial.  Most forfeiture cases are never contested, in part because contesting the proceedings can cost more than the value of what's been confiscated. The average vehicle seized is worth about $4,000. To defend a case, especially when you're out of state, they've pretty much made it cost prohibitive. Under civil asset forfeiture laws, the simple possession of cash, with no drugs or other contraband, can be considered evidence of criminal activity.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4321" href="javascript:ajaxLink('DiscussionTopicComment_4321', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4321')">Comments (0)</a></span><span id="DiscussionTopicTag_4321"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=forfeiture">forfeiture</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=drug">drug</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=laws">laws</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4321"></div>
+</div></td>
+</tr>
+<tr id="row_4243">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4243">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4243', '/akira/discussionVote.do?dbid=2247&topicID=4243&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 7 hours ago</div><div>Votes For : 55</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_4243'))" style="text-decoration:none;" id="TopicVote_4243" href="javascript:Bubble.showTip('<div>Idea Created : 7 hours ago</div><div>Votes For : 55</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_4243'))">48</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4243', '/akira/discussionVote.do?dbid=2247&topicID=4243&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4243"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4243-4049"><span id="IdeaTitle_4243">Term Limits&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10469-4049">jeffcherylj</a></b> <span class="IdeaScale_SecondaryText">7 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Lets stop the career politicians and get back to representative government.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4243" href="javascript:ajaxLink('DiscussionTopicComment_4243', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4243')">Comments (1)</a></span><span id="DiscussionTopicTag_4243"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4243"></div>
+</div></td>
+</tr>
+<tr id="row_4227">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4227">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4227', '/akira/discussionVote.do?dbid=2247&topicID=4227&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 14 hours ago</div><div>Votes For : 12</div><div>Votes Against : 36</div>', document.getElementById('TopicVote_4227'))" style="text-decoration:none;" id="TopicVote_4227" href="javascript:Bubble.showTip('<div>Idea Created : 14 hours ago</div><div>Votes For : 12</div><div>Votes Against : 36</div>', document.getElementById('TopicVote_4227'))">-24</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4227', '/akira/discussionVote.do?dbid=2247&topicID=4227&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4227"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4227-4049"><span id="IdeaTitle_4227">Commission to Change the History Books to reflect accuracy&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10207-4049">vipcottagellc</a></b> <span class="IdeaScale_SecondaryText">14 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">It was during black history month that I was astounded.  I was curious and looked up patents held by black people.<br/><br/>I found the following:<br/>a. The folding chair<br/>b. the wrench<br/>c. The Red cross was founded<br/>d. the stop light<br/>e. the first successful open heart surgery<br/>f. the discovery and separation of plasma<br/>g. the discovery of cortizone<br/>h. the first successful separation of siamise twins<br/>i. the man referred to in the coined phrase "the real macoy"<br/>j. the person who did the actual patent drawings for Edison<br/>k. the brushes on the street sweepers<br/><br/>This was just a small list that were patented by black people.  I am sure the same is true for other cultures as it applies to americas growth.  But knowing these things as a part of the regular history would add self esteem to black people in general.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4227" href="javascript:ajaxLink('DiscussionTopicComment_4227', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4227')">Comments (9)</a></span><span id="DiscussionTopicTag_4227"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4227"></div>
+</div></td>
+</tr>
+<tr id="row_4203">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4203">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4203', '/akira/discussionVote.do?dbid=2247&topicID=4203&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 17 hours ago</div><div>Votes For : 9</div><div>Votes Against : 55</div>', document.getElementById('TopicVote_4203'))" style="text-decoration:none;" id="TopicVote_4203" href="javascript:Bubble.showTip('<div>Idea Created : 17 hours ago</div><div>Votes For : 9</div><div>Votes Against : 55</div>', document.getElementById('TopicVote_4203'))">-46</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4203', '/akira/discussionVote.do?dbid=2247&topicID=4203&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4203"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4203-4049"><span id="IdeaTitle_4203">Kill The Constitution&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9553-4049">phreedomphan</a></b> <span class="IdeaScale_SecondaryText">17 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Kill the Constitution!  Yes!  That's what I said.  Kill the Constitution!<br/><br/>Somewhere along the line a new concept entered the realm of “constitutional law,” maybe better termed “unconstitutional law.”  It is the concept of a “living Constitution,” a Constitution that can be reinterpreted at will to fit “the times.”  But the Constitution was not written to govern times.  Times change, but men do not and it was written to govern men, “bind them down with the chains of the Constitution.”  The “living Constitution concept destroys those chains.  It subjects us all to the momentary whims of those in power.  <br/><br/>We hear much of “Government of Man by Law.”  But that only applies when there is a bedrock law that the governed and the governing must obey.  That law need not be immutable, but change must be a labor some process.  Mere re-interpretation will not do.  What a “living Constitution” gives us is Government of Men Above the Law--by Outlaws.  As a wise person has observed, “The only good constitution is a dead constitution.”<br/><br/>This brings us to the point of this thread, collaboration between the federal, State, and local governments.  “Collaboration” might be a fitting term.  In the empire of Nazi Germany, those who aided the empire were called “collaborators.”  I think it fitting to call those States and local governments that “collaborate” with the federal government just that—collaborators.<br/><br/>For nearly a century, maybe longer, the Washingtonian Empire has sought to reduce our State and local governments to conquered provinces.  It is frighteningly close to accomplishing that goal.  It is time for the federal government to obey the Tenth Amendment of a dead Constitution and get out of state affairs.<br/><br/>The following is an excerpt from the post Regionalism – Death of the American System in my lostliberty blog.  The post includes maps illustrating some of the plans to assassinate the American System: <br/><br/>---------------------------------------------<br/><br/>"If the day should ever arrive, (which God forbid!), when the people of the different parts of our country shall allow their local affairs to be administered by prefects sent from Washington, and when the self-government of the states shall have been so far lost as that of the departments of France, or even so far as that of the counties of England--on that day the progressive political career of the American people will have come to an end, and the hopes that have been built upon it for the future happiness and prosperity of mankind will be wrecked forever." - John Fiske, historian, quoted in "Our Changing Constitution" by Charles W. Pierson, Doubleday, Page & Company, 1922.<br/><br/>Unfortunately, God did not forbid it, and the day of control of local affairs by Washington is here. It comes in the form of "regionalism" and the weapon for imposing it is federal "revenue-sharing".<br/><br/>Regionalism is the consolidation of local and state governments into large regional units and the centralization of power in bureaucratic authorities, boards, and commissions whose primary function will be to administer plans and programs dictated by Washington.<br/><br/>We've found traces of Regionalism as far back as the 1920's, in fact, the 1922 book mentioned above dealt with the federal incursions into state and local affairs and the Constitutional perversions used to justify it.<br/><br/>…. it is clear that the underlying motive of the present drive for regional government is the consolidation of state and local governments into regional units under total federal control. The people will be excluded from the political and governmental processes.<br/><br/>The stage was set in 1913 for this federal usurpation of those powers delegated by the Constitution to the states and to the people. The Federal Reserve Act, together with the 16th Amendment permitting the graduated income tax, assured the Federal Government economic dominance of the states, and the 17th Amendment, sold to the people as a great triumph of democracy, took away state control of the Senate, thereby eliminating one of the most important Constitutional checks for maintaining the balance of power between the States and the Federal Government.<br/><br/>The promoters of centralization wasted no time in taking advantage of their new powers. In the revised 1923 edition of his 1915 book, "The New American Government and Its Work", (Note the term "New"--implying the replacement of an "Old"!), James T. Young says, "Whenever it appears that the Constitution hinders a transfer of power from the States to Congress, those interested seek some expedient by which to evade this obstacle...". He then cites "judicial interpretation" and "commerce regulating power" as two methods and continues, "The third, and at present most promising way is the subsidy plan. Congress grants to the States a fund under its power to tax and to appropriate for the general welfare. This fund is given only on condition that the States appropriate a similar sum and that the total amount be used for a definite purpose fixed in the Federal Law. This purpose may be, and often is, entirely outside the regulating authority of Congress." That is the principle method used today to promote "Regionalism" (Federal takeover). It is commonly known as the "carrot and stick" method. The legal term is, "Bribery and Extortion".<br/><br/>This might be a good point to interrupt the history of regionalism and discuss what's wrong with it. The most important thing we can think of is that it effectively removes the people from the electoral process. It does this by concentrating power in units of government that are increasingly larger and more remote from the people and by establishing commissions and authorities composed of appointed officials who do not answer to the people.<br/><br/>As government moves to higher levels, towns to counties to "sub-state regions" to states to "federal regions" to the federal government itself, the per capita representation goes down and the people lose all control over elections. In a small town of thousands, a few knowledgeable citizens can inform enough others to oust corrupt officials. It's almost impossible in a county with hundreds of thousands, or a state with millions. When it comes to a national government of hundreds of millions, only those who finance the nation and the elections can influence the elected officials and unelected bureaucrats.<br/><br/>Resuming the background, it's fairly common knowledge, certainly among those who have fought the growth of government, that centralization received a major boost in the 1930's as a result of the depression (which we were told the Federal Reserve was created to prevent -- were we lied to?). Less known today is the plan announced in the New York Times Magazine on April 24, 1935, to divide the nation into nine "Departments". Under the plan, States' rights would have been abolished. The plan, so boldly announced, undoubtedly met very stiff opposition, so nothing came of it--at the time. In fact, in 1943, Governor Carr of Colorado said he had uncovered a government plan to set up "regional dictatorships". Carr said that regional authorities would be setup "ostensibly to regulate physical resources". Of course, government officials denied any knowledge of such a plan. However, in 1972, Richard Nixon, by Executive Order 11647, divided the country into ten "Federal Regions". In typical Orwellian “Double-Speak”, he called it "decentralization". In 1979, by E.O. 12149, Jimmy Carter established Federal Regional Councils for each of those districts. This has been the pattern--announce the plan, deny in the face of opposition, continue in darkness, then slip quietly into the light again. Under heat of opposition to the reemerged scheme, Ronald Reagan, so we understand, rescinded those E.O.'s, but we have to believe that, if true, the program just slid back into the cover of darkness again.<br/><br/>In the 1960's, prior to Nixon's E.O. 11647, the drive had picked up momentum again in the form of various "revenue- sharing" schemes. Federal officials pointed out that, now collecting over 70% of the nations tax revenues, Washington was in a better financial position to solve the problems of the states and our local governments. The Federal Deficit was apparently not noticed. That many of the problems were caused by prior Federal meddling in state and local affairs was ignored.<br/><br/>Possibly the most damning piece of evidence as to the intent of "Revenue-Sharing" is the audaciously honest book "Revenue-Sharing" by Congressman Henry Reuss. Reuss, a leading sponsor of the program, makes it clear in the book that "Revenue- Sharing" should be used as "an incentive" to states to "modernize" their local governments. To qualify for the federal handouts, states would have to submit a "good faith" plan showing how they intend to implement this "modernization" of local government. Among the things to be included are: consolidation of the "too many", "fragmented", "balkanized", "minuscule", "jungle of", "outmoded", "horse and buggy" local governments; establishment of regional planning mechanisms; state constitutional changes to permit "interstate compacts"; steps to reduce the number of elected officials and to replace them with appointed ones (because being "forced" to vote for too many officials confuses the voters); and finally, to make provisions for state income taxes--the more "progressive", the better. He also wants the larger governmental units created by the program to be able to setup more "services", borrow with less state restriction, and, of course, be able to levy more taxes in addition to the increased funds from federal and state programs. The "federal" money (the carrot) will come on the condition that the states and locals use it for ends consistent with a "national purpose". If not, the funds will be withheld (the stick).<br/><br/>---------------------------<br/><br/>In conclusion, I recommend that we resurrect the Constitution to death.  End the Federal Reserve and the Income Tax that gave the federal government economic dominance over the States to restore the fiscal solvency of the States.  Put the election of the Senate back into the hands of the States that it may once again play its proper role as a check against federal usurpation.  Kick the federal government out of the States and the “collaborators” out of the Union.<br/><br/>Rick<br/>http://PhreedomPhan-lostliberty.blogspot.com</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4203" href="javascript:ajaxLink('DiscussionTopicComment_4203', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4203')">Comments (4)</a></span><span id="DiscussionTopicTag_4203"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4203"></div>
+</div></td>
+</tr>
+<tr id="row_4134">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4134">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4134', '/akira/discussionVote.do?dbid=2247&topicID=4134&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 9</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4134'))" style="text-decoration:none;" id="TopicVote_4134" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 9</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4134'))">-3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4134', '/akira/discussionVote.do?dbid=2247&topicID=4134&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4134"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4134-4049"><span id="IdeaTitle_4134">Full Faith and Credit  Driver's License&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8428-4049">sobi</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Each state takes it upon itself to decide if the public has the right to travel public roads.  This is, in principle, wrong.  The roads do not belong to the state, they belong to the people.<br/><br/>We should not have to prove who we are to each state to travel roads that belong to us.<br/><br/>Why are driver's license's not given the constitutional full faith and credit among states.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4134" href="javascript:ajaxLink('DiscussionTopicComment_4134', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4134')">Comments (1)</a></span><span id="DiscussionTopicTag_4134"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=constitution full faith and credit driver's license public thoroughfares">constitution full faith and credit driver's license public thoroughfares</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4134"></div>
+</div></td>
+</tr>
+<tr id="row_4127">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4127">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4127', '/akira/discussionVote.do?dbid=2247&topicID=4127&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 3</div><div>Votes Against : 32</div>', document.getElementById('TopicVote_4127'))" style="text-decoration:none;" id="TopicVote_4127" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 3</div><div>Votes Against : 32</div>', document.getElementById('TopicVote_4127'))">-29</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4127', '/akira/discussionVote.do?dbid=2247&topicID=4127&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4127"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4127-4049"><span id="IdeaTitle_4127">Discount homes for non-profit community workers&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9823-4049">gcal2002</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Oftentimes those who work in community services for non-profits can't afford to purchase a home on their salaries so a gov't stipen would greatly enhance fulfilling community positions that necessitate degreed workers. Our communities are the backbone of our society. It would also encourage employee growth in these organizations that are likely to be understaffed and that's a win-win situation for all involved.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4127" href="javascript:ajaxLink('DiscussionTopicComment_4127', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4127')">Comments (0)</a></span><span id="DiscussionTopicTag_4127"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=non-profits">non-profits</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=support">support</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=housing">housing</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4127"></div>
+</div></td>
+</tr>
+<tr id="row_4114">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4114">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4114', '/akira/discussionVote.do?dbid=2247&topicID=4114&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 7</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4114'))" style="text-decoration:none;" id="TopicVote_4114" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 7</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4114'))">-3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4114', '/akira/discussionVote.do?dbid=2247&topicID=4114&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4114"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4114-4049"><span id="IdeaTitle_4114">Territorial Definition&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5297-4049">agkaiser1</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Let's propose a study to determine what areas of legislation, execution and jurisdiction ought be the dominion of each level of government. The issue of the study may be a guide to legislators, administrators and courts.<br/><br/>Few would disagree that defense is the territory of the U.S. Congress and the Executive Branch in concert with one another.  Rights guaranteed by the Constitution and Amendments belong to the Federal Appeals and Supreme Courts. <br/><br/>For instance, if the issue of slavery had been left to the states, as John C. Calhoun argued via the proposition of Nullification, the South might still own slaves. [“Nullification” is the foundation for the states' rights and judicial activist rants that began to reappear in the 1950's following Brown v Board.] Obviously, state and local governments cannot be entrusted with our civil rights. Colloquial prejudice  and bigotries will preclude dealing justly with large issues that transcend state or local bounds. That's part of why we have a federal government. <br/><br/>The construction and maintenance of states' highways and bridges are left to their individual legislatures and governors. The positioning of traffic lights certainly belongs to local communities. Many other more weighty matters don't affect our common defense or universal/constitutional guarantees. They should also be the dominion of lower levels of government.<br/><br/>There's a start. What other areas might be assigned to each level of government? <br/><br/>agkaiser.org </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4114" href="javascript:ajaxLink('DiscussionTopicComment_4114', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4114')">Comments (2)</a></span><span id="DiscussionTopicTag_4114"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4114"></div>
+</div></td>
+</tr>
+<tr id="row_4104">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4104">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4104', '/akira/discussionVote.do?dbid=2247&topicID=4104&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 26</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_4104'))" style="text-decoration:none;" id="TopicVote_4104" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 26</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_4104'))">24</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4104', '/akira/discussionVote.do?dbid=2247&topicID=4104&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4104"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4104-4049"><span id="IdeaTitle_4104">relax HIPPA rules, they interfere with getting things done accurately.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5672-4049">Greg Vanderlaan</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">HIPPA has turned out to be a nightmare. Since all employees are in fear of violating the regulations, the result is that the patient has to bring all their own records with them every time. We can't get charts from another department, so we simply ask the patient to fill out our form and write down all their information again. Instead of sharing information that has already been collected. We collect it again. The potential for error is bad. Many patients have poor memory... actually, 100% of the patients have poor memory in comparison to a database. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4104" href="javascript:ajaxLink('DiscussionTopicComment_4104', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4104')">Comments (2)</a></span><span id="DiscussionTopicTag_4104"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=hippa">hippa</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=nightmare">nightmare</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=idiot laws">idiot laws</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=heath">heath</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=welfare">welfare</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4104"></div>
+</div></td>
+</tr>
+<tr id="row_4084">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4084">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4084', '/akira/discussionVote.do?dbid=2247&topicID=4084&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 30</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_4084'))" style="text-decoration:none;" id="TopicVote_4084" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 30</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_4084'))">24</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4084', '/akira/discussionVote.do?dbid=2247&topicID=4084&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4084"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4084-4049"><span id="IdeaTitle_4084">The Community Banking Plan&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9541-4049">martycarbone</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Community Banking Plan -- How to solve our Home <br/>Mortgage, Money and Banking problems -- all at once<br/><br/>5/9/09<br/>From: http://www.primeronmoney.com/howtosolve.html<br/><br/>This plan provides for the establishment of 4,000 Community banks -- one in each community-area of about 75,000 people. Each Bank will sign a contract with the State for a State Charter that will spell out, in detail, what that Bank will be doing. For the most part, at the beginning of this program all Banks will focus on placing 4% / 30-year mortgages on single-family, owner-occupied homes wherein the owners have put down 20% of the purchase price as a down payment and have sufficient verified income such that the mortgage payment will not exceed 25% of that verified income (President Obama thinks 31% is OK).<br/><br/>All levels of government will be involved in this plan in a very simple arrangement that will thereby serve to naturally provide the checks and balances that are inherent in the Constitution. Those checks and balances are missing from our existing banking system that is essentially run by the Federal Reserve System that is outside any of the branches of government established by the Constitution.<br/><br/>Participants in the new Money and Banking system and what they will do:<br/>(a) Legislative Branch of the Federal Government: Will pass laws telling how the money and banking system will operate<br/>(b) Executive Branch of the Federal Government: Will manage the money and banking system in accordance with laws passed by Congress. <br/>(c) The Federal Reserve System: Will be put into the Executive Branch of the Federal Government and will work in concert with the Treasury Department of the Executive Branch and renamed “The United States Central Bank”.<br/>(d) The 50 States: Will, in contractual agreements with Local Governments, set the terms of the charters which will specify, for each bank, which specific duties the Community Banks will perform and the rules under which the banks will operate.<br/>(e) Local Governments: Will manage the Community Banks with government employees who will work directly for the banks.<br/><br/>• ASSUMPTIONS<br/>1) Banks will be extremely narrow -- no deposits will be accepted. That will cut overhead to an absolute minimum. <br/>2) There are 50 million owner-occupied homes in the country. <br/>3) There are 300 million people in our country.<br/>4) 20 million homes will be covered by these 4% mortgage loans.<br/>5) There will be 4,000 banks -- one for every community-area of 75,000 people.<br/><br/>• FOR EACH BANK<br/>1) Loans will cover only owner-occupied homes.<br/>2) At the beginning, owners must have a 20% down payment. Later, it might be possible to have charities lend the owners the down payment on a 4% second mortgage as long as the total mortgage payments will not exceed some maximum % of the homeowner’s income. <br/>3) Mortgage payments must not exceed 25% of family income from all sources. It has been reported that President Obama thinks 31% is OK.<br/>4) The average loan on each home will be between $100,000 and $300,000 -- depending on average local home prices. From here on, in this presentation -- to make the calculating easier, we will assume $100,000 loans. <br/>5) Each Bank will issue and hold 5,000 mortgages. A total of $500 million / Bank.<br/><br/>• GROSS BANK INCOME<br/>1) GROSS INCOME PER LOAN -- For each Bank, there will be a Bank income of $4,000 / year on mortgage income per home.<br/>2) GROSS TOTAL INCOME PER BANK -- Each bank’s mortgage income will therefore be $20 million / year (5,000 mortgages -- each returning $4,000 / year).<br/><br/>• BANK CAPITALIZATION<br/>Assume $50 million capital for each bank. This can come from any source, preferably local people. Investors will be given a 6% return (dividend) on their investment. That will result in a dividend payout of $3 million / year. That will reduce bank profit to $17 million / year. If the $50 million can’t be raised easily, the money can be advanced by the Central Bank and paid back at the rate of 6% / year.<br/><br/><br/><br/>• BANK EXPENSE<br/>1) Each Bank will operate with 4 employees.<br/>2) Bank payroll will average $80,000 / year per employee. Maximum amount per employee -- $100,000. Minimum -- $60,000<br/>3) Total payroll will be $320,000 / bank / year. (4 employees at an average of $80,000 each)<br/>4) Insurance, overhead and taxes / employee will be 50% of payroll. That will add to $160,000 / bank / year in expenses. <br/>5) Floor space will be 400 square feet / bank. This space can be in any existing government facility.<br/>6) Rent, utilities and overhead will be less than $20.00 / per square foot / year or $8,000 / bank / year.<br/>Total expenses / bank / year will be:<br/>(a) Employees -- $320,000 (from #3) + $160,000 (from #4) or $480,000 total.<br/>(b) Space -------- $8,000 / year ( from #6)<br/>(c) Total ---------- $488,000 / year -- adding (a) & (b) -- round to $500,000<br/><br/>• NET PROFIT / BANK / YEAR <br/>(a) Gross Income -- $20 Million, minus expenses and dividends<br/>(b) Expenses -- minus	$1/2 Million <br/>(c) Dividends -- minus	$3 Million <br/>(d) Total net profit -- $16.5 Million / bank / year. <br/>NOTE: That is a 33% annual return on the invested capital of $50 Million.<br/><br/>• DRAWBACK<br/>There is one drawback to the plan. All of this money will come out of the pockets of the existing bankers who hold these loans. The bankers will probably object in all sorts of ways. But why should they be the only business protected from meaningful competition? Fair competition is the American way.<br/><br/>By the way, managing mortgage loans must be the cushiest, most profitable job in the world. Basically you lend out ten times the money you have as capital in the bank -- plus ten times the deposits you hold -- all at 6% interest (at least). That brings you in a gross income of at least 60% on the capital you have invested in the bank. <br/><br/>When managed in the interest of the general public, this fractional reserve banking system can do wonders. It has proven to be the best system ever devised to create new (temporary) money that can be used to create wealth to satisfy the needs of a country. The only problem has been that the system has never been managed with the general public in mind -- it has always been managed in accordance with the generally accepted default principle that corporations are operated for the benefit of the bank’s stockholders. <br/><br/>The plan we are suggesting will basically return the net-profit on those loans to taxpayers by supplementing the income of local government. It is anticipated that at some future date, this program might be expanded to cover other low-risk loans such as inventory loans and farm loans to common people and small businesses, thus putting more competitive pressure on existing banks.<br/><br/>(A) • TOTAL NET BANK PROFIT for the entire system of 4,000 banks: $66 Billion / year.<br/><br/>(B) • HOMEOWNERS’ SAVING -- In addition, if the homeowner’s previous mortgage was at 6%, each <br/>homeowner will save $2,000 in interest / year (per $100,000 of mortgage). That works out to a total saving of at least $40 Billion / year for the 20 million homeowners across the country.<br/><br/>(C) • TOTAL NATIONAL PROFIT -- (A) + (B) = $106 Billion / year. (If you capitalize that annual <br/>income at 4%, it has a present value of $2.65 Trillion)<br/><br/>• THEN WHAT?<br/>That profit can be spent by the local government for any general common good spelled out in the Bank’s Charter.<br/><br/><br/>Martin & Gladys Carbone<br/>Concerned citizens<br/>5123 Don Rodolfo Drive<br/>Carlsbad, CA 92010<br/>martycarbone@yahoo.com<br/>http://www.primeronmoney.com</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4084" href="javascript:ajaxLink('DiscussionTopicComment_4084', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4084')">Comments (2)</a></span><span id="DiscussionTopicTag_4084"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=banking">banking</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=hoeme loans">hoeme loans</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community banking">community banking</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4084"></div>
+</div></td>
+</tr>
+<tr id="row_4051">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4051">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4051', '/akira/discussionVote.do?dbid=2247&topicID=4051&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 20</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4051'))" style="text-decoration:none;" id="TopicVote_4051" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 20</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4051'))">9</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4051', '/akira/discussionVote.do?dbid=2247&topicID=4051&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4051"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4051-4049"><span id="IdeaTitle_4051">Passport - Department of State- allow electgronic verification of birth records&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9331-4049">flyngrl</a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I just applied for a passport for my son who was born in California and provided the birth certificate provided by the county he was born in.  DOS wrote back that I needed to get  "long form birth certificate" from the state.  This is a 14 week process. Why can't secure technology be used by individual states to DOS (and other agencies)? I have no problem paying the same $14.00, but in this day and age requiring a "raised seal" is silly.  I just had to get my signature notarized to get this data and the notary did not have a raised seal, explaining "this stamp is all we have."</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4051" href="javascript:ajaxLink('DiscussionTopicComment_4051', '/akira/discussion.do?mode=comment&dbid=2247&topicID=4051')">Comments (0)</a></span><span id="DiscussionTopicTag_4051"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=passport">passport</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=birth certificate">birth certificate</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=technology">technology</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4051"></div>
+</div></td>
+</tr>
+<tr id="row_3925">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3925">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3925', '/akira/discussionVote.do?dbid=2247&topicID=3925&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 28</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_3925'))" style="text-decoration:none;" id="TopicVote_3925" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 28</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_3925'))">15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3925', '/akira/discussionVote.do?dbid=2247&topicID=3925&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3925"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3925-4049"><span id="IdeaTitle_3925">States Rights&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8122-4049">bperrydore</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Tenth Amendment of the United States Constitution, which is part of the Bill of Rights, was ratified on December 15, 1791. The Tenth Amendment restates the Constitution's principle of Federalism by providing that powers not granted to the national government nor prohibited to the states are reserved to the states or the people.<br/><br/>"The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people."</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3925" href="javascript:ajaxLink('DiscussionTopicComment_3925', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3925')">Comments (9)</a></span><span id="DiscussionTopicTag_3925"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=states rights">states rights</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=federalism">federalism</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=abortion">abortion</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=gay marriage">gay marriage</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=legalazation of marijuana">legalazation of marijuana</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=bill of rights">bill of rights</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=tenth amendment">tenth amendment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3925"></div>
+</div></td>
+</tr>
+<tr id="row_3923">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3923">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3923', '/akira/discussionVote.do?dbid=2247&topicID=3923&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 45</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3923'))" style="text-decoration:none;" id="TopicVote_3923" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 45</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3923'))">42</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3923', '/akira/discussionVote.do?dbid=2247&topicID=3923&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3923"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3923-4049"><span id="IdeaTitle_3923">Sustainable Communities Can Produce Renewable Energy&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8364-4049">feridun</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Among the many benefits of sustainable communities is the ability to create closed eco-systems that can manage resources capable of creating renewable energy. Sweden's EPA-equivalent puts ours to shame. They have developed an extremely comprehensive and thoughtful plan that looks at the environment in a holistic manner. One of the results of that is the way that municipal waste is managed. Each municipality owns and operates its own wastewater treatment facility and they are responsible for what they produce. The sludge that results from the wastewater treatment process is not shipped to other regions of the country; it's used by the municipality to create biofuel, syngas, and other renewable energy sources. Syngas can be used to generate enough energy to power the plants that create it. It can also be used as a component in the production of other biofuels. Homes are heated and powered by poo. Cars run on it. In fact, the government provides subsidies to those who fill up their tanks on the biofuel created from poo.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3923" href="javascript:ajaxLink('DiscussionTopicComment_3923', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3923')">Comments (2)</a></span><span id="DiscussionTopicTag_3923"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=sewage sludge">sewage sludge</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3923"></div>
+</div></td>
+</tr>
+<tr id="row_3864">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3864">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3864', '/akira/discussionVote.do?dbid=2247&topicID=3864&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 19</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_3864'))" style="text-decoration:none;" id="TopicVote_3864" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 19</div><div>Votes Against : 13</div>', document.getElementById('TopicVote_3864'))">6</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3864', '/akira/discussionVote.do?dbid=2247&topicID=3864&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3864"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3864-4049"><span id="IdeaTitle_3864">Save $ & Reduce Pet Overpopulation&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8092-4049">ksherbin</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Each year, millions of dogs and cats are euthanized in shelters. Besides the morality issue with these killings, there is also the financial issue. It costs localities and states a lot of money to shelter these animals and then kill them. It also costs a lot of money to round up strays, and there are public health issues associated with strays too.<br/><br/>The underlying cause of these costs and miseries is pet overpopulation. Why not have the federal government offer grant programs to the states/localities if they can develop a plan to reduce pet overpopulation within their jurisdiction over a set period of time, let's say five years. By creating federal incentives, the state/local governments will have more motivation to take action on this serious problem. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3864" href="javascript:ajaxLink('DiscussionTopicComment_3864', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3864')">Comments (2)</a></span><span id="DiscussionTopicTag_3864"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3864"></div>
+</div></td>
+</tr>
+<tr id="row_3859">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3859">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3859', '/akira/discussionVote.do?dbid=2247&topicID=3859&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 16</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3859'))" style="text-decoration:none;" id="TopicVote_3859" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 16</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3859'))">12</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3859', '/akira/discussionVote.do?dbid=2247&topicID=3859&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3859"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3859-4049"><span id="IdeaTitle_3859">Create a Consilidated System for Tax Calculation, Payment & Compliance&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7729-4049">Peter Jackson</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">This country probably has 1000 different taxes. These are imposed on many different levels: federal, state, county, city, etc.<br/><br/>To comply with all these taxes, an individual or a business must know about them and know who, what, and how to report and remit.<br/><br/>A new small business is possibly faced with many rules and taxes they have never heard of! Ultimately, they have to hire an attorney to figure it out. Even then they are likely to miss something and have to pay interest and penalties. If they expand to another jurisdiction (or even ship to another jurisdiction) they are face with learning that jurisdiction's laws too.<br/><br/>I realize that our Federal system (decentralized government) makes this hard, but what if there were one go-to agency (with a website) where you could enter your zip code and type of business and be presented all of the different requirements on you.<br/><br/>Ideally this agency would also provide the mechanism to calculate and remit the amounts owed.<br/><br/>How much simpler would a small employer's life be if they could go to one website, enter their payroll data, and have all the taxes and withholdings calculated and remitted? Then one agency that would come to them to audit and assure compliance.<br/><br/>I am hesitant to suggest that the IRS be that agency, because it is so ponderous and feared, but some central agency who's central mission is to make compliance easy would make so many employers, small businesses, & individuals lives so much easier. Perhaps the agency could be managed by a board with members representing affected jurisdictions (and, hopefully, taxpayers). They agency might be funded by taking a (very small) cut on the taxes it collects.<br/><br/>This does not mean that the taxes should all be set by the federal government. Our system of innovation at the local level is important. Instead it could work something like this:<br/><br/>The agency would develop an extensible structure (rules based system) by which local jurisdictions could define their tax system in a standardized manner (who does it apply to, what is the basis, what deductions are possible, what are the rates, etc.). The agency's computers would then apply those rules. <br/><br/>Jurisdictions would be incentivized to create tax rules that were implementable with the agency's system. But they would not have to. There would also be an exception system where instead the jurisdiction could just use the agency's system to inform the taxpayer that there is a tax and how to go about calculating and remitting it (i.e., "if you do X in location Y, see this website").  The agency, however, would have as a goal (a metric of success) the minimization of these exceptions. They would do that by (a)convincing the jurisdiction of the value of using the agency's calculation methods, (b)expanding the calculation system to include the rules the jurisdiction needs, or (c)some compromise between the two.<br/><br/>Finally, jurisdictions would not have to participate at all. They would be welcome to do it the old fashioned way. But I imagine, if the agency does a good job, no jurisdiction would want to ignore the agency completely. If nothing else, the agency would provide the jurisdiction another way to inform its taxpayers of their obligations.<br/><br/>A system like this could be invaluable for businesses doing multi-state transactions. The turf wars over sales taxes are heating up. Eventually the smallest internet seller is going to have an impossible time properly complying with all the tax laws. What if the seller could just enter in the zip code of the seller and the zip code of the buyer, the transaction amount, and the type of transaction and the system would calculate tax and ultimately remit the tax to the appropriate local jurisdictions?<br/><br/>With the advent of the computer, the internet, on-line banking, etc., the system we have now of forms and agencies is antiquated! Everyone (the IRS, local jurisdictions, taxpayers) would save money by having a centralized system like I've described. Compliance would go up, cost to comply would go down, cost to collect would go down. Everyone would be much happier.<br/><br/>As for auditing, local jurisdictions would retain the right to audit their taxpayers. But the central agency could also provide that service...they would audit automatically as part of their compliance enforcement, but they might also respond to audit requests from jurisdictions (either general requests or requests to audit particular aspects of a particular taxpayer), perhaps at the jurisdiction's expense.<br/><br/>Centralized reporting means that all agencies that a taxpayer pays tax to would be privy to all the same information automatically. The whole system of W-2s and 1099s would be built in. One audit would assure compliance with all affected taxes.<br/><br/>One implementation of this idea would be a centralized system of servers that apply rules based calculation methods and store historical transaction data which would then communicate with front-end systems via XML and related technologies.  The agency would provide a front end, but it would also be open so that third parties could also write front ends.<br/><br/>QuickBooks, for example, could be a front end, automatically sending XML information to the central system which would respond with how much tax is owed for any particular transaction. This could be virtually real time, allowing taxpayers to fulfill their obligations and jurisdictions to receive their revenue much faster. This would create a competitive marketplace to be each person or business’s calculation and remittance provider.<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3859" href="javascript:ajaxLink('DiscussionTopicComment_3859', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3859')">Comments (0)</a></span><span id="DiscussionTopicTag_3859"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=tax collection">tax collection</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3859"></div>
+</div></td>
+</tr>
+<tr id="row_3687">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3687">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3687', '/akira/discussionVote.do?dbid=2247&topicID=3687&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 33</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3687'))" style="text-decoration:none;" id="TopicVote_3687" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 33</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3687'))">26</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3687', '/akira/discussionVote.do?dbid=2247&topicID=3687&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3687"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3687-4049"><span id="IdeaTitle_3687">A National Strategy for Sustainability would be built on Collaboration&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5117-4049">Rob  Wheeler</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Citizens Network for Sustainable Development has been urging our federal government to fulfill it’s commitment to develop and implement a National Strategy for Sustainability for more than ten years now. I posted an idea and proposal on this idea yesterday (May 27) under the category of New Strategies and Techniques of Participation. It has already gotten quite a few votes and will probably receive substantially more than this posting. See: http://opengov.ideascale.com/akira/dtd/3299-4049. A National Strategy will not focus on just one or two components or criteria for better and more open government, but instead on most aspects of this challenge. I am thus including a description below of how a National Strategy for Sustainability could be used to address most of the categories that are listed in the Open Government Dialogue. <br/><br/>The Citizens Network for Sustainable Development is urging the Obama Administration and Congress to lead our country and people in Developing and Implementing a National Strategy for Sustainability, as agreed to by all of the UN Member States during both the Rio Earth Summit Conference in 1992 and the Johannesburg World Summit on Sustainable Development in 2002. Indeed all countries agreed to “begin to implement their National Strategy Plans by 2005”, so we are already several years behind in fulfilling this important commitment. <br/><br/>President Obama has repeatedly stated that his Administration will be both a good global citizen and will contribute substantially to achieving the Millennium Development Goals. Developing and implementing a National Strategy for Sustainability is needed to fulfill Millennium Development Goal #7 which calls for “ensuring environmental sustainability” and “integrating the principles of sustainable development into country policies and programs and reversing the loss of environmental resources.”<br/><br/>TRANSPARENCY <br/><br/>One of the primary objectives, goals, and components of a National Strategy for Sustainability should be to provide more transparency within government at all levels. Mechanisms should be developed as a part of the implementation process to make data more accessible, make government operations more visible, and to provide open access to key information such as is applicable to the primary indicators that are used to measure and assess progress that is being made to implement the sustainability plan. <br/><br/>PARTICIPATION<br/><br/>The work of existing and new Federal Advisory Committees should be integrated into both the development and implementation of the National Strategy for Sustainability. In fact some type of an independent National Council on Sustainable Development should be created, with a mandate and structure similar to that of the National Academy of Sciences and the National Academy of Public Administration, which will act as a Federal Advisory Committee for most purposes. <br/><br/>Many of the recommendations that come from the National Strategy Process could be instituted either as Executive Orders or as federal, state, and local rules, regulations, or legislation. In fact one of the primary goals of the process would be to evaluate existing rules, regulations, and legislation to determine whether they are sufficient for achieving set and agreed upon goals and then to take sufficient action to ensure that they are sufficient for achieving the goals. <br/><br/>COLLABORATION<br/><br/>Collaboration within, between and among various levels of government should be one of the primary focuses of the National Strategy. Indeed regional coordinating bodies and councils are needed at various levels of government to ensure that adequate processes are in place for efficient coordination, collaboration, and implementation. The President’s Council on Sustainable Development included many recommendations for such coordinating bodies and councils which ought to be acted upon, including a Joint Center on Sustainable Communities. I am including a summary of many of the primary recommendations from the President’s Council below. See: http://clinton5.nara.gov/PCSD <br/><br/>In addition, one of the key contributions that the development of a National Strategy could make would be to encourage and support the development of citizen initiatives and public-private partnerships. Indeed the focus on Sustainable Development, both in the US and around the world, has seen a growing interest and dedication to public-private partnerships which are particularly apparent in the recent development of UN Partnership Initiatives – of which both the Bush and Obama Administrations have championed and paid a great deal of interest. Indeed the National Strategy could serve as a primary means for raising awareness in the US, among stakeholders, government entities, and the public, about the work and efforts of these UN Partnerships and how the US can participate and take advantage more so in and of their development. <br/><br/>CAPACITY BUILDING<br/><br/>Another primary emphasis of the National Strategy should be to encourage and support Capacity Building and Development. At both the local level and within industries, municipalities and businesses have provided and undergone a great deal of training and staff development as they have developed their own sustainability plans. However, this is still far from universal and similar activities could now be more fruitfully developed as well at the state and federal levels. Development and implementation of a National Strategy could thus serve to foster and support the further development of such training and development programs. <br/><br/>In addition, there is a growing interest within the academic community in integrating Education for Sustainable Development throughout the curriculum – as mandated in the Outcome Document of the World Summit on Sustainable Development and the UN Decade on Education for Sustainable Development. The extent to which the U.S. Department of Education; federal, state, and local governments; and our educational institutions support and promote efforts to educate and train professors, teachers, and students about the basic principles, attributes, and components of sustainable development is also the extent to which our country will be prepared for the social, economic, and environmental challenges and requirements that are likely to confront us, and that we must deal with, in the 21st century. <br/><br/>Going beyond this, one of the key lessons that was learned from the President’s Council on Sustainable Development is the imperative need to publicize and promote the efforts to develop and implement the National Strategy for Sustainability in as broad and energetic a way as possible. One reason that more of the recommendations from the President’s Council were not implemented was that the process was not sufficiently promoted, especially in the earlier years. <br/><br/>Indeed all Americans must be made aware of the planning and implementation efforts and encouraged and welcomed to participate fully in the process. Indeed one of the primary components of the National Strategy should be to focus on communication strategies and an open and participatory process should be developed to enroll and involve as many people, stakeholders, and professionals in the communication process as possible. Just imagine the great suggestions and contributions that might come from the business community, students, and educators to enhance and promote the communication processes. <br/><br/>Indeed some great work is already being done by students, alternative and mass media, in local communities, and by professional organizations in order to promote the need and raise awareness about sustainable development – of which I could provide many excellent examples – including the Earth Team (http://www.earthteam.net); Guerrilla in the Greenhouse (http://www.greengorilla.com); Captain Planet Foundation (http://captainplanetfdn.org); NBC’s Green Is Universal; Free Range Studios;  GoodWorks Public Relations (http://www.goodworkspr.com); and Sustainable Today (http://SustainableToday.org); etc. <br/><br/>Finally, one of the primary components of the National Strategy should focus on Strategic Planning and Budgeting. In fact the development and implementation of the Strategy Plan could provide an excellent means of engaging the concerned public in planning and budgetary processes and indeed has often resulted in such interest at the local and state levels to date. In addition, sustainability indicators, Genuine Progress Indicators, and other assessment tools have often done a much better job of analyzing real world impacts than have more strictly defined economic indicators and also of including crucially important externalities in decision-making processes. <br/><br/>As you can see the development and implementation of a National Strategy for Sustainability could serve as a key vehicle and strategy for improving the operations, transparency, participation, and collaboration in government and at all levels. <br/><br/><br/>===============================================<br/><br/>Suggested Components and Activities for a<br/>National Strategy for Sustainability<br/><br/>Prepared by Rob Wheeler<br/>Citizens Network for Sustainable Development<br/><br/><br/>The proposed components included below were drawn primarily from the work of the President’s Council on Sustainable Development which met and solicited input from the American public in the 1990s. The Council’s proposals and recommendations should be reconsidered and augmented through a national effort to: develop a National Strategy for Sustainability and fulfill the commitments made by the US government during the Johannesburg World Summit on Sustainable Development in September 2002. <br/><br/>The reports and recommendations from the President’s Council on Sustainable Development are archived and can be downloaded at: http://clinton5.nara.gov/PCSD. <br/><br/>-------------------------------------<br/><br/>Some type of a National Council on Sustainable Development should again be established to lead the effort to develop and implement a National Strategy for Sustainability in the US. The role of the Council should be to:<br/><br/>A) Forge Consensus on Policy<br/>B) Demonstrate Implementation of Policy<br/>C) Get The Word Out <br/>D) Evaluate and Report on Progress Made<br/><br/>The National Strategy should:<br/><br/>Establish a White House Office which would have the authority to coordinate and integrate economic, social, and environmental policy throughout the Executive Branch and oversee implementation efforts for the National Strategy Plan.<br/><br/>Establish a new Interagency Working Group on Sustainable Development, again co-chaired by the Chair of the Council on Environmental Quality and the Chair of the National Economic Council. The Interagency Working Group should review and conduct a new survey of existing and needed federal programs and activities that could support and implement the recommendations coming from the past and present PCSD. The Interagency Working Group should recommend the means to include these programs and activities in the National Strategy Plan, following appropriate consultations.<br/><br/>The role of the Federal Government should be to:<br/><br/>Sponsor and promote a national dialogue to consider and develop recommendations as to how our country can make a rapid transition to full sustainability. <br/><br/>Develop and promote a national plan for shifting to full sustainability, including the specific steps which will need to be taken and the programs implemented in each sector or issue area.<br/><br/>Publish a catalogue of tools for initiating, leading, and implementing sustainable development efforts. Maintain an information clearinghouse to disseminate examples of best practices and community initiatives of value to county, city, state, federal, private sector, non-profit, and academic organizations.<br/><br/>Conduct policy analysis through a series of public forums on both governmental and private sector policies that contribute to building healthy communities.<br/><br/>Establish and support the work and activities of the Joint Center for Sustainable Communities<br/><br/>Promote and support the development of Eco-Industrial Parks<br/><br/>Develop a national plan and program for Sustainable Production and Consumption; and establish a federal focal point for the promotion and coordination of Extended Product Responsibility.<br/><br/>Provide sustainable community grants to cities and counties for local efforts to develop community-based strategies. Develop sustainable community awards programs to recognize outstanding efforts within communities, community programs, and their elected officials. Develop a peer exchange program to match experienced elected officials and professional staff who have proven solutions with jurisdictions that need to solve specific problems.<br/><br/>Develop a program to support initiatives and activities in rural areas and communities.<br/><br/>Develop and adopt federal metropolitan-scale policy through an Interagency Metropolitan Sustainable Development Working Group. Coordinate its activities with other interagency groups such as the Community Empowerment Board (CEB) and the Interagency Brownfields Initiative. Establish a pilot demonstration program to encourage metropolitan cooperation and problem solving.<br/><br/>Help to facilitate the creation of regional councils modeled after the PCSD's multi-stakeholder process. Establish federal interagency groups to work with the regional councils. Connect the critical issues of metropolitan and rural areas within each region to determine joint needs and collaborative solutions. Help the various regional councils to coordinate their efforts and work together to promote and implement sustainable development policies and practices.<br/><br/>Sponsor a national dialogue on the need for Education for Sustainable Development and take leadership in implementing a national effort to include it as a core part of the curriculum in schools throughout the United States. Support and implement the recommendations from the Education for Sustainability: Agenda for Action process. <br/><br/>Support the work and activities of the Sustainable Communities Network (SCN), connecting citizens nationwide with the resources they need to implement innovative processes and programs to restore the economic, environmental, and social health and vitality of their communities.<br/><br/>Develop a national advertising and educational campaign designed to help local elected officials and private citizens understand the importance of locally-based community action and to promote the National Strategy Plan for implementing sustainable development.<br/><br/>Rob Wheeler<br/>robineagle@worldcitizen.org<br/>1-717-264-5036<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3687" href="javascript:ajaxLink('DiscussionTopicComment_3687', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3687')">Comments (2)</a></span><span id="DiscussionTopicTag_3687"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3687"></div>
+</div></td>
+</tr>
+<tr id="row_3680">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3680">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3680', '/akira/discussionVote.do?dbid=2247&topicID=3680&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 19</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3680'))" style="text-decoration:none;" id="TopicVote_3680" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 19</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3680'))">17</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3680', '/akira/discussionVote.do?dbid=2247&topicID=3680&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3680"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3680-4049"><span id="IdeaTitle_3680">Consult Integrally with State Environmental Agencies&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5967-4049">bgraves</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">States, as co-regulators, are and ought to be partners with appropriate federal agencies and with each other in a federal environmental protection system. Meaningful and substantial involvement of States by federal agencies is critical to both the development and implementation of environmental and public health programs.<br/><br/>The Environmental Council of the States (ECOS) - the national non-profit, non-partisan association of state and territorial environmental agency leaders - supports early, meaningful, and substantial State involvement in the development and implementation of environmental statutes, policies, rules, programs, reviews, joint priority setting, budget proposals, budget processes, and strategic planning, and calls upon the Congress and appropriate federal agencies to provide expanded opportunities for such involvement.  <br/><br/>ECOS specifically calls on the U.S. EPA to consult integrally with the States’ environmental agencies in the priority setting, planning, and budgeting of the Offices of the U.S. EPA as these Offices conduct these efforts, in preference to after these efforts have been discussed and drafted. <br/><br/>ECOS believes that such integrated consultation will increase mutual understanding, improve State-federal relations, remove barriers, reduce costs, and more quickly improve the nation’s environmental quality.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3680" href="javascript:ajaxLink('DiscussionTopicComment_3680', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3680')">Comments (0)</a></span><span id="DiscussionTopicTag_3680"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=consultation">consultation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=states">states</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=environmental">environmental</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=statutes">statutes</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=joint priority setting">joint priority setting</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=strategic planning">strategic planning</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=budgets">budgets</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3680"></div>
+</div></td>
+</tr>
+<tr id="row_3672">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3672">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3672', '/akira/discussionVote.do?dbid=2247&topicID=3672&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 13</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3672'))" style="text-decoration:none;" id="TopicVote_3672" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 13</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_3672'))">10</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3672', '/akira/discussionVote.do?dbid=2247&topicID=3672&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3672"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3672-4049"><span id="IdeaTitle_3672">Conferences for Collaboraiton (or End Traditional Conferences)&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4711-4049">kaliya</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">This is for Collaboration across EVERYTHING...for Participation and for Capacity Building<br/><br/>Between Federal Agencies <br/>Between Federal, State, and Local Governments <br/>Public-Private Partnerships <br/>Do-It-Yourself Government <br/><br/>----------------<br/>Making innovative change in big systems is challenging. I know, I have been working hard on a particularly large challenge myself - supporting the emergence of the identity layer of the web. One of the biggest reasons for our success has been to meet face to face every 6 months but not using "traditional" conference formats - instead we meet using participant driven processes (80-90% of the time is spend using open space technology). I want to share the story of it and then talk about how the ideas can be applied to open government. <br/><br/>Traditional Gathering - They are boring and the WEB CHANGES EVERYTHING<br/>One way people think about getting change to happen is bringing people together for conferences and meetings.  This is an important part. HOWEVER most meetings and conferences that use traditional the traditional format of one-to-many speaking to a theater style audience WASTE time and effort and don't actually get closer to collaboration, don't build community and don't make constructive change. The web changes everything - just get people to watch <br/><br/><br/>Changing Big Systems with Innovative Gatherings<br/>When I began 5 years ago it was a small group of people with big ideas about what was possible if people had the ability to move across the web with their own identity.   We met at other people's conferences in side meetings for a year and then in the fall of 2005 we decided to have our own "big" conference of 85 people.  The first day we heard presentations from 8 different projects working on being part of making an identity (for people) layer of the web happen. The second day we used the open space technology method to support the community gathered meeting and talking about the overall goal and moving projects forward.  <br/><br/>One conversation that was had was about how URL based user-centric protocols could just work together instead of being separate.  This it turned out was first conversation of what would become OpenID version 2. (http://www.openid.net) <br/><br/>The community continued to meet every 6 months at the Internet Identity Workshop (http://www.internetidentityworkshop.com) we just had our 8th one it is attended by the most senior architects and decision makers working at all the major technology companies.  This includes Microsoft, MySpace, Facebook, AOL, Yahoo!, Plaxo, Google, CA, Novell, BT, Oracle, SUN, Cisco, etc. <br/><br/>We are making a lot of progress and open standards are being innovated and adopted by the community.  Their are several reasons we make so much progress:<br/><br/>*The agenda for our meetings is not set ahead of time - it is created live the day the event happens.  All who care and have a passion for what we are working can come and participate - putting their ideas forward.  <br/><br/>* New pressing/emerging issues can be discussed at length. <br/><br/>* There is a real community between people who have each other - a deep respect for their work and them as people. This culture both comes for some having known each other for years now AND is not an "old-boys/girls" network that is unwelcoming to new peole - because the agenda is open to all - it creates a welcoming forum for new people and new ideas. <br/><br/>* The face to face meeting time is leveraged by existing projects that have mailing lists to get work done.  Rather then having "real" meetings around the edges of "pre-programmed" talking heads. <br/><br/><br/>Relevance to Governenace <br/>What do technical things on the internet have to do with governance and society?  You can look at with a sort of "code is law" perspective that is the protocols and the code that uses the protocol defines what is possible - the "laws" by which these systems operate.  <br/><br/>There are MANY diverse interested (conflicting commercial and ego) interests at play working in this field. This is the same as any political governance space. Over time we have seen a marked reduction in the tensions and acramony and really profound collaborations emerge. <br/><br/>Change the Format Change Everything<br/>"Traditional" conferences and trade shows that government agencies host and that government employees attend should be strongly encouraged to adopt open space technology and other interactive formats. Ending events where 95% of all the boring from the front presentations that are one-many.  Where the real value of face time is used for dialogue and discussion between people.  People got to meetings with "pre-planned" talking heads agenda's because their "boss will approve" this culture needs to end and supporting events where real and deep dialogue occurs amongst knowledgeable professionals and with citizens needs to become a priority.   <br/><br/>What is prestigious?<br/>Government Workers with "important titles" should see participating in a collaborative forum as more valuable and more prestigious then "giving a talk" to a conference audience and then running off to the next meeting or talk.  I have seen this happen and little value comes from it except a resume/or record check box is filled. <br/><br/>If agencies and others need people to "see" presentations - have them sent ahead as YouTube Video's or as PDF documents.  People time should be used for what is most rare and valuable in this time of shrinking budgets for travel and limited time - DIALOGUE.  The wisdom in the room should be tapped through dialogue not "spoken at".  <br/><br/>Facilitation and Documentation.<br/>Skilled facilitation and design is needed to make these events very successful.  There is a whole network and community of facilitators who use both open space and other methods to support professional communities coming together over time and being very effective.  The results of these interactive conference formats need to be documented - this is a place where innovation can occur. Most often right now it is done with volunteers amongst participants talking notes.  Resources can be put into having paid note takers along with having photo, video and other electronic forms of documentation to support the meetings. <br/><br/>I do design and Facilitation of "unconferences" for professional communities regularly.<br/>I blog on this as well - http://www.unconference.net<br/>Kaliya Hamlin<br/>kaliya (at) Mac (dot) com</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3672" href="javascript:ajaxLink('DiscussionTopicComment_3672', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3672')">Comments (1)</a></span><span id="DiscussionTopicTag_3672"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=dialogue">dialogue</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=conferences">conferences</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=unconferences">unconferences</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=professional">professional</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=community">community</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=culture">culture</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=open space technology">open space technology</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ost">ost</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=unpanels">unpanels</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3672"></div>
+</div></td>
+</tr>
+<tr id="row_3669">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3669">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3669', '/akira/discussionVote.do?dbid=2247&topicID=3669&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 29</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3669'))" style="text-decoration:none;" id="TopicVote_3669" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 29</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3669'))">27</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3669', '/akira/discussionVote.do?dbid=2247&topicID=3669&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3669"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3669-4049"><span id="IdeaTitle_3669">Create a national disaster recovery framework that identifies how the federal government will work across federal agencies&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3907-4049">jgoldman</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Create a national disaster recovery framework that identifies how the federal government will work across federal agencies and in cooperation with state and local government as well as the nonprofit and private sector. We have a National Response Framework but there is no national framework for long-term recovery and rebuilding. Ideas to develop such a framework are in the initial stages at FEMA/DHS.  <br/><br/>This idea was developed by Federal managers at a conference on March 30-31, called Champions of Participation, which was convened by AmericaSpeaks, Demos, Everyday Democracy and Harvard University's Ash Institute. For more information, visit www.americaspeaks.org/champions</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3669" href="javascript:ajaxLink('DiscussionTopicComment_3669', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3669')">Comments (1)</a></span><span id="DiscussionTopicTag_3669"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=champions of participation">champions of participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=disaster recovery framework">disaster recovery framework</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3669"></div>
+</div></td>
+</tr>
+<tr id="row_3668">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3668">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3668', '/akira/discussionVote.do?dbid=2247&topicID=3668&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 31</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3668'))" style="text-decoration:none;" id="TopicVote_3668" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 31</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3668'))">29</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3668', '/akira/discussionVote.do?dbid=2247&topicID=3668&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3668"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3668-4049"><span id="IdeaTitle_3668">Convene a national network of community-based policy dialogues on climate readiness and resilient communities&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3907-4049">jgoldman</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Convene a national network of community-based policy dialogues on climate readiness and resilient communities. Climate change is challenging our assumptions about natural and man-made infrastructure.  Local strategies for adapting to and addressing climate change impacts are needed. A concurrent national dialogue consisting of local and regional community-based discussions addressing climate readiness culminating in a national event in Washington DC would provide important insight and feedback into national policy development.<br/><br/>This idea was developed by Federal managers at a conference on March 30-31, called Champions of Participation, which was convened by AmericaSpeaks, Demos, Everyday Democracy and Harvard University's Ash Institute. For more information, visit www.americaspeaks.org/champions</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3668" href="javascript:ajaxLink('DiscussionTopicComment_3668', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3668')">Comments (0)</a></span><span id="DiscussionTopicTag_3668"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=champions of participation">champions of participation</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3668"></div>
+</div></td>
+</tr>
+<tr id="row_3666">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3666">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3666', '/akira/discussionVote.do?dbid=2247&topicID=3666&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 24</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3666'))" style="text-decoration:none;" id="TopicVote_3666" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 24</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_3666'))">22</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3666', '/akira/discussionVote.do?dbid=2247&topicID=3666&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3666"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3666-4049"><span id="IdeaTitle_3666">Convene a discussion on alternatives for the storage and disposal of spent reactor fuel. &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3907-4049">jgoldman</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Convene a discussion on alternatives for the storage and disposal of spent reactor fuel. With the storage disposal mechanism at Yucca Mountain off the table and a desire to use nuclear power to reduce carbon use, there is an opportunity to demonstrate the value of public participation and collaboration.<br/><br/>This idea was developed by Federal managers at a conference on March 30-31, called Champions of Participation, which was convened by AmericaSpeaks, Demos, Everyday Democracy and Harvard University's Ash Institute. For more information, visit www.americaspeaks.org/champions </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3666" href="javascript:ajaxLink('DiscussionTopicComment_3666', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3666')">Comments (0)</a></span><span id="DiscussionTopicTag_3666"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaboration">collaboration</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=participation">participation</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=champions of participation">champions of participation</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3666"></div>
+</div></td>
+</tr>
+<tr id="row_3658">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3658">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3658', '/akira/discussionVote.do?dbid=2247&topicID=3658&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 14</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_3658'))" style="text-decoration:none;" id="TopicVote_3658" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 14</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_3658'))">-1</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3658', '/akira/discussionVote.do?dbid=2247&topicID=3658&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3658"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3658-4049"><span id="IdeaTitle_3658">Reduce the effectiveness of the Federal government&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7038-4049">gmclam</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Back when the USA was being formed, it was really just a bunch of INDIVIDUAL states that wanted strength and protection from outsiders (other countries).  The original idea was to let each state "do its own thing" with little intervention from a single Federal government.  When did things go so wrong?<br/><br/>Currently there are dozens (hundreds?) of Federal Laws that are essentially similar to, or even often contradict, state laws.  This is a total waste of taxpayer money and government effort.  One quick example I'll give pertains to marijuana - voted legal for medicinal use in California yet still against Federal Law.<br/><br/>The Federal laws which contradict state & local laws must be abolished.  The Federal Government needs to do the things it does best, or the states can not do (protect our country/borders, provide social security, provide health care, etc) and stop interfering with the states.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3658" href="javascript:ajaxLink('DiscussionTopicComment_3658', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3658')">Comments (3)</a></span><span id="DiscussionTopicTag_3658"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3658"></div>
+</div></td>
+</tr>
+<tr id="row_3650">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3650">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3650', '/akira/discussionVote.do?dbid=2247&topicID=3650&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 4</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3650'))" style="text-decoration:none;" id="TopicVote_3650" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 4</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3650'))">-3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3650', '/akira/discussionVote.do?dbid=2247&topicID=3650&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3650"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3650-4049"><span id="IdeaTitle_3650">Implement E-ViEWS Safety Systems - Integrated Command and Control Infrastructure&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7097-4049">alanlewisii</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">A company based in Southern California has developed a suite of technologies that when properly implemented provide a complete, scalable, public transportation and safety infrastructure that meets virtually every standard set forth in the President's Agenda on Homeland Security and Public Safety.  The successful implementation of the system would enable first responders, within every agency and level, to communicate and coordinate between themselves and the public, in unprecedented ways.  The system can be combined with DHS|ICE|FPS's Mega Centers.  Solutions include public messaging, traffic congestion mitigation, emergency evacuation routes, interoperability, asset tracking via GPS, asset data collection and tracking, and much more.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3650" href="javascript:ajaxLink('DiscussionTopicComment_3650', '/akira/discussion.do?mode=comment&dbid=2247&topicID=3650')">Comments (0)</a></span><span id="DiscussionTopicTag_3650"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=homeland security public safety interoperability emergency vehicle prioritization preemption first responder arra dot dhs fps ice nipp">homeland security public safety interoperability emergency vehicle prioritization preemption first responder arra dot dhs fps ice nipp</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3650"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 61<br/> Displaying 1 to 25<div class="pages"><span class="current">1</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2247&pageOffset=1" title="Go to page 2">2</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2247&pageOffset=2" title="Go to page 3">3</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2247&pageOffset=1" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4745&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Uncategorized</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2255">Top Rated (216)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2255">Recent (216)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_4258">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4258">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4258', '/akira/discussionVote.do?dbid=2255&topicID=4258&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 hours ago</div><div>Votes For : 9</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_4258'))" style="text-decoration:none;" id="TopicVote_4258" href="javascript:Bubble.showTip('<div>Idea Created : 6 hours ago</div><div>Votes For : 9</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_4258'))">-6</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4258', '/akira/discussionVote.do?dbid=2255&topicID=4258&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4258"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4258-4049"><span id="IdeaTitle_4258">PRAYER..God, Allah, ..Lord, Almighty&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4670-4049">sunjenshine</a></b> <span class="IdeaScale_SecondaryText">6 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I think it is time that the world makes a committment...and allows, WORLDWIDE..prayer, anywhere, anytime, yes, especially in schools..as long as there is no disruption. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4258" href="javascript:ajaxLink('DiscussionTopicComment_4258', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4258')">Comments (2)</a></span><span id="DiscussionTopicTag_4258"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=religion">religion</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4258"></div>
+</div></td>
+</tr>
+<tr id="row_4233">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4233">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4233', '/akira/discussionVote.do?dbid=2255&topicID=4233&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 13 hours ago</div><div>Votes For : 18</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4233'))" style="text-decoration:none;" id="TopicVote_4233" href="javascript:Bubble.showTip('<div>Idea Created : 13 hours ago</div><div>Votes For : 18</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4233'))">6</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4233', '/akira/discussionVote.do?dbid=2255&topicID=4233&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4233"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4233-4049"><span id="IdeaTitle_4233">WE NEED SOME FORM OF issue or item INDEXING &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4319-4049">Paul D. Kendall</a></b> <span class="IdeaScale_SecondaryText">13 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I think this site is a good idea because it provides us an honorable and well intended avenue or means  for us average people to talk to  our president without tying up his time directly; <br/>And at the same time, by us publicly voicing our thoughts we can see how many others agree with us, <br/>and even more important in some ways, we can learn from another persons thoughts, new views and ideas we have not considered....<br/> <br/>Keeping the above in mind, I think you or we need some means of intersecting, structuring, sectoring, indexing, cataloging or constructing our inputs to more specific areas so that we can challenge, question, confirm, contribute, admonish, engage more directly in a subject or question at hand.<br/> <br/>We need some way to construct our commentaries in Brick like moments in building or immaging a wall like Idea..This way we can stay in an Issue relevant area, in an up close and inside detailing dialoging process. <br/>If our thoughts stray, we can still pull them out as not relevant, or relocate them  as a viable Brick like comment and move them to another part of the wall like Idea.<br/> <br/>My interest is in   " Individual Transportation and Residential Life Essential Clean Water and Electricity Energy Needs" as an annual allotment per person, and dwelling based upon a formula that reflects reasonable amounts of use we all agree to ;<br/> ( with the purpose of each person or dwelling actually revieving an annual allotment of water and electricity at nearly $0 zero charge )<br/> <br/>Well,, Energy use is typically divided into 5 Sectors of users: <br/> Residential, Commercial, Institutional, Industrial/Mfg, and Military; <br/> <br/>      So I would look for the ENERGY USERS sector, <br/>Then, I would want to go to the Residential category under ENERGY users, <br/>Then under Residential we have Home Ownership or  Rental,<br/>Home Ownership<br/>   Townhouse<br/>   Condominium<br/>   Cabin<br/>Rental<br/>  homes<br/>  apts<br/>Located in Urban, Rural, Remote, etc... <br/> <br/>If i am right we could hone in on a discussion so as to truly build a discussion of true constructive and resolution capacity....<br/> <br/>ENERGY in reference to:<br/>         ----- Usage Amounts by sectors<br/>                                    + Residential<br/>                                             single family home ownership<br/>                                             rental unit<br/>                                    + Commercial<br/>                                    + Institutional<br/>                                    + Industrial/Mfg<br/>                                    + Military<br/>          -----Generation:<br/>                        River<br/>                        Tidal<br/>                        Solar<br/>                        Geothermal<br/>                        Ocean<br/>                        Wind <br/>                        Wave<br/>                        <br/>      ---- Transmission<br/>      ---- Storage<br/>      ---- Distribution <br/>      ---- Financing<br/>      ---- Ownership<br/>    <br/>          <br/> In Reference to: <br/>        -----Residential:<br/>                    Single Family Home Ownership<br/>                    Rental Unit<br/>       <br/>                               Located in:<br/>                                            Urban<br/>                                            Rural<br/>                                            Remote<br/> <br/> <br/>Home or Dwelling Energy Use (Footprint)  of ELECTRICITY and WATER<br/>Transportation<br/>Lighting, appliances, electronics, etc.<br/>Heating w/wo garage<br/>Air conditioning<br/>Cooking<br/>Hot water<br/>Clean Water<br/>Water Storage Tank<br/>Waste Water Return<br/>Greenhouse<br/>Hydrogen Home Generation unit<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4233" href="javascript:ajaxLink('DiscussionTopicComment_4233', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4233')">Comments (3)</a></span><span id="DiscussionTopicTag_4233"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=indexing issues or items">indexing issues or items</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4233"></div>
+</div></td>
+</tr>
+<tr id="row_4223">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4223">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4223', '/akira/discussionVote.do?dbid=2255&topicID=4223&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 15 hours ago</div><div>Votes For : 19</div><div>Votes Against : 66</div>', document.getElementById('TopicVote_4223'))" style="text-decoration:none;" id="TopicVote_4223" href="javascript:Bubble.showTip('<div>Idea Created : 15 hours ago</div><div>Votes For : 19</div><div>Votes Against : 66</div>', document.getElementById('TopicVote_4223'))">-47</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4223', '/akira/discussionVote.do?dbid=2255&topicID=4223&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4223"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4223-4049"><span id="IdeaTitle_4223">Quit Apologizing To Rabid-Right Nonsense - Sotomayor, et al.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10282-4049">jffox77777</a></b> <span class="IdeaScale_SecondaryText">15 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">In wcdcc-discuss@yahoogroups.com, "jim" wrote:<br/><br/>Judge Sonia Sotomayor is an outstanding nominee for Supreme Court Justice.<br/>http://my.barackobama.com/page/content/introducingsotomayor/<br/><br/>Judge Sotomayer is beyond exceptionally well qualified; someone we can proudly support without qualification. Just check her long resume.<br/> http://en.wikipedia.org/wiki/Sonia_Sotomayor/<br/><br/>It is appalling and disgusting -- the garbage-attacks from the right. As usual, they re-spin nothing or something positive into nasty negativity. Their distortions, only demonstrate their own pathetic negativism and raw bigotry, utterly devoid of any positive basis.<br/><br/>It's a sad time for the US Conservative Movement.<br/><br/>Rather than having any insecurity on this issue, we should proceed full positive speed ahead, touting Judge Sotomayor's exceptional qualifications; without any uncertainty or apology whatsoever; while ridiculing the pathetic baseless nonsense spewed out by the utterly disgusting residual rabid-right. Enough is enough. Can they do no better than that?<br/><br/>Anyone can take them head-on -- this issue's a no-brainer.<br/>--jim<br/>==========later========<br/>Sorry if I reply to my own post; but I can't believe today's news.<br/><br/>Dems have a bomb-proof issue, opposition is pathetic -- and what do they do?<br/><br/>Instead of attacking absurd charges of racism head-on, they apologize.<br/><br/>Neo-Con absurdists say "BOO !" - and Democrat Liberals fall to their knees crying "I appologize." Our "professional" party-pols have backbones made of wet spaghetti -- lead around by the nose, passive and defensive, always responding to absurd attacks from bully fanatics. <br/><br/>At least a precious few voices (Goodman, Oberman, Maddow, Schultz, et al) finally have national microphones and are finally telling it like it is. However, even they discuss non-issues for a week or more -- lending them credence -- as intended by the propagandists of the rabid-right, who still totally control the debate.<br/><br/>Arrrrrgh, this is hopeless.<br/>--jim</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4223" href="javascript:ajaxLink('DiscussionTopicComment_4223', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4223')">Comments (3)</a></span><span id="DiscussionTopicTag_4223"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=strategy">strategy</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4223"></div>
+</div></td>
+</tr>
+<tr id="row_4206">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4206">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4206', '/akira/discussionVote.do?dbid=2255&topicID=4206&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 17 hours ago</div><div>Votes For : 2</div><div>Votes Against : 27</div>', document.getElementById('TopicVote_4206'))" style="text-decoration:none;" id="TopicVote_4206" href="javascript:Bubble.showTip('<div>Idea Created : 17 hours ago</div><div>Votes For : 2</div><div>Votes Against : 27</div>', document.getElementById('TopicVote_4206'))">-25</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4206', '/akira/discussionVote.do?dbid=2255&topicID=4206&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4206"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4206-4049"><span id="IdeaTitle_4206">Create a think tank of Mesans&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10209-4049">Brett </a></b> <span class="IdeaScale_SecondaryText">17 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">As daunting as the problems are that this country/the world presently faces, why not seek input from the brightest minds.  It would be easy to contact groups such as Mensa International, the Glia Society, or even the Prometeus Society for input into the myriad of issues facing the government.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4206" href="javascript:ajaxLink('DiscussionTopicComment_4206', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4206')">Comments (5)</a></span><span id="DiscussionTopicTag_4206"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4206"></div>
+</div></td>
+</tr>
+<tr id="row_4197">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4197">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4197', '/akira/discussionVote.do?dbid=2255&topicID=4197&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 18 hours ago</div><div>Votes For : 37</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_4197'))" style="text-decoration:none;" id="TopicVote_4197" href="javascript:Bubble.showTip('<div>Idea Created : 18 hours ago</div><div>Votes For : 37</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_4197'))">22</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4197', '/akira/discussionVote.do?dbid=2255&topicID=4197&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4197"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4197-4049"><span id="IdeaTitle_4197">Line Item Veto&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10105-4049">audacityofcommonsense</a></b> <span class="IdeaScale_SecondaryText">18 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">This would keep the Congress from loading a bill up with unrelated stuff then forcing (wink, nod sometimes) the White House from accepting the trash because the other stuff is "so important".  We the People get stuck holding the bag constantly because of this little "inside the beltway" game.  Enough, already!<br/><br/>If the White House can cross stuff out, then the American people will know who spent how much on what and throw out the jerks and leave the good people in place.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4197" href="javascript:ajaxLink('DiscussionTopicComment_4197', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4197')">Comments (0)</a></span><span id="DiscussionTopicTag_4197"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=accountability--for a change">accountability--for a change</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4197"></div>
+</div></td>
+</tr>
+<tr id="row_4194">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4194">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4194', '/akira/discussionVote.do?dbid=2255&topicID=4194&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 18 hours ago</div><div>Votes For : 29</div><div>Votes Against : 40</div>', document.getElementById('TopicVote_4194'))" style="text-decoration:none;" id="TopicVote_4194" href="javascript:Bubble.showTip('<div>Idea Created : 18 hours ago</div><div>Votes For : 29</div><div>Votes Against : 40</div>', document.getElementById('TopicVote_4194'))">-11</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4194', '/akira/discussionVote.do?dbid=2255&topicID=4194&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4194"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4194-4049"><span id="IdeaTitle_4194">HEALTH CARE&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10082-4049">danmcmains</a></b> <span class="IdeaScale_SecondaryText">18 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I think all Americans should have the same coverage as our lawmakers in Washington for free and for life.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4194" href="javascript:ajaxLink('DiscussionTopicComment_4194', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4194')">Comments (7)</a></span><span id="DiscussionTopicTag_4194"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4194"></div>
+</div></td>
+</tr>
+<tr id="row_4193">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4193">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4193', '/akira/discussionVote.do?dbid=2255&topicID=4193&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 18 hours ago</div><div>Votes For : 28</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_4193'))" style="text-decoration:none;" id="TopicVote_4193" href="javascript:Bubble.showTip('<div>Idea Created : 18 hours ago</div><div>Votes For : 28</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_4193'))">22</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4193', '/akira/discussionVote.do?dbid=2255&topicID=4193&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4193"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4193-4049"><span id="IdeaTitle_4193">Halting Corruption&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/10082-4049">danmcmains</a></b> <span class="IdeaScale_SecondaryText">18 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">How about we have a investigation of each and everyone one of the people running this country, by a non-political priviate organization.  I beleive this will root out the corruption and quite a lot of people will be headed to jail.  Also I think all the politicians should have lie detectors hooked up at all times when on the job and if you lie then your outta there!</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4193" href="javascript:ajaxLink('DiscussionTopicComment_4193', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4193')">Comments (2)</a></span><span id="DiscussionTopicTag_4193"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4193"></div>
+</div></td>
+</tr>
+<tr id="row_4186">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4186">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4186', '/akira/discussionVote.do?dbid=2255&topicID=4186&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 20 hours ago</div><div>Votes For : 7</div><div>Votes Against : 59</div>', document.getElementById('TopicVote_4186'))" style="text-decoration:none;" id="TopicVote_4186" href="javascript:Bubble.showTip('<div>Idea Created : 20 hours ago</div><div>Votes For : 7</div><div>Votes Against : 59</div>', document.getElementById('TopicVote_4186'))">-52</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4186', '/akira/discussionVote.do?dbid=2255&topicID=4186&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4186"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4186-4049"><span id="IdeaTitle_4186">Create a National Curriculum for Education&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8469-4049">longshot9999</a></b> <span class="IdeaScale_SecondaryText">20 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Millions of dollars are wasted in this country on an inefficient educational system that is rooted in constitutional law that gives each state the right to determine its own standards.  Examples of federal laws that create unnecessary waste and cost in education because of the lack of provision for a natioanl education system under our current contsitutional system are - the individuals with disabilites education act (IDEA) and No Child Left Behind.  Both federal laws require states to come up with their own processes and forms for documenting compliance with the law.  In addition, No Child Left Behind and lawas that led to that Act, required states to each identify their own standards for student learning and to develop assessments for measuring student growth for each of those standards.  Given the fact that for most content areas a developmental scope and sequence is fairly standard (for example children in any state will learn to count before they learn to add, and they will learn to add before they learn to subtract) the cost to taxpayers when each of the 50 states are required to develop their own state standards and practices is astounding.  And frankly a crime in a nation in which 20 to 25 percent of the children live in poverty.  Developing a national scope and sequence for curriculum and national assessment practices would require an amendment to the U.S. Constitution and would benefit our nation by reducing dramatically the cost of education as well as allowing students to move from state to state without a major disruption in their learning processes.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4186" href="javascript:ajaxLink('DiscussionTopicComment_4186', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4186')">Comments (1)</a></span><span id="DiscussionTopicTag_4186"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=education">education</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=curriculum">curriculum</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=saving money">saving money</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4186"></div>
+</div></td>
+</tr>
+<tr id="row_4180">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4180">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4180', '/akira/discussionVote.do?dbid=2255&topicID=4180&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 21 hours ago</div><div>Votes For : 21</div><div>Votes Against : 47</div>', document.getElementById('TopicVote_4180'))" style="text-decoration:none;" id="TopicVote_4180" href="javascript:Bubble.showTip('<div>Idea Created : 21 hours ago</div><div>Votes For : 21</div><div>Votes Against : 47</div>', document.getElementById('TopicVote_4180'))">-26</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4180', '/akira/discussionVote.do?dbid=2255&topicID=4180&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4180"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4180-4049"><span id="IdeaTitle_4180">Corporate Executive Pay Cap Reform&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">21 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">64.	Corporate Executive Pay Cap Reform: Top executives of publicly held companies should have the total compensation (wages, bonuses, stock options) capped to no more than fifty to one hundred times the mean average wage of all employees within the given company or holdings.  Fiscal end 2007, record compensation packages of a few corporate executives have exceeded 243 times that of mean average wage of employees.  This excessive pay program detracts from the wage growth of employees to the benefit of a few people.  This policy would promote increasing mean wages of millions of employees.  Employee wage growth has stagnated during the past twenty years, due to excessive executive greed.  “Predatory capitalism is characterized as the following: Profit-seeking corporations can be a great force for good in the world, creating and providing wonderful goods and services that would be unavailable by any other means. But we also recognize that if they are unregulated, they harm the public these five ways.” <br/>•	1) NOT PAY TAXES -In order to maximize profits, they always seek to avoid or minimize their taxes. <br/>•	2) ELIMINATE COMPETION -In order to maximize profits, they always seek to eliminate or control their competition. <br/>•	3) CUT WAGES AND SALARIES - In order to maximize profits, they always seek to reduce their labor costs. <br/>•	4) DISREGARD THE ENVIRONMENT - In order to maximize profits, they always seek to avoid all environmental restraints. <br/>•	5) SELL DANGEROUS, HARMFUL PRODUCTS - In order to maximize profits, they may tempt to sell dangerous or harmful products.  (McGinnis)<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4180" href="javascript:ajaxLink('DiscussionTopicComment_4180', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4180')">Comments (4)</a></span><span id="DiscussionTopicTag_4180"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=executive pay cap reform">executive pay cap reform</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4180"></div>
+</div></td>
+</tr>
+<tr id="row_4179">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4179">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4179', '/akira/discussionVote.do?dbid=2255&topicID=4179&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 21 hours ago</div><div>Votes For : 62</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4179'))" style="text-decoration:none;" id="TopicVote_4179" href="javascript:Bubble.showTip('<div>Idea Created : 21 hours ago</div><div>Votes For : 62</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_4179'))">52</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4179', '/akira/discussionVote.do?dbid=2255&topicID=4179&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4179"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4179-4049"><span id="IdeaTitle_4179">Vote NO on S.R. 773: Cybersecurity Act of 2009&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">21 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">63.	Vote NO on Senate Resolution 773: Cybersecurity Act of 2009 – This law will moderate the current free speech internet by allowing unprecedented government access to servers, all in the name of national security.  This must not happen.  The internet is the last bastion of free thought.  Our other media outlets, television, radio, and newsprint, are all compromised by controlling interests who moderate or script daily news.  Internet is the last public free resource of information, untainted by those corrupting forces of government sponsorship. As this bill is currently written it would devastate freedom of speech all under the guise of protection from so called cyber attacks. This Act must not be passed as read on April 1, 2009.<br/>•	<br/>April 1, 2009, version, Section 14, part (b) FUNCTIONS – The Secretary of Commerce – (1) shall have access to all relevant data concerning such networks without regard to any provision of law, regulation, rule, or policy restricting such access.<br/>•	<br/>If congress wanted to reinforce cyber security all they need to do is reinforce their gate keeper code, meaning accessibility to their mainframes. This bill is an over achiever bill that has far too many powers for its purpose.<br/>•	<br/>Presently, all purchases over the internet are done sales tax free, this must continue.  Any legislation by the state or federal government to place fees or sales taxes upon internet sales must be resisted and discouraged, under the pain of recall or impeachment, if necessary. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4179" href="javascript:ajaxLink('DiscussionTopicComment_4179', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4179')">Comments (0)</a></span><span id="DiscussionTopicTag_4179"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=no to cybersecurity act">no to cybersecurity act</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4179"></div>
+</div></td>
+</tr>
+<tr id="row_4178">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4178">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4178', '/akira/discussionVote.do?dbid=2255&topicID=4178&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 21 hours ago</div><div>Votes For : 31</div><div>Votes Against : 23</div>', document.getElementById('TopicVote_4178'))" style="text-decoration:none;" id="TopicVote_4178" href="javascript:Bubble.showTip('<div>Idea Created : 21 hours ago</div><div>Votes For : 31</div><div>Votes Against : 23</div>', document.getElementById('TopicVote_4178'))">8</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4178', '/akira/discussionVote.do?dbid=2255&topicID=4178&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4178"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4178-4049"><span id="IdeaTitle_4178">Ban Depleted Uranium (DU) Munitions&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">21 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">62.	Ban the Use of Depleted Uranium Munitions: Depleted uranium is a waste product of the nuclear enrichment process in making nuclear weapon grade uranium. Depleted uranium is 1.7 times more dense than lead, making it ideal for weapons.  When a DU monition impacts a hard target, the DU burns through at high temperatures producing very fine radioactive dust particles. DU is used as a penetrator in amour piercing tank rounds and bullets.  The heat of the DU impact and secondary fires means that much of the dust produced is ceramic, and remain in the lungs for years if inhaled.  Institute of Nuclear Technology-Radiation Protection of Attiki, Greece has noted that “the aerosol produced during impact and combustion of depleted uranium munitions can potentially contaminate wide areas around the impact sites or can be inhaled by civilians and military personnel.” (Mitsakou, 2003) The half-life of DU is 4.5 billion years.  Any environment where it is used as a weapon will remain radioactive forever. “DU shells and bullets left in or on the ground have been found to have lost 25% of their mass by dissolving and are now contaminating groundwater.” (Moret, 2003)  More than three thousand tons of depleted uranium munitions have been used in Afghanistan and Iraq conflicts.<br/>•	<br/>The legality test for weapons under international law requires that weapons must pass the following four tests:<br/>a.	Temporal Test: Weapons must not continue to act after the battle is over<br/>b.	Environmental Test: Weapons must not be unduly harmful to the environment<br/>c.	Territorial Test: Weapons must not act off of the battlefield<br/>d.	Humaneness Test: Weapons must not kill or wound inhumanely<br/>•	<br/>Depleted uranium weaponry fails all four tests; therefore, it is illegal under all treaties, all agreements, and all war conventions. (Moret, 2003)   <br/>•	<br/>From natural background radiation, the typical person gets about 100 millirems of radiation a year, but if your exposed to places where depleted uranium was used, you can easily experience upwards to 200 millirems of radiation per hour.  This level of radiation exposure is likened to getting a chest x-ray every few minutes.  (Poison Dust, 2008)  Depleted uranium is primarily an alpha and gamma radiation emitter. Alpha radiation can be blocked by tissue paper, but since it is easily blocked, all of its energy is deposited in the nearby tissue.  Since, depleted uranium has a very long half life, any particle of it that is ingested or breathed in; it never stops radiating alpha radiation.  Gamma radiation is very hard to shield, even if it is encased in lead, some of the radiation still comes through.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4178" href="javascript:ajaxLink('DiscussionTopicComment_4178', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4178')">Comments (0)</a></span><span id="DiscussionTopicTag_4178"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ban depleted uranium munitions">ban depleted uranium munitions</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4178"></div>
+</div></td>
+</tr>
+<tr id="row_4177">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4177">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4177', '/akira/discussionVote.do?dbid=2255&topicID=4177&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 56</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_4177'))" style="text-decoration:none;" id="TopicVote_4177" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 56</div><div>Votes Against : 17</div>', document.getElementById('TopicVote_4177'))">39</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4177', '/akira/discussionVote.do?dbid=2255&topicID=4177&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4177"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4177-4049"><span id="IdeaTitle_4177">Ban Fluoride in Public Drinking Water and Beverages&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">61.	Ban the use of Fluoride in Public Drinking Water and Other Beverages: American indoctrination of fluoridation is thoroughly ingrained.  When you tell most people that fluoride is bad for you, they simply can not fathom this truth.  Fluoride only has a very small topical benefit to teeth, meaning only marginally beneficial as fluoride passes over the teeth.  Ingesting fluoride has absolutely zero benefits what so ever. The below sections only cover a fragment of the data on fluoridation.  The best website that I have found is www.loveforlife.  If you the reader still has a doubt that fluoride is harmful in any concentration, please visit the before mentioned website and read for yourself.  Fluoridation must end, and those who have passed laws allowing this to happen should be indicted for the deaths of millions of Americans.<br/>•	<br/>Short history of fluoride use.  American soldiers who entered Germany at the end of World War II made the liberating of POW camps a priority.  Camp after camp, they found stockpiles of fluoride stored near the water supply.  When they asked what the fluoride was used for, they were told that the Germans used the substance as an additive to the prisoner’s water, to make them docile and inhibit the questioning of authority. This is the first known incidence of intentionally fluoridating drinking water. (Cristian, 2007)  <br/>•	<br/>“In 1943, researchers from the US Public Health Service examine the health of residents of Bartlett, Texas to see if the 8ppm fluoride in the drinking water was affecting their health. It was checked again in 1953. They find that the death rate in Bartlett was three times higher than a neighboring town which contained 0.4 ppm fluoride.” (Valerian, 1997)<br/>•	<br/>From 1952 to 1956, the cities on the "fluoridation list" began to fluoridate their water supplies. As the process of water fluoridation continued, the cancer death rate of the fluoridated cities began to far exceed the rate of the unfluoridated cities. (Valerian, 1997)  <br/>•	<br/>As early as 1959, the knowledge existed that the presence of fluoride in human bodies hastens the absorption of radioactive substances present in the environment. In a report to the Atomic Energy Commission's Division of Biology and Medicine entitled "The Metabolism of Alkaline Earth Metals by Bone" by F.W. Lengemann, professor of chemistry at the University of Tennessee on March 23, 1959, it was scientifically shown that the presence of fluorine and other environmental substances such as lead and cyanide in the human body increased the ratio of strontium 90 to calcium in bone - caused the body to absorb radioactives. (Valerian, 1997)<br/>•	<br/>In 1960, the American Dental Association issued a pamphlet for public consumption called Fluoridation Facts: Answers to Criticisms of Fluoridation. In defense of the use of toxic fluoride compounds in public water supplies (which is a grievous crime against humanity, since it means mandated involuntary public medication), they used the logic that "people have been known to live to a ripe old age" in areas where the water supply is fluoridated. Unfortunately, they neglected to mention that the addition of fluoride to the water supply correlated directly with the number of still births, mongoloid children, brittle teeth and enlarged dental root structures, adverse spinal conditions, osteomalacia (softening of the bones) and osteoporosis (abnormally porous and spaced structure inside bone) in the medicated population as opposed to control populations that were unmedicated. People die young "at a ripe old age". (Valerian, 1997)<br/>•	<br/>The Federal Drug Administration bans fluoride pills for pregnant women in October 1966, according to Drug News Weekly. The FDA ban was accompanied by the statement that "fluorides use did not impart stronger teeth or prevent tooth decay in the newborn" and that "there is scientific debate as to whether fluorides might aggravate mental retardation and Mongolism in the offspring". Prior to this ban, millions of fluoride supplement tablets were used by pregnant women on recommendation of the Public Health Service and promoters of fluoridation. (Valerian, 1997)<br/>•	<br/>The November 12, 1971 Framingham, Massachusetts News Local carried an announcement from the board of health. Fluoridation was stopped in order to cure a green hair problem which had cropped up, due to the fluoridation chemicals leaching out copper from the pipes. It would be necessary to add another toxic chemical, sodium hydroxide, to counteract the problem. (Valerian, 1997)<br/>•	<br/>A study on the physiological and behavioral effects of Sodium Fluoride is published on October 12, 1994. The study is done by Mullenix, Denbensten, Schunior and Kernan, from the Toxicology Department, Forsyth Research Institute in Boston, the Department of Radiation Oncology, Harvard Medical School, the Department of Paediatric Dentistry, Eastman Dental Center, and the Veterinary Diagnostic Laboratory at Iowa State University. According to the study, published in Neurotoxicology and Teratology, Vol 17, No. 2, pp. 169-177, 1995, while fluorides have a great number of effects on the body, the effect on the brain and central nervous system structures were examined, and it was found that fluorides affect the hippocampus, which is the central processor which integrates inputs from the environment, memory, and motivational stimuli to produce behavioral decisions and modify memory. Note: Now it can be seen why the Nazis and Soviets used fluorides in the prison camp water supplies to reduce the will to resist and make the prisoners docile and not tend to question authority. It is the primary reason it is added to water supplies, since there is no credible scientific evidence it exists in the water supply for any other purpose. After several years, we have found no credible evidence, only anecdotal reviews by groups with a vested interest in keeping toxic fluorides in use. (See 1957, Montreal Neurological Institute, and the case of H.M). This 1994 study also showed that "effects on behavior relate directly to plasma fluoride levels in the brain, and fluoride accumulation in the brain, establishing that long-term accumulation of fluorides in the brain does occur, even with minimal doses. This 1994 report also stated that "overall, the behavioral changes from fluoride exposures are consistent with interrupted hippocampal development. Although this study was done on rats, according to the report "a generic behavioral disruption is found in this rat study can be indicative of a potential for motor dysfunction, IQ deficits and/or learning disabilities in humans, and that substances that accumulate in brain tissue potentiate concerns about neurotoxic risks. This is the first laboratory study to demonstrate that central nervous system functional output is vulnerable to fluorides that is publicly released, although decades of studies have been done, but not released, by the Mellon Institute and various agencies, who keep the results to themselves for the last 50 years. (Valerian, 1997)<br/>•	<br/>Neurotoxicology and Teratology, Vol 17, No.2,p.169-177, "Neurotoxicity of Sodium Fluoride in Rats", Meullenix, et al, 1995, reveals that fluorides are cumulative in the brain , humans are exposed to plasma fluoride levels as high as those given to rats , fluorides interrupt normal brain development in babies and children , and fluorides affect the hippocampus, the "central processor" in the brain which integrates inputs from the environment, memory, and motivational stimuli to produce behavioral decisions and modify memory. This firmly establishes that mass fluoridation affects the behavior of society, in that it undermines the capacity for people to make decisions and become motivated to act against abnormal environments (such as that present in tyranny). (Valerian, 1997)<br/>•	<br/>Only the U.S. and a few other countries continue to add fluoride to public drinking water.  China discontinued the practice after finding that fluoride in the water lowers the ability of children to learn. There is also scientific evidence that osteoporosis, Alzheimer’s disease, and other aluminum related diseases are caused by fluoride. (Cristian, 2007)  Fluoride allows aluminum and silico-aluminate to penetrate the blood/brain barrier, which subsequently causes dementia.  Aluminum in the brain probably is also heated by cell phone emissions, causing damage by heating nearby brain cells. (Cristian, 2008)<br/>•	<br/>Sodium fluoride is a toxic waste-product produced in aluminum and nuclear industries. “Major sources of fluoride in American tap water originate from chimney stack waste by-products and fertilizer industries.” (Carnie, 2002)  Only in America would we take a toxic waste product, mark it up 20,000 percent, and sell it to public water systems. Fluoride is one of the basic ingredients in Prozac, Sarin nerve gas, a host of anti-depressant drugs, commercial insecticides, anesthetics, and hypnotic and psychiatric drugs.  Independent scientific evidence over the past 50 plus years has shown that sodium fluoride shortens our life span, promotes various cancers and mental disturbances, and most importantly, makes humans stupid, docile, and subservient, all in one neat little package. (Cristian, 2007)<br/>•	<br/>Most of the citizens of the United States of America have never known a chemical free thought in their entire lives.  Those lucky few who have grown up on farms with well water are the only citizens not mentally castrated by fluoridation. I fight each day to learn something new. I suffer from attention deficit syndrome.  I do not subscribe to the popular believe the medication is the answer to all ills. The root cause of most illnesses is the food we eat or the water we drink. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4177" href="javascript:ajaxLink('DiscussionTopicComment_4177', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4177')">Comments (1)</a></span><span id="DiscussionTopicTag_4177"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ban fluoride">ban fluoride</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4177"></div>
+</div></td>
+</tr>
+<tr id="row_4176">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4176">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4176', '/akira/discussionVote.do?dbid=2255&topicID=4176&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 45</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_4176'))" style="text-decoration:none;" id="TopicVote_4176" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 45</div><div>Votes Against : 14</div>', document.getElementById('TopicVote_4176'))">31</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4176', '/akira/discussionVote.do?dbid=2255&topicID=4176&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4176"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4176-4049"><span id="IdeaTitle_4176">Ban Aspartame&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">60.	Ban the use of Aspartame: Aspartylphenylalanine-methyl-ester or aspartame is an artificial sweetener and is commonly packaged as NutraSweet, Spoonful, or Equal.  Aspartame (C14H18N2O5 ) is a compound of three components. These components are methanol, aspartic acid and phenylalanine.  Note: Aspartame breaks down into its component parts at temperatures of 86 degrees or higher.  This is why it is used mainly in cool foods and not in baked goods.<br/>•	<br/>Methanol (methyl alcohol or wood alcohol) is a colorless, poisonous, and flammable liquid. It is used for making formaldehyde, acetic acid, methyl t-butyl ether (a gasoline additive), paint strippers, carburetor cleaners for your car's engine, and chloromethanes, et al. This poison can be inhaled from vapors, absorbed through the skin, and ingested. Methanol is the type of alcohol you read about when people become blind from drinking it. In aspartame, methanol poisoning and poisoning from methanol's breakdown components (formaldehyde and formic acid) can have widespread and devastating effects. This occurs in even small amounts, and is especially damaging when introduced with toxic, free-form amino acids, called excitotoxins.  Methanol is quickly absorbed through the stomach and small intestine mucosa. The methanol is converted into formaldehyde (a known carcinogen). Then, via aldehyde hydrogenase, the formaldehyde is converted to formic acid. These two metabolites of methanol are toxic and cumulative. (Evangelista, 2004)<br/>•	<br/>Phenylalanine is an amino acid. Well, amino acids are good for us, right? Don't they keep us healthy? The answer is yes, amino acids are necessary for good health, EXCEPT when you separate the individual amino acid from its protein chain, and use it as an "isolate" or by itself. (Evangelista, 2004)<br/>•	<br/>Aspartic acid, in aspartame, is also an excitotoxin. An excitotoxin, is a deleterious substance that excites or over-stimulates nerve cells. This occurs in the brain, as well as the peripheral nerves, because aspartic acid, in free form, is an absorption accelerant & easily crosses the blood-brain barrier. This pathological excitation of nerve cells creates a breakdown of nerve function, as we will see. Basically, they are a group of compounds that can cause special neurons within the nervous system to become overexcited to the point that these cells will die. That's right, they are excited to death. Excitotoxins include such things as monosodium glutamate (MSG), aspartate, (a main ingredient in NutraSweet), L-cysteine (found in hydrolyzed vegetable protein) and related compounds. What makes this all the more intriguing is that "excitotoxins" appear to play a key role in degenerative nervous system diseases such as Parkinson's disease, Alzheimer's disease, Huntington's, ALS (Lou Gehrig's disease) and many others. (Evangelista, 2004)<br/>•	<br/>There are 92 different health side effects associated with aspartame consumption.  They are as follows: Abdominal pain, anxiety attacks, arthritis, asthma, asthmatic reactions, bloating, edema (fluid retention), blood sugar control problems (hypoglycemia or hyperglycemia), brain cancer (pre-approval studies in animals), breathing difficulties, burning eyes or throat, burning urination, can’t think straight, chest pains, chronic cough, chronic fatigue, confusion, death, depression, diarrhea, dizziness, excessive thirst or hunger, fatigue, feel unreal, flushing of face, hair loss, headaches, migraines, hearing loss, heart palpitations, hives (urticaria), hypertension (high blood pressure), hysterical pregnancy, impotency and sexual problems, inability to concentrate, infection susceptibility, insomnia, irritability, itching, joint pains, laryngitis, marked personality changes, memory loss, menstrual problems or changes, muscle spasms, nausea or vomiting, numbness or tingling of extremities, other allergic-like reactions, panic attacks, phobias, poor memory, rapid heart beat, rashes, seizures and convulsions, slurring of speech, swallowing pain, tachycardia, tremors, tinnitus, vertigo, vision loss, and weight gain.  (Hull, 2002)<br/>•	<br/>In addition, aspartame can mimic symptoms or worsen the following diseases: Fibromyalgia, arthritis, multiple sclerosis (MS), Parkinson’s disease, lupus, multiple chemical sensitivities (MCS), diabetes and diabetic complications, epilepsy, Alzheimer’s disease, birth defects, chronic fatigue syndrome, lymphoma, Lyme disease, attention deficit disorder (ADD), panic disorder, depression and other psychological disorders. (Hull, 2002)<br/>•	<br/>How can such a toxic substance be granted approval by the Food and Drug Administration (FDA)?  Simply follow the history.  In 1985 Monsanto purchased G.D. Searle, the chemical company that held the patent to aspartame, the active ingredient in NutraSweet. Monsanto was apparently untroubled by aspartame's clouded past, including a 1980 FDA Board of Inquiry, comprised of three independent scientists, which confirmed that it "might induce brain tumors." The FDA had actually banned aspartame based on this finding, only to have Searle Chairman Donald Rumsfeld (formally the Secretary of Defense under Bush Jr.) vow to "call in his markers," to get it approved. On January 21, 1981, the day after Ronald Reagan's inauguration, Searle re-applied to the FDA for approval to use aspartame in food sweetener, and Reagan's new FDA commissioner, Arthur Hayes Hull, Jr., appointed a 5-person Scientific Commission to review the board of inquiry's decision. It soon became clear that the panel would uphold the ban by a 3-2 decision, but Hull then installed a sixth member on the commission, and the vote became deadlocked. He then personally broke the tie in aspartame's favor. Hull later left the FDA under allegations of impropriety, served briefly as Provost at New York Medical College, and then took a position with Burston-Marsteller, the chief public relations firm for both Monsanto and GD Searle. Since that time he has never spoken publicly about aspartame. (Murry, 2001)<br/>•	<br/>The leading manufacturer of aspartame is the Ajinomoto Corporation of Tokyo.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4176" href="javascript:ajaxLink('DiscussionTopicComment_4176', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4176')">Comments (1)</a></span><span id="DiscussionTopicTag_4176"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ban aspartame">ban aspartame</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4176"></div>
+</div></td>
+</tr>
+<tr id="row_4175">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4175">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4175', '/akira/discussionVote.do?dbid=2255&topicID=4175&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 36</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_4175'))" style="text-decoration:none;" id="TopicVote_4175" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 36</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_4175'))">21</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4175', '/akira/discussionVote.do?dbid=2255&topicID=4175&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4175"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4175-4049"><span id="IdeaTitle_4175">Ban Monosodium Glutamate&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">59.	Ban the use of Monosodium Glutamate (MSG): Monosodium glutamate is used world wide as a taste enhancer, but the product itself has no taste.  Why is MSG so popular?  It all comes down to our taste buds. It has long been known that there are four basic tastes - sweet, sour, salty, and bitter. It is now thought that there is a fifth taste, called "umami." Umami is the savory taste that occurs naturally in foods such as tomatoes and ripe cheese. Just as eating chocolate stimulates the sweet taste receptors on our tongue, eating food seasoned with MSG stimulates the glutamate or "umami" receptors on our tongue, enhancing the savory flavor of these foods. (Parkinson)<br/>•	<br/>MSG has been shown to cause lesions on the brain, especially in children. These lesions cause cognitive, endocrinological and emotional abnormalities. In children excess glutamate affects the growth cones on neurons. Growth cones are vital in laying down chemical pathways in the brain to enable the brain to operate effectively. Studies show that rats who had been fed MSG from birth could not escape mazes or discriminate between stimuli as well as non MSG fed rats. The implications for human children are that MSG could seriously affect their cognitive skills and cause learning difficulties. (Copeman, 2005)  Children are most at risk from the effects of processed free glutamic acid. Their undeveloped blood-brain barriers leave them most at risk from exposure to processed free glutamic acid. It has been repeatedly demonstrated that infant animals fed processed free glutamic acid when young develop neuroendocrine problems such as gross obesity, stunted growth, and reproductive disorders later in life, and that they also develop learning disabilities. (truthinlabeling.org)<br/>•	<br/>Not only is MSG scientifically proven to cause obesity, it is an addictive substance. Since its introduction into the American food supply fifty years ago, MSG has been added in larger and larger doses to the pre-packaged meals, soups, snacks, and fast foods we are tempted to eat everyday.  One of the primary and most consistent effects of MSG and other excitotoxins is triggering "an insulin/adrenalin/fat storage/food craving response." That response is what causes the, "I'm hungry again an hour after I eat Chinese food," quandary. It is also why some of us crave potato chips and other snack foods that contain monosodium glutamate, even though we're full. (Moss, 2007)  <br/>•	<br/>Some of the most common symptoms of MSG sensitivity or allergy include headache, sometimes called MSG headache, flushing, numbness or tingling in or around the mouth, heart palpitations, shortness of breath, muscle tightening, or lightheadedness, migraines and even mood changes. Studies have been somewhat inconclusive, though many in the scientific community believe that some neurological orders and behavioral issues may be caused by monosodium glutamate. Attention deficit disorder, anxiety attacks, neurological disorders such as Alzheimer's, fibromyalgia, MS, Parkinson's and even autism may be caused by or intensified by severe allergy or sensitivity to monosodium glutamate. (Moss, 2007)   The FDA and EPA have given MSG a pass, meaning no testing was ever done prior to acceptance. <br/>•	<br/>Other names for MSG are: Accent, Aginomoto, Natural Meat Tenderizer, hydrolyzed vegetable protein, monopotassium glutamate, glutamate, glutamic acid, gelatin, dextrose, cornstarch, citric acid, calcium caseinate, textured protein, autolyzed plant protein, hydrolyzed plant protein, yeast extract, yeast food, nutrient, sodium caseinate, and autolyzed yeast. (msgmyth.com, 2005)<br/>•	<br/> Foods made with the following products that often contain MSG: Malted barley (flavor), barley malt, malt extract of flavoring, maltodextrin, caramel flavoring (coloring), stock, broth, bouillon, carrageenan, whey protein or whey, whey protein isolate or concentrate, pectin, protease, protease enzymes, flavors, flavoring, natural chicken, beef or pork flavoring, seasonings, soy sauces or extract, soy protein, soy protein isolate or concentrate, cornstarch, flowing agents, white rice or oat protein, protein fortified anything, enzyme modified anything, ultra-pasteurized anything,  and fermented anything. (msgmyth.com, 2005)<br/>•	<br/>Monosodium Glutamate is being sprayed right on fruits, nuts, seeds, grains, and vegetable as they grow.  The spray most widely used is called AuxiGro, which is a “free glutamic acid” or so called “L-glutamic acid” component being used by its manufacturer, Emerald BioAgriculture.  This compound stimulates the plants to grow and contain MSG.  Since the produce going into the process foods inherently contain MSG, the manufacturer can claim that no MSG was added on the label, while still containing it. (truthinlabeling.org)<br/>•	<br/>Crops that are being sprayed with MSG compounds are: Celery; Fresh Market Cucumbers; Edible Navy and Pinto Beans; Grapes; Bulb Onions; Bell, Green and Jalapeno Peppers; Iceberg Head Lettuce; Romaine and Butter Leaf Lettuce; Peanuts; Potatoes; Snap Beans; Strawberries; Processing Tomatoes; Fresh Tomatoes; and Watermelons. (truthinlabeling.org)  <br/>•	<br/>With corporatism insatiable need to produce profits via any means possible, fair or unfair, highlights the reasons to regulate the food industry away from monosodium glutamate.  I can perceive the boardroom executive showing charts of sales growth by just adding this artificial seasoning.  Increasing sales at the cost of the client’s health through growing obesity rates; this is why America is the butt of every world wide joke.  Fat, lazy, and stupid Americans, we can not help it, our food & water is tainted and sanctified by our Government, to which we lack the will to question because the distraction box is too damn interesting.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4175" href="javascript:ajaxLink('DiscussionTopicComment_4175', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4175')">Comments (0)</a></span><span id="DiscussionTopicTag_4175"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ban msg">ban msg</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4175"></div>
+</div></td>
+</tr>
+<tr id="row_4174">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4174">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4174', '/akira/discussionVote.do?dbid=2255&topicID=4174&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 8</div><div>Votes Against : 44</div>', document.getElementById('TopicVote_4174'))" style="text-decoration:none;" id="TopicVote_4174" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 8</div><div>Votes Against : 44</div>', document.getElementById('TopicVote_4174'))">-36</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4174', '/akira/discussionVote.do?dbid=2255&topicID=4174&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4174"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4174-4049"><span id="IdeaTitle_4174">Workers Rights and Retirement&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">56.	Thirty-Five Hour Work Week – Reducing the forty hour work week to thirty-five or even thirty hours a week will increase available jobs, thus reducing unemployment.  The key part of this adjustment is that of overtime, presently if you work in excess of forty hours in a week, you are paid overtime or time and a half.  Reducing overtime laws to thirty-five hours would force employers to add more shifts and hire more employees.  <br/><br/>57.	Thirty Hour Work Week and Health Benefits – If you work thirty hours a week you are eligible for employer funded health benefits.  The national trend now is for employers to hire or design employment for under the forty hour work week to avoid paying health benefit programs for employees.  Hawaii has a thirty hour a week with paid health benefits.  It is a slight burden on employers but once passed it was accepted and has not reduced employer demand for workers. <br/><br/>58.	Retirement Incentives – In an effort to increase the numbers of citizens who choose retirement at age sixty-five, institute a law stating that if you do not accept retirement at this age, your retirement benefits shall decrease later on.  Retirement increases the numbers of jobs available.  Right now we have monthly increasing unemployment numbers.  Retirement incentives or mandatory retirement age can increase the numbers of jobs available on the market. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4174" href="javascript:ajaxLink('DiscussionTopicComment_4174', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4174')">Comments (4)</a></span><span id="DiscussionTopicTag_4174"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4174"></div>
+</div></td>
+</tr>
+<tr id="row_4173">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4173">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4173', '/akira/discussionVote.do?dbid=2255&topicID=4173&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 40</div><div>Votes Against : 18</div>', document.getElementById('TopicVote_4173'))" style="text-decoration:none;" id="TopicVote_4173" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 40</div><div>Votes Against : 18</div>', document.getElementById('TopicVote_4173'))">22</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4173', '/akira/discussionVote.do?dbid=2255&topicID=4173&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4173"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4173-4049"><span id="IdeaTitle_4173">Ban High Fructose Corn Syrup&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">54.	Ban High Fructose Corn Syrup: High Fructose Corn Syrup (HFCS) is not broken down like other sugars.  Normal sugar is broken down by the pancreas, which results in the body releasing insulin to moderate blood sugar. HFCS is not recognized by the body as a sugar, it is broken down by the liver.  Since the body does not recognize HFCS as a sugar, blood sugar level spikes wildly causing a reduction in the feeling of being full since it does not trigger the normal sugar and insulin response.  HFCS has been linked to cirrhosis of the liver, fatty liver disease, type II diabetes and obesity.  HFCS is cheep to make and has replaced nearly every food that once contained sugar.  Most HFCS foods are aimed at children or young adult consumption.  At the very least, ban HFCS from all cereals, juices, and bread products.  The rise in obesity rates has direct links to HFCS and should be recognized as such.  Stop subsidizing HFCS and restart subsidizing other sugars such as beet and sugar cane products.  If you can’t ban HFCS then tax it to death, this will force predatory capitalists to go back to healthier sugars.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4173" href="javascript:ajaxLink('DiscussionTopicComment_4173', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4173')">Comments (5)</a></span><span id="DiscussionTopicTag_4173"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=ban hfcs">ban hfcs</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4173"></div>
+</div></td>
+</tr>
+<tr id="row_4172">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4172">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4172', '/akira/discussionVote.do?dbid=2255&topicID=4172&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 28</div><div>Votes Against : 60</div>', document.getElementById('TopicVote_4172'))" style="text-decoration:none;" id="TopicVote_4172" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 28</div><div>Votes Against : 60</div>', document.getElementById('TopicVote_4172'))">-32</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4172', '/akira/discussionVote.do?dbid=2255&topicID=4172&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4172"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4172-4049"><span id="IdeaTitle_4172">Felons Should Have Voting Rights&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">53.	Felons Should Have Voting Rights – Some states prohibit felons from voting, and two states have completely removed felons from ever voting again.  All citizens, regardless of conviction status must have the right to vote.  The only way to remove voting rights from any individual of the United States is to completely remove their citizenship or death.  The reason why felons have moderated voting rights is that they mostly vote democratic, this is not a sustainable argument to remove or moderate their voting rights.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4172" href="javascript:ajaxLink('DiscussionTopicComment_4172', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4172')">Comments (4)</a></span><span id="DiscussionTopicTag_4172"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=felons voting">felons voting</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4172"></div>
+</div></td>
+</tr>
+<tr id="row_4171">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4171">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4171', '/akira/discussionVote.do?dbid=2255&topicID=4171&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 68</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4171'))" style="text-decoration:none;" id="TopicVote_4171" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 68</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_4171'))">57</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4171', '/akira/discussionVote.do?dbid=2255&topicID=4171&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4171"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4171-4049"><span id="IdeaTitle_4171">Forbid Congressmen from Owning Military Stocks&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">52.	Forbid Congressmen from Owning Military Stocks: Should there ever be a vote in congress to end any of the current wars, then those congressmen who own military stocks must abstain from this vote.  Since, any military reduction would impact the valuation of military stocks; they have a reason to keep the conflict going.  Since this could call in question the ethics of our Federal congressmen, owning military stocks should be discouraged or outlawed.  The same could be said for oil and financial institution stocks. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4171" href="javascript:ajaxLink('DiscussionTopicComment_4171', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4171')">Comments (1)</a></span><span id="DiscussionTopicTag_4171"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=stocks and congress">stocks and congress</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4171"></div>
+</div></td>
+</tr>
+<tr id="row_4170">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4170">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4170', '/akira/discussionVote.do?dbid=2255&topicID=4170&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 56</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_4170'))" style="text-decoration:none;" id="TopicVote_4170" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 56</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_4170'))">54</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4170', '/akira/discussionVote.do?dbid=2255&topicID=4170&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4170"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4170-4049"><span id="IdeaTitle_4170">Disabled Veterans&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9934-4049">William Capps</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">There are thousands of service connected disabled vets who can not use on Post Military privileges.<br/>Currently you have to be a 100% disabled vet, in order for that vet and spouse if he/she is married to use on post privileges, or retired from the military.<br/><br/>I believe if you were injured while you were in the military, the same should be allowed for that veteran and spouse if the veteran is married.. The veteran may not be 100% disabled to use post privileges and can’t be retired if the vet can’t reenlist if the injury prevents him/her from doing so.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4170" href="javascript:ajaxLink('DiscussionTopicComment_4170', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4170')">Comments (1)</a></span><span id="DiscussionTopicTag_4170"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4170"></div>
+</div></td>
+</tr>
+<tr id="row_4169">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4169">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4169', '/akira/discussionVote.do?dbid=2255&topicID=4169&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 22</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_4169'))" style="text-decoration:none;" id="TopicVote_4169" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 22</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_4169'))">18</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4169', '/akira/discussionVote.do?dbid=2255&topicID=4169&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4169"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4169-4049"><span id="IdeaTitle_4169">WTF!?&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9902-4049">redwine.94574</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">This is not really a new idea but after reading some of the posts here, I can say that if these people are representative of how are government is run, no wonder it is such a confusing, over wrought, over thought disaster!<br/><br/>The posts that go on for paragraphs are ridiculous.  Gather your thoughts and learn how to present them in a brief and succinct manner!</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4169" href="javascript:ajaxLink('DiscussionTopicComment_4169', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4169')">Comments (2)</a></span><span id="DiscussionTopicTag_4169"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4169"></div>
+</div></td>
+</tr>
+<tr id="row_4168">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4168">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4168', '/akira/discussionVote.do?dbid=2255&topicID=4168&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 31</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4168'))" style="text-decoration:none;" id="TopicVote_4168" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 31</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_4168'))">19</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4168', '/akira/discussionVote.do?dbid=2255&topicID=4168&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4168"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4168-4049"><span id="IdeaTitle_4168">Monsanto - Many Reasons to Pierce the Corporate Veil and Prosecute&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">51.	Monsanto – Many Reasons to Pierce the Corporate Veil and Prosecute: Monsanto is the largest producer of genetically modified seeds, in the world.  Monsanto is a monopoly and should be broken up.  This corporation is, by my consideration, the most corrupt private organization in the world, second only to big oil or Wall Street bankers. Their goal is to control all food by redesigning seed with foreign traits. Whether these traits are beneficial or toxic, no one will ever know, until it’s too late.  They have gotten around the FDA requirements to test their redesigned foods by propping up their own phony research and arguing that to retest by the government would we a waste of time and taxpayer money.  They had board members appointed to the FDA to write their own rules.  Monsanto certainly knows how to manipulate our government to do whatever they feel like doing.  Monsanto was originally an herbicide producer, with such famous labels as Round-Up herbicide, pesticides, dioxins, DDT, rBGH bovine growth hormone, PCBs, aspartame, and Agent Orange.  Now they modify seeds with foreign genes.  Monsanto does not modify seeds by genetically assessing the genome of the seed and adding foreign DNA precisely to a known location of the seed genome.  Monsanto adds foreign DNA by the shotgun method of coating very fine metallic slivers with foreign DNA and shooting it into the seed that has been soaked in an enabler formula.  The seed that germinates and does not overtly show bad mutations is the seed they foster onto the world.<br/>•	<br/>Round Up Ready modified corn is a corn that is resistant to a direct spray of Monsanto’s Round Up herbicide (glyphosate).  This allows farmers to spray entire fields with Round Up to control weeds.  Round Up was once packaged with the label of biodegradable, but since had to remove this as it was untrue.  I do no know if or how long it takes for Round Up to break down or whether the broken down components of Round Up are harmful to people and the environment.  I do know that DDT that was once approved as a pesticide was not harmful in its unbroken form, but once light broke it down into component parts it became highly toxic and a deadly carcinogen. DDT was not water soluble and it bonded to fat, which means it is still in those fields where it was used forty years ago.<br/>•	<br/>Break Monsanto’s patents on seed bank genomes.  Monsanto raided many seed banks and took seed samples, had those genomes genetically mapped, and then patented them all. Monsanto didn’t invent these genomes; they only had them genetically assessed.  No rights of ownership should be given to this company for seed varieties held by seed banks.<br/>•	<br/>Ban Terminator seed technology.  Terminator is a new seed design that only grows if a special coating or fertilizer is used.  Grains produced from terminator variants are sterile.  Corn is fertilized by wind blown pollen from the tassels.  Pollen can cross species from other fields by this act.  Genetic drift from terminator strains will sterilize the genomes of other genetic variants.  The reason for creating this sterile seed program is to lock in their profits.  Each season farmers will have to come to Monsanto to buy seeds, they will not risk the potential of other seed types since they may be contaminated with terminator.  If the farmer saves seed from prior year’s harvest it could be infected with terminator and once planted, may show voids in the field were seed never germinated. Once this genie is released in the genetic winds, it will become unstoppable. <br/>•	<br/>Ban “rbGH and rbST hormones used in increasing milk production in cows.  These chemicals are injected in cows every two weeks in mega doses.  These artificial hormones are very similar to human growth hormones and do leach into the milk, especially the few days after the biweekly mega dose of hormones. Pasteurization does not remove or destroy any of these growth hormones.  Milk products from producers that use these hormones must be separated from those who do not and labeled as such.  Iowa used to have the best milk in the industry, not anymore.  These hormones do affect the flavor of the milk.  I was in Hawaii for a few months and their diaries do not use artificial growth hormones and their packaging labels say this “No Artificial Growth Hormones”, also the milk tastes great.  Cows who are injected with these hormones often suffer from udder diseases, which increase the needs to inject them with an antibiotic, which also leeches into the milk.  Currently milk produced in Iowa carries the label, “No Artificial Growth Hormones Added” or “No Hormones Added” this is an intentional mislabeling of a product, since no where in the world does any dairy add growth hormones to the milk, they add it to the cows that produces the milk.<br/>•	<br/>I encourage everyone to view the movie “The World According to Monsanto” <br/><br/>49.	American Farmer Rights to Save Seed:  American farmers should have the right to save seed for next years planting regardless of genome used.  No business or person should ever own a patent on life.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4168" href="javascript:ajaxLink('DiscussionTopicComment_4168', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4168')">Comments (2)</a></span><span id="DiscussionTopicTag_4168"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=monsanto">monsanto</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4168"></div>
+</div></td>
+</tr>
+<tr id="row_4166">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4166">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4166', '/akira/discussionVote.do?dbid=2255&topicID=4166&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 34</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_4166'))" style="text-decoration:none;" id="TopicVote_4166" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 34</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_4166'))">31</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4166', '/akira/discussionVote.do?dbid=2255&topicID=4166&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4166"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4166-4049"><span id="IdeaTitle_4166">Repeal H.R. 4541: Commodity Futures Modernization Act of 2000&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">46.	Repeal H.R. 4541: Commodity Futures Modernization Act of 2000.  Commodity Futures Modernization Act was passed along with twenty-five other bills in H.R. 4577: Consolidated Appropriations Act of 2001.  This bill was pitched as an increase in regulation but in fact it was a deregulation bill. This bill legalized credit-default swaps (CDS).  This bill also made legal derivatives, which is a form of gambling upon assets that are not owned by the better. Derivatives can be hedged, which is likened to placing a side bet on your bet.<br/>•	<br/>This practice of packaging large numbers of bills should not be allowed to happen.  Each bill must be considered on its own merits.  Should congress continue with the practice of packaging bills, then the President of the United States must have line item veto powers as part of the constitution.  Congress must have a system to overrule the line item veto power, should a super majority exist.  This implies that congressmen actually read every bill that is passed; I doubt this is true.  The reality is that most party politicians seek advice from their party leaders and vote party line.  Another indication that a two party system is a less efficient system. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4166" href="javascript:ajaxLink('DiscussionTopicComment_4166', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4166')">Comments (0)</a></span><span id="DiscussionTopicTag_4166"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4166"></div>
+</div></td>
+</tr>
+<tr id="row_4165">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4165">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4165', '/akira/discussionVote.do?dbid=2255&topicID=4165&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 31</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_4165'))" style="text-decoration:none;" id="TopicVote_4165" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 31</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_4165'))">27</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4165', '/akira/discussionVote.do?dbid=2255&topicID=4165&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4165"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4165-4049"><span id="IdeaTitle_4165">Repeal S. 900 (106th Congress): Gramm-Leach-Bliley Act of 1999&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">45.	Repeal S. 900 [106th]: Gramm-Leach-Bliley Act of 1999: Amends the Banking Act of 1933 (Glass-Steagall Act) to repeal prohibitions: (1) against affiliation of any Federal Reserve member bank with an entity engaged principally in securities activities (securities affiliate); and (2) against simultaneous service by any officer, director, or employee of a securities firm as an officer, director, or employee of any member bank (interlocking directorates).  (Gramm, 1999)  This bill legalized bank fraud.  This was not the intent of this legislation but was the result.  This made collateralized-debt-obligation (CDO) and credit-default-swaps (CDS) legal.  The creation of CDO’s spurred a massive explosion of irresponsible and predatory lending. The really astonishing aspect of these securities was that they were able to get AAA bond ratings.  “Rolling Stone” writer, Matt Taibbi, wrote “The Big Takeover” spells out the history of this financial mess very well.  The question that you the citizens must ask now is who passed this bill and why are they still in power.  One senate and one house representatives from my district of Iowa signed this bill in the affirmative.  <br/>•	<br/>One idea proposed to deal with the bank securities problem was to institute a bad bank program where the United States pools all of these securities together.  This is a good idea.  Once all of these securities are pooled, they then can be pulled apart.  The asset pool created can then be better assessed as to value.  Large holders of these securities can wait out the valuation or take hard assets as repayment.  Valuations must be based on fair value coupled with future valuation estimates. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4165" href="javascript:ajaxLink('DiscussionTopicComment_4165', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4165')">Comments (1)</a></span><span id="DiscussionTopicTag_4165"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=anti-(glass-steagall act)">anti-(glass-steagall act)</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4165"></div>
+</div></td>
+</tr>
+<tr id="row_4163">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4163">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4163', '/akira/discussionVote.do?dbid=2255&topicID=4163&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 38</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_4163'))" style="text-decoration:none;" id="TopicVote_4163" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 38</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_4163'))">36</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4163', '/akira/discussionVote.do?dbid=2255&topicID=4163&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4163"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4163-4049"><span id="IdeaTitle_4163">Vote NO to HR 875: Food Safety Modernization Act of 2009&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">44.	Vote NO to H.R. 875: Food Safety Modernization Act of 2009 – The penchant of congress to give bills glorified names is astonishing.  This bill is another example of such miss labeling.  The March 16th, 2009, version of this bill was very broadly defined.  The definition of farmer could affect everyone in this country that grows produce for sale or even back yard gardens.  This bill would mandate federally approved fertilizer, food additives, and herbicides.  This bill was introduced by Rep. Rosa DeLauro [D-CT] who is married to a former Monsanto representative.  Whether this bill was written by Monsanto, is anyone’s guess. This bill places very stiff penalties to anyone who goes against this law, up to and including one million dollar fine, even to first offenders.  Essentially, this bill is anti-organic legislation that must be voted down.  It requires farms to tag each produce item as to when it was harvested and by whom. <br/>•	The driving ideal of this bill is to introduce food protection legislation, but most of the food problems that our nation has faced were originated not at the producer level but at the processing level.  Food processing businesses under the sponsorship of Bush’s initiative of self regulation, has found it is cost effective to cut corners on food safety.  Legislation to enforce food safety should be focused on the food processers and not the food producers.  <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4163" href="javascript:ajaxLink('DiscussionTopicComment_4163', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4163')">Comments (1)</a></span><span id="DiscussionTopicTag_4163"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=anti-organic legislation">anti-organic legislation</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4163"></div>
+</div></td>
+</tr>
+<tr id="row_4162">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4162">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4162', '/akira/discussionVote.do?dbid=2255&topicID=4162&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 28</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4162'))" style="text-decoration:none;" id="TopicVote_4162" href="javascript:Bubble.showTip('<div>Idea Created : 22 hours ago</div><div>Votes For : 28</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_4162'))">19</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4162', '/akira/discussionVote.do?dbid=2255&topicID=4162&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4162"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4162-4049"><span id="IdeaTitle_4162">Protect and Defend Free Energy Inventors&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9774-4049">kdtroxel</a></b> <span class="IdeaScale_SecondaryText">22 hours ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">30.	Protect and Defend Free Energy Inventors.  The United States Government must write laws to protect and defend “Free Energy Inventors.” Free energy is simple to create it just requires the political will and protection to flourish.  Presently, Obama is nearly ready to pass “Cap and Trade” legislation that will place a cost on carbon pollution.  This tax is all ready figured into future budgets.  Since this revenue is all ready spent, any free energy device would not be accepted since it could interfere with future/present tax outlays.  <br/>•	<br/>Free energy inventors are a persecuted class of citizen.  Every inventor that shows promise has been threatened, slapped with secrecy orders, stolen, beaten or killed for their ideals and inventions. The powers that be are deeply embedded with the carbon fuel industry.  The largest fraud in human history is that of carbon fuels.  Ever since Nikola Tesla, 1943, has free energy devices been suppressed.  Today, you can Google “free energy” and come across thousands of inventions along those lines. Innovation should be protected; it is our future and without it, this country will die.  Stop suppressing the one thing that makes America a great country.  I have heard there are in excess of 30,000 secrecy orders on new ideas and technology, since it may clash with the powers that control energy.  Reviewing and releasing these secrecy orders could the be fast route in reviving America’s economy.<br/>•	<br/>The electric generator has not evolved much since its conception.  One unit of energy in resulting one unit of energy out.  This is a very inefficient system and it has stayed this way because it very profitable for the carbon fuel venders.  I have personally seen devices that implore greater efficiencies in energy creation (web searches), but will never see the light of day because it threatens the carbon venders’ bottom lines.  Presidents and congressmen have promised for years to combat the problems of energy but they talk the talk but not walk the walk. Google “free energy” or “HHO gas engine.”  You will find its there, but its just being wiped out systematically by those who want your money for heating your homes and filling your gas tanks.  Carbon is the greatest con job in human history.<br/>•	<br/>I dream of a day when the energy to heat my house, drive my car, and power my electronics was absolutely free.  Where a neighborhood banded together to purchase an energy device to power their street thus removing themselves from the grid.  The end of the oil age and into the golden age.  This is my dream and it can be now, but it is systematically stamped out by the powers that control our daily lives.  Innovation which was our nations driving force has ended, but it is not dead, it simply needs your protection to flourish.  Innovation is what drives our economy; it supplies jobs and opportunities.  Innovation can lift our country from this rut of depression.  Innovation is the key that unlocks the next golden age of mankind. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4162" href="javascript:ajaxLink('DiscussionTopicComment_4162', '/akira/discussion.do?mode=comment&dbid=2255&topicID=4162')">Comments (0)</a></span><span id="DiscussionTopicTag_4162"><a href="/akira/ideafactory.do?discussionID=2255">Uncategorized</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=free energy protection">free energy protection</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4162"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 216<br/> Displaying 26 to 50<div class="pages"><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=0" class="nextprev" title="Go to Previous Page">&#171; Previous</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=0" title="Go to page 1">1</a><span class="current">2</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=2" title="Go to page 3">3</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=3" title="Go to page 4">4</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=4" title="Go to page 5">5</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=5" title="Go to page 6">6</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=6" title="Go to page 7">7</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=7" title="Go to page 8">8</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=8" title="Go to page 9">9</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2255&pageOffset=2" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

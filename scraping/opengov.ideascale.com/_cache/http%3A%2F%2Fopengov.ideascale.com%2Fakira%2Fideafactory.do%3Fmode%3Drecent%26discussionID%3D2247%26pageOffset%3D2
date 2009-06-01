@@ -1,0 +1,785 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Between Federal, State, and Local Governments</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2247">Top Rated (61)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2247">Recent (61)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_2959">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2959">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2959', '/akira/discussionVote.do?dbid=2247&topicID=2959&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 7</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2959'))" style="text-decoration:none;" id="TopicVote_2959" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 7</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2959'))">3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2959', '/akira/discussionVote.do?dbid=2247&topicID=2959&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2959"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2959-4049"><span id="IdeaTitle_2959">MAKE FED $ WORK BETTER- accountability/ transparency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4283-4049">go2thesun</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">HAVE MORE DIRECT CONTROL OVER MONIES .<br/>state and local govt's often shift funds to other programs or waste.<br/>have fed review of programs.<br/><br/><br/>Example NEW cig taxes going to not one  smokers health.  kids general health programs? since when do 0- 12 year olds need smokers care?<br/><br/>The "self assessing/reporting"  to hud and other agencies is a joke and must go! <br/>Would your agency or non profit report i violated, i failed don't fund me next year?<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2959" href="javascript:ajaxLink('DiscussionTopicComment_2959', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2959')">Comments (0)</a></span><span id="DiscussionTopicTag_2959"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2959"></div>
+</div></td>
+</tr>
+<tr id="row_2921">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2921">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2921', '/akira/discussionVote.do?dbid=2247&topicID=2921&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 2</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2921'))" style="text-decoration:none;" id="TopicVote_2921" href="javascript:Bubble.showTip('<div>Idea Created : 8 days ago</div><div>Votes For : 2</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2921'))">-5</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2921', '/akira/discussionVote.do?dbid=2247&topicID=2921&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2921"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2921-4049"><span id="IdeaTitle_2921">TANF&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4165-4049">kevin.aslanian</a></b> <span class="IdeaScale_SecondaryText">8 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Before TANF 70% of the money was used for "payments too families". Now 30% of the money is used payments for families.<br/><br/>States are cutting TANF so they can use the money to balance their budgets. In California TANF has already contributed $15 billion to the California General Fund according to the Schwarzanegger Administration who is proposing to eliminate CalWORKs.<br/><br/>Under TANF participation is a state option. So if sadistic Schwsarzanegegr decides to abolish the TANF program what happens to all of the kids.<br/><br/>PROPOSAL: (1) Mandate that at 70% of the TANF money be used for "payments to families" ; (2) If the State does not want to operate the TANF program, then the federal government should; (3) maybe the federal government should operate the TANF program so more of the money would go to the poor and not waste so much money on the huge state welfare bureaucracy.<br/><br/>SSI used to be operated by the states, now it is done by the feds better than the States. Stop wasting money on the bureaucracy and use the money for the families. <br/><br/>Moreover, more money given to the poor, the higher the economic stimulus is.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2921" href="javascript:ajaxLink('DiscussionTopicComment_2921', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2921')">Comments (1)</a></span><span id="DiscussionTopicTag_2921"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=tanf">tanf</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2921"></div>
+</div></td>
+</tr>
+<tr id="row_2881">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2881">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2881', '/akira/discussionVote.do?dbid=2247&topicID=2881&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 39</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2881'))" style="text-decoration:none;" id="TopicVote_2881" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 39</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2881'))">35</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2881', '/akira/discussionVote.do?dbid=2247&topicID=2881&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2881"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2881-4049"><span id="IdeaTitle_2881">Collaborative Governance- Federal, State and Local Government Roles&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4048-4049">rmjones</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Collaborative governance has become the context for finding real solutions to complex public challenges faced by citizens around the country.  In practice, principally at the state, regional and local levels (i.e. the "laboratories of democracy"),  the public solutions collaborative governance system is one where leaders convene all sectors—public, private, and civic—to develop effective, lasting solutions to public problems that go beyond what any sector could achieve on its own.<br/><br/>The System is based on principles of: transparency and accountability; equity and inclusiveness; effectiveness and efficiency; responsiveness; forum neutrality; and consensus-based decision making. It relies on: a Sponsor (an agency, foundation, civic organization, public-private coalition, etc. to initiate support); a Convener/Leader (A governor, legislator, local official, respected civic leader, etc. with power to bring diverse people together to work on common problems); a Neutral Forum (an impartial organization or venue, etc. to provide and ensure skilled process management); and participation of all sectors (public, private, civic, etc.) to ensure representation of all interests and points of view.<br/><br/>In operation, this system involves the following six steps with continuous feedback among them. While they work in sequence, they also work together: <br/><br/>1. Sponsors identify and raise an issue or opportunity that calls for a collaborative response.<br/>2. Assessment is made on the feasibility for collaboration and who needs to be involved.<br/>3. Leader(s) convene all needed participants.<br/>4. Participants adopt this framework for addressing the issue.<br/>5. Conveners and participants frame (or reframe) the issue for deliberation.<br/>6. Neutral forum/facilitator designs and conducts a process to negotiate interests and integrate resources.<br/>7. Written agreement establishes accountability.<br/><br/>The Policy Consensus Initiative and the National Policy Consensus Center along with the University Network for Collaborative Governance have helped to produce both resources for leaders and convenors (http://www.policyconsensus.org/publicsolutions/ps_6.html) and resources for practitioners and neutral forums (http://www.policyconsensus.org/publicsolutions/ps_7.html).<br/><br/>The effective participation of federal agencies in collaborative governance initiatives at the multi-state, state, regional and local levels often is necessary to find solutions to the challenged faced but has proved to be difficult in practice.  Federal agencies need more explicit encouragement and support. the U.S. Institute for Environmental Conflict Resolution based in Tuscon has made progress with the family of environmental agencies at the federal level.  What is needed is documentation of best practices, guidance on memorandum of understanding that capture the roles and responsibilities in these efforts and hands on training, coaching and mentoring that is explicitly multi-sector in focus.<br/><br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2881" href="javascript:ajaxLink('DiscussionTopicComment_2881', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2881')">Comments (1)</a></span><span id="DiscussionTopicTag_2881"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=collaborative governance">collaborative governance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=consensus solutions">consensus solutions</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2881"></div>
+</div></td>
+</tr>
+<tr id="row_2874">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2874">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2874', '/akira/discussionVote.do?dbid=2247&topicID=2874&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 8</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2874'))" style="text-decoration:none;" id="TopicVote_2874" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 8</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2874'))">4</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2874', '/akira/discussionVote.do?dbid=2247&topicID=2874&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2874"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2874-4049"><span id="IdeaTitle_2874">Small & Creative Ideas&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">jon</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I have started a blog to gather together in one place the small & creative ideas that are making a difference to public and third sector services. The purpose is to stimulate, celebrate and support the frontline workers and managers who are coming up with implementing these ideas. The results could be in terms of efficiency, effectiveness, sustainability or flexibility - ie just something that means more is done with less. Citizens benefit by having better services that make more of a difference to their lives and of their fellow community members. If you like it is better government - in a box (blog): http://smallcreativeideas.blogspot.com/</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2874" href="javascript:ajaxLink('DiscussionTopicComment_2874', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2874')">Comments (0)</a></span><span id="DiscussionTopicTag_2874"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=efficiency effectiveness empowerment creativity innovation">efficiency effectiveness empowerment creativity innovation</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2874"></div>
+</div></td>
+</tr>
+<tr id="row_2851">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2851">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2851', '/akira/discussionVote.do?dbid=2247&topicID=2851&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 40</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_2851'))" style="text-decoration:none;" id="TopicVote_2851" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 40</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_2851'))">37</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2851', '/akira/discussionVote.do?dbid=2247&topicID=2851&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2851"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2851-4049"><span id="IdeaTitle_2851">Adopt Systems Thinking as a Key Approach to Policy and Practice Making in Governance&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4038-4049">courtney.peyton</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent"><br/>We need closer integration between departments/agencies/levels of government towards problem solving. Government across many parts of the world is formed in hierarchical, topical silos/fiefdoms that prevent the cross fertilisation of needs, ideas, expertise and budgets. But the operation of our planet and communities are based on integrated systems, making likely and unlikely interconnections. Governments and societies would benefit by learning to think, organise, spend and behave in conjucture with these systems. Transparent information is a huge step forward. Systems Thinking is a valuable way of organising and understanding information and transforming it into patterns, maps, policies and plans, verbally, visually and functionally.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2851" href="javascript:ajaxLink('DiscussionTopicComment_2851', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2851')">Comments (4)</a></span><span id="DiscussionTopicTag_2851"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2851"></div>
+</div></td>
+</tr>
+<tr id="row_2759">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2759">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2759', '/akira/discussionVote.do?dbid=2247&topicID=2759&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 24</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_2759'))" style="text-decoration:none;" id="TopicVote_2759" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 24</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_2759'))">18</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2759', '/akira/discussionVote.do?dbid=2247&topicID=2759&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2759"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2759-4049"><span id="IdeaTitle_2759">Measure the relationship between features of collaboration and outcomes for all evidence based programs&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">dhicks</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">While there is now a mandate that many, if not most, federal and state initiatives use collaboration as both a method of governance and as a mode of decision-making, there is little empirical evidence documenting the influence of collaboration on concrete program outcomes.  In fact, several reviews in the public health arena have found that fewer than 20% of all collaborative initiatives produce outcomes that equal or better than those initiatives carried out by a single agency. <br/><br/>This does not mean that we should abandon collaboration. But it does mean that we must get much more precise about what makes for successful collaboration. Two known features of highly successful collaboratives are the presence of an open and credible process and the presence of leadership oriented towards fostering and securing that process.  An open and credible process has five critical features: 1) It includes all relevant stakeholders (but does not over-include by inviting participants who may represent an important sector but who do not work directly in agencies or with communities directly relevant to the initiative). 2) All stakeholders are treated equally (measured not in formal avenues for participation, but the degree of influence each member perceives he or she has). 3) The process is perceived by stakeholders as authentic (measured by the perception that the process can issue binding decisions and is not a legitimation ritual to satisfy some mandated ideal). 4) It focuses on the root problem. 5) It can be revised when the application of some norm, no matter how well-intentioned, produces unwelcome effects on the process. <br/><br/>We need to develop better instruments for measuring these qualities and, more importantly, we need to develop sophisticated modeling techniques that can identify just how these features are related, or not, to concrete program outcomes. These outcomes should be focus on the ability of the program to reach and retain those it serves, that it is delivered with fidelity, and that it produces demonstrable improvements in well-being. Research starting to do this has been published recently (Evaluation Review, Oct 2008). Along with the President’s commitment to funding evidence-based health and education initiatives, there should be an equally strong commitment to making sure that we know if collaboration has any demonstrable effect on how these programs perform, and just what features of collaboration are associated with these outcomes. <br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2759" href="javascript:ajaxLink('DiscussionTopicComment_2759', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2759')">Comments (3)</a></span><span id="DiscussionTopicTag_2759"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2759"></div>
+</div></td>
+</tr>
+<tr id="row_2719">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2719">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2719', '/akira/discussionVote.do?dbid=2247&topicID=2719&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 16</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_2719'))" style="text-decoration:none;" id="TopicVote_2719" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 16</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_2719'))">8</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2719', '/akira/discussionVote.do?dbid=2247&topicID=2719&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2719"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2719-4049"><span id="IdeaTitle_2719">Reform State Fusion Centers&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3991-4049">21stCenturyRTK </a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Federal task forces incorporating state and local law enforcement officials should declassify information to the greatest extent possible. Documents and information created by or pertaining to the activities of state and local officials should be accessible under state and local open government laws.<br/><br/>State, local, and tribal government operations, including intelligence fusion centers, should be fully accountable to their respective government officials. Documents and information produced by or regarding the activities of state, local, and tribal government officials should be accessible to the public pursuant to state open government and public accountability laws.<br/><br/>State, local, and tribal government officials’ access to federal counterterrorism intelligence should never depend on weakening state or local sunshine laws. Federal government agencies should be forbidden from using contracts or memoranda of understanding to limit the full exercise of state and local public access rights. The federal government should refrain from any efforts to encourage state legislatures to reduce public access to information regarding state and local intelligence activities.<br/><br/>The president should refrain from imposing undue restrictions on public access to information produced by or regarding the activities of state, local, or tribal government officials. The federal government, working in tandem with state, local and tribal governments should clarify that information produced by or regarding the activities of state, local or tribal officials remain accessible through state sunshine laws. The president should refrain from using either non-disclosure agreements or Memorandum of Understanding to restrict access to records produced by non-federal government agencies and/or officials. This policy should also apply to hybrid records produced cooperatively by federal agencies and state, local or tribal government offices. Such documents should remain managed by the access laws and regulations applicable to the agency or official that produced or assisted in producing the record.<br/><br/>- From the 21st Century RTK Agenda</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2719" href="javascript:ajaxLink('DiscussionTopicComment_2719', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2719')">Comments (3)</a></span><span id="DiscussionTopicTag_2719"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2719"></div>
+</div></td>
+</tr>
+<tr id="row_2677">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2677">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2677', '/akira/discussionVote.do?dbid=2247&topicID=2677&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 48</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_2677'))" style="text-decoration:none;" id="TopicVote_2677" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 48</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_2677'))">36</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2677', '/akira/discussionVote.do?dbid=2247&topicID=2677&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2677"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2677-4049"><span id="IdeaTitle_2677">Universal voting for one nation.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3959-4049">Josh Senecal</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">In this era of technology, it seems we are behind; the country could have one standard voting method.<br/><br/>Americans moving from one side of the country to the other should know, be educated in, and vote with one universal way.<br/><br/>Additionally, a closed networked system with both government and citizens seems possible and cheaper than 50 different standards.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2677" href="javascript:ajaxLink('DiscussionTopicComment_2677', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2677')">Comments (9)</a></span><span id="DiscussionTopicTag_2677"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=universal voting">universal voting</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2677"></div>
+</div></td>
+</tr>
+<tr id="row_2675">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2675">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2675', '/akira/discussionVote.do?dbid=2247&topicID=2675&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 12</div><div>Votes Against : 27</div>', document.getElementById('TopicVote_2675'))" style="text-decoration:none;" id="TopicVote_2675" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 12</div><div>Votes Against : 27</div>', document.getElementById('TopicVote_2675'))">-15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2675', '/akira/discussionVote.do?dbid=2247&topicID=2675&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2675"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2675-4049"><span id="IdeaTitle_2675">A Workers Compensation Manifesto&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">Gclanman</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">We, the Injured Workers of United States of Amrerica contend the following iniquities of the Workers' Compensation System.<br/>• The Workers Compensation System does NOT enforce its own laws and statutes<br/>already in place for the benefit of injured workers:<br/>a.	Timely diagnosis and medical treatment and approval of such treatment<br/>within the time frame set by existing laws <br/>b.	Timely automatic benefits within the time frame set by existing law<br/>• The Workers Compensation system often obtains medical as well as personal information on injured workers which has no pertinence to the claim and serves no necessary purpose in resolving the claim, but rather is used as a tactic to deter and frighten claimants out of litigation and into unfair settlement.<br/>• The Workers Compensation System willfully prolongs litigation, knowing the compensations courts are overloaded with cases, causing further severe psychological, physical and financial<br/>damage to the claimants, in hopes of pushing claimants into premature and unfair settlement.<br/>• The Workers Compensation System takes advantage of their exemption from repercussion or liability from lawsuit leaving injured workers with no recourse.<br/>• The Workers Compensation System knowingly and willingly makes fraudulent charges against many claimants in order to intimidate them and to avoid having to medically or financially compensate claimants.<br/>• The Workers Compensation System consistently cuts and denies benefits in order to starve claimants out and force their acceptance of inadequate, unfair settlements, causing many claimants to lose everything they have worked for i.e.; homes, vehicles, savings, etc; and forcing many into bankruptcy, loss of credit standing, and even loss of family and spouses in many cases. and resulting in suicide of others.<br/>• The Workers Compensation System forces injured workers back to work on a light duty status prior to their recovery until their compensation has expired and then their employer discriminates against them with termination because they are unable to perform their job at 100% capability.<br/>• The Workers Compensation System consistently contends that claimants attorney fees are the major cause for insurance premium increases to the employer when in fact litigation in the majority of cases is NOT pursued by the claimant until the Workers Compensation System forces the claimant to seek an attorney because he has been continuously denied necessary medical treatment, medications and/or supplemental benefits.. The system itself is in fact, the cause of most compensation related litigation.<br/>• The Workers Compensation System is in collusion with many physicians to deny diagnosis and treatment in favor of getting the claimant back to work despite their medical problems, willfully neglecting needed treatment many physicians comply because to buck the system means the loss of a substantial number of patients.<br/>• The Workers Compensation System willfully and knowingly shifts the burden of<br/>responsibility for permanently disabled injured workers onto the already over burdened Social Security Disability system for which the injured worker paid half, himself. Why is the Workers Compensation System allowed to get off the hook and shift this burden?<br/>There are many more iniquities of the Workers Compensation System, that are too numerous to list one by one, but an investigation into the Workers Compensation system of any individual state will begin to reveal these iniquities enough to convince you that further investigation is indeed warranted.<br/>We feel confident, that you as the guardians of our great nation and representatives of we, the people, will share our concerns and act upon our request for help.<br/>WORKERS COMPENSATION<br/>A Modern Fairy Tale<br/>Once upon a time, in the greatest nation in the world, the United States Congress passed the "Occupational Safety and Health Act of 1970", (or the OSHA act). It was a very, very good law for the hard working people of this very great nation. It said:<br/>"...the vast majority of American workers, and their families, are dependant on workmen's (sic worker's) compensation for their basic economic security in the event such worker suffers disabling injury in the course of their employment; and that the full protection of American workers from job-related injury or death requires an adequate, prompt, and equitable system of workmen's compensation as well as an effective program of occupational health and safety regulation..."<br/>A short time later, The American Congress remarked:<br/>"In recent years serious questions have been raised concerning the fairness and adequacy of present workmen's compensation laws in light of the growth of the economy, the changing nature of the labor force, increases in medical knowledge, changes in the hazards associated with various types of employment, new technology creating new risks to health and safety, and increases in the general level of wages and the cost of living."<br/>Because of these serious concerns, the Congress established the National Commission on State Workmen's Compensation Statutes to "undertake a comprehensive study and evaluation of State workmen's compensation laws in order to determine if such laws provide an adequate, prompt and equitable system of compensation." July 31, 1972, was the date Congress decided upon for the transmittal of the report of the Commission to the President and Congress. The Commission was a large un-unified group, and no one truly expected them to complete the report on time (as often happens in large committees). But, lo and behold, to everyone's surprise, the report was completed and turned over right on time, and our tale continues.<br/>The 1972 Commission concluded: "...State workmen's compensation laws are, in general neither adequate nor equitable...Perhaps in another decade or two, an attractive alternative to workmen's compensation will emerge...For the foreseeable future we are convinced that, if our recommendations for a modern workmen's compensation program are adopted, the program should be retained."<br/>It was asked by some, why this problem had gone unresolved for so long. "We know why," responded the Commission. There are numerous reasons:<br/>a.	Lack of interest by State legislatures and the general public<br/>b.	Lack of understanding by State legislatures and the general public<br/>c.	In-fighting among special interest groups<br/>d.	The complexity of the problems<br/>e.	The irrational fear that the increases in premiums would drive employers<br/>away to States with less generous benefits and lower costs. (THIS was called "The Main Barrier."<br/>The Congress, OSHA and the Commission knew they had to conquer "The Main<br/>Barrier" before the problem could be resolved. Could they ever find the solution? YES!<br/>After considering an immediate complete federal takeover, after considering voluntary guidelines followed by a complete federal takeover in a few years if deficiencies are not corrected promptly, the Commission decided that the main barrier could be overcome if: The States were required to meet<br/>certain minimum standards for the essential requirements of a State workmen's compensation law no later than July 1, 1975.<br/>Now, you might very well be asking, "What are these Essential Elements" established by that great and benevolent Commission, so very long ago and meant to be fully complied with by the date of <br/>July 1, 1975 <br/>THE ESSENTIAL ELEMENTS:<br/>1.	Compulsory Coverage<br/>2.	No occupational or numerical exemptions to coverage<br/>3.	Full coverage of work related diseases<br/>4.	Full medical and physical rehabilitation services without arbitrary limits<br/>5.	Employee's choice of jurisdiction for filing interstate claims<br/>6.	Adequate weekly cash payments for Temporary Total Disability (TTD),<br/>Permanent Total Disability (PTD) and Death cases<br/>7.	No arbitrary limits on duration or sum of benefits<br/>The commission voted unanimously that Congressional intervention may be needed to bring about reforms in the State systems. The threat of, or if necessary, the enactment of Federal mandates will remove from each State the main barrier to effective workmen's compensation reform: The terrible irrational fear that compensation costs may drive employers to move away to States where protection for disabled workers is inadequate but less expensive. The Commission, on a majority vote, gave the States until July 1, 1975 to comply with The Essential Elements.<br/>Keeping in mind, that this Commission mandated total compliance by the States by the date of July 1, 1975, you the reader must have concluded that this Fairy Tale had to have a happy ending as do all good Fairy Tale's. Sadly, I must inform you that THIS Fairy Tale has NO happy ending.<br/>As of this date, July 1, 2001, almost 26 years to the day that this mandate was supposed to have been complied with, NOT EVEN ONE STATE OUT OF 50 HAS COMPLIED WITH THE ESSENTIAL ELEMENTS! In fact, not even one State out of 50 has even come close to compliance!<br/>The truth of the matter is that, in the intervening 26 years since this mandate was proclaimed, the individual State Worker's Compensation Systems have further deteriorated to such a devastating degree that they are not even remotely as adequate as they were when the Commission decided they were inadequate enough to mandate The Essential elements!<br/>An American worker who becomes injured under today's individual State Workers' Compensation Systems has become a victim of a holocaust, unequalled and unparalleled in American history. <br/>We, the Injured Workers of America have waited twenty six years for Congressional intervention which was promised when the Essential Elements Mandate was proposed.<br/><br/>It's time for our Congress to act on that promise.<br/>Originally created 2-1-2001 by:<br/>VOICES INC.<br/>7900-20 103rd Street<br/>Suite 16<br/>Jax, Fl 32210<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2675" href="javascript:ajaxLink('DiscussionTopicComment_2675', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2675')">Comments (4)</a></span><span id="DiscussionTopicTag_2675"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=injury">injury</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=workers">workers</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=insurance">insurance</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=family loss">family loss</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=compensation">compensation</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2675"></div>
+</div></td>
+</tr>
+<tr id="row_2600">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2600">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2600', '/akira/discussionVote.do?dbid=2247&topicID=2600&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 28</div><div>Votes Against : 16</div>', document.getElementById('TopicVote_2600'))" style="text-decoration:none;" id="TopicVote_2600" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 28</div><div>Votes Against : 16</div>', document.getElementById('TopicVote_2600'))">12</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2600', '/akira/discussionVote.do?dbid=2247&topicID=2600&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2600"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2600-4049"><span id="IdeaTitle_2600">Child Support should be transparent&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">joshsenecal</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">As child support stands a non-custodial parent is pays %33 net of his/her income –that is before taxes and other items.<br/><br/>However, once it has been paid the parent has no rights to know what the money is used for. The non-custodial parent (child supporter) must pay taxes on this money and receives no tax deductions!<br/><br/>With no legal means to know if the money is being used to support the child or children, and no legal tools to prevent abuse of the money. The parent is able to bring the other to court every three years and ask for an increase.<br/><br/>It would be fair a just have the options (by law) in support money deposited in a "child support" account and transparent to both parents and the courts. <br/><br/>Also, child support should be tax deductible in helping the financial sacrifice made and supporting two health and affordable homes for the children.<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2600" href="javascript:ajaxLink('DiscussionTopicComment_2600', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2600')">Comments (7)</a></span><span id="DiscussionTopicTag_2600"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=child support">child support</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2600"></div>
+</div></td>
+</tr>
+<tr id="row_2424">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2424">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2424', '/akira/discussionVote.do?dbid=2247&topicID=2424&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 11 days ago</div><div>Votes For : 497</div><div>Votes Against : 75</div>', document.getElementById('TopicVote_2424'))" style="text-decoration:none;" id="TopicVote_2424" href="javascript:Bubble.showTip('<div>Idea Created : 11 days ago</div><div>Votes For : 497</div><div>Votes Against : 75</div>', document.getElementById('TopicVote_2424'))">422</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2424', '/akira/discussionVote.do?dbid=2247&topicID=2424&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2424"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2424-4049"><span id="IdeaTitle_2424">Encourage State and Local Governments to Become More Open and Inclusive&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">jgoldman</a></b> <span class="IdeaScale_SecondaryText">11 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">President Obama’s historic commitment to open government has inspired people across the country with a renewed belief that government can and should be transparent, participatory and collaborative. In Seattle, WA, the City Council has formed an Open Government Committee to explore and recommend ways to improve citizens’ access to public documents and seek more diverse community input on issues affecting the city in advance of legislative action. In Owensboro, KY, citizens have signed an Open Government Pledge and asked local government leaders to adopt a set of principles committing to more transparent and participatory practices.<br/><br/>As President Obama develops and implements his Open Government Directive, he should support local governments in doing the same by offering guidance for the steps that cities, towns and counties can take to become more transparent, participatory and collaborative. The President should convene mayors, city administrators, city council members, county executives and county commissioners who have distinguished themselves for their commitment to open government principles. This Local Open Government Commission would pursue the following objectives:<br/><br/>1. Develop a set of Open Government Principles that may be adopted by local governments <br/><br/>2. Develop a set of Open Government Best Practices in the areas of Transparency, Participation, and Collaboration<br/><br/>3. Develop an Open Government Seal of Approval that may be awarded to those local governments that demonstrate a commitment to open government principles by adopting the best practices described above<br/><br/>4. Create a program to recognize local leaders for excellence in open government<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2424" href="javascript:ajaxLink('DiscussionTopicComment_2424', '/akira/discussion.do?mode=comment&dbid=2247&topicID=2424')">Comments (21)</a></span><span id="DiscussionTopicTag_2424"><a href="/akira/ideafactory.do?discussionID=2247">Between Federal, State, and Local Governments</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=local government participation state government americaspeaks">local government participation state government americaspeaks</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2424"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 61<br/> Displaying 51 to 75<div class="pages"><a href="/akira/ideafactory.do?mode=recent&discussionID=2247&pageOffset=1" class="nextprev" title="Go to Previous Page">&#171; Previous</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2247&pageOffset=0" title="Go to page 1">1</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2247&pageOffset=1" title="Go to page 2">2</a><span class="current">3</span></div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+

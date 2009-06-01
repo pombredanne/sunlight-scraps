@@ -1,0 +1,996 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+    <title>Open Government Brainstorm - by IdeaScale</title>
+
+    <!--[if lt IE 7.]>
+    <script defer type="text/javascript" src="/javascript/pngfix.js"></script>
+    <![endif]-->
+
+    <script language="JavaScript" SRC="/javascript/global.js?version=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/stylesheets/common.css"/>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/sitestyle.css"/>
+
+
+    
+        
+        <link rel="stylesheet" type="text/css"
+              href="/stylesheets/themes/clean_blue.css">
+        
+
+    
+
+    
+    <link rel="alternate" type="application/rss+xml" title="RSS 2.0"
+          href="http://www.ideascale.com//userimages/sub-1/595334/ideascale_4049.xml"/>
+    
+
+</head>
+
+<body id="IdeaScale_Body">
+
+    
+
+    
+    
+    
+
+
+<table id="IdeaScale_Layout" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+
+        <td>
+
+
+                
+                <div align=center style="height:130px;*height:155px;overflow:hidden;border-top:25px solid #E8E8E8">
+<a href="http://opengov.ideascale.com"><img src="http://www.ideascale.com//userimages/sub-1/595334/opengov-banner.png" alt="Open Government Dialogue" border="0"/></a>
+</div>
+<style type="text/css">
+#IdeaScale_Navigation_Container{background:#F6F6F6 url(http://www.ostp.gov/galleries/default-image/bg_sidebar.gif) no-repeat;width:204px;border:1px solid #D1D1D1;}
+#ideaScale_CategoryTitle, h3{color:#003399;}
+p{color:#333;}
+a.IdeaScale_SelectedMenu{background:#003399 !important;color:#FFF;}
+a:hover.IdeaScale_SelectedMenu{color:#FFF;}
+
+#CO_Footer {
+    display: block;
+    color: #A0A0A0;
+    border-top: 1px solid #BABABA;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 11px;
+    background: #E8E8E8;
+}
+
+h3{
+font-style: italic;
+font-weight:bold;
+line-height:130%;
+color: #770000;
+font-family: Georgia, serif;
+}
+
+h4{
+background: #FFFFFF;
+color: black;
+border-top: solid 1px slategray;
+border-bottom: solid 1px slategray;
+text-align:center;
+font-size:14px;
+font-weight:bold;
+font-style:italic;
+margin: 5px 0 0 0;
+padding: 2px 0;
+}
+
+.questions{
+font-size:12px;
+font-style: italic;
+font-weight:bold;
+color: #770000;
+font-family: Georgia, serif;
+margin:0px;
+}
+
+.top input.largeBox{
+width: 210px;
+}
+</style>
+                
+
+                
+
+            <div id="IdeaScale_Header"></div>
+
+                
+
+            <TABLE id="IdeaScale_MainContent" cellspacing="0" cellpadding="0" align="center">
+                <TR>
+                    <TD id="IdeaScale_Navigation_Container" width="20%" valign="top">
+
+                        <table align="center" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td>
+                                    <!-- For WordPress CSS Import -->
+                                    <div id="IdeaScale_Navigation_Sidebar">
+                                        
+
+
+                                        
+                                        
+
+
+
+
+
+
+
+
+
+<div align="center">
+    <a id="NewIdeaButton"
+       href="javascript:ajaxInlinePopup('NewIdeaButton', '/akira/showCreateTopic.do')">
+        <img alt="New Idea"
+             src="/images/ideascale/new_idea.png"
+             border="0"></img>
+    </a>
+</div>
+
+
+  
+    
+
+
+
+
+
+<h3>Categories</h3>
+<ul class="notice">
+  <li><a href="/akira/panel.do?id=4049"><span id="NavigationAll">All (1618)</span></a></li>
+  
+  
+    
+    <li>
+      <b>1. Transparency</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2236"><span id="NavigationCategory_2236">Making Data More Accessible (221)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2237"><span id="NavigationCategory_2237">Making Government Operations More Open (229)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2238"><span id="NavigationCategory_2238">Records Management (53)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>2. Participation</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2242"><span id="NavigationCategory_2242">New Strategies and Techniques (224)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2243"><span id="NavigationCategory_2243">New Tools and Technologies (88)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2244"><span id="NavigationCategory_2244">Federal Advisory Committees (15)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2245"><span id="NavigationCategory_2245">Rulemaking (46)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>3. Collaboration</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2246"><span id="NavigationCategory_2246">Between Federal Agencies (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2247"><span id="NavigationCategory_2247">Between Federal, State, and Local Governments (61)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2248"><span id="NavigationCategory_2248">Public-Private Partnerships (50)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2249"><span id="NavigationCategory_2249">Do-It-Yourself Government (16)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>4. Capacity Building</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2250"><span id="NavigationCategory_2250">Hiring &amp; Recruitment (27)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2251"><span id="NavigationCategory_2251">Performance Appraisal (23)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2252"><span id="NavigationCategory_2252">Training and Development (45)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2253"><span id="NavigationCategory_2253">Communications Strategies (32)</span></a></li>        
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2254"><span id="NavigationCategory_2254">Strategic Planning and Budgeting (50)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>5. Legal &amp; Policy Challenges</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2294"><span id="NavigationCategory_2294">Legal &amp; Policy Challenges (199)</span></a></li>        
+        
+      </ul>      
+    
+    <li>
+      <b>Uncategorized</b>
+      <ul>
+        
+          <li><a href="/akira/ideafactory.do?discussionID=2255"><span id="NavigationCategory_2255">Uncategorized (216)</span></a></li>        
+        
+      </ul>      
+  
+  
+</ul>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tr>
+        <td align="center">
+            <br/> <br/> <br/>
+
+            <table  cellspacing="0" cellpadding="0"><tr><td style="background:url('/images/btn_left.gif') no-repeat;" height="25" class="buttonLeft"></td><td style="background:url('/images/btn_center.gif') repeat-x;" height="25" align="center" class="buttonCenter">
+                <div id="SubscribeFooter">
+                    <a style="text-decoration:none" href="/akira/ideafactoryStats.do">
+                        Subscribe
+                        &nbsp; &nbsp; &nbsp;
+
+                        <img alt="Mail" class="iconLink" src="/images/iconshock/mail_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="Twitter" class="iconLink" src="/images/iconshock/twitter_16.gif" border="0">&nbsp;
+                        &nbsp;
+                        <img alt="RSS" class="iconLink" src="/images/iconshock/rss_16.gif" border="0">&nbsp;
+                    </a>
+                </div>
+            </td><td style="background:url('/images/btn_right.gif') no-repeat;" height="25" class="buttonRight"></td></tr></table>
+
+            <div style="font-size:.8em" align="center" id="IdeaFactoryStats">
+	      
+
+
+
+
+
+<a href="/akira/ideafactoryStats.do">
+  1618&nbsp;Ideas,&nbsp;4746&nbsp;Comments,&nbsp;93K&nbsp;Votes&nbsp;&raquo;
+</a>
+ 
+            </div>
+
+        </td>
+    </tr>
+</table>
+
+
+
+
+                                        
+
+                                        
+                                        <div align="center" style="margin-top: 15px;">
+                                            <a href="http://www.ideascale.com"
+                                               title="Idea Management"
+                                               border="0"><img border="0"
+                                                               src="/images/ideascale-poweredby-160.png"></img></a>
+                                        </div>
+                                        
+
+                                        
+                                        <div style="height: 50px;"></div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+
+                    </TD>
+                    <TD width="80%" valign="top">
+
+                            
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                        
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+<tr> 
+  <td valign="top">
+    <a href="/akira/panel.do?id=4049">&laquo;&nbsp;Back To Open Government Brainstorm</a>
+  </td>
+  <td valign="top" align="right">
+    
+  </td>
+</tr>
+</table>
+
+    <div id="AlertMessage" align="center">
+      
+    </div>
+
+
+
+
+
+
+
+
+<div id="IdeaScale_Browse">
+    <div id="IdeaScale_CategoryTitle">Hiring & Recruitment</div>
+    <div id="IdeaScale_IdeaSubTitle">
+      <a id="IdeaScale_"top" class="IdeaScale_UnSelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=top&discussionID=2250">Top Rated (27)</a><a id="IdeaScale_"recent" class="IdeaScale_SelectedMenu"  href="/akira/ideafactory.do?id=4049&mode=recent&discussionID=2250">Recent (27)</a>
+    </div>
+</div>
+
+<div style="clear:both"></div>
+
+<div></div>
+
+
+
+<div id="TopicListOnly">
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<table width="100%"><tr id="row_4079">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_4079">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4079', '/akira/discussionVote.do?dbid=2250&topicID=4079&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 22</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_4079'))" style="text-decoration:none;" id="TopicVote_4079" href="javascript:Bubble.showTip('<div>Idea Created : 1 day ago</div><div>Votes For : 22</div><div>Votes Against : 3</div>', document.getElementById('TopicVote_4079'))">19</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_4079', '/akira/discussionVote.do?dbid=2250&topicID=4079&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_4079"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/4079-4049"><span id="IdeaTitle_4079">Hire people who are qualified.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/9474-4049">becky </a></b> <span class="IdeaScale_SecondaryText">1 day ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Obama promised to be a different type of president than any in the past. While he has kept that promise to some extent, here is the major way that has so far failed: he is nominating career politicians into his cabinet. That sure seems like business as usual. Instead of having a former governor in charge of the Health and Human Services division, have someone who knows a thing or two about public health in there. I am sure there are some governors who value HHS, but that doesn't mean they know much about it. Usually its viewed as an inconvenient money vacuum. HHS isn't the only area where this happened. But if Obama was truly innovative, he would have found people who are not politically motivated in the cabinet. <br/><br/>In addition, the application process for federal jobs is cumbersome and not at all effective. There are actually classes on how to apply for a government job- that's a major sign that the process is just a tad ridiculous. The ultimate factors that get considered are minority status, veteran status, has an uncle in a federal job, etc. Not exactly geared toward hiring qualified people. I am all for making it illegal to discriminate, but I am also for having the right people in the right jobs for the right reasons.<br/><br/>Should also be easier to let someone go if they aren't doing the job right. Seems like its so hard to get rid of anyone with a government job unless its an elected position.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_4079" href="javascript:ajaxLink('DiscussionTopicComment_4079', '/akira/discussion.do?mode=comment&dbid=2250&topicID=4079')">Comments (2)</a></span><span id="DiscussionTopicTag_4079"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_4079"></div>
+</div></td>
+</tr>
+<tr id="row_3932">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3932">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3932', '/akira/discussionVote.do?dbid=2250&topicID=3932&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 11</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3932'))" style="text-decoration:none;" id="TopicVote_3932" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 11</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_3932'))">0</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3932', '/akira/discussionVote.do?dbid=2250&topicID=3932&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3932"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3932-4049"><span id="IdeaTitle_3932">Higher Salary, Lower COLA for Government Employees&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8414-4049">eklahn</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Look...a person making $20,000/yr, getting a 3% COLA, gets $600 (whoopee).  A person making $100,000/yr, getting the same 3% COLA, gets $3000. Unfair.  Consider decreasing COLA percentage as salary increases.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3932" href="javascript:ajaxLink('DiscussionTopicComment_3932', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3932')">Comments (1)</a></span><span id="DiscussionTopicTag_3932"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3932"></div>
+</div></td>
+</tr>
+<tr id="row_3931">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3931">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3931', '/akira/discussionVote.do?dbid=2250&topicID=3931&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 13</div><div>Votes Against : 23</div>', document.getElementById('TopicVote_3931'))" style="text-decoration:none;" id="TopicVote_3931" href="javascript:Bubble.showTip('<div>Idea Created : 2 days ago</div><div>Votes For : 13</div><div>Votes Against : 23</div>', document.getElementById('TopicVote_3931'))">-10</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3931', '/akira/discussionVote.do?dbid=2250&topicID=3931&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3931"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3931-4049"><span id="IdeaTitle_3931">Mandatory Retirement Age for Government Employees&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/8414-4049">eklahn</a></b> <span class="IdeaScale_SecondaryText">2 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Establish mandatory retirement age for civil servants, say 65.  Absolutely essential employees can be retained as contractors.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3931" href="javascript:ajaxLink('DiscussionTopicComment_3931', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3931')">Comments (2)</a></span><span id="DiscussionTopicTag_3931"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3931"></div>
+</div></td>
+</tr>
+<tr id="row_3839">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3839">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3839', '/akira/discussionVote.do?dbid=2250&topicID=3839&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 20</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3839'))" style="text-decoration:none;" id="TopicVote_3839" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 20</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3839'))">16</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3839', '/akira/discussionVote.do?dbid=2250&topicID=3839&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3839"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3839-4049"><span id="IdeaTitle_3839">Hiring and Promotion Practices &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7866-4049">anthonynteu</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Hiring practices at our federal agencies need to be open and transparent.  Cronyism should have known place in hiring and promotion practices particularly in U.S. regulatory agencies especially those that do science based worked that affects the health and safety of the public.  We need to get rid of direct hire practices or make them open for all to see.   Everyone should be able to see who applicants are/were and how they compared to one another.  Individuals should not be hired on the basis of degree alone; several years of experience should carry the same weight as an advanced degree.  The government should also not be hiring individuals with little or no experience at close to and including six figure salaries.  Especially when there are other qualified applicants that are capable and willing to do the same job starting at lower salaries.  There needs to be some type of exposure of the hiring practices in the federal government especially at our regulatory agencies to discourage and/or eliminate the favoritism and cronyism in both hiring and promotion practices.     </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3839" href="javascript:ajaxLink('DiscussionTopicComment_3839', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3839')">Comments (2)</a></span><span id="DiscussionTopicTag_3839"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3839"></div>
+</div></td>
+</tr>
+<tr id="row_3826">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3826">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3826', '/akira/discussionVote.do?dbid=2250&topicID=3826&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 6</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3826'))" style="text-decoration:none;" id="TopicVote_3826" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 6</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3826'))">2</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3826', '/akira/discussionVote.do?dbid=2250&topicID=3826&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3826"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3826-4049"><span id="IdeaTitle_3826">Functional Fellowship for EFMs - State Department&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7811-4049">Advocate </a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent"><br/>Most jobs (including State’s specialist requirements) require candidates to have the skills and specialized experience of at least three years. Given that family members move every 2-3 years, and have no control over what jobs becomes available at any given post, an FS spouse would have to be extremely lucky if he/she can have that three years experience in one specific field in a span of three overseas assignments (6-9 years). In reality, that almost never happens because most spouses take whatever job becomes available –mail clerk, security escort, roving secretary, CLO, newsletter editor, visa clerk, fingerprint clerk, etc. etc. - all the fun jobs at the embassy.<br/><br/>The Functional Fellowships would allow spouses/partners who have the educational background but lacking specific work experience, to work at our US Missions in order to gain specialized experience in a progressive manner. At the conclusion of the fellowship, he/she should have the option of applying for the specialist vacancy relevant to his/her experience. For this to work, the fellowships must be based on educational qualifications, past performance, and potential and must be centrally funded. The State leadership’s full support on this and commitment on the increase of tandem couples in our ranks is crucial to the success of this initiative. (Source: Diplopundit)<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3826" href="javascript:ajaxLink('DiscussionTopicComment_3826', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3826')">Comments (0)</a></span><span id="DiscussionTopicTag_3826"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=efm">efm</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=state department">state department</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=spouses/partners">spouses/partners</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=fellowships">fellowships</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3826"></div>
+</div></td>
+</tr>
+<tr id="row_3823">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3823">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3823', '/akira/discussionVote.do?dbid=2250&topicID=3823&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 18</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3823'))" style="text-decoration:none;" id="TopicVote_3823" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 18</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3823'))">14</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3823', '/akira/discussionVote.do?dbid=2250&topicID=3823&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3823"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3823-4049"><span id="IdeaTitle_3823">Language Specialist Corps - State Department&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7811-4049">Advocate </a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">A GAO Report on Foreign Languages: Human Capital Approach Needed to Correct Staffing and Proficiency Shortfalls indicates that personnel with foreign language skills are needed in a range of federal agency programs and missions. It states in part:<br/><br/>    “In light of the attacks on the World Trade Center and the Pentagon, the importance of foreign language skills will increase as the United States expands its efforts to counter terrorist activities. The federal agencies we reviewed face shortages of translators and interpreters, as well as staff with other foreign language skills. These shortages strain agency operations that depend in part on language-skilled employees to meet increasingly complex missions. Agencies have pursued strategies such as training, targeted recruitment efforts, and contracting to fill documented skill gaps. However, these strategies have not been completely effective in closing those gaps.”<br/><br/>The State Department has an available pool of native language speakers within our ranks, but as usual, we did not see it fit to factor them in our strategic human capital planning. We have shortages of translators and interpreters in the Federal Government, why can’t we put to use FS family members and partners with native foreign language proficiency? How many foreign born spouses do we have? How many native born spouses do we have who have already availed themselves of language training at FSI? More than I could count. Test them at FSI, keep them on the roster and reward them hiring points for keeping/improving language capabilities, put them on call as translators and foreign language specialist as needed by the Government. With a Language Specialist Corps composed of native speakers from the Foreign Service community, we would not only be filling up a documented skills gap in the Federal Government, we would also give our family members another option at creating a portable career at home and abroad. (Source: Diplopundit)</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3823" href="javascript:ajaxLink('DiscussionTopicComment_3823', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3823')">Comments (1)</a></span><span id="DiscussionTopicTag_3823"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=efm">efm</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=state department">state department</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=spouses/partners">spouses/partners</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3823"></div>
+</div></td>
+</tr>
+<tr id="row_3822">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3822">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3822', '/akira/discussionVote.do?dbid=2250&topicID=3822&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 5</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3822'))" style="text-decoration:none;" id="TopicVote_3822" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 5</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_3822'))">1</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3822', '/akira/discussionVote.do?dbid=2250&topicID=3822&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3822"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3822-4049"><span id="IdeaTitle_3822">EFM Virtual Corps - State Department&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7811-4049">Advocate </a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent"><br/>We have approximately 2,000 out of 9,000 family members who are currently working in over 217 missions worldwide. Majority if not all of them already have, at the minimum, a “Secret” level clearance. And yet, when they relocate to other posts, it is entirely possible that they won’t find work there. The average cost to process a SECRET clearance has been reported to run from several hundred dollars to $3,000, depending on individual factors. The average cost to process a TOP SECRET clearance is between $3,000 and about $15,000, depending on individual factors. Given that most FS folks spend majority of their lives overseas, the $3,000 for a Secret clearance process for EFMs would be way too low. But let's assume that all the EFMs currently working only have a Secret level clearance - at $3,000 each that's still 6Million USD right there. Even if only 500 of them lost their jobs due to regular reassignment, that’s 1.5M USD that’s not put to effective use.<br/><br/>So here’s the idea – why can’t we create an EFM Virtual Corps? The EFMs who are already in the system could be assigned a specialization based on prior work experience within the US Mission. When not employed at post, their names could be added to the EFM Virtual Corps, a resource for other posts who require virtual supplementary or temporary/ongoing support online. Their email and Intranet logon should be enabled to facilitate communication while they are on a float assignment and their reporting authority should be a straight line to a central coordinator at Main State and a dotted line to the Management Counselor at post. The technology is already available, we just need organizational will and some, to make this work. (idea source from diplopundit)</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3822" href="javascript:ajaxLink('DiscussionTopicComment_3822', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3822')">Comments (0)</a></span><span id="DiscussionTopicTag_3822"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=efm">efm</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=state department">state department</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=spouses/partners">spouses/partners</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3822"></div>
+</div></td>
+</tr>
+<tr id="row_3748">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3748">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3748', '/akira/discussionVote.do?dbid=2250&topicID=3748&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 14</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3748'))" style="text-decoration:none;" id="TopicVote_3748" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 14</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_3748'))">7</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3748', '/akira/discussionVote.do?dbid=2250&topicID=3748&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3748"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3748-4049"><span id="IdeaTitle_3748">Extend Presidential Management Fellowships to Highly Qualified Undergraduates&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7540-4049">njessee1</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">By limiting the Presidential Management Fellowship Program to only those with graduate degrees, a large swath of individuals with "an interest in, and commitment to, excellence in the leadership and management of public policies and programs" are being excluded.  By expanding fellowship opportunities to include highly qualified undergraduates, the program could cultivate the leadership potential of more than one quarter of the American population, rather than the single digit percentage of citizens with a graduate degree.  Since this program has developed a reputation for its effectiveness in both recruitment and retention of exceptional civil servants, it seems logical to expand the program opportunities to a larger audience.<br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3748" href="javascript:ajaxLink('DiscussionTopicComment_3748', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3748')">Comments (0)</a></span><span id="DiscussionTopicTag_3748"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=presidential management fellowship program">presidential management fellowship program</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3748"></div>
+</div></td>
+</tr>
+<tr id="row_3679">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3679">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3679', '/akira/discussionVote.do?dbid=2250&topicID=3679&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 16</div><div>Votes Against : 1</div>', document.getElementById('TopicVote_3679'))" style="text-decoration:none;" id="TopicVote_3679" href="javascript:Bubble.showTip('<div>Idea Created : 3 days ago</div><div>Votes For : 16</div><div>Votes Against : 1</div>', document.getElementById('TopicVote_3679'))">15</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3679', '/akira/discussionVote.do?dbid=2250&topicID=3679&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3679"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3679-4049"><span id="IdeaTitle_3679">Dispute Resolution Expertise&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/7187-4049">reubenr</a></b> <span class="IdeaScale_SecondaryText">3 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">The Directive should recognize and build on the rich and long experience with a large variety of public engagement and alternative dispute resolution (ADR) programs in the federal sector. In particular, the Directive should include within its senior management someone with a dispute resolution background so that a dispute resolution perspective can be included within the Directive’s discussions</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3679" href="javascript:ajaxLink('DiscussionTopicComment_3679', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3679')">Comments (1)</a></span><span id="DiscussionTopicTag_3679"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3679"></div>
+</div></td>
+</tr>
+<tr id="row_3429">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3429">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3429', '/akira/discussionVote.do?dbid=2250&topicID=3429&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 22</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3429'))" style="text-decoration:none;" id="TopicVote_3429" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 22</div><div>Votes Against : 6</div>', document.getElementById('TopicVote_3429'))">16</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3429', '/akira/discussionVote.do?dbid=2250&topicID=3429&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3429"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3429-4049"><span id="IdeaTitle_3429">Give anyone a chance !&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/6183-4049">vanessa</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Some times degrees and experience will not demostrate goodwill and hard work minds. Let people volunteer in government offices. Do not promise anything. Just let them volunteer. They will gain knowledge, they will learn how the system works and maybe if they are really good they may be haired. This would be a good for all the people who are looking for a part time job, that has very flexible hours and do not want to stay out of the loop. This is extremly true for moms. There needs to be rooles in place to avoid the office taking advantage of free work and let people know that there is no garantee they will be hired. It can be good also for graduate to start a carrer. It is so frustrating answering job post where they always require 1-2 years of experience. No one wants to train anymore.<br/>I'm a mom, from Italy. Naturalized american. I was a Veterinarian in Italy, but here they do not recognize my degree and my 3 years of experience in food safety. There is a big need of Veterinarians to keep what we eat safe. Many times when I go in restourants I look in the kitchens and then I leave, they are so discusting. With such a kitchen the restourant will be closed down in Italy. I would love to work here in USA. But first I need to find the money and the time to go back to school (not easy with 2 little kids and the school at 2 hrs from my town) or I need to take a test about all veterinary science (as if I just came out of my university), while I'm already specialized on something very limited. So more or less deciding on my american husband was like deciding to stop my career. I wish things could be different for the future. Like more training on the job.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3429" href="javascript:ajaxLink('DiscussionTopicComment_3429', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3429')">Comments (1)</a></span><span id="DiscussionTopicTag_3429"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=american with foreigner degree job training volunteering">american with foreigner degree job training volunteering</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3429"></div>
+</div></td>
+</tr>
+<tr id="row_3427">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3427">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3427', '/akira/discussionVote.do?dbid=2250&topicID=3427&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 10</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_3427'))" style="text-decoration:none;" id="TopicVote_3427" href="javascript:Bubble.showTip('<div>Idea Created : 4 days ago</div><div>Votes For : 10</div><div>Votes Against : 9</div>', document.getElementById('TopicVote_3427'))">1</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3427', '/akira/discussionVote.do?dbid=2250&topicID=3427&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3427"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3427-4049"><span id="IdeaTitle_3427">Could the general public be better served if a new perspective were examined with respect to maintaining US federal highways?&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5581-4049">educare</a></b> <span class="IdeaScale_SecondaryText">4 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">For example, before the Interstates these roads were the main arteries or as we expressed it “the way-to-go-to-town” . . . a genuine, U.S. federally funded and maintained  four-lane, media-divided (sometimes landscaped) super-highway.  But the well-maintained older, federal highway system is fast becoming a public nuisance and dangerous.<br/><br/>In recognition of the immediate need to preserve the scenic landscape -- forests, natural cliffs and flowing streams -- along side these older highways that are being devoured more and more each day that passes. . . swallowed up in some kind of “scorched-earth” approach to developments, where topsoil and trees and undergrowth are bulldozed away w/o regard to the destruction of the natural scene.<br/><br/>Therefore, for the public good, health and safety concerns, we recommend that the U. S. federal highway should serve as a “transportation corridor” foremost and that private investment in development alongside these federal highways should be fairly compensated through eminent domain law so that the continuing commercial wall can be soft-scape buffered from the view of passing motorists similar to the way US Interstate System is today. Private property owners could ingress and egress from services roads parallel to the highway. Doing so would necessitate the following:<br/><br/>1.	Purchase a 500 ft right-of-way from the middle of the US federal highway median on each side in order to limit direct access from the myriad death-traps that now front it;<br/>2.	Conduct a pilot road project designed to place unsightly, electrical infrastructure either underground or behind this 500ft buffer as the service roads are being constructed; and a service road parallel to those US federal highways participating; <br/>3. Offer access at existing intersections from the federal hwy to the residential & commercial outlets and along the newly built infrastructure-service road corridor; and<br/>4. Promotes the original intention of and intended value of overcoming time/distance constraints from working in the city core while living in a surrounding region.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3427" href="javascript:ajaxLink('DiscussionTopicComment_3427', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3427')">Comments (2)</a></span><span id="DiscussionTopicTag_3427"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3427"></div>
+</div></td>
+</tr>
+<tr id="row_3340">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3340">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3340', '/akira/discussionVote.do?dbid=2250&topicID=3340&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 14</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3340'))" style="text-decoration:none;" id="TopicVote_3340" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 14</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3340'))">9</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3340', '/akira/discussionVote.do?dbid=2250&topicID=3340&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3340"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3340-4049"><span id="IdeaTitle_3340">USE CURRENT, IN STATE HUMAN CAPITOL RESOURCES TO MEET STAFFING NEEDS&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5693-4049">Tax Payer & Civil Servant </a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Suspend all relocation assistance/payments for federal vacancy announcements.  The unemployment rate in every metropolitan area is excessively high.  This translates to a human capital resource pool that has candidates to meet and probably exceed the requirements of the job.  If someone in DC wants to relocate to San Diego during their last years of government service because they intend to retire there, let the move be on their own dime.  It should not be at the expense of the tax payer.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3340" href="javascript:ajaxLink('DiscussionTopicComment_3340', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3340')">Comments (0)</a></span><span id="DiscussionTopicTag_3340"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3340"></div>
+</div></td>
+</tr>
+<tr id="row_3323">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3323">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3323', '/akira/discussionVote.do?dbid=2250&topicID=3323&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 5</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_3323'))" style="text-decoration:none;" id="TopicVote_3323" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 5</div><div>Votes Against : 8</div>', document.getElementById('TopicVote_3323'))">-3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3323', '/akira/discussionVote.do?dbid=2250&topicID=3323&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3323"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3323-4049"><span id="IdeaTitle_3323">People who wish to be hired&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4612-4049">azaleahs</a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">could submit their application by getting involved in a special forum (similar to this perhaps?) that would ask them to prove themselves first by producing on a volunteer basis. Commission might even be involved.<br/><br/>I've always liked the idea of commission pay in government jobs. If you don't produce you just get minimum wage but those that produce get a commission that raises their pay substantially. Potentially, such a job could start right here with someone providing ideas for free. If they stand out from the crowd there would be a security check on them before any invitation and if  they failed the security check they just wouldn't be invited to the next level.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3323" href="javascript:ajaxLink('DiscussionTopicComment_3323', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3323')">Comments (1)</a></span><span id="DiscussionTopicTag_3323"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3323"></div>
+</div></td>
+</tr>
+<tr id="row_3269">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3269">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3269', '/akira/discussionVote.do?dbid=2250&topicID=3269&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 7</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_3269'))" style="text-decoration:none;" id="TopicVote_3269" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 7</div><div>Votes Against : 10</div>', document.getElementById('TopicVote_3269'))">-3</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3269', '/akira/discussionVote.do?dbid=2250&topicID=3269&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3269"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3269-4049"><span id="IdeaTitle_3269">Foreign Service & Military Spouse employment&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5566-4049">Jeff </a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Partners of serving Foreign Service and Military personnel face a range of issues related to securing employment and maintaining a career as they regularly relocate overseas serving the country in this indirect manner. <br/><br/>Often, very talented people settle with a low paying embassy or local economy positions just so they have a job. In many cases they cannot find work.<br/><br/>This latent pool of skilled Americans can serve our country more effectively. I urge the new administration to consider employment and telework policies that support Eligible Family Members of Foreign Service and Military personnel by providing employment opportunities to appropriate government positions. <br/><br/>Many government positions in Washington and elsewhere can be effectively carried out remotely by qualified Foreign Service and Military spouses. Similarly, the US private sector can benefit from this diverse pool of trusted talent using appropriate business networking such as those instituted by The American Small Business Coalition www.TheASBC.com<br/><br/>Support in the form of access to these positions would provide opportunities to Foreign Service and Military families reducing the strains that often lead to expensive curtailment of assignments or in some cases resignation from the Foreign Service.<br/><br/>I’d welcome to opportunity to assist with improving employment opportunities for US Foreign Service Family Members.<br/><br/>www.TrailingSpouse.NET   and Trailing Spouse Network on LinkedIn (http://www.linkedin.com/groups?gid=104868 )</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3269" href="javascript:ajaxLink('DiscussionTopicComment_3269', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3269')">Comments (3)</a></span><span id="DiscussionTopicTag_3269"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=trailing spouse">trailing spouse</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=foreign service">foreign service</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3269"></div>
+</div></td>
+</tr>
+<tr id="row_3223">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3223">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3223', '/akira/discussionVote.do?dbid=2250&topicID=3223&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 7</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_3223'))" style="text-decoration:none;" id="TopicVote_3223" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 7</div><div>Votes Against : 12</div>', document.getElementById('TopicVote_3223'))">-5</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3223', '/akira/discussionVote.do?dbid=2250&topicID=3223&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3223"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3223-4049"><span id="IdeaTitle_3223">Re-evaluate the way the Rule of Three and Veteran's Preference is Applied &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5257-4049">jb3600</a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Our veterans deserve to be given additional consideration for federal jobs due to their sacrifices for the country.  This mandated Rule of Three, however is giving an unfair advantage to veterans, pre-dominantly male, and significantly hindering the government's ability to hire younger talent.  I have seen a number of comments/concerns about the government's tendency to hire internally rather than externally, this is one of the reasons.  When a vacancy is posted for the public, more often than not, veterans are placed at the top of the list, due to their point preference.  This, in and of itself, is not bad and is a legitimate use of the point preference.  The problem lies in the Rule of Three.  If a veteran falls in the top three, any other candidates are excluded from consideration because we can't hire someone over a veteran.  Where this becomes a problem is that 1) the veteran often has less experience or qualifications, thus their points are the only reason they have made it into the top 3; 2) the scores for the top three are determined based only on resume's, the scored questions, and without any input from the manager; 3) when a manager interviews the applicants, if the veteran does not interview well or is significantly less qualified, the manager has no option to hire someone else who is legitimately more qualified but is not a veteran.<br/><br/>Proposed solution:  Continue applying the point preference for veterans, however, do not restrict the manager from hiring another applicant they feel is more competent for the position.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3223" href="javascript:ajaxLink('DiscussionTopicComment_3223', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3223')">Comments (3)</a></span><span id="DiscussionTopicTag_3223"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3223"></div>
+</div></td>
+</tr>
+<tr id="row_3210">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3210">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3210', '/akira/discussionVote.do?dbid=2250&topicID=3210&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 42</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3210'))" style="text-decoration:none;" id="TopicVote_3210" href="javascript:Bubble.showTip('<div>Idea Created : 5 days ago</div><div>Votes For : 42</div><div>Votes Against : 5</div>', document.getElementById('TopicVote_3210'))">37</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3210', '/akira/discussionVote.do?dbid=2250&topicID=3210&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3210"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3210-4049"><span id="IdeaTitle_3210">Stop Outsource Government - Hire Internal Consultants Instead of Contractors&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/5181-4049">Dan Berger</a></b> <span class="IdeaScale_SecondaryText">5 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Spending on federal contracts was around $400 billion in 2006, nearly double what it was in 2000 ($207 billion).*<br/><br/>Why not create an internal consultant corps instead of hiring so many consultants? It can modeled on the FBI's Special Advisor Program:^<br/><br/>The FBI Special Advisor Program is an internal consulting and leadership development rotational program at the Federal Bureau of Investigation. The group consists of recent graduates from the top MBA programs. The FBI Special Advisors are primarily responsible for serving in an advisory capacity to the FBI Senior Executive team and completing "management" type of issues.<br/><br/>Instead of going through the bidding process and getting yet another contractor to do a project, agencies could turn to this "army of problem solvers" to get things done in less time and with lower costs.<br/><br/>--<br/>* http://www.nytimes.com/2007/02/04/washington/04contract.html<br/>^ http://en.wikipedia.org/wiki/FBI_Special_Advisor_Program - Note: this author has no relationship to the FBI or this program.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3210" href="javascript:ajaxLink('DiscussionTopicComment_3210', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3210')">Comments (0)</a></span><span id="DiscussionTopicTag_3210"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3210"></div>
+</div></td>
+</tr>
+<tr id="row_3156">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_3156">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3156', '/akira/discussionVote.do?dbid=2250&topicID=3156&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 74</div><div>Votes Against : 25</div>', document.getElementById('TopicVote_3156'))" style="text-decoration:none;" id="TopicVote_3156" href="javascript:Bubble.showTip('<div>Idea Created : 6 days ago</div><div>Votes For : 74</div><div>Votes Against : 25</div>', document.getElementById('TopicVote_3156'))">49</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_3156', '/akira/discussionVote.do?dbid=2250&topicID=3156&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_3156"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/3156-4049"><span id="IdeaTitle_3156">Ban the use of drug testing and drug convictions to deny employment and student aid to users of marijuana.&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4141-4049">copleykj</a></b> <span class="IdeaScale_SecondaryText">6 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Federally ban discrimination of marijuana users, the same way you can deny someone employment just because they drink alcohol. Use of any mind altering substance is never appropriate at work, but abstinence should never be a requirement for employment. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_3156" href="javascript:ajaxLink('DiscussionTopicComment_3156', '/akira/discussion.do?mode=comment&dbid=2250&topicID=3156')">Comments (5)</a></span><span id="DiscussionTopicTag_3156"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=marijuana">marijuana</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=cannabis">cannabis</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=jobs">jobs</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=testing">testing</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_3156"></div>
+</div></td>
+</tr>
+<tr id="row_2860">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2860">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2860', '/akira/discussionVote.do?dbid=2250&topicID=2860&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 31</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2860'))" style="text-decoration:none;" id="TopicVote_2860" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 31</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2860'))">24</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2860', '/akira/discussionVote.do?dbid=2250&topicID=2860&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2860"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2860-4049"><span id="IdeaTitle_2860">Due diligence and equity in federal hiring&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/4040-4049">Fed for fresh thinking </a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I work in the State Department and have two main issues:<br/><br/>1. RECKLESS HIRING PROCESS: I was accepted with no interview, with a higher salary than needed or likely justified, and I know of others who were brought on in the same fashion--this has to change. A rigorous investigation and set of subsequent hiring requirements seems the very least that should be done.<br/><br/>2. UNJUST CATEGORY OF EMPLOYMENT: The term they use for hires such as myself is "personal service contractor" (PSC); it is not a third party contractor, who works for an outside business, and it's not a civil servant, who is a full-fledged government employee. Therefore, my second recommendation is that the category of PSCs in and of itself needs to be seriously rethought, as we are denied every Federal benefit, only receiving sick time, vacation time, and 50% of our health care costs (I know many who were PSCs for 10 plus years, and are now nearing retirement age with hugely smaller retirement savings because of this despicable practice).<br/><br/>Additionally, we have little certainty of employment because of year-to-year contracts, even though we perform needed services that clearly are desired beyond a single year. <br/><br/>How can we even begin to ask for private employers to treat their employees equitably when we deal with government employment in such an unfair, inhumane fashion? I would implore anyone with the capability of initiating a discussion and/or investigation into PSC use at the State Department to do so, as it is completely unfair on so many fronts. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2860" href="javascript:ajaxLink('DiscussionTopicComment_2860', '/akira/discussion.do?mode=comment&dbid=2250&topicID=2860')">Comments (0)</a></span><span id="DiscussionTopicTag_2860"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=psc">psc</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=state department">state department</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2860"></div>
+</div></td>
+</tr>
+<tr id="row_2856">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2856">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2856', '/akira/discussionVote.do?dbid=2250&topicID=2856&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 25</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_2856'))" style="text-decoration:none;" id="TopicVote_2856" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 25</div><div>Votes Against : 2</div>', document.getElementById('TopicVote_2856'))">23</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2856', '/akira/discussionVote.do?dbid=2250&topicID=2856&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2856"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2856-4049"><span id="IdeaTitle_2856">Wanted: Fresh Thinking and New Ideas &nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">espalding_bbr</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">If government is really wanting to implement innovative ideas the first step would be to look at hiring and recruitment (as well as training and development practices).  In my home state for example, a person advances in government based a lot on who they know and some of what they know.  This has become a problem because people who worked in government 20+ years and have retired are being re-hired and implementing the same old ideas while employees with new ideas are overlooked for promotions and often belittled for daring to think out of the box.  And yes, said workers are receiving both retirement checks and paychecks. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2856" href="javascript:ajaxLink('DiscussionTopicComment_2856', '/akira/discussion.do?mode=comment&dbid=2250&topicID=2856')">Comments (1)</a></span><span id="DiscussionTopicTag_2856"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2856"></div>
+</div></td>
+</tr>
+<tr id="row_2844">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2844">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2844', '/akira/discussionVote.do?dbid=2250&topicID=2844&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 15</div><div>Votes Against : 38</div>', document.getElementById('TopicVote_2844'))" style="text-decoration:none;" id="TopicVote_2844" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 15</div><div>Votes Against : 38</div>', document.getElementById('TopicVote_2844'))">-23</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2844', '/akira/discussionVote.do?dbid=2250&topicID=2844&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2844"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2844-4049"><span id="IdeaTitle_2844">We NEED all our unemployed Citizens&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">j.tovar</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">If We the People, through government, help unemployed Citizens with other citizen taxes and effort, and should always do, that is NOT good enough.<br/><br/>While trying to get a new job, these few MILLIONS of people should not be wondering and lowering their self esteem, adding to money restraints.<br/><br/>They CAN help themselves and the community, by still going to work every morning, TEMPORARLY paid by Government instead of Companies.<br/><br/>It is HUMAN, FAIR and POSSIBLE. Yes we ALL Can.<br/><br/><br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2844" href="javascript:ajaxLink('DiscussionTopicComment_2844', '/akira/discussion.do?mode=comment&dbid=2250&topicID=2844')">Comments (2)</a></span><span id="DiscussionTopicTag_2844"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=unemployed">unemployed</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2844"></div>
+</div></td>
+</tr>
+<tr id="row_2830">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2830">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2830', '/akira/discussionVote.do?dbid=2250&topicID=2830&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 14</div><div>Votes Against : 18</div>', document.getElementById('TopicVote_2830'))" style="text-decoration:none;" id="TopicVote_2830" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 14</div><div>Votes Against : 18</div>', document.getElementById('TopicVote_2830'))">-4</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2830', '/akira/discussionVote.do?dbid=2250&topicID=2830&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2830"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2830-4049"><span id="IdeaTitle_2830">Insourcing Body Shop Jobs&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">sburgan</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Insource government jobs currently performed by "body shop" contractors. This will save the government 10's of billions a year. Pay the worker a little bit more and get rid of the zero value add "body shop" company / contract.<br/><br/>This idea goes hand-in-hand with streamlining the government's hiring practices. These civil servant exams are great, but if you are looking for an Electrical Engineer or a Computer Programmer, just take a resume and hire the guy! You do it anyway with the body shops and pay twice as much.<br/></div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2830" href="javascript:ajaxLink('DiscussionTopicComment_2830', '/akira/discussion.do?mode=comment&dbid=2250&topicID=2830')">Comments (1)</a></span><span id="DiscussionTopicTag_2830"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2830"></div>
+</div></td>
+</tr>
+<tr id="row_2780">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2780">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2780', '/akira/discussionVote.do?dbid=2250&topicID=2780&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 51</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2780'))" style="text-decoration:none;" id="TopicVote_2780" href="javascript:Bubble.showTip('<div>Idea Created : 9 days ago</div><div>Votes For : 51</div><div>Votes Against : 4</div>', document.getElementById('TopicVote_2780'))">47</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2780', '/akira/discussionVote.do?dbid=2250&topicID=2780&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2780"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2780-4049"><span id="IdeaTitle_2780">Reengineer USAJOBS (versus only Improve or Innovate the process)&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3995-4049">cat-samjas-0l9</a></b> <span class="IdeaScale_SecondaryText">9 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I'd like the process to look like the following:<br/><br/>I see a job to which I'd like to apply. I am new to the site.<br/>I sign in. I upload my resume. I complete in open form a paragraph on why I feel I am a strong candidate. I click apply. Done.<br/>I get feedback automatically on the hiring process (reviewing resumes, narrowing resumes, selected two or three and you are or are not one of them, hired-feedback on why you were NOT chosen for an interview or hired along with suggestions on what I might do to improve). Again...all automated...email status updates, if I elect to see them.<br/>I see the next job to which I'd like to apply. I choose my existing resume or send another. I write a paragraph on why I am a good fit. Apply. Done.<br/>These LONG essays and redundant questions over and over on if when and why I've ever worked for the government should not appear, especially if I haven't. Then the end of the process should not tell me things like, be sure to send all forms necessary or you won't be considered, or don't send forms you dont need to send or you wont be considered, etc. Just tell me! Am I done or NOT based on my status of never having worked for the government! Just keep me in the loop (electronically) on the application process, please. Tell me why you didn't select me. Tell me what I need to improve to get selected. Tell me who I can call with questions. (Some times you do this one now, I should say. Do this consistently for all government agencies and departments. Why the duplication?)<br/><br/>If you do these things you will not only improve USA JOBS.gov, but many of the private application HR processes as well! </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2780" href="javascript:ajaxLink('DiscussionTopicComment_2780', '/akira/discussion.do?mode=comment&dbid=2250&topicID=2780')">Comments (5)</a></span><span id="DiscussionTopicTag_2780"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2780"></div>
+</div></td>
+</tr>
+<tr id="row_2747">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2747">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2747', '/akira/discussionVote.do?dbid=2250&topicID=2747&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 33</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_2747'))" style="text-decoration:none;" id="TopicVote_2747" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 33</div><div>Votes Against : 15</div>', document.getElementById('TopicVote_2747'))">18</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2747', '/akira/discussionVote.do?dbid=2250&topicID=2747&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2747"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2747-4049"><span id="IdeaTitle_2747">Establish A Transparency Officer at Each Agency&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/3991-4049">21stCenturyRTK </a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">Each agency should establish a senior officer in charge of dissemination/transparency, tasked to balance information and dissemination regimes, with a particular emphasis on transparency. <br/><br/>This would be a new agency position, possibly within the office of the agency’s Chief Information Officer. Additionally, as new CIOs are appointed, they should be required to have at least as much expertise in information policy areas as in technology areas. Working with the CIO, this officer should be able to approve and disapprove programs and system acquisitions.<br/><br/>- From the 21st Century RTK Agenda</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2747" href="javascript:ajaxLink('DiscussionTopicComment_2747', '/akira/discussion.do?mode=comment&dbid=2250&topicID=2747')">Comments (3)</a></span><span id="DiscussionTopicTag_2747"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2747"></div>
+</div></td>
+</tr>
+<tr id="row_2591">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2591">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2591', '/akira/discussionVote.do?dbid=2250&topicID=2591&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 50</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2591'))" style="text-decoration:none;" id="TopicVote_2591" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 50</div><div>Votes Against : 7</div>', document.getElementById('TopicVote_2591'))">43</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2591', '/akira/discussionVote.do?dbid=2250&topicID=2591&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2591"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2591-4049"><span id="IdeaTitle_2591">I'm from the government and I really am here to help!&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">debby.kratky</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">I work for a local workforce board and I'm attempting to assist people who have been laid off in finding new employment. In our local area (Dallas/Fort Worth), we have regional offices for numerous federal agencies. It should be a snap to get a qualified applicant's resume in front of a hiring entity with one of those agencies but it is a real nightmare instead. Technology has made it simple to learn about a vacancy and determine everything from SKA's to salaries and it's even simpler to assist an applicant in getting on-line and submitting an application and resume. Unfortunately, that's where it ends. In speaking with staff at the OPM, I learned that there seems to be no real solution in the works. The interviewing and selecting process remains virtually unchanged.  It can months for an applicant to even have an acknowledgment that their application has been received, much less hear about an interview. I've never seen one of our customers hired and with the talent I'm seeing coming into our career centers, it most definitely is the federal government's loss. I would love to see a summit of staff from the federal, state, and local governments come together and find ways to cut through the red tape that currently confines us all. </div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2591" href="javascript:ajaxLink('DiscussionTopicComment_2591', '/akira/discussion.do?mode=comment&dbid=2250&topicID=2591')">Comments (0)</a></span><span id="DiscussionTopicTag_2591"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=workforce">workforce</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=career centers">career centers</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2591"></div>
+</div></td>
+</tr>
+<tr id="row_2503">
+<td width="120" align="center" valign="top" style="padding-left:10px;">
+<div id="DiscussionTopicVote_2503">
+<div id="IdeaScale_Vote" align="center"><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2503', '/akira/discussionVote.do?dbid=2250&topicID=2503&vote=1')"><img alt="Vote Up" border="0" style="vertical-align:middle" src="/images/ideascale/vote_up.gif"/>&nbsp;Looks Promising!</a></div><div style="padding:5px;font-size:2em"><a onmouseout="setTimeout('Bubble.hide()', 500)" onmouseover="Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 107</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_2503'))" style="text-decoration:none;" id="TopicVote_2503" href="javascript:Bubble.showTip('<div>Idea Created : 10 days ago</div><div>Votes For : 107</div><div>Votes Against : 11</div>', document.getElementById('TopicVote_2503'))">96</a></div><div style="padding:3px"><a href="javascript:ajaxInlinePopup('DiscussionTopicVote_2503', '/akira/discussionVote.do?dbid=2250&topicID=2503&vote=-1')"><img alt="Vote Down" border="0" style="vertical-align:middle" src="/images/ideascale/vote_down.gif"/>&nbsp;I'm Not So Sure...</a></div></div>
+</div>
+</td>
+<td valign="top" style="padding-right:30px; padding-left:20px;">
+<div id="Idea_2503"><div id="IdeaScale_IdeaTitle">
+<a href="/akira/dtd/2503-4049"><span id="IdeaTitle_2503">Revamp USAjobs.gov&nbsp;</span></a>
+</div>
+<table width=@%">  <tr>    <td valign="top"><div id="IdeaScale_IdeaSubTitle"><b><a href="http://opengov.ideascale.com/akira/pmd/0-4049">kirsten.mcneil</a></b> <span class="IdeaScale_SecondaryText">10 days ago</span></div></td>    <td align="right" valign="top"></td>  </tr></table>
+<div id="IdeaScale_IdeaContent">As someone who has been seeking federal employment for over 2 years, my experience with USAjobs.gov has never been good. It is a black hole. Everyone I know who has submitted a resume has never seen results either. One person inside the federal government explained it to me as "if there is a posting on the website, it is just a formality, and they already have their candidate from within." The listing is "required" but never taken seriously. This is very disheartening, especially for someone aspiring to civil service. The solution is perhaps more of a culture change rather than a technological change. I know everyone is on a budget or hiring freeze occasionally, but promotions should be based on merit and expertise instead of pay grade. Bringing in newcomers to the government should not be seen as a risk, especially when they may be more willing to innovate than entrenched officials.</div>
+<div id="IdeaScale_IdeaFooter"><span style="border-right: 1px solid silver; margin:0 10px 0 0; padding: 0 5px 0 0; color: #666;"><a id="DiscussionTopic_2503" href="javascript:ajaxLink('DiscussionTopicComment_2503', '/akira/discussion.do?mode=comment&dbid=2250&topicID=2503')">Comments (4)</a></span><span id="DiscussionTopicTag_2503"><a href="/akira/ideafactory.do?discussionID=2250">Hiring & Recruitment</a>,&nbsp;<a href="/akira/ideafactory.do?mode=tag&tag=usajobs website">usajobs website</a></span></div><div style="margin-top:3px;" id="DiscussionTopicComment_2503"></div>
+</div></td>
+</tr>
+</table>
+
+<div align="right">
+  <table class="secondaryText" style="padding:0px;border:0px;" >
+<tr><td valign="top" style="padding:0px;border:0px;" nowrap>Total Rows &nbsp; 27<br/> Displaying 1 to 25<div class="pages"><span class="current">1</span><a href="/akira/ideafactory.do?mode=recent&discussionID=2250&pageOffset=1" title="Go to page 2">2</a><a href="/akira/ideafactory.do?mode=recent&discussionID=2250&pageOffset=1" class="nextprev" title="Go to Next Page">Next &#187;</a>
+</div></td></tr>
+</table>
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    </td></tr>
+    </table>
+    
+
+    </TD>
+  </TR>
+</TABLE>
+
+
+
+   <div id="IdeaScale_Footer">
+   <div style="background-color:#E8E8E8; height:20px;"></div>
+
+<div id="CO_Footer" style="height:200px;">Powered By <a href="http://www.ideascale.com" target="_BLANK"><strong>IdeaScale</strong></a> and the <a href="http://www.napawash.org" target="_BLANK"><strong>National Academy of Public Administration</strong></a>
+
+<p><a href="http://www.napawash.org" target="_BLANK"><img src="http://www.ideascale.com//userimages/sub-1/595334/NAPA_Logo_pagebottom.png" alt="National Academy of Public Administration" border=0 width="188" height="76"></a></p>
+
+<p style="width:80%;margin: 15px auto;"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">All feedback received through the Open Government Dialogue</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-Share Alike 3.0 United States License</a>.</p>
+
+</div>
+
+   </div>
+
+
+
+</td></tr></table>
+
+
+
+  
+
+
+
+
+
+<table width="100%" id="IdeaScale_Theme_Footer" cellspacing="0" cellpadding="0">
+<tr>
+  <td align="center" valign="top">
+    Copyright &copy; 2009 
+
+    &nbsp;&nbsp;
+    <a href="/">Home</a> 
+    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=contact">Contact</a> 
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=widget">Widgets</a>    
+      &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=api">Developers</a>    
+    
+    <!--
+     &nbsp;|&nbsp; 
+    <a href="/akira/ideascaleStatic.do?mode=feedback">Feedback</a>
+    -->
+  </td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var wpcomPageTracker = _gat._getTracker("UA-5056819-3");
+wpcomPageTracker._initData();
+wpcomPageTracker._trackPageview();
+</script>
+
+
+
+
+
+
+
+
+
+<div class="shadowedBox" id="shadowedBox" style="display:none;">
+    
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+          <td class="drop a"></td>
+          <td class="drop b"></td>
+          <td style="width: 623px;" class="drop c"></td>
+          <td class="drop d"></td>
+          <td class="drop e"></td>
+        </tr>
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        
+        <tr valign="top">
+          <td class="drop p">
+            <div>&nbsp;</div>
+          </td>
+          <td style="width: 663px;" class="shadowedBoxBody" rowspan="3">
+            <div align="right">
+            <a class="iconLink" href="javascript:closeInlinePopup('shadowedBox')"><img alt="Delete" class="iconLink" src="/images/iconshock/delete_16.gif" border="0">&nbsp;Close</a>
+            </div>
+            <div id="shadowedBoxBody">
+            </div>
+          </td>
+          <td class="drop f">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop o">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop g">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+        
+        <tr valign="top">
+          <td class="drop n">
+            <div>&nbsp;</div>
+          </td>
+          <td class="drop h">
+            <div>&nbsp;</div>
+          </td>
+        </tr>
+    
+    </table>
+
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tr valign="top">
+            <td class="drop m"></td>
+            <td class="drop l"></td>
+            <td style="width: 623px;" class="drop k "></td>
+            <td class="drop j"></td>
+            <td class="drop i"></td>
+        </tr>
+    </table>
+
+</div>
+
+
+
+<table bgcolor="#ffffff"  border="0" cellpadding="0" cellspacing="0" style="display:none;">
+
+  <!-- Content | Right DS -->
+  <tr>
+    <td valign="top"> 
+      <div id="contentEnclosingDivID" style="position: absolute; background-color: #ffffff; display:none;z-index:2;" >
+
+      <!-- ContentTable -->
+      <table id="contentTableID" class="simpleBorder" style="height:300;width:500;" border="0" cellpadding="0" cellspacing="0">
+        <!-- close popup row -->
+        <tr>
+          <td align="right" valign="top">
+            <a href="javascript:closeLiteInlinePopup();">Close</a>
+          </td>
+        </tr>
+        <!-- Content Row -->
+        <tr>
+          <td valign="top">
+            <div id="contentDivID"></div>
+          </td>
+        </tr>
+      </table>
+      <!-- End Content Table -->
+      
+      </div>
+    </td>
+
+    <!-- Right DS -->
+    <td width="10" valign="top" height="100%">
+      <div id="rightShadowDivID" class="transparent" style="position:absolute;display:none;width:10;none;z-index:1;">
+      </div>
+    </td>
+  
+  </tr>
+
+  <!-- Bottom DS -->
+  <tr>
+    <td colspan="2">
+      <div id="bottomShadowDivID" class="transparent" style="position:absolute;display:none;height:10;display:none;z-index:1;">
+      </div>
+    </td>
+  </tr>
+
+</table>
+
+
+</body>
+
+</html>
+
+
