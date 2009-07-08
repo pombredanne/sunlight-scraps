@@ -3,5 +3,6 @@ This repository is just used for storing scraps from Sunlight Labs developers.  
 Everything in this repository is placed into the public domain unless otherwise noted in the file itself.
 
 Contents:
-    * scraping - various scraping scripts
     * apis - pieces of code for playing with various APIs
+    * s3 - scripts for working with Amazon S3
+    * scraping - various scraping scripts
